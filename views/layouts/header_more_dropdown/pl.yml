@@ -1,1 +1,9 @@
 pl:
+  layouts:
+    header_more_dropdown:
+      more_btn: "Więcej"
+      all_users: "Wszyscy użytkownicy"
+      artwork_creators: "Ilustratorzy"
+      comic_authors: "Twórcy komiksów"
+      translators: "Tłumacze"
+      writers: "Pisarze"
