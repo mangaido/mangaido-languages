@@ -1,4 +1,4 @@
-# Mangaido Languages
+# Mangaido languages
 
 This repository is a collection of files used to translate [Mangaido](https://mangaido.com) website to different languages.
 
@@ -71,7 +71,20 @@ In such conditions you can write:
 
 ```yaml
 en:
-  :static_pages:
+  static_pages:
     terms_of_service: >
       This is a very long text. This is a very long text. This is a very long text. This is a very long text. This is a very long text. This is a very long text. This is a very long text. This is a very long text. 
 ```
+
+### Variables inside labels
+
+Sometimes you can find translation that look like this:
+
+```yaml
+en:
+  novels:
+    edit:
+      title: "Editing: %{title} novel"
+```
+
+`%{title}` is a variable. In this place title of a novel will be injected.
