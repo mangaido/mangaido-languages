@@ -1,0 +1,11 @@
+en:
+  novels:
+    show:
+      not_published_error: "This novel is not published yet."
+      not_published_info: "This novel is not published yet."
+    create:
+      success: "Novel was successfully created!"
+    update:
+      success: "Novel was successfully updated."
+    destroy:
+      success: "Novel was successfully deleted!"

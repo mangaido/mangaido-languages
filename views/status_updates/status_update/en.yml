@@ -1,0 +1,7 @@
+en:
+  status_updates:
+    status_update:
+      delete_btn: "Delete post"
+      delete_btn_confirm: "Are you sure you want to delete this post?"
+      posted_time_ago: "Posted %{time_ago} ago."
+      show_comments_btn: "Show comments"

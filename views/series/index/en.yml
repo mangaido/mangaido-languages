@@ -1,0 +1,18 @@
+en:
+  series:
+    index:
+      meta_title: "Comic series"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Add"
+          desktop: "Add new comic series"
+        my_comic_series_btn:
+          mobile: "My"
+          desktop: "My comic series"
+        edit_my_comic_series_btn:
+          mobile: "Edit"
+          desktop: "Edit my comic series"
+        for_adults_btn:
+          mobile: "+18"
+          desktop: "For adults"
+      translations_title: "Translations"

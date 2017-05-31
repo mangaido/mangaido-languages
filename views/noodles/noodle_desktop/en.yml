@@ -1,0 +1,7 @@
+en:
+  noodles:
+    noodle_desktop:
+      time_ago: "%{time_ago} ago,"
+      comments_count:
+        one: "%{count} comment"
+        other: "%{count} comments"

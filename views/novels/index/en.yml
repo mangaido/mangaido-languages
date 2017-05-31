@@ -1,0 +1,13 @@
+en:
+  novels:
+    index:
+      meta_title: "Novels page"
+      title: "Latest novels"
+      subtitle: "Creativity unleashed"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Add"
+          desktop: "Add new novel"
+        my_novels_btn:
+          mobile: "My"
+          desktop: "My novels"

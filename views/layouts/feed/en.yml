@@ -1,0 +1,14 @@
+en:
+  layouts:
+    feed:
+      edit_profile_btn: "Edit profile"
+      artbooks_btn: "My artbooks"
+      artbooks_edit_link: "Edit"
+      comic_series_btn: "My comic series"
+      comic_series_edit_link: "Edit"
+      translations_btn: "My translations"
+      novels_btn: "My novels"
+      novels_edit_link: "Edit"
+      following_btn: "Following"
+      followers_btn: "Followers"
+      mailbox_btn: "Mailbox"

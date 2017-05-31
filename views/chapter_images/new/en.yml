@@ -1,0 +1,17 @@
+en:
+  chapter_images:
+    new:
+      meta_title: "Add new chapter images page"
+      title: "Add new chapter images"
+      chapter_images_hint_text: >
+        Images will be scaled to fit within 720x5000px box. Images shouldn't be larger than 15MB each.
+      step_1: "Step #1"
+      step_1_subtitle: "Select images:"
+      step_2: "Step #2"
+      step_2_subtitle: "Upload:"
+      step_2_select_files_to_upload: "Please, select files to upload first"
+      upload_btn: "Upload!"
+      file_dropzone_label: "Drop some files here, or click to select images to upload."
+      files_label: "Images to upload:"
+      edit_chapter_btn: "Edit chapter"
+      show_chapter_btn: "Show chapter"

@@ -1,0 +1,14 @@
+en:
+  static_pages:
+    home:
+      meta_title: "Homepage"
+      translations_section_title: "Recent Translations"
+      translations_section_more_btn: "More translations"
+      comic_series_section_title: "Comic Series"
+      comic_series_section_more_btn: "More comic series"
+      comic_series_for_adults_btn: "Series for adults"
+      translators_section_title: "Top Translators"
+      translators_section_more_btn: "All translators"
+      ginza_title: "Ginza (hot now)"
+      shibuya_title: "Shibuya (just added)"
+      akihabara_title: "Akihabara (random)"

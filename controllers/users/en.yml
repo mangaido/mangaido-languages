@@ -1,0 +1,6 @@
+en:
+  users:
+    create:
+      not_activated_info: "Please check your email to activate your account."
+    update:
+      success: "Profile updated"

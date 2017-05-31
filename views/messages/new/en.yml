@@ -1,0 +1,12 @@
+en:
+  messages:
+    new:
+      meta_title: "New conversation page"
+      title: "New conversation"
+      subtitle: "make someone's day"
+      subject_label: "Subject"
+      body_label: "Message"
+      recipients_label: "Choose recipients"
+      recipients_no_results_text: "No results"
+      recipients_placeholder: "Select users"
+      submit_btn: "Send"

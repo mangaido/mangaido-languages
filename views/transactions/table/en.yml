@@ -1,0 +1,6 @@
+en:
+  transactions:
+    table:
+      link_label: "Link"
+      amount_of_coins_label: "Number of coins"
+      date_label: "Date"

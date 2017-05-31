@@ -1,0 +1,31 @@
+en:
+  user_mailer:
+    password_reset:
+      subject: "Mangaido password reset"
+      reset_link: "Reset password"
+      message: >
+        Mangaido account password reset
+        Hi %{user_name},
+        To reset your password click this link: %{reset_link}
+        This link will expire in two hours.
+        If you did not requested your password to be reset, please ignore this email and your password will stay as it is.
+      message_html: >
+        <h1>
+          Mangaido password reset
+        </h1>
+
+        <p>
+          Hi %{user_name},
+        </p>
+
+        <p>
+          To reset your password click this link: %{reset_link_html}.
+        </p>
+
+        <p>
+          This link will expire in two hours.
+        </p>
+
+        <p>
+          If you did not requested your password to be reset, please ignore this email and your password will stay as it is.
+        </p>

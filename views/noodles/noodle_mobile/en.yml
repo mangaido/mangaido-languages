@@ -1,0 +1,5 @@
+en:
+  noodles:
+    noodle_mobile:
+      source_html: "Source: %{link_html}"
+      time_ago: "%{time_ago} ago"

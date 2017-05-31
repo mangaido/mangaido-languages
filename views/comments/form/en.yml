@@ -1,0 +1,5 @@
+en:
+  comments:
+    form:
+      content_placeholder: "Comment..."
+      log_in_message: "Log in to start commenting!"

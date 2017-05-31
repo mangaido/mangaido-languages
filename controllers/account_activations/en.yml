@@ -1,0 +1,5 @@
+en:
+  account_activations:
+    edit:
+      success: "Account activated!"
+      error: "Invalid activation link"

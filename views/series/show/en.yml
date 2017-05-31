@@ -1,0 +1,38 @@
+en:
+  series:
+    show:
+      meta_title: "%{title} - show comic series page"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "My"
+          desktop: "My comic series"
+        edit_btn:
+          mobile: "Edit"
+          desktop: "Edit this comic series"
+      chapters_list:
+        title: "Chapters:"
+        not_published_message: "Not published yet"
+        chapter:
+          free_icon: "Free chapter"
+          bought_icon: "Bought chapter"
+          unlocked_icon: "Authorized access"
+          locked_icon: "You need to buy this chapter to read it"
+          views:
+            one: "%{count} view"
+            other: "%{count} views"
+          translations_btn:
+            one: "%{count} translation"
+            other: "%{count} translations"
+          edit_btn: "Edit"
+      description_title: "Description:"
+      informations:
+        title: "Informations:"
+        views:
+          one: "%{count} view"
+          other: "%{count} views"
+        for_adults: "For adults"
+        safe_for_children: "Safe for children"
+        language: "Language: %{language_name}"
+        translations: "Translations:"
+        translation_language: "%{language_name} (%{count})"
+      comments_title: "Comments:"

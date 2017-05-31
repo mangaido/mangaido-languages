@@ -1,0 +1,9 @@
+en:
+  layouts:
+    header_more_dropdown:
+      more_btn: "More"
+      all_users: "All users"
+      artwork_creators: "Artwork creators"
+      comic_authors: "Comic authors"
+      translators: "Translators"
+      writers: "Writers"

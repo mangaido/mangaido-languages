@@ -1,0 +1,12 @@
+en:
+  episodes:
+    show:
+      episode_not_published_error: "This episode is not published yet."
+      novel_not_published_error: "This novel is not published yet."
+      episode_not_published_info: "This novel is not published yet."
+    create:
+      success: "Episode was successfully created!"
+    update:
+      success: "Episode was successfully updated."
+    destroy:
+      success: "Episode successfully deleted!"

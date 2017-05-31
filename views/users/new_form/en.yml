@@ -1,0 +1,14 @@
+en:
+  users:
+    new_form:
+      name_label: "Disaplay name"
+      email_label: "Email"
+      password_label: "Password"
+      password_confirmation_label: "Confirm password"
+      register_btn: "Create my account"
+      log_in_link: "Log in!"
+      log_in_text_html: "Already have an account? %{log_in_link_html}"
+      terms_of_service_link: "Terms of service"
+      privacy_policy_link: "Privacy policy"
+      disclaimer_html: >
+        By signing up, you agree to our %{terms_of_service_link_html} and %{privacy_policy_link_html}.

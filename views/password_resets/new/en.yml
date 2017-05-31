@@ -1,0 +1,7 @@
+en:
+  password_resets:
+    new:
+      meta_title: "Forgot password page"
+      title: "Password reset"
+      subtitle: "And get your account back!"
+      

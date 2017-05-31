@@ -1,0 +1,6 @@
+en:
+  users:
+    novels:
+      meta_title: "%{user_name}'s novels page"
+      title: "%{user_name}'s novels"
+      edit_novels_btn: "Edit all my novels"

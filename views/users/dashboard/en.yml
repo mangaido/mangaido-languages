@@ -1,0 +1,16 @@
+en:
+  users:
+    dashboard:
+      meta_title: "Dashboard"
+      current_balance_label: "Current balance"
+      current_balance_amount_of_coins:
+        one: "%{count} coin"
+        other: "%{count} coins"
+      buy_coins_btn: "Buy coins"
+      withdrawals_money_label: "Withdrawal in progress"
+      withdrawals_btn: "Withdrawals"
+      chapter_purchases_btn: "Purchased chapter access"
+      donations_sent_btn: "Donations sent"
+      chapter_sales_btn: "Chapter access sold"
+      donations_received_btn: "Donations received"
+      payments_btn: "Payments"

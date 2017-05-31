@@ -1,0 +1,12 @@
+en:
+  artbook_images:
+    show:
+      meta_title: "Artbook page"
+      previous_btn: "Prev"
+      nr_of_pages: "%{page_nr} of %{pages}"
+      next_btn: "Next"
+      edit_this_image_option: "Edit this image"
+      edit_this_artbook_option: "Edit this artbook"
+      edit_all_my_artbooks_option: "Edit all my artbooks"
+      author_label: "Author:"
+      artbook_label: "Artbook:"

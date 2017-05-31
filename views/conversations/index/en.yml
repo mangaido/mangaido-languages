@@ -1,0 +1,14 @@
+en:
+  conversations:
+    index:
+      meta_title: "Mailbox"
+      title: "Mailbox"
+      subtitle: "don't be a stranger!"
+      new_message_btn: "Start conversation"
+      menu:
+        inbox_btn: "Inbox"
+        sent_btn: "Sent"
+        trash_btn: "Trash"
+      empty_trash_btn: "Empty trash"
+      empty_trash_btn_confirm: "Are you sure?"
+      

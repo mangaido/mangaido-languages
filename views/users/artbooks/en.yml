@@ -1,0 +1,6 @@
+en:
+  users:
+    artbooks:
+      meta_title: "%{user_name}'s artbooks page"
+      title: "%{user_name}'s artbooks:"
+      edit_artbooks_btn: "Edit artbooks"

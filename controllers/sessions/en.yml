@@ -1,0 +1,5 @@
+en:
+  sessions:
+    create:
+      not_activated_warning: "Account not activated. Check your email for the activation link."
+      error: "Invalid email/password combination"

@@ -1,0 +1,10 @@
+en:
+  shared:
+    login_register_modal:
+      form_title_hint: "Login form"
+      close_btn_hint: "Close"
+      log_in_btn: "Log in"
+      register_btn: "New user? Register :)"
+      log_in_form_title: "Login"
+      register_form_title: "Register"
+      close_btn: "Close"

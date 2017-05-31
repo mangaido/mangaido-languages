@@ -1,0 +1,17 @@
+en:
+  notifications:
+    notification:
+      ArtbookImage: "artbook image"
+      Artbook: "artbook"
+      StatusUpdate: "status update"
+      Series: "series"
+      Chapter: "chapter"
+      Episode: "episode"
+      Novel: "novel"
+      User: "profile"
+      Noodle: "noodle"
+      code:
+        LIKE_html: "%{who} liked your %{what}"
+        COMMENT_html: "%{who} commented on your %{what}"
+        FOLLOW_html: "%{who} is now following you"
+      time_ago: "%{time_ago} ago"

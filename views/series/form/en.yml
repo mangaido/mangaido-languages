@@ -1,0 +1,21 @@
+en:
+  series:
+    form:
+      title_label: "Title"
+      description_label: "Description (Optional)"
+      is_published_label: "Is published?"
+      is_published_yes_label: "Published"
+      is_published_no_label: "In draft"
+      is_for_adults_label: "Is for adults?"
+      is_for_adults_yes_label: "Only for adults"
+      is_for_adults_no_label: "Safe for children"
+      language_label: "Language"
+      cover_label: "Cover (Optional)"
+      remove_cover_yes_label: "Remove this cover"
+      remove_cover_no_label: "Leave cover as it is"
+      cover_help_text: "For best results upload image with dimensions 1600x800 px (JPG or PNG)"
+      wide_cover_label: "Wide cover (Optional)"
+      remove_wide_cover_yes_label: "Remove this cover"
+      remove_wide_cover_no_label: "Leave cover as it is"
+      wide_cover_help_text: "For best results upload image with dimensions 1920x320 px (JPG or PNG)"
+      submit_btn: "Submit"

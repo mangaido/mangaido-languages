@@ -1,0 +1,5 @@
+en:
+  users:
+    following:
+      meta_title: "Users followed by %{user_name} page"
+      title: "Users followed by %{user_name}"

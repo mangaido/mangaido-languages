@@ -1,0 +1,21 @@
+en:
+  users:
+    form:
+      name_label: "Name"
+      email_label: "Email"
+      password_label: "Password (min. 6 characters)"
+      password_confirmation_label: "Confirm password"
+      paypal_email_label: "PayPal email"
+      paypal_email_help_btn: "More info"
+      paypal_email_help_text_html: >
+        Set your PayPal email so we could know where to send you money.
+      about_label: "About me (Optional)"
+      remove_avatar_label: "Remove this avatar?"
+      avatar_hint_text: >
+        For best results upload image with dimensions 800x800 px (JPG or PNG). If there is no avatar loaded, we're looking for your avatar on Gravatar.com
+      cover_label: "Cover"
+      remove_cover_label: "Remove this cover?"
+      cover_hint_text: >
+        For best results upload image with dimensions 1920x320 px (JPG or PNG)
+      default_language_label: "Default language (used for sending emails)"
+      submit_btn: "Save"

@@ -1,0 +1,6 @@
+en:
+  status_updates:
+    create:
+      success: "Status update created!"
+    destroy:
+      success: "Status Update deleted"

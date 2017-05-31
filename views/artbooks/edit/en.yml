@@ -1,0 +1,13 @@
+en:
+  artbooks:
+    edit:
+      meta_title: "edit artbook page"
+      title: "Edit artbook:"
+      new_artbook_image_btn:
+        mobile: "Add"
+        desktop: "Add new images"
+      show_this_artbook_btn:
+        mobile: "Show"
+        desktop: "Show this artbook"
+      delete_btn: "Delete"
+      

@@ -1,0 +1,47 @@
+en:
+  layouts:
+    user:
+      edit_profile: "Edit profile"
+      send_message: "Send message"
+      stats:
+        following:
+          one: "Following"
+          other: "Following"
+        followers:
+          one: "Follower"
+          other: "Followers"
+        posts:
+          one: "Post"
+          other: "Posts"
+        artwork_views:
+          one: "Artwork view"
+          other: "Artwork views"
+        series_views:
+          one: "Series view"
+          other: "Series views"
+        translation_views:
+          one: "Translation view"
+          other: "Translation views"
+        novel_views:
+          one: "Novel view"
+          other: "Novel views"
+      menu:
+        donate: "Donate user"
+        artbooks:
+          one: "%{count} artbook"
+          other: "%{count} artbooks"
+        comic_series:
+          one: "%{count} comic series"
+          other: "%{count} comic series"
+        translations:
+          one: "%{count} translation"
+          other: "%{count} translations"
+        novels:
+          one: "%{count} novel"
+          other: "%{count} novels"
+        following:
+          one: "%{count} following"
+          other: "%{count} following"
+        followers:
+          one: "%{count} follower"
+          other: "%{count} followers"

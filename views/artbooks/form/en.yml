@@ -1,0 +1,5 @@
+en:
+  artbooks:
+    form:
+      title_label: "Title"
+      submit_btn: "Submit"

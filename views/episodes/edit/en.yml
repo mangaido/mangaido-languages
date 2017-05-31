@@ -1,0 +1,17 @@
+en:
+  episodes:
+    edit:
+      meta_title: "%{title} - edit episode page"
+      title: "%{title} - edit episode"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "Back"
+          desktop: "Back to novel"
+        show_btn:
+          mobile: "Show"
+          desktop: "Show this episode"
+        delete_confirm: >
+          Are you sure you want to delete this episode?
+        delete_btn:
+          mobile: "Delete"
+          desktop: "Delete this episode"

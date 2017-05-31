@@ -1,0 +1,4 @@
+en:
+  withdrawals:
+    create:
+      no_access_error: "You can't create this withdrawal."

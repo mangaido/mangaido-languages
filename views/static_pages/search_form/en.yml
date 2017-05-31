@@ -1,0 +1,19 @@
+en:
+  static_pages:
+    search_form:
+      search_field_placeholder: "Search..."
+      found_results:
+        one: "Found %{count} result"
+        other: "Found %{count} results"
+      page_x_of_y: "page: %{x} of %{y}"
+      menu:
+        all_btn: "All"
+        artbook_images_btn: "Artbook images"
+        series_btn: "Comic series"
+        users_btn: "Users"
+        novels_btn: "Novels"
+        noodles_btn: "Noodles"
+      adult_filter:
+        safe_for_children_label: "Safe for children"
+        for_adults_label: "For adults"
+        all_label: "All"

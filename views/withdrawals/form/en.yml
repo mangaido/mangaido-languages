@@ -1,0 +1,10 @@
+en:
+  withdrawals:
+    form:
+      amount_of_coins_label: "How many coins do you want to withdraw:"
+      summary_loading_text: "Loading summary..."
+      summary_text: >
+        <b>%amount_of_coins%</b> coins = %coins_to_money%USD<br />
+        Withdrawal fee: %percent_fee%%<br />
+        You will withdraw <b>%amount_of_money%USD<b/>
+      withdraw_btn: "Withdraw coins!"

@@ -1,0 +1,9 @@
+en:
+  noodles:
+    show:
+      meta_title: "%{title} - Ramen noodle page"
+      info_html: "%{time_ago} ago by %{user_link_html}"
+      edit_btn: "Edit"
+      delete_btn: "Delete"
+      delete_btn_confirm: "Are you sure?"
+      delete_btn_hint: "Delete noodle"

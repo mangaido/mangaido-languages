@@ -1,0 +1,5 @@
+en:
+  status_updates:
+    form:
+      content_placeholder: "What's on your mind?..."
+      image_hint: "Add image (Optional) Image shoudn't be larger than %{max_size_in_mb}MB."

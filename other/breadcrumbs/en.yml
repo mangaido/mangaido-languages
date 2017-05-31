@@ -1,0 +1,65 @@
+en:
+  breadcrumbs:
+    root: "Home"
+    artbook_images:
+      index: "Artworks"
+      edit: "Edit: %{title}"
+      new: "New artworks"
+    artbooks:
+      edit_all: "Edit artbooks"
+      edit: "Edit: %{title}"
+      new: "Add new artbook"
+      show: "%{title} artbook"
+    chapter_images:
+      new: "Add new chapter images"
+    chapters:
+      edit: "Edit chapter"
+      new: "Add new chapter"
+    conversations:
+      index: "Mailbox"
+      show: "Conversation"
+    episodes:
+      new: "Add new episode"
+      edit: "Edit episode"
+    messages:
+      new: "New conversation"
+    noodles:
+      edit: "Edit noodle"
+      index: "Ramen bowl"
+      my_index: "My noodles"
+    novels:
+      index: "Novels"
+      new: "Add new novel"
+      edit: "Edit novel"
+      edit_all: "Edit my novels"
+      user_novels: "Artist's novels"
+    users:
+      artbooks: "User's artworks"
+      authors: "Authors"
+      dashboard: "Dashboard"
+      edit: "Edit %{user_name}'s profile"
+      index: "Users"
+      series: "User's series"
+    payments:
+      index: "Payments"
+      new: "Buy coins"
+    series:
+      edit: "Edit series"
+      edit_all: "Edit my all series"
+      for_adults: "For adults"
+      index: "Comic series"
+      new: "Add new series"
+    static_pages:
+      earn_money_with_us: "Earn money with us!"
+      privacy_policy: "Privacy Policy"
+      search: "Search results"
+      terms_of_service: "Terms of service"
+    transactions:
+      chapter_purchases: "Chapter purchases"
+      chapter_sales: "Chapter sales"
+      donations_sent: "Donations sent"
+      donations_received: "Donations received"
+    translations:
+      edit: "Edit: %{language_name} translation"
+    withdrawals:
+      index: "Withdrawals"

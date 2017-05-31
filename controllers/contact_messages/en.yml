@@ -1,0 +1,5 @@
+en:
+  contact_messgaes:
+    create:
+      success: "Your messages has been sent."
+      error: "An error occurred while sending this message."

@@ -1,0 +1,13 @@
+en:
+  series:
+    edit_all:
+      meta_title: "Edit my all comic series page"
+      title: "Edit my all comic series"
+      toolbar:
+        add_new_series_btn:
+          mobile: "Add"
+          desktop: "Add new series"
+        show_all_series_btn:
+          mobile: "Show"
+          desktop: "Show my all series"
+      series_list_title: "My all comic series:"

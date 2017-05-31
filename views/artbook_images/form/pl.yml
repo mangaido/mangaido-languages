@@ -1,0 +1,10 @@
+pl:
+  artbook_images:
+    form:
+      title: Tytuł (Opcjonalnie)
+      description: Opis (Opcjonalnie)
+      tags: Tagi (Opcjonalnie)
+      tags_hint: >
+        Tagi oddzielone przecinkiem (",").
+        Pomogą Twoim fanom wyszukiwać Twoje obrazki.
+      save_btn: Zapisz

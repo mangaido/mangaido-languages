@@ -1,0 +1,7 @@
+en:
+  comments:
+    comments_body:
+      no_comments_message: "There are no comments yet, why not be the first?"
+      delete_btn: "Delete"
+      delete_btn_confirm: "Are you sure you want to delete this comment?"
+      time_ago: "%{time_ago} ago"

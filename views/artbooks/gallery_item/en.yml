@@ -1,0 +1,6 @@
+en:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "%{count} artwork"
+        other: "%{count} artworks"

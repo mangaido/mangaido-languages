@@ -1,0 +1,6 @@
+en:
+  notifications:
+    index:
+      meta_title: "Notifications page"
+      title: "Notifications:"
+      mark_all_as_read_btn: "Mark all as read"

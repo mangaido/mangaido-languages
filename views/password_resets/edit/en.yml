@@ -1,0 +1,8 @@
+en:
+  password_resets:
+    edit:
+      meta_title: "Reset password page"
+      title: "Reset password"
+      password_label: "Password (min. 6 characters)"
+      password_confirmation_label: "Confirm password"
+      submit_btn: "Update password"

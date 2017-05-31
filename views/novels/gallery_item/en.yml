@@ -1,0 +1,6 @@
+en:
+  novels:
+    gallery_item:
+      nr_of_episodes:
+        one: "%{count} episode"
+        other: "%{count} episodes"

@@ -1,0 +1,10 @@
+en:
+  static_pages:
+    search:
+      meta_title: "Search results page"
+      type_names:
+        artbook_image: "Artbook image"
+        series: "Comic series"
+        user: "User"
+        novel: "Novel"
+        noodle: "Ramen noodle"

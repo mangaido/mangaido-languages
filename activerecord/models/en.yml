@@ -1,0 +1,42 @@
+en:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Artwork"
+        other: "Artworks"
+      artbook:
+        one: "Artbook"
+        other: "Artbooks"
+      chapter_image:
+        one: "Chapter image"
+        other: "Chapter images"
+      chapter:
+        one: "Chapter"
+        other: "Chapters"
+      comment:
+        one: "Comment"
+        other: "Comments"
+      episode:
+        one: "Novel episode"
+        other: "Novel episodes"
+      noodle:
+        one: "Ramen noodle"
+        other: "Ramen noodles"
+      novel:
+        one: "Novel"
+        other: "Novels"
+      series:
+        one: "Comic series"
+        other: "Comic series"
+      status_update:
+        one: "Feed post"
+        other: "Feed posts"
+      translation_balloon:
+        one: "Translation balloon"
+        other: "Translation balloons"
+      translation:
+        one: "Translation"
+        other: "Translations"
+      user:
+        one: "User"
+        other: "Users"

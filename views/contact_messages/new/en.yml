@@ -1,0 +1,9 @@
+en:
+  contact_messages:
+    new:
+      meta_title: "Contact us page"
+      title: "Contact us!"
+      name_label: "Name"
+      email_label: "Email"
+      content_label: "Message"
+      submit_btn: "Send"

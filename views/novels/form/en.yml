@@ -1,0 +1,16 @@
+en:
+  novels:
+    form:
+      title_label: "Title"
+      description_label: "Description (Optional)"
+      is_published_label: "Is published?"
+      is_published_yes_label: "Published"
+      is_published_no_label: "In draft"
+      cover_label: "Cover (Optional)"
+      remove_cover_yes_label: "Remove this cover"
+      remove_cover_no_label: "Leave cover as it is"
+      cover_hint_text: >
+        For best results upload image with
+        dimensions %{width}x%{height}px (JPG or PNG).
+        Image should not be larger than %{max_size_in_mb}MB
+      submit_btn: "Submit"

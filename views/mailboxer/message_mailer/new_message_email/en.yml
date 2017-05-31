@@ -1,0 +1,32 @@
+en:
+  mailboxer:
+    message_mailer:
+      new_message_email:
+        conversation_link: "Reply on Mangaido"
+        message: >
+          %{subject}
+
+          Hi %{user_name}!
+          %{sender_name} wrote:
+
+          %{text}
+
+          Reply on Mangaido:
+          %{conversation_link}
+        message_html: >
+          <h1>
+            %{subject}
+          </h1>
+
+          <p>
+            Hi %{user_name}!<br />
+            %{sender_name} wrote:
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{conversation_link_html}
+          </p>

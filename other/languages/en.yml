@@ -1,0 +1,140 @@
+en:
+  languages:
+    af:
+      name: "Afrikaans"
+    sq:
+      name: "Albanian"
+    ar:
+      name: "Arabic"
+    hy:
+      name: "Armenian"
+    cy_az:
+      name: "Azeri (Cyrillic)"
+    lt_az:
+      name: "Azeri (Latin)"
+    eu:
+      name: "Basque"
+    be:
+      name: "Belarusian"
+    bg:
+      name: "Bulgarian"
+    ca:
+      name: "Catalan"
+    zh_CHS:
+      name: "Chinese (Simplified)"
+    zh_CHT:
+      name: "Chinese (Traditional)"
+    hr:
+      name: "Croatian"
+    cs:
+      name: "Czech"
+    da:
+      name: "Danish"
+    div:
+      name: "Dhivehi"
+    nl:
+      name: "Dutch"
+    en_US:
+      name: "English"
+    et:
+      name: "Estonian"
+    fo:
+      name: "Faroese"
+    fi:
+      name: "Finnish"
+    fr:
+      name: "French"
+    gl:
+      name: "Galician"
+    ka:
+      name: "Georgian"
+    de:
+      name: "German"
+    el:
+      name: "Greek"
+    gu:
+      name: "Gujarati"
+    he:
+      name: "Hebrew"
+    hi:
+      name: "Hindi"
+    hu:
+      name: "Hungarian"
+    is:
+      name: "Icelandic"
+    id:
+      name: "Indonesian"
+    it:
+      name: "Italian"
+    ja:
+      name: "Japanese"
+    kn:
+      name: "Kannada"
+    kk:
+      name: "Kazakh"
+    kok:
+      name: "Konkani"
+    ko:
+      name: "Korean"
+    ky:
+      name: "Kyrgyz"
+    lv:
+      name: "Latvian"
+    lt:
+      name: "Lithuanian"
+    mk:
+      name: "Macedonian"
+    ms:
+      name: "Malay"
+    mr:
+      name: "Marathi"
+    mn:
+      name: "Mongolian"
+    nb_NO:
+      name: "Norwegian (Bokmål)"
+    nn_NO:
+      name: "Norwegian (Nynorsk)"
+    pl_PL:
+      name: "Polish"
+    pt:
+      name: "Portuguese"
+    pa:
+      name: "Punjabi"
+    ro:
+      name: "Romanian"
+    ru:
+      name: "Russian"
+    sa:
+      name: "Sanskrit"
+    cy_sr:
+      name: "Serbian (Cyrillic)"
+    lt_sr:
+      name: "Serbian (Latin)"
+    sk:
+      name: "Slovak"
+    sl:
+      name: "Slovenian"
+    es:
+      name: "Spanish"
+    syr:
+      name: "Syriac"
+    ta:
+      name: "Tamil"
+    tt:
+      name: "Tatar"
+    te:
+      name: "Telugu"
+    th:
+      name: "Thai"
+    tr:
+      name: "Turkish"
+    uk:
+      name: "Ukrainian"
+    ur:
+      name: "Urdu"
+    cy_uz:
+      name: "Uzbek (Cyrillic)"
+    lt_uz:
+      name: "Uzbek (Latin)"
+    vi:
+      name: "Vietnamese"

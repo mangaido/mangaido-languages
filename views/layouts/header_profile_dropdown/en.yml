@@ -1,0 +1,11 @@
+en:
+  layouts:
+    header_profile_dropdown:
+      profile: "Profile"
+      my_artbooks: "My artbooks"
+      my_comic_series: "My comic series"
+      my_translations: "My translations"
+      my_novels: "My novels"
+      mailbox: "Mailbox"
+      settings: "Settings"
+      log_out: "Log out"

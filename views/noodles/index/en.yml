@@ -1,0 +1,15 @@
+en:
+  noodles:
+    index:
+      meta_title: "Ramen bowl page"
+      logo_img_alt: "Ramen logo"
+      title: "Ramen bowl"
+      subtitle_html: >
+        Check our best<br />
+        ramen noodles!
+      new_noodle_btn:
+        mobile: "Add noodle!"
+        desktop: "Add noodle!"
+      my_noodles_btn:
+        mobile: "My noodles"
+        desktop: "My noodles"

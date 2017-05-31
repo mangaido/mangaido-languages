@@ -1,0 +1,11 @@
+en:
+  chapters:
+    show:
+      no_access_error: "You don't have access to this chapter!"
+    create:
+      success: "Chapter was successfully created!"
+    update:
+      success: "Chapter was successfully updated."
+      erorr: "There was some problems with updating this chapter! Try again."
+    destroy:
+      success: "Chapter was successfully deleted."

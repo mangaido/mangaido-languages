@@ -1,0 +1,9 @@
+en:
+  password_resets:
+    create:
+      success: "Email sent with password reset instructions"
+      email_not_found_error: "Email address not found"
+    update:
+      success: "Password has been reset."
+    check_expiration:
+      error: "Password reset has expired."

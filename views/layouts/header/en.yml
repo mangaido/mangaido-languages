@@ -1,0 +1,12 @@
+en:
+  layouts:
+    header:
+      toggle_navigation_text: "Toggle navigation"
+      upload: "Upload"
+      status_updates: "Feed"
+      feed: "Feed"
+      artworks: "Artworks"
+      series: "Comic series"
+      novels: "Novels"
+      ramen: "Ramen"
+      log_in: "Log in"

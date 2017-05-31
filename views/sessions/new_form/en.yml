@@ -1,0 +1,10 @@
+en:
+  sessions:
+    new_form:
+      email_label: "Email"
+      password_label: "Password"
+      forgot_password_link: "(forgot password)"
+      remember_me_checkbox: "Remember me on this computer"
+      log_in_btn: "Log in"
+      sign_up_link_html: "Sign up now!"
+      sign_up_text_html: "New user? %{sign_up_link_html}"

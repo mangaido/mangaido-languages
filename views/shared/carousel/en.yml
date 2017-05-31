@@ -1,0 +1,33 @@
+en:
+  shared:
+    carousel:
+      slide_1:
+        title: "Comics contest"
+        text: >
+          See winners of Mangaido comic drawing contest.
+        action_btn: "Show me, can't wait!"
+        side_btn: "Winner: Supernaturally by Konspiracy"
+      slide_2:
+        title: "Community spotlight"
+        text: >
+          Check out how we imagine Mary, the lovable cat owner raised up by her witch-mom. Some quality artworks ahead!
+        action_btn: "Behold!"
+        side_btn: "Artist: Coral"
+      slide_3:
+        title: "Publish your comics"
+        text: >
+          People here speak hundreds of languages from all over the World (for real!). Inspire readers to translate your series, so that other parts of the globe can enjoy it too.
+        action_btn: "Start publishing"
+        side_btn: "Artist: rin98ellen"
+      slide_4:
+        title: "Let your creations see the World."
+        text: >
+          Together we built this place to make uploading and sharing artworks between our friends as easy and quick as possible. Discuss the things you like and dive into the world of manga.
+        action_btn: "Upload all the things!"
+        side_btn: "Artist: RiniA"
+      slide_5:
+        title: "Stay in the loop!"
+        text: >
+          What is generating buzz in the manga world lately? Is the new chapter you've been waiting out? Watched an awesome anime? Let's discuss it over a hot bowl of ramen!  
+        action_btn: "See the news!"
+        side_btn: "Artist: justhatsue"

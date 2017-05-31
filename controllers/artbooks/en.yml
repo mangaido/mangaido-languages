@@ -1,0 +1,11 @@
+en:
+  artbooks:
+    new:
+      title: "%{user_name}'s Artbook"
+    create:
+      success: "Artbook was successfully created!"
+    update:
+      success: "Artbook was successfully updated."
+      error: "There was some problems with updating this artbook! Try again."
+    destroy:
+      success: "Artbook was successfully deleted!"

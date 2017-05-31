@@ -1,0 +1,16 @@
+en:
+  artbook_images:
+    index:
+      meta_title: "Latest artworks"
+      title: "Latest artworks"
+      subtitle: "Creativity unleashed"
+      toolbar:
+        add_new_artworks:
+          mobile: "Add"
+          desktop: "Add new artworks"
+        my_artbooks:
+          mobile: "My"
+          desktop: "My artbooks"
+        edit_my_artbooks:
+          mobile: "Edit"
+          desktop: "Edit my artbooks"

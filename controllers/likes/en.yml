@@ -1,0 +1,5 @@
+en:
+  likes:
+    create:
+      error: "Couldn't like the element :("
+    

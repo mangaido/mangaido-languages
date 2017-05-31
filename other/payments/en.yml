@@ -1,0 +1,11 @@
+en:
+  payments:
+    paypal:
+      description: "Mangaido coin purchaise"
+      item:
+        name:
+          one: "%{count} coin"
+          other: "%{count} coins"
+        description:
+          one: "%{count} coin"
+          other: "%{count} coins"

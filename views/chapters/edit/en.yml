@@ -1,0 +1,17 @@
+en:
+  chapters:
+    edit:
+      meta_title: "%{series_title} - %{chapter_title} - edit chapter page"
+      title: "Edit chapter: %{title}"
+      toolbar:
+        add_new_images_btn:
+          desktop: "Add new images"
+          mobile: "Add"
+        read_chapter_btn:
+          desktop: "Read chapter"
+          mobile: "Read"
+        delete_btn:
+          mobile: ""
+          desktop: "Delete"
+        delete_btn_confir: "Are you sure?"
+      chapter_images_title: "Chapter images:"

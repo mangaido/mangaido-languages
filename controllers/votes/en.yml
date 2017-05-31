@@ -1,0 +1,4 @@
+en:
+  votes:
+    create:
+      error: "Couldn't vote on the element :("

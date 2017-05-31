@@ -1,0 +1,36 @@
+en:
+  episodes:
+    show:
+      meta_title: "%{title} - episode page"
+      toolbar:
+        my_novels_btn:
+          mobile: "My"
+          desktop: "My novels"
+        edit_btn:
+          mobile: "Edit"
+          desktop: "Edit this episode"
+      by_author:
+        html: "by %{author_link}"
+      novel_btns:
+        views:
+          one: "%{count} view"
+          other: "%{count} views"
+        comments:
+          one: "%{count} comment"
+          other: "%{count} comments"
+      updated_ago: "Episode updated %{time} ago"
+      episode_btns:
+        views:
+          one: "%{count} view"
+          other: "%{count} views"
+        comments:
+          one: "%{count} comment"
+          other: "%{count} comments"
+      description_label: "Some info from author:"
+      prev_btn:
+        mobile: "Prev"
+        desktop: "Previous episode"
+      next_btn:
+        mobile: "Next"
+        desktop: "Next episode"
+      comments_label: "Comments:"

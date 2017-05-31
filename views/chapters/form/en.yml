@@ -1,0 +1,35 @@
+en:
+  chapters:
+    form:
+      title_label: "Title"
+      is_published_label: "Is published?"
+      is_published_yes_label: "Published"
+      is_published_no_label: "In draft"
+      cover_label: "Cover (Optional)"
+      remove_cover_yes_label: "Remove this cover"
+      remove_cover_no_label: "Leave cover as it is"
+      cover_hint_text: >
+        For best results upload image with dimensions 640x260 px (JPG or PNG)
+      amount_of_coins_label: "Number of coins:"
+      amount_of_coins_help_btn: "More info"
+      amount_of_coins_help_text_html: >
+        Here you can select the price that readers of your comic series will need to pay to gain access to this chapter.<br />
+        If you select "0 coins" your chapter will be accessible for free.<br />
+        You can always change the price.<br />
+        Remember that from every transaction Mangaido is automatically deducting %{percent_fee}% fee.
+      amount_of_coins_select:
+        one: "%{count} coin"
+        other:  "%{count} coins"
+      authorized_users_label: "Authorized users:"
+      authorized_users_help_btn: "More info"
+      authorized_users_help_text_html: >
+        Here you can select users that will have access to your chapter without need to pay for it or when the chapter will be unpublished.<br />
+        These feature is aspecially usefull when you want to give some translators access to your chapter.<br />
+        Authorized users will only be able to read your chapter and create translations based on it. They will not be able to edit it.<br />
+        Just send them link to your chapter.<br />
+        You can add and remove authorized users at every moment.<br />
+        There is a max nr of %{max_users} authorized users that you can assign to your chapter.
+      authorized_users_field_placeholder: "Search for a user..."
+      too_many_users_error: "Too many authorized users!"
+      submit_btn: "Submit"
+      

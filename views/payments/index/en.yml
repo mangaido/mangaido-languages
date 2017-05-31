@@ -1,0 +1,12 @@
+en:
+  payments:
+    index:
+      meta_title: "Payments page"
+      payments_label: "Payments:"
+      table:
+        amount_of_coins: "Number of coins"
+        amount_of_money: "Amount of money"
+        completed: "Is completed?"
+        completed_yes: "Yes"
+        completed_no: "No"
+        date: "Date"

@@ -1,0 +1,8 @@
+en:
+  conversations:
+    conversation:
+      restore_btn: "Restore"
+      move_to_trash_btn: "Move to trash"
+      move_to_trash_btn_confirm: "Are you sure?"
+      mark_as_read_btn: "Mark as read"
+      sent_ago: "Sent %{time} ago"

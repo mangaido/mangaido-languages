@@ -1,0 +1,15 @@
+en:
+  traslations:
+    show:
+      no_acceess_error: "You don't have access to this translation!"
+    edit:
+      no_acceess_error: "You can't edit this translation!"
+    create:
+      no_acceess_error: "You can't create this translation. Try again later."
+      success: "Translation was successfully created!"
+      error: "There was a problem with creating your translation! Try again."
+    update:
+      success: "Translation was successfully updated."
+      error: "There was some problems with updating this translation."
+    destroy:
+      success: "Translation was successfully deleted."

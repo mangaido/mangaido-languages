@@ -1,0 +1,10 @@
+en:
+  artbook_images:
+    form:
+      title: "Title (Optional)"
+      description: "Description (Optional)"
+      tags: "Tags (Optional)"
+      tags_hint: >
+        Tags separated by comma (",").
+        It helps people find your images.
+      save_btn: "Save"

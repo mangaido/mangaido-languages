@@ -1,0 +1,5 @@
+en:
+  users:
+    followers:
+      meta_title: "Users following %{user_name} page"
+      title: "Users following %{user_name}"

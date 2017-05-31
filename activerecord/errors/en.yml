@@ -1,0 +1,39 @@
+en:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Validation failed: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Cannot delete record because a dependent %{record} exists"
+          has_many: "Cannot delete record because dependent %{record} exist"
+      models:
+        artbook_image:
+          image_too_big: "Artbook image should be less than %{size}"
+        chapter:
+          image_too_big: "Chapter image should be less than %{size}"
+          too_many_authorized_users: "This chapter have too many authorized users"
+        chapter_image:
+          image_too_big: "Chapter image should be less than %{size}"
+        noodle:
+          image_too_big: "Noodle image should be less than %{size}"
+        novel:
+          image_too_big: "Novel cover should be less than %{size}"
+        password_reset:
+          password:
+            cant_be_empty: "Password can't be empty"
+        series:
+          cover_too_big: "Series cover should be less than %{size}"
+          wide_cover_too_big: "Series wide cover should be less than %{size}"
+        status_update:
+          image_too_big: "Status update image should be less than %{size}"
+        transaction:
+          general_error: "There was a problem with this transaction. Try again."
+          not_enough_coins: "Insufficient number of coins."
+        user:
+          avatar_too_big: "Avatar should be less than %{size}"
+          cover_too_big: "Cover should be less than %{size}"
+        withdrawal:
+          not_enough_coins: "Insufficient number of coins!"
+          
+
+

@@ -1,0 +1,8 @@
+en:
+  transactions:
+    new:
+      error: "You can't create this transaction!"
+    create:
+      no_enough_coins_error: "You need to buy some coins to finish this transaction"
+      success: "Transaction was successful"
+      error: "Something went wrong!"

@@ -1,0 +1,12 @@
+en:
+  artbooks:
+    edit_all:
+      meta_title: "Edit my artbooks"
+      title: "Edit my artbooks"
+      new_artbook_btn:
+        mobile: "Add"
+        desktop: "Add new artbook"
+      show_my_artbooks_btn:
+        mobile: "Show"
+        desktop: "Show my artbooks"
+      

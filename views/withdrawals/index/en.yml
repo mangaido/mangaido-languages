@@ -1,0 +1,21 @@
+en:
+  withdrawals:
+    index:
+      meta_title: "Withdrawals"
+      current_balance_label: "Current balance:"
+      current_balance_coins:
+        one: "%{count} coin"
+        other: "%{count} coins"
+      money_to_be_paid_label: "Withdrawal in progress:"
+      form_label: "Withdraw form:"
+      cant_withdraw_msg: "To withdraw money you need to have at least %{min_coins} coins"
+      list_label: "Withdrawals:"
+      list:
+        id: "ID"
+        amount_of_coins: "Number of coins"
+        amount_of_money: "Amount of money"
+        created_at: Created at
+        is_paid: Completed?
+        is_paid_yes: "Yes"
+        is_paid_no: "No"
+        paid_at: Paid at

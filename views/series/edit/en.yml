@@ -1,0 +1,16 @@
+en:
+  series:
+    edit:
+      meta_title: "%{title} - edit comic series page"
+      title: "%{title} - edit comic series"
+      add_new_btn:
+        mobile: "Add"
+        desktop: "Add new chapter"
+      show_btn:
+        mobile: "Show"
+        desktop: "Show this series"
+      delete_btn:
+        mobile: ""
+        desktop: "Delete"
+      chapters_title: "Chapters:"
+

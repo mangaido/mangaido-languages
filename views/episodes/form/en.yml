@@ -1,0 +1,10 @@
+en:
+  episodes:
+    form:
+      title_label: "Title"
+      description_label: "Description (Optional)"
+      text_label: "Text"
+      is_published_label: "Published"
+      is_published_yes_label: "Published"
+      is_published_no_label: "In draft"
+      submit_btn: "Submit"

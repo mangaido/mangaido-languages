@@ -1,0 +1,7 @@
+en:
+  likes:
+    guest_like:
+      tooltip: "Like!"
+      likes:
+        one: "like"
+        other: "likes"

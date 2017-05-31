@@ -1,0 +1,14 @@
+en:
+  artbook_images:
+    edit:
+      meta_title: "Edit artwork page"
+      title: "Edit artwork:"
+      previous_btn: "Previous"
+      back_to_artbook:
+        mobile: "Back"
+        desktop: "Back to artbook"
+      show_artwork:
+        mobile: "Show"
+        desktop: "Show artwork"
+      next_btn: "Next"
+      delete_btn: "Delete"

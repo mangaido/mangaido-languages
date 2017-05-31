@@ -1,0 +1,10 @@
+en:
+  noodles:
+    update:
+      success: "Noodle was successfully updated."
+      error: "There was some problems with updating this noodle! Try again."
+    create:
+      success: "Noodle created!"
+      error: "Noodle not saved."
+    destroy:
+      success: "Noodle deleted"

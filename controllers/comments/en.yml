@@ -1,0 +1,7 @@
+en:
+  comments:
+    create:
+      success: "Comment created."
+      error: "There was some problem with adding your comment. Please try again."
+    destroy:
+      success: "Comment deleted."

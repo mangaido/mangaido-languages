@@ -1,0 +1,7 @@
+en:
+  status_updates:
+    feed:
+      meta_title: "Feed page"
+      menu:
+        feed_btn: "All"
+        feed_following_btn: "Following"

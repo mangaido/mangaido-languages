@@ -1,0 +1,5 @@
+en:
+  users:
+    show:
+      meta_title: "%{user_name}'s profile page"
+      artists_posts: "%{user_name}'s posts:"

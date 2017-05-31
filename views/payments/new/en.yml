@@ -1,0 +1,7 @@
+en:
+  payments:
+    new:
+      meta_title: "Buy coins page"
+      coin_packages_title: "Select coin package:"
+      calculation_label: "Quick calculation:"
+      buy_btn: "Buy"

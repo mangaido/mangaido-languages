@@ -1,0 +1,6 @@
+en:
+  users:
+    series:
+      meta_title: "%{user_name}'s comic series page"
+      title: "%{user_name}'s comic series:"
+      edit_btn: "Edit comic series"

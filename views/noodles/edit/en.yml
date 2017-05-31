@@ -1,0 +1,7 @@
+en:
+  noodles:
+    edit:
+      meta_title: "%{title} - edit noodle page"
+      title: "%{title} - edit noodle"
+      cancel_btn: "Cancel"
+      

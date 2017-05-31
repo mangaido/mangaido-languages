@@ -1,0 +1,9 @@
+en:
+  password_resets:
+    new_form:
+      email_label: "Email"
+      submit_btn: "Reset password"
+      login_btn: "Log in"
+      back_to_login_html: "Back to login? %{login_btn_html}"
+      signup_btn: "Sign up now!"
+      new_user_html: "New user? %{signup_btn_html}"

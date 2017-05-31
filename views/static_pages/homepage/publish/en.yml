@@ -1,0 +1,14 @@
+en:
+  static_pages:
+    homepage:
+      publish:
+        artworks:
+          upload_btn: "Upload artworks"
+          title: "Publish an Artbook"
+          description: >
+            Publish individual artworks that are not a part of a story arc. You can organize your works by grouping them into artbooks.
+        comic_series:
+          create_btn: "Create comic series"
+          title: "Publish a Comic Series"
+          description: >
+            Publish a full-scale comic series! Build the story, develop characters, release chapters and keep your readers on their toes on what will happen next!

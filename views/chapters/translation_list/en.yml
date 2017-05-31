@@ -1,0 +1,8 @@
+en:
+  chapters:
+    translation_list:
+      translation_link_hint: "Read"
+      author_link_hint: "Show author"
+      translation_edit_btn_hint: "Edit"
+      buy_link_hint: "Buy chapter"
+      no_translations_msg: "There is no translations of this chapter currently"

@@ -1,0 +1,20 @@
+en:
+  user_mailer:
+    account_activation:
+      subject: "Mangaido account activation"
+      activation_link: "Activate account"
+      message: >
+        Hi %{user_name},
+        Welcome to Mangaido! Click this link to activate your account: %{activation_link}
+      message_html: >
+        <h1>
+          Mangaido account activation
+        </h1>
+
+        <p>
+          Hi %{user_name},
+        </p>
+
+        <p>
+          Welcome to Mangaido! Click this link to activate your account: %{activation_link_html}.
+        </p>
