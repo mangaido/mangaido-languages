@@ -1,1 +1,7 @@
 pl:
+  layouts:
+    header_notifications_dropdown:
+      notifications_title: "Powiadomienia"
+      mark_all_as_read_btn: "Oznacz jako przeczytane"
+      loader: "Ładowanie..."
+      show_all_btn: "Pokaż wszystkie"
