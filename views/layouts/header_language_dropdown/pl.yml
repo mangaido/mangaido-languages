@@ -1,1 +1,4 @@
 pl:
+  layouts:
+    header_language_dropdown:
+      languages_btn: "Języki"
