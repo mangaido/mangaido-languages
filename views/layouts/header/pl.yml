@@ -1,1 +1,12 @@
-pl:
+en:
+  layouts:
+    header:
+      toggle_navigation_text: "Przełącz nawigację"
+      upload: "Prześlij"
+      status_updates: "Posty"
+      feed: "Posty"
+      artworks: "Ilustracje"
+      series: "Komiksy"
+      novels: "Nowele"
+      ramen: "Ramen"
+      log_in: "Zaloguj się"
