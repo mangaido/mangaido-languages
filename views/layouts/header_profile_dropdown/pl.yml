@@ -1,1 +1,11 @@
 pl:
+  layouts:
+    header_profile_dropdown:
+      profile: "Profil"
+      my_artbooks: "Moje artbook'i"
+      my_comic_series: "Moje komiksy"
+      my_translations: "Moje tłumaczenia"
+      my_novels: "Moje nowele"
+      mailbox: "Skrzynka odbiorcza"
+      settings: "Ustawienia"
+      log_out: "Wyloguj się"
