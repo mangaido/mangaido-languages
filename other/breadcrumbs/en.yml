@@ -27,6 +27,7 @@ en:
       edit: "Edit noodle"
       index: "Ramen bowl"
       my_index: "My noodles"
+      new: "Add new noodle"
     novels:
       index: "Novels"
       new: "Add new novel"
