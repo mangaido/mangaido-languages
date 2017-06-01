@@ -1,1 +1,5 @@
 pl:
+  status_updates:
+    index:
+      meta_title: "Ostatnie posty"
+      title: "Ostatnie posty"
