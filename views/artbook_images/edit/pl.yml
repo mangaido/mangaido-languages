@@ -1,1 +1,14 @@
 pl:
+  artbook_images:
+    edit:
+      meta_title: "Edytuj ilustrację"
+      title: "Edytuj ilustrację:"
+      previous_btn: "Poprzednia"
+      back_to_artbook:
+        mobile: "Cofnij"
+        desktop: "Cofnij do artbook'a"
+      show_artwork:
+        mobile: "Pokaż"
+        desktop: "Pokaż ilustrację"
+      next_btn: "Następna"
+      delete_btn: "Usuń"
