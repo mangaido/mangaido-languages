@@ -1,1 +1,37 @@
 pl:
+  chapters:
+    form:
+      title_label: "Tytuł"
+      is_published_label: "Czy jest opublikowany?"
+      is_published_yes_label: "Opublikowany"
+      is_published_no_label: "W roboczych"
+      cover_label: "Okładka (Opcjonalna)"
+      remove_cover_yes_label: "Usuń tę okładkę"
+      remove_cover_no_label: "Zostaw okładkę"
+      cover_hint_text: >
+        Żeby uzyskać najlepsze rezultaty załaduj zdjęcie w rozmiarze 640x260 pikseli (JPG lub PNG)
+      amount_of_coins_label: "Ilość żetonów:"
+      amount_of_coins_help_btn: "Więcej informacji"
+      amount_of_coins_help_text_html: >
+        Tutaj możesz ustawić cenę jaką Twoi czytelnicy będą musieli zapłacić żeby uzyskać dostęp do odcinka.<br />
+        Jeśli wybierzeć "0 żetonów" dostęp do odcinka będzie darmowy.<br />
+        Cenę możesz zmienić w każdej chwili.<br />
+        Pamiętaj że od każdej tranzakcji Mangaido pobiera %{percent_fee}% opłatę.
+      amount_of_coins_select:
+        one: "%{count} żeton"
+        few: "%{count} żetony"
+        many: "%{count} żetonów"
+        other:  "%{count} żetona"
+      authorized_users_label: "Autoryzowani użytkownicy:"
+      authorized_users_help_btn: "Więcej informacji"
+      authorized_users_help_text_html: >
+        Tutaj możesz wskazać użytkowników którzy będą mieli dostęp do Twojego odcinka za darmo lub wtedy gdy Twój odcinek będzie w roboczych.<br />
+        Ta funkcja jest szczególnie przydatna gdy chcesz dać dostęp translatorom do Twojego odcinka.<br />
+        Autoryzowani użytkownicy będą mogli czytać Twój odcinek i tworzyć jego tłumaczenia. Nie będą mogli oni jednak w żaden sposób edytować Twojego odcinka.<br />
+        Po prostu wyślij im link do tego odcinka.<br />
+        Możesz edytować listę autoryzowanych użytkowników w każdej chwili.<br />
+        Pamiętaj że możesz dodać maksymalnie %{max_users} autoryzowanych użytkowników do jednego odcinka.
+      authorized_users_field_placeholder: "Szukaj użytkownika..."
+      too_many_users_error: "Zbyt wielu autoryzowanych użytkowników!"
+      submit_btn: "Wyślij"
+      
