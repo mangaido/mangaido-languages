@@ -1,1 +1,73 @@
 pl:
+  layouts:
+    user:
+      edit_profile: "Edytu profil"
+      send_message: "Wyślij wiadomość"
+      stats:
+        following:
+          one: "Subskyrbuje"
+          few: "Subskyrbuje"
+          many: "Subskyrbuje"
+          other: "Subskrybuje"
+        followers:
+          one: "Subskrybent"
+          few: "Subskrybentów"
+          many: "Subkrybentów"
+          other: "Subskrybenta"
+        posts:
+          one: "Post"
+          few: "Posty"
+          many: "Postów"
+          other: "Posta"
+        artwork_views:
+          one: "Wyświetlenie ilustacji"
+          few: "Wyświetlenia ilustracji"
+          many: "Wyświetleń ilustracji"
+          other: "Wyświetlenia ilustracji"
+        series_views:
+          one: "Wyświetlenie komiksów"
+          few: "Wyświetlenia komiksów"
+          many: "Wyświetleń komiksów"
+          other: "Wyświetlenia komiksów"
+        translation_views:
+          one: "Wyświetlenie tłumaczeń"
+          few: "Wyświetlenia tłumaczeń"
+          many: "Wyświetleń tłumaczeń"
+          other: "Wyświetlenia tłumaczeń"
+        novel_views:
+          one: "Wyświetlenie nowel"
+          few: "Wyświetlenia nowel"
+          many: "Wyświetleń nowel"
+          other: "Wyświetlenia nowel"
+      menu:
+        donate: "Wesprzyj użytkownika"
+        artbooks:
+          one: "%{count} artbook"
+          few: "%{count} artbook'i"
+          many: "%{count} artbook'ów"
+          other: "%{count} artbook'a"
+        comic_series:
+          one: "%{count} komiks"
+          few: "%{count} komiksy"
+          many: "%{count} komiksów"
+          other: "%{count} komiksa"
+        translations:
+          one: "%{count} tłumaczenie"
+          few: "%{count} tłumaczenia"
+          many: "%{count} tłumaczeń"
+          other: "%{count} tłumaczenia"
+        novels:
+          one: "%{count} nowela"
+          few: "%{count} nowele"
+          many: "%{count} nowel"
+          other: "%{count} noweli"
+        following:
+          one: "Subskrybuje %{count} osobę"
+          few: "Subskrybuje %{count} osoby"
+          many: "Subskrybuje %{count} osób"
+          other: "Subskrybuje %{count} osoby"
+        followers:
+          one: "%{count} subskrybent"
+          few: "%{count} bubsrybentów"
+          many: "%{count} subskrybentów"
+          other: "%{count} subskrybenta"
