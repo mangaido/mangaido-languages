@@ -1,0 +1,1 @@
+This files are the translations of email messages subjects.

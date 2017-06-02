@@ -1,0 +1,1 @@
+Here we're translating model names. Models are things like "chapter", "artbook image", "transaction" and so on. We're translating here singular and plural forms of model names. This words that we're translating here will appear mostly in error messages, like: "You don't have access to this Chapter"

@@ -1,0 +1,1 @@
+Here we're translating attributes of things like "chapter", so we're translating chapter "title", chapter "description" and so on. This words appear mostly in error messages for example when someone tries to create a chapter without any title and then error message will appear informing user that "title needs to be filled out in order to create a new chapter"

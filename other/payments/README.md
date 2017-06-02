@@ -1,0 +1,1 @@
+Here we're translating description of a paypal payment. So this is what a buyer will see on paypal page as a name of product that he wants to buy.

@@ -1,0 +1,1 @@
+Here we're translating messages that might appear on user's screen. For example when user create new chapter he might see a message like: "Chapter was successfully created!" or "There was some problems with creating new chapter. Try again." Files here are organized based on model names, so chapter messages will be in "chapters" folder and so on.

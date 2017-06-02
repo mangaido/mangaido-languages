@@ -1,0 +1,1 @@
+Here we have files that are about various things that for some reason we decided to put in folder named "other" :)

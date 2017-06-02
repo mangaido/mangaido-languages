@@ -1,0 +1,1 @@
+Here we have files that are about particular pieces of user interface. This are the most important one in the process of translating our website. Dive in and check out what is missing in your language version of Mangaido.

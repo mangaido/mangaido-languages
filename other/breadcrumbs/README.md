@@ -1,0 +1,1 @@
+Breadcrumbs are this small links on top of almost every page and inform user where he is on website currently. So translations here are this words that will appear as links in this small top navigation "menu" that we call "breadcrumbs"
