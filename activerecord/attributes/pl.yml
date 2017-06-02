@@ -1,1 +1,57 @@
 pl:
+  activerecord:
+    attributes:
+      artbook_image:
+        image: "Zdjęcie"
+        title: "Tytuł"
+        description: "Opis"
+      artbook:
+        title: "Tytuł"
+      chapter_image:
+        image: "Zdjęcie"
+      chapter:
+        title: "Tytuł"
+        cover: "Okładka"
+        is_published: "Czy jest opublikowany"
+        amount_of_coins: "Ilość żetonów"
+      comment:
+        content: "Treść"
+      episode:
+        title: "Tytuł"
+        description: "Opis"
+        text: "Tekst"
+        is_published: "Czy jest opublikowany"
+      noodle:
+        title: "Tytuł"
+        content: "Treść"
+        link: "Link"
+        image: "Zdjęcie"
+      novel:
+        title: "Tytuł"
+        description: "Opis"
+        cover: "Okładka"
+        is_published: "Czy jest opublikowany"
+      series:
+        title: "Tytuł"
+        cover: "Okładka"
+        wide_cover: "Szeroka okładka"
+        is_published: "Czy jest opublikowany"
+        description: "Opis"
+        language: "Język"
+        is_for_adults: "Czy jest dla dorosłych"
+      status_update:
+        content: "Treść"
+        image: "Zdjęcie"
+      translation_balloon:
+        text: "Tekst"
+      translation:
+        is_published: "Czy jest opublikowane"
+        language: "Język"
+      user:
+        name: "Nazwa"
+        email: "Email"
+        about: "O sobie"
+        cover: "Okładka"
+        avatar: "Awatar"
+        default_language: "Domyślny język"
+        paypal_email: "Email na PayPal"
