@@ -8,7 +8,7 @@ If only you know some other language than English we would be very grateful if y
 
 ## Quick tutorial video how to translate:
 
-
+[YouTube video](https://youtu.be/sFZJUTPr5K8)
 
 ---
 
