@@ -1,7 +1,7 @@
 pl:
   layouts:
     user:
-      edit_profile: "Edytu profil"
+      edit_profile: "Edytuj profil"
       send_message: "Wyślij wiadomość"
       stats:
         following:
