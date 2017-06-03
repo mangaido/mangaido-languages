@@ -4,8 +4,6 @@ This repository is a collection of files used to translate [Mangaido](https://ma
 
 If only you know some other language than English we would be very grateful if you would like to help us build international community by translating here some files. It's super easy! You don't need to know how to program. Try, we'll tell you how! :smile:
 
-![Mangaido logo](https://lh3.googleusercontent.com/m1-sbYLASRRIKdQnFQuiCkI1sMpYedzTTLeOkiguIO52OAxGhd5-23CeuqS-Y-XzDgLFkC3sNQui32w=w1366-h623)
-
 ---
 
 ## Quick tutorial video how to translate:
