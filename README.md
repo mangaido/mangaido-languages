@@ -4,11 +4,13 @@ This repository is a collection of files used to translate [Mangaido](https://ma
 
 If only you know some other language than English we would be very grateful if you would like to help us build international community by translating here some files. It's super easy! You don't need to know how to program. Try, we'll tell you how! :smile:
 
+![Mangaido logo](https://lh3.googleusercontent.com/m1-sbYLASRRIKdQnFQuiCkI1sMpYedzTTLeOkiguIO52OAxGhd5-23CeuqS-Y-XzDgLFkC3sNQui32w=w1366-h623)
+
 ---
 
 ## Quick tutorial video how to translate:
 
-[YouTube video](https://youtu.be/sFZJUTPr5K8)
+[![YouTube video](https://img.youtube.com/vi/sFZJUTPr5K8/0.jpg)](https://youtu.be/sFZJUTPr5K8)
 
 ---
 
@@ -177,7 +179,10 @@ en:
 
 In some cases it's necessary to have HTML tags inside translation texts to format text properly. We use only this tags:
 
+- `<h1>Text goes here</h1>` - Headline. Text inside is bigger and styled as headline. There are also smaller haedlines: h2, h3, h4, h5
 - `<p>Text goes here</p>` - Paragraph. Text inside is a paragraph.
 - `<b>Text goes here</b>` - Bold text
 - `<i>Text goes here</i>` - Italics
 - `<br />` - Break line. Text after this tag will start from new line
+
+If this is possible try not to edit HTML tags and leave them as they are, just translate the text.
