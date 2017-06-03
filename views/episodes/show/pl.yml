@@ -1,1 +1,44 @@
 pl:
+  episodes:
+    show:
+      meta_title: "%{title} - odcinek"
+      toolbar:
+        my_novels_btn:
+          mobile: "Moje"
+          desktop: "Moje nowele"
+        edit_btn:
+          mobile: "Edytuj"
+          desktop: "Edytuj ten odcinek"
+      by_author:
+        html: "by %{author_link}"
+      novel_btns:
+        views:
+          one: "%{count} wyświetlenie"
+          few: "%{count} wyświetlenia"
+          many: "%{count} wyświetleń"
+          other: "%{count} wyświetlenia"
+        comments:
+          one: "%{count} komentarz"
+          few: "%{count} komentarze"
+          many: "%{count} komentarzy"
+          other: "%{count} komentarza"
+      updated_ago: "Odcinek był aktualizowany %{time} temu"
+      episode_btns:
+        views:
+          one: "%{count} wyświetlenie"
+          few: "%{count} wyświetlenia"
+          many: "%{count} wyświetleń"
+          other: "%{count} wyświetlenia"
+        comments:
+          one: "%{count} komentarz"
+          few: "%{count} komentarze"
+          many: "%{count} komentarzy"
+          other: "%{count} komentarza"
+      description_label: "Informacja od autora:"
+      prev_btn:
+        mobile: "Poprzedni"
+        desktop: "Poprzedni odcinek"
+      next_btn:
+        mobile: "Następny"
+        desktop: "Następny odcinek"
+      comments_label: "Komentarze:"
