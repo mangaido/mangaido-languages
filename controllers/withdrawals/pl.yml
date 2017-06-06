@@ -1,1 +1,4 @@
 pl:
+  withdrawals:
+    create:
+      no_access_error: "Nie możesz utworzyc tej wypłaty!"
