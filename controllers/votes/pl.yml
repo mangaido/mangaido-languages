@@ -1,1 +1,4 @@
 pl:
+  votes:
+    create:
+      error: "Wystąpiły problemy z oddaniem głosu! Spróbuj ponownie."
