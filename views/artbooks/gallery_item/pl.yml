@@ -1,1 +1,8 @@
 pl:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "%{count} ilustracja"
+        few: "%{count} ilustracje"
+        many: "%{count} ilustracji"
+        other: "%{count} ilustracji"
