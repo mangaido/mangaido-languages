@@ -1,1 +1,12 @@
 pl:
+  artbooks:
+    edit_all:
+      meta_title: "Zarządzanie artbook'ami"
+      title: "Zarządzanie artbook'ami"
+      new_artbook_btn:
+        mobile: "Dodaj"
+        desktop: "Dodaj nowy artbook"
+      show_my_artbooks_btn:
+        mobile: "Pokaż"
+        desktop: "Pokaż moje artbook'i"
+      
