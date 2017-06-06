@@ -1,1 +1,8 @@
 pl:
+  transactions:
+    new:
+      error: "Wystąpiły problemy z utworzniem tej tranzakcji! Spróbuj ponownie."
+    create:
+      no_enough_coins_error: "Musisz zakupić trochę żetonów aby ukończyć tę tranzakcję!"
+      success: "Tranzakcja się udała!"
+      error: "Wystąpiły problemy z tą tranzakcją! Spróbuj ponownie."
