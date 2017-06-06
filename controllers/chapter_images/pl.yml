@@ -1,1 +1,4 @@
 pl:
+  chapter_images:
+    destroy:
+      success: "Obrazek został pomyślnie usunięty."
