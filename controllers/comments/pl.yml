@@ -1,1 +1,7 @@
 pl:
+  comments:
+    create:
+      success: "Komentarz został pomyślnie utworzony!"
+      error: "Wystąpiły problemy z dodaniem Twojego komentarza! Spróbuj ponownie."
+    destroy:
+      success: "Komentarz został pomyślnie usunięty!"
