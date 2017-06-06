@@ -1,1 +1,5 @@
 pl:
+  sessions:
+    create:
+      not_activated_warning: "Konto nie zostało jeszcze aktywowane! Sprawdź swoją skrzynkę odbiorczą i potwierdź konto klikając w link aktywacyjny w emailu."
+      error: "Nieprawidłowa kombinacja adresu email i hasła! Spróbuj ponownie."
