@@ -1,1 +1,15 @@
 pl:
+  payments:
+    paypal:
+      description: "Zakup żetonów Mangaido"
+      item:
+        name:
+          one: "%{count} żeton"
+          few: "%{count} żetony"
+          many: "%{count} żetonów"
+          other: "%{count} żetona"
+        description:
+          one: "%{count} żeton"
+          few: "%{count} żetony"
+          many: "%{count} żetonów"
+          other: "%{count} żetona"
