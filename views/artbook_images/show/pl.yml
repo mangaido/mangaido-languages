@@ -1,1 +1,12 @@
 pl:
+  artbook_images:
+    show:
+      meta_title: "Ilustracje artbook'a"
+      previous_btn: "Poprzednia"
+      nr_of_pages: "%{page_nr} z %{pages}"
+      next_btn: "Następna"
+      edit_this_image_option: "Edytuj tę ilustrację"
+      edit_this_artbook_option: "Edytuj ten artbook"
+      edit_all_my_artbooks_option: "Zarządzaj artbook'ami"
+      author_label: "Autor:"
+      artbook_label: "Artbook:"
