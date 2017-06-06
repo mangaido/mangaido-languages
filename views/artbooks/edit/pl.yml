@@ -1,1 +1,13 @@
 pl:
+  artbooks:
+    edit:
+      meta_title: "edycja artbook'a"
+      title: "Edycja:"
+      new_artbook_image_btn:
+        mobile: "Dodaj"
+        desktop: "Dodaj nowe ilustracje"
+      show_this_artbook_btn:
+        mobile: "Pokaż"
+        desktop: "Pokaż artbook'a"
+      delete_btn: "Usuń"
+      
