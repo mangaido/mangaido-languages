@@ -1,1 +1,4 @@
 pl:
+  application:
+    logged_in_user:
+      error: "Proszę, zaloguj się."
