@@ -1,1 +1,12 @@
 pl:
+  episodes:
+    show:
+      episode_not_published_error: "Ten epizod nie jest jeszcze opublikowany!"
+      novel_not_published_error: "Ta nowela nie jest jeszcze opublikowana!"
+      episode_not_published_info: "Ta nowela nie jest jeszcze opublikowana!"
+    create:
+      success: "Epizod został pomyślnie utworzony!"
+    update:
+      success: "Epizod został pomyślnie zaktualizowany!"
+    destroy:
+      success: "Epizod został pomyślnie usunięty!"
