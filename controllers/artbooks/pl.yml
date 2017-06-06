@@ -1,1 +1,11 @@
 pl:
+  artbooks:
+    new:
+      title: "Artbook twórcy: %{user_name}"
+    create:
+      success: "Artbook został pomyślnie utworzony!"
+    update:
+      success: "Artbook został pomyślnie zaktualizowany!"
+      error: "Wystąpiły problemy z aktualizacją tego artbook'a! Spróbuj ponowinie."
+    destroy:
+      success: "Artbook został pomyślnie usunięty!"
