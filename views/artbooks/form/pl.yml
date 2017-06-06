@@ -1,1 +1,5 @@
 pl:
+  artbooks:
+    form:
+      title_label: "Tytuł"
+      submit_btn: "Wyślij"
