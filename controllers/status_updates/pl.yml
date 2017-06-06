@@ -1,1 +1,6 @@
 pl:
+  status_updates:
+    create:
+      success: "Post został pomyślnie utworzony!"
+    destroy:
+      success: "Post został pomyślnie usunięty!"
