@@ -1,1 +1,17 @@
 pl:
+  chapter_images:
+    new:
+      meta_title: "Dodaj nowe obrazki odcinka"
+      title: "Dodaj nowe obrazki odcinka"
+      chapter_images_hint_text: >
+        Obrazki zostaną zeskalowane tak żeby się mieściły w prostokącie o wymiarach 720x5000px. Obrazki nie powinny być większe niż 15MB każdy.
+      step_1: "Krok #1"
+      step_1_subtitle: "Wybierz obrazki:"
+      step_2: "Krok #2"
+      step_2_subtitle: "Wyślij:"
+      step_2_select_files_to_upload: "Proszę, najpierw wybierz obrazki, które chcesz wysłać"
+      upload_btn: "Wyślij!"
+      file_dropzone_label: "Upuść pliki tutaj, lub kliknij tu aby wybrać pliki do wysłania."
+      files_label: "Obrazki do wysłania:"
+      edit_chapter_btn: "Edytuj odcinek"
+      show_chapter_btn: "Pokaż odcinek"
