@@ -1,1 +1,11 @@
 pl:
+  chapters:
+    show:
+      no_access_error: "Nie masz dostępu do tego odcinka!"
+    create:
+      success: "Odcinek został pomyślnie utworzony!"
+    update:
+      success: "Odcinke został pomyślnie zaktualizowany!"
+      erorr: "Wystąpiły problemy z aktualizacją tego odcinka! Spróbuj ponownie."
+    destroy:
+      success: "Odcinek został pomyślnie usunięty!"
