@@ -1,1 +1,66 @@
 pl:
+  breadcrumbs:
+    root: "Główna"
+    artbook_images:
+      index: "Ilustracje"
+      edit: "Edycja: %{title}"
+      new: "Dodaj nowe"
+    artbooks:
+      edit_all: "Edycja wszystkich"
+      edit: "Edycja: %{title}"
+      new: "Dodaj nowy"
+      show: "Artbook: %{title}"
+    chapter_images:
+      new: "Dodaj nowe"
+    chapters:
+      edit: "Edytuj"
+      new: "Dodaj nowe"
+    conversations:
+      index: "Skrzynka odbiorcza"
+      show: "Konwersacja"
+    episodes:
+      new: "Dodaj nowy"
+      edit: "Edytuj"
+    messages:
+      new: "Nowa konwersacja"
+    noodles:
+      edit: "Edytuj"
+      index: "Miska ramenu"
+      my_index: "Moje noodle"
+      new: "Dodaj nowego"
+    novels:
+      index: "Nowele"
+      new: "Dodaj nową"
+      edit: "Edytuj"
+      edit_all: "Edytuj wszystkie"
+      user_novels: "Nowele użytkownika"
+    users:
+      artbooks: "Ilustracje użytkownika"
+      authors: "Autorzy"
+      dashboard: "Panel zarządzania"
+      edit: "Edytuj profil"
+      index: "Użytkownicy"
+      series: "Komiksy użytkownika"
+    payments:
+      index: "Płatności"
+      new: "Kup żetony"
+    series:
+      edit: "Edytuj"
+      edit_all: "Edytuj wszystkie"
+      for_adults: "Dla dorosłych"
+      index: "Komiksy"
+      new: "Dodaj nowy"
+    static_pages:
+      earn_money_with_us: "Zarabiaj z nami!"
+      privacy_policy: "Polityka Prywatności"
+      search: "Wyniki wyszukiwania"
+      terms_of_service: "Warunki świadczenia usług"
+    transactions:
+      chapter_purchases: "Zakupy odcinków"
+      chapter_sales: "Sprzedrz odcinków"
+      donations_sent: "Wysłane dotacje"
+      donations_received: "Dotacje otrzymane"
+    translations:
+      edit: "Edycja: %{language_name}"
+    withdrawals:
+      index: "Wypłaty"
