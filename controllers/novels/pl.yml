@@ -1,1 +1,11 @@
 pl:
+  novels:
+    show:
+      not_published_error: "Ta nowela nie jest jeszcze opublikowana!"
+      not_published_info: "Ta nowela nie jest jeszcze opublikowana!"
+    create:
+      success: "Nowela została pomyślnie utworzona!"
+    update:
+      success: "Nowela została pomyślnie zaktualizowana!"
+    destroy:
+      success: "Nowela została pomyślnie usunięta!"
