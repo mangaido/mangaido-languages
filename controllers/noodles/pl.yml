@@ -1,1 +1,10 @@
 pl:
+  noodles:
+    update:
+      success: "Noodle został pomyślnie zaktualizowany!"
+      error: "Wystąpiły problemy z aktualizacją tego noodle'a! Spróbuj ponownie."
+    create:
+      success: "Noodle został pomyślnie utworzony!"
+      error: "Wystąpiły problemy z utworzeniem noodle'a! Spróbuj ponownie."
+    destroy:
+      success: "Noodle został pomyślnie usunięty!"
