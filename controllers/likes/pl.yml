@@ -1,1 +1,5 @@
 pl:
+  likes:
+    create:
+      error: "Wystąpiły problem z polubieniem tego elementu! Spróbuj ponownie."
+    
