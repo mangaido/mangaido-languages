@@ -1,1 +1,15 @@
 pl:
+  traslations:
+    show:
+      no_acceess_error: "Nie posiadasz dostępu do tego tłumaczenia!"
+    edit:
+      no_acceess_error: "Nie posiadasz uprawnień do edycji tego tłumaczenia!"
+    create:
+      no_acceess_error: "Nie posiadasz uprawnień do utworzenia tego tłumaczenia!"
+      success: "Tłumaczenie zostało pomyślnie utworzone!"
+      error: "Wystąpiły problemy z utworzeniem tego tłumaczenia! Spróbuj ponownie."
+    update:
+      success: "Tłumaczenie zostało pomyślnie zaktualizowane!"
+      error: "Wystąpiły problemy z aktualizacją tego tłumaczenia! Spróbuj ponownie."
+    destroy:
+      success: "Tłumaczenie zostało pomyślnie usunięte!"
