@@ -1,1 +1,16 @@
 pl:
+  artbook_images:
+    index:
+      meta_title: "Najnowsze ilustracje"
+      title: "Najnowsze ilustracje"
+      subtitle: "Pełnia twórczości"
+      toolbar:
+        add_new_artworks:
+          mobile: "Dodaj"
+          desktop: "Dodaj nowe ilustracje"
+        my_artbooks:
+          mobile: "Moje"
+          desktop: "Moje artbook'i"
+        edit_my_artbooks:
+          mobile: "Edytuj"
+          desktop: "Edytuj wszystkie artbook'i"
