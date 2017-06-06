@@ -1,1 +1,4 @@
 pl:
+  messages:
+    create:
+      success: "Wiadomość została pomyślnie wysłana!"
