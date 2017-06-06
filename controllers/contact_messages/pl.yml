@@ -1,1 +1,5 @@
 pl:
+  contact_messgaes:
+    create:
+      success: "Twoja wiadomość została pomyślnie wysłana!"
+      error: "Wystąpiły problemy z wysłaniem Twojej wiadomości! Spróbuj ponownie."
