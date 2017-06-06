@@ -1,1 +1,6 @@
 pl:
+  payments:
+    success:
+      success: "Płatność została pomyślnie wykonana!"
+    cancel:
+      error: "Płatność została anulowana!"
