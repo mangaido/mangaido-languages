@@ -1,6 +1,14 @@
 en:
   novels:
     gallery_item:
+      author: "by @%{user_name}"
+      time_ago: "%{time_ago} ago"
       nr_of_episodes:
         one: "%{count} episode"
         other: "%{count} episodes"
+      likes:
+        one: "%{count} like"
+        other: "%{count} likes"
+      views:
+        one: "%{count} view"
+        other: "%{count} views"

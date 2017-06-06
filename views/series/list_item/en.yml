@@ -1,0 +1,4 @@
+en:
+  series:
+    list_item:
+      time_ago: "%{time_ago} ago"
