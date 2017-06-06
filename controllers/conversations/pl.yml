@@ -1,1 +1,12 @@
 pl:
+  conversations:
+    reply:
+      success: "Odpowiedź została pomyślnie wysłana!"
+    destroy:
+      success: "Konwersacja została pomyślnie przeniesiona do kosza!"
+    restore:
+      success: "Konwersacja została pomyślnie przywrócona!"
+    empty_trash:
+      success: "Kosz został pomyślnie opróżniony!"
+    mark_as_read:
+      success: "Konwersacja została pomyślnie oznaczona jako przeczyatana!"
