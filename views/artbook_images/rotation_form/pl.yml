@@ -1,1 +1,5 @@
 pl:
+  artbook_images:
+    rotation_form:
+      rotate_left_btn: "Obróć w lewo"
+      rotate_right_btn: "Obróć w prawo"
