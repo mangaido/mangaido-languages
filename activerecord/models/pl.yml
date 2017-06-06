@@ -1,1 +1,42 @@
 pl:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Ilustracja"
+        other: "Ilustracje"
+      artbook:
+        one: "Artbook"
+        other: "Artbook'i"
+      chapter_image:
+        one: "Obrazek odcinka"
+        other: "Obrazki odcinka"
+      chapter:
+        one: "Odcinek komiksu"
+        other: "Odcinki komiksu"
+      comment:
+        one: "Komentarz"
+        other: "Komentarze"
+      episode:
+        one: "Epizod noweli"
+        other: "Epizody noweli"
+      noodle:
+        one: "Noodle ramena"
+        other: "Noodle ramena"
+      novel:
+        one: "Nowela"
+        other: "Nowele"
+      series:
+        one: "Komiks"
+        other: "Komiksy"
+      status_update:
+        one: "Post"
+        other: "Posty"
+      translation_balloon:
+        one: "Okienko tłumaczeniowe"
+        other: "Okienka tłumaczeniowe"
+      translation:
+        one: "Tłumaczenie"
+        other: "Tłumaczenia"
+      user:
+        one: "Użytkownik"
+        other: "Użytkownicy"
