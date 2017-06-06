@@ -1,1 +1,5 @@
 pl:
+  account_activations:
+    edit:
+      success: "Konto aktywowane!"
+      error: "Nieprawidłowy link aktywacyjny!"
