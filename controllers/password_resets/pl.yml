@@ -1,1 +1,9 @@
 pl:
+  password_resets:
+    create:
+      success: "Wiadomość email z instrukcjami jak zresetowac hasło została pomyślnie wysłana!"
+      email_not_found_error: "Nie znaleziono takiego adresu email! Spróbuj ponownie."
+    update:
+      success: "Hasło zostało pomyślnie zresetowane!"
+    check_expiration:
+      error: "Link resetowania hasła wygasł! Wygeneruj nowy."
