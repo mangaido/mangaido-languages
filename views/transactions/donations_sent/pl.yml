@@ -1,1 +1,5 @@
 pl:
+  transactions:
+    donations_sent:
+      meta_title: "Wysłane dotacje"
+      title: "Wysłane dotacje:"
