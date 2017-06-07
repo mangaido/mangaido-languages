@@ -1,1 +1,5 @@
 pl:
+  users:
+    comic_authors:
+      meta_title: "Twórcy komiksów"
+      title: "Twórcy komiksów"
