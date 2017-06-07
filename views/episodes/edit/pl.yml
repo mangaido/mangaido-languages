@@ -1,1 +1,17 @@
 pl:
+  episodes:
+    edit:
+      meta_title: "%{title} - edycja epizodu"
+      title: "%{title} - edycja epizodu"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "Cofnij"
+          desktop: "Cofnij do noweli"
+        show_btn:
+          mobile: "Czytaj"
+          desktop: "Czytaj ten epizod"
+        delete_confirm: >
+          Jesteś pewna/y, że chcesz usunąć ten epizod?
+        delete_btn:
+          mobile: "Usuń"
+          desktop: "Usuń ten epizod"
