@@ -1,1 +1,15 @@
 pl:
+  series:
+    edit:
+      meta_title: "%{title} - edycja komiksu"
+      title: "%{title} - edycja komiksu"
+      add_new_btn:
+        mobile: "Dodaj"
+        desktop: "Dodaj nowy odcinek"
+      show_btn:
+        mobile: "Czytaj"
+        desktop: "Czytaj ten komiks"
+      delete_btn:
+        mobile: ""
+        desktop: "Usuń"
+      chapters_title: "Odcinki:"
