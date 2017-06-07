@@ -1,1 +1,9 @@
 pl:
+  password_resets:
+    new_form:
+      email_label: "Adres email"
+      submit_btn: "Zresetuj hasło"
+      login_btn: "Zaloguj się"
+      back_to_login_html: "Cofnij się do panelu logowania? %{login_btn_html}"
+      signup_btn: "Zarejestruj się!"
+      new_user_html: "Nowy użytkownik? %{signup_btn_html}"
