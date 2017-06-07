@@ -1,1 +1,22 @@
 pl:
+  users:
+    form:
+      name_label: "Nazwa użytkownika"
+      email_label: "Adres email"
+      password_label: "Hasło (min. 6 znaków)"
+      password_confirmation_label: "Potwierdź hasło"
+      paypal_email_label: "Adres email konta PayPal"
+      paypal_email_help_btn: "Więcej informacji"
+      paypal_email_help_text_html: >
+        Podaj swój adres PayPal żebyśmy wiedzieli gdzie wysłać Ci pieniądze w przypadku wypłaty żetonów.
+      about_label: "O mnie (Opcjonalnie)"
+      remove_avatar_label: "Usuń ten avatar?"
+      avatar_hint_text: >
+        Dla uzyskania najlepszych rezultatów wyślij obrazek o wymiarach 800x800 pikseli (JPG lub PNG).
+        Jeśli nie ustawiłaś/eś swojego avatara będziemy próbowali załadować avatar z usługi Gravatar.com.
+      cover_label: "Cover"
+      remove_cover_label: "Usunąć tą okładkę?"
+      cover_hint_text: >
+        Dla użyskania najlepszych rezultatów wyślij obrazek o wymiarach 1920x320 pikseli (JPG lub PNG).
+      default_language_label: "Domyślny język (używany obecnie do wysyłania emaili)"
+      submit_btn: "Zapisz"
