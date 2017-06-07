@@ -1,1 +1,14 @@
 pl:
+  conversations:
+    index:
+      meta_title: "Skrzynka odbiorcza"
+      title: "Skrzynka odbiorcza"
+      subtitle: "Daj się poznać, nawiąż kontakt!"
+      new_message_btn: "Rozpocznij konwersację"
+      menu:
+        inbox_btn: "Skrzynka odbiorcza"
+        sent_btn: "Wysłane"
+        trash_btn: "Kosz"
+      empty_trash_btn: "Opróżnij kosz"
+      empty_trash_btn_confirm: "Jesteś pewna/y?"
+      
