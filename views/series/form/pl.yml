@@ -1,1 +1,21 @@
 pl:
+  series:
+    form:
+      title_label: "Tytuł"
+      description_label: "Opis (Opcjonalnie)"
+      is_published_label: "Czy jest opublikowany?"
+      is_published_yes_label: "Opublikowany"
+      is_published_no_label: "W roboczych"
+      is_for_adults_label: "Czy jest bezpieczy dla dzieci?"
+      is_for_adults_yes_label: "Tylko dla dorosłych"
+      is_for_adults_no_label: "Bezpieczny dla dzieci"
+      language_label: "Język"
+      cover_label: "Okładka (Opcjonalnie)"
+      remove_cover_yes_label: "Usuń tę okładkę"
+      remove_cover_no_label: "Zostaw tę okładkę"
+      cover_help_text: "W celu uzyskania najlepszych rezultatów wyślij obrazek o wymiarach 1600x800 pikseli (JPG lub PNG)"
+      wide_cover_label: "Szeroka okładka (Opcjonalnie)"
+      remove_wide_cover_yes_label: "Usuń tę okładkę"
+      remove_wide_cover_no_label: "Zostaw tę okładkę"
+      wide_cover_help_text: "W celu uzyskania najlepszych rezultatów wyślij obrazek o wymiarach 1920x320 pikseli (JPG lub PNG)"
+      submit_btn: "Wyślij"
