@@ -1,1 +1,13 @@
 pl:
+  novels:
+    index:
+      meta_title: "Ostanie nowele"
+      title: "Ostatnie nowele"
+      subtitle: "Pełnia twórczości"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Dodaj"
+          desktop: "Dodaj nową nowelę"
+        my_novels_btn:
+          mobile: "Moje"
+          desktop: "Moje nowele"
