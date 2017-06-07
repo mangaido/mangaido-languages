@@ -1,1 +1,9 @@
 pl:
+  noodles:
+    show:
+      meta_title: "%{title} - Noodle z miski Ramena"
+      info_html: "%{time_ago} temy przez @%{user_link_html}"
+      edit_btn: "Edytuj"
+      delete_btn: "Usuń"
+      delete_btn_confirm: "Jesteś pewna/y?"
+      delete_btn_hint: "Usuń tego noodle'a"
