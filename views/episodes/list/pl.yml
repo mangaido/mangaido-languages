@@ -1,1 +1,16 @@
 pl:
+  episodes:
+    list:
+      title: "%{nr}). %{title}"
+      updated_ago: "Zaktualizowany %{time} temu"
+      views:
+        one: "%{count} wyświetlenie"
+        few: "%{count} wyświetlenia"
+        many: "%{count} wyświetleń"
+        other: "%{count} wyświetlenia"
+      comments:
+        one: "%{count} komentarz"
+        few: "%{count} komentarze"
+        many: "%{count} komentarzy"
+        other: "%{count} komentarza"
+      not_published_message: "Jeszcze nie opublikowany"
