@@ -1,1 +1,6 @@
 pl:
+  users:
+    artbooks:
+      meta_title: "Artbook'i użytkownika: %{user_name}"
+      title: "Artbook'i użytkownika: %{user_name}"
+      edit_artbooks_btn: "Zarządzaj swoimi artbook'ami"
