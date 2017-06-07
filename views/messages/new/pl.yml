@@ -1,1 +1,12 @@
 pl:
+  messages:
+    new:
+      meta_title: "Nowa konwersacja"
+      title: "Nowa konwersacja"
+      subtitle: "Uszczęśliw dzisiaj kogoś!"
+      subject_label: "Temat"
+      body_label: "Wiadomość"
+      recipients_label: "Wybierz odbiorców"
+      recipients_no_results_text: "Brak wyników"
+      recipients_placeholder: "Wybierz użytkowników"
+      submit_btn: "Wyślij"
