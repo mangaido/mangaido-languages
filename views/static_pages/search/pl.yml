@@ -1,1 +1,10 @@
 pl:
+  static_pages:
+    search:
+      meta_title: "Wyniki wyszukiwania"
+      type_names:
+        artbook_image: "Ilustracja"
+        series: "Komiks"
+        user: "Użytkownik"
+        novel: "Nowela"
+        noodle: "Noodle Ramena"
