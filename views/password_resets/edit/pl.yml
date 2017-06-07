@@ -1,1 +1,8 @@
 pl:
+  password_resets:
+    edit:
+      meta_title: "Resetowanie hasła"
+      title: "Resetownie hasła"
+      password_label: "Nowe hasło (min. 6 znaków)"
+      password_confirmation_label: "Potwierdź hasło"
+      submit_btn: "Zmień hasło"
