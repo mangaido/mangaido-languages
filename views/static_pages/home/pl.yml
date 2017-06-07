@@ -1,1 +1,16 @@
 pl:
+  static_pages:
+    home:
+      meta_title: "Strona Główna"
+      translations_section_title: "Ostatnie Tłumaczenia"
+      translations_section_more_btn: "Więcej tłumaczeń"
+      comic_series_section_title: "Komiksy"
+      comic_series_section_more_btn: "Więcej komiksów"
+      comic_series_for_adults_btn: "Komiksy dla dorosłych"
+      translators_section_title: "Najlepsi Tłumacze"
+      translators_section_more_btn: "Wszyscy tłumacze"
+      novels_section_title: "Ostatnie Nowele"
+      novels_section_more_btn: "Więcej nowel"
+      ginza_title: "Ginza (gorące teraz)"
+      shibuya_title: "Shibuya (właśnie dodane)"
+      akihabara_title: "Akihabara (losowe)"
