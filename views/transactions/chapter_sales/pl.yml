@@ -1,1 +1,5 @@
 pl:
+  transactions:
+    chapter_sales:
+      meta_title: "Sprzedane odcinki"
+      title: "Sprzedane odcinki:"
