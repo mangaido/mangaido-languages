@@ -1,1 +1,9 @@
 pl:
+  contact_messages:
+    new:
+      meta_title: "Skontaktuj się z nami!"
+      title: "Skontaktuj się z nami!"
+      name_label: "Imię i nazwisko"
+      email_label: "Adres email"
+      content_label: "Wiadomość"
+      submit_btn: "Wyślij"
