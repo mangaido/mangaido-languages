@@ -1,1 +1,5 @@
 pl:
+  transactions:
+    donations_received:
+      meta_title: "Otrzymane dotacje"
+      title: "Otrzymane dotacje:"
