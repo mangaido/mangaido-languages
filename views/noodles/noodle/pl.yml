@@ -1,1 +1,4 @@
 pl:
+  noodles:
+    noodle:
+      delete_btn_confirm: "Jesteś pewna/y?"
