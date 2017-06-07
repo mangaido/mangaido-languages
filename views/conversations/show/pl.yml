@@ -1,1 +1,10 @@
 pl:
+  conversations:
+    show:
+      meta_title: "%{subject} - konwersacja"
+      title: "%{subject} - konwersacja"
+      chatting_with: "Rozmawiasz z"
+      message:
+        info: "Użytkownik %{sender_name} wysłał wiadomość %{time_ago} temu"
+        textarea_placeholder: "Opowiedź..."
+        submit_btn: "Wyślij wiadomość"
