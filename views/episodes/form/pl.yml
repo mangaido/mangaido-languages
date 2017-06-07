@@ -1,1 +1,10 @@
 pl:
+  episodes:
+    form:
+      title_label: "Tytuł"
+      description_label: "Opis (Opcjonalnie)"
+      text_label: "Treść"
+      is_published_label: "Czy jest opublikowany?"
+      is_published_yes_label: "Opublikowany"
+      is_published_no_label: "W wersji roboczej"
+      submit_btn: "Zapisz"
