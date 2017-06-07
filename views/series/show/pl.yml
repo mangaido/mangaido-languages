@@ -1,1 +1,44 @@
 pl:
+  series:
+    show:
+      meta_title: "%{title} - komiks"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "Moje"
+          desktop: "Moje komiksy"
+        edit_btn:
+          mobile: "Edytuj"
+          desktop: "Edytuj ten komiks"
+      chapters_list:
+        title: "Odcinki:"
+        not_published_message: "Jeszcze nie opublikowany"
+        chapter:
+          free_icon: "Darmowy odcinek"
+          bought_icon: "Zakupiony odcinek"
+          unlocked_icon: "Autoryzowany dostęp"
+          locked_icon: "Musisz najpierw kupić dostęp do tego odcinka aby móc go przeczytać"
+          views:
+            one: "%{count} wyświetlenie"
+            few: "%{count} wyświetlenia"
+            many: "%{count} wyświetleń"
+            other: "%{count} wyświetlenia"
+          translations_btn:
+            one: "%{count} tłumaczenie"
+            few: "%{count} tłumaczenia"
+            many: "%{count} tłumaczeń"
+            other: "%{count} tłumaczenia"
+          edit_btn: "Edytuj"
+      description_title: "Opis:"
+      informations:
+        title: "Informacje:"
+        views:
+          one: "%{count} wyświetlenie"
+          few: "%{count} wyświetlenia"
+          many: "%{count} wyświetleń"
+          other: "%{count} wyświetlenia"
+        for_adults: "Dla dorosłych"
+        safe_for_children: "Bezpieczny dla dzieci"
+        language: "Język: %{language_name}"
+        translations: "Tłumaczenia:"
+        translation_language: "%{language_name} (%{count})"
+      comments_title: "Komentarze:"
