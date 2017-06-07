@@ -1,1 +1,4 @@
 pl:
+  users:
+    follow:
+      follow_btn: "Subskrybuj"
