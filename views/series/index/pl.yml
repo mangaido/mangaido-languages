@@ -1,1 +1,18 @@
 pl:
+  series:
+    index:
+      meta_title: "Komiksy"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Dodaj"
+          desktop: "Dodaj nowy komiks"
+        my_comic_series_btn:
+          mobile: "Moje"
+          desktop: "Moje komiksy"
+        edit_my_comic_series_btn:
+          mobile: "Zarządzaj"
+          desktop: "Zarządzaj komiksami"
+        for_adults_btn:
+          mobile: "+18"
+          desktop: "Dla dorosłych"
+      translations_title: "Tłumaczenia"
