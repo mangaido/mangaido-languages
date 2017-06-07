@@ -1,1 +1,7 @@
 pl:
+  password_resets:
+    new:
+      meta_title: "Resetowanie hasła"
+      title: "Resetowanie hasła"
+      subtitle: "Odzyskaj sowje konto!"
+      
