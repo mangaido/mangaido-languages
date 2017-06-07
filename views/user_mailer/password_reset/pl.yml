@@ -1,1 +1,31 @@
 pl:
+  user_mailer:
+    password_reset:
+      subject: "Resetowanie hasła konta Mangaido"
+      reset_link: "Zresetuj hasło"
+      message: >
+        Resetowanie hasła konta Mangaido
+        Cześć %{user_name},
+        W celu zresetowania hasł wejdź pod ten adres: %{reset_link}
+        Ten link straci ważność za dwie godziny.
+        Jeśli nie poprosiłeś o zresetowanie swojego hasła, proszę, zignoruj tego email'a a Twoje hasło nie ulegnie zmianie.
+      message_html: >
+        <h1>
+          Resetowanie hasła konta Mangaido
+        </h1>
+
+        <p>
+          Cześć %{user_name},
+        </p>
+
+        <p>
+          W celu zresetowania hasła swojego konta kilknij w tej link: %{reset_link_html}.
+        </p>
+
+        <p>
+          Ten link straci ważność za dwie godziny.
+        </p>
+
+        <p>
+          Jeśli nie poprosiłeś o zresetowanie swojego hasła, proszę, zignoruj tego email'a a Twoje hasło nie ulegnie zmianie.
+        </p>
