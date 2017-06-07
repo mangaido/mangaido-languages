@@ -1,1 +1,5 @@
 pl:
+  comments:
+    form:
+      content_placeholder: "Komentarz..."
+      log_in_message: "Zaloguj się aby móc komentować!"
