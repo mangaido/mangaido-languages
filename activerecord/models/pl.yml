@@ -3,40 +3,66 @@ pl:
     models:
       artbook_images:
         one: "Ilustracja"
-        other: "Ilustracje"
+        few: "Ilustracje"
+        many: "Ilustracji"
+        other: "Ilustracji"
       artbook:
         one: "Artbook"
-        other: "Artbook'i"
+        few: "Artbook'i"
+        many: "Artbook'ów"
+        other: "Artbook'a"
       chapter_image:
         one: "Obrazek odcinka"
-        other: "Obrazki odcinka"
+        few: "Obrazki odcinka"
+        many: "Obrazków odcinka"
+        other: "Obrazka odcinka"
       chapter:
         one: "Odcinek komiksu"
-        other: "Odcinki komiksu"
+        few: "Odcinki komiksu"
+        many: "Odcinków komiksu"
+        other: "Odcinka komiksu"
       comment:
         one: "Komentarz"
-        other: "Komentarze"
+        few: "Komentarze"
+        many: "Komentarzy"
+        other: "Komentarza"
       episode:
         one: "Epizod noweli"
-        other: "Epizody noweli"
+        few: "Epizody noweli"
+        many: "Epizodów noweli"
+        other: "Epizodu noweli"
       noodle:
         one: "Noodle ramena"
-        other: "Noodle ramena"
+        few: "Noodle'e ramena"
+        many: "Noodle'i ramena"
+        other: "Noodle'a ramena"
       novel:
         one: "Nowela"
-        other: "Nowele"
+        few: "Nowele"
+        many: "Noweli"
+        other: "Noweli"
       series:
         one: "Komiks"
-        other: "Komiksy"
+        few: "Komiksy"
+        many: "Komiksów"
+        other: "Komiksa"
       status_update:
         one: "Post"
-        other: "Posty"
+        few: "Posty"
+        many: "Postów"
+        other: "Posta"
       translation_balloon:
         one: "Okienko tłumaczeniowe"
-        other: "Okienka tłumaczeniowe"
+        few: "Okienka tłumaczeniowe"
+        many: "Okienek tłumaczeniowych"
+        other: "Okienka tłumaczeniowego"
       translation:
         one: "Tłumaczenie"
+        few: "Tłumaczenia"
+        many: "Tłumaczeń"
         other: "Tłumaczenia"
       user:
         one: "Użytkownik"
-        other: "Użytkownicy"
+        few: "Użytkowników"
+        many: "Użytkowników"
+        other: "Użytkownika"
