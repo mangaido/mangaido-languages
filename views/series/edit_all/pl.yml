@@ -1,1 +1,13 @@
 pl:
+  series:
+    edit_all:
+      meta_title: "Zarządzanie moimi komiksami"
+      title: "Zarządzanie moimi komiksami"
+      toolbar:
+        add_new_series_btn:
+          mobile: "Dodaj"
+          desktop: "Dodaj nowy komiks"
+        show_all_series_btn:
+          mobile: "Pokaż"
+          desktop: "Pokaż moje komiksy"
+      series_list_title: "Moje komiksy:"
