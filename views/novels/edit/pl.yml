@@ -1,1 +1,16 @@
 pl:
+  novels:
+    edit:
+      meta_title: "Edycja noweli"
+      title: "Edycja noweli:"
+      toolbar:
+        add_new_episode_btn:
+          mobile: "Dodaj"
+          desktop: "Dodaj nowy epizod"
+        show_btn:
+          mobile: "Czytaj"
+          desktop: "Czytaj tę nowelę"
+        delete_confirm: "Jesteś pewna/y, że chcesz usunąć tę nowelę?"
+        delete_btn:
+          mobile: "Usuń"
+          desktop: "Usuń tę nowelę"
