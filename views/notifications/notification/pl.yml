@@ -1,1 +1,17 @@
 pl:
+  notifications:
+    notification:
+      ArtbookImage: "ilustrację"
+      Artbook: "artbook"
+      StatusUpdate: "post"
+      Series: "komiks"
+      Chapter: "odcinek"
+      Episode: "epizod"
+      Novel: "nowelę"
+      User: "profil"
+      Noodle: "noodle'a"
+      code:
+        LIKE_html: "Użytkownik %{who} polubił %{what}"
+        COMMENT_html: "Użytkownik %{who} skomentował %{what}"
+        FOLLOW_html: "Użytkownik %{who} zasubskrybował twój profil"
+      time_ago: "%{time_ago} temu"
