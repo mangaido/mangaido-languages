@@ -1,1 +1,25 @@
 pl:
+  novels:
+    show:
+      meta_title: "Nowela"
+      toolbar:
+        my_novels_btn:
+          mobile: "Moje"
+          desktop: "Moje nowele"
+        edit_btn:
+          mobile: "Edytuj"
+          desktop: "Edytuj tę nowelę"
+      by_author:
+        html: "przez %{author}"
+      views_btn:
+        one: "%{count} wyświetlenie"
+        few: "%{count} wyświetlenia"
+        many: "%{count} wyświetleń"
+        other: "%{count} wyświetlenia"
+      comments_btn:
+        one: "%{count} komentarz"
+        few: "%{count} komentare"
+        many: "%{count} komentarzy"
+        other: "%{count} komentarza"
+      episodes_label: "Epizody:"
+      comments_label: "Komentarze:"
