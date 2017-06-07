@@ -1,1 +1,5 @@
 pl:
+  users:
+    translations:
+      meta_title: "Tłumaczenia użytkownika %{user_name}"
+      title: "Tłumaczenia użytkownika %{user_name}:"
