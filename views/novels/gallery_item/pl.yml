@@ -1,1 +1,20 @@
 pl:
+  novels:
+    gallery_item:
+      author: "przez @%{user_name}"
+      time_ago: "%{time_ago} temu"
+      nr_of_episodes:
+        one: "%{count} epizod"
+        few: "%{count} epizody"
+        many: "%{count} epizodów"
+        other: "%{count} epizoda"
+      likes:
+        one: "%{count} polubienie"
+        few: "%{count} polubienia"
+        many: "%{count} polubień"
+        other: "%{count} polubienia"
+      views:
+        one: "%{count} wyświetlenie"
+        few: "%{count} wyświetlenia"
+        many: "%{count} wyświetleń"
+        other: "%{count} wyświetlenia"
