@@ -1,1 +1,4 @@
 pl:
+  users:
+    unfollow:
+      unfollow_btn: "Odsubskrybuj"
