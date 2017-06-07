@@ -1,1 +1,18 @@
 pl:
+  users:
+    dashboard:
+      meta_title: "Panel zarządzania"
+      current_balance_label: "Saldo konta"
+      current_balance_amount_of_coins:
+        one: "%{count} żeton"
+        few: "%{count} żetony"
+        many: "%{count} żetonów"
+        other: "%{count} żetona"
+      buy_coins_btn: "Kup żetony"
+      withdrawals_money_label: "Wypłaty w trakcie"
+      withdrawals_btn: "Wypłaty"
+      chapter_purchases_btn: "Zakupione dostępu do odcinków"
+      donations_sent_btn: "Wysłane dotacje"
+      chapter_sales_btn: "Sprzedane dostępy do odcinków"
+      donations_received_btn: "Otrzymane dotacje"
+      payments_btn: "Płatności"
