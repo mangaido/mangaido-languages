@@ -1,1 +1,10 @@
 pl:
+  sessions:
+    new_form:
+      email_label: "Adres email"
+      password_label: "Hasło"
+      forgot_password_link: "(zapomniałam/em hasła)"
+      remember_me_checkbox: "Zapamiętaj mnie na tym urządzeniu"
+      log_in_btn: "Zaloguj się"
+      sign_up_link_html: "Zarejestruj konto!"
+      sign_up_text_html: "Nowy użytkownik? %{sign_up_link_html}"
