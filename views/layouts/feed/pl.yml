@@ -1,1 +1,14 @@
 pl:
+  layouts:
+    feed:
+      edit_profile_btn: "Edytuj profil"
+      artbooks_btn: "Moje artbook'i"
+      artbooks_edit_link: "Edytuj"
+      comic_series_btn: "Moje komiksy"
+      comic_series_edit_link: "Edytuj"
+      translations_btn: "Moje tłumaczenia"
+      novels_btn: "Moje nowele"
+      novels_edit_link: "Edytuj"
+      following_btn: "Subskrybuje"
+      followers_btn: "Subskrybują"
+      mailbox_btn: "Skrzynka odbiorcza"
