@@ -1,1 +1,8 @@
 pl:
+  chapters:
+    translation_list:
+      translation_link_hint: "Czytaj"
+      author_link_hint: "Pokaż autora"
+      translation_edit_btn_hint: "Edytuj"
+      buy_link_hint: "Kup odcinek"
+      no_translations_msg: "Nie ma jeszcze żadnych tłumaczeń do tego odcinka."
