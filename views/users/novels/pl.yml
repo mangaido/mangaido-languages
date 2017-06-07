@@ -1,1 +1,6 @@
 pl:
+  users:
+    novels:
+      meta_title: "Nowele użytkownika %{user_name}"
+      title: "Nowele użytkownika %{user_name}"
+      edit_novels_btn: "Zarządzaj moimi nowelami"
