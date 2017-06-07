@@ -1,1 +1,4 @@
 pl:
+  static_pages:
+    publish:
+      meta_title: "Opublikuj swoje prace"
