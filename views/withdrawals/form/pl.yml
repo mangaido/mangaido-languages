@@ -1,1 +1,10 @@
 pl:
+  withdrawals:
+    form:
+      amount_of_coins_label: "Ile żetonów chciałabyś/łbyś wypłacić:"
+      summary_loading_text: "Ładowanie podsumowania..."
+      summary_text: >
+        <b>%amount_of_coins%</b> żetonów = %coins_to_money%USD<br />
+        Opłata od wypłaty: %percent_fee%%<br />
+        Zostanie ci wypłacone <b>%amount_of_money%USD<b/>
+      withdraw_btn: "Wypłać żetony!"
