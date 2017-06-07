@@ -1,1 +1,14 @@
 pl:
+  novels:
+    form:
+      title_label: "Tytuł"
+      description_label: "Opis (Opcjonanie)"
+      is_published_label: "Czy jest opublikowana?"
+      is_published_yes_label: "Opublikowana"
+      is_published_no_label: "W roboczych"
+      cover_label: "Okładka (Opcjonalnie)"
+      remove_cover_yes_label: "Usuń tę okładkę"
+      remove_cover_no_label: "Zostaw okładkę"
+      cover_hint_text: >
+        W celu uzyskania najlepszych efektów wyślij obrazek o wymiarach %{width}x%{height}px (JPG lub PNG). Plik nie powinien być większy niż %{max_size_in_mb}MB
+      submit_btn: "Wyślij"
