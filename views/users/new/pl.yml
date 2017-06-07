@@ -1,1 +1,6 @@
 pl:
+  users:
+    new:
+      meta_title: "Zarejestruj konto!"
+      title: "Zarejestruj konto!"
+      subtitle: "I zanurz się w świecie Mangi"
