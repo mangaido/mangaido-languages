@@ -1,1 +1,16 @@
 pl:
+  static_pages:
+    homepage:
+      publish:
+        artworks:
+          upload_btn: "Wyślij ilustracje"
+          title: "Opublikuj swój artbook"
+          description: >
+            Opublikuj swoje ilustracje, które nie są cześcią historii.
+            Możesz organizowac swoje ilustracje w artbooki (galerie).
+        comic_series:
+          create_btn: "Stwórz komiks"
+          title: "Opublikuj swój komiks"
+          description: >
+            Opublikuj swój komiks na Mangaido!
+            Twórz historię, kreuj bohaterów, wypuszczaj kolejne odcinki i utrzymuj swoich czytelników w napięciu i oczekiwaniu na dalszy rozwój fabuły.
