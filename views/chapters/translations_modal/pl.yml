@@ -1,1 +1,8 @@
 pl:
+  chapters:
+    translations_modal:
+      close_btn: "Zamknij"
+      title: "Tłumaczenia"
+      close_translation_btn: "Wyłącz tłumaczenie"
+      new_form_title: "Dodaj nowe tłumaczenie"
+      my_translations_btn: "Moje tłumaczenia"
