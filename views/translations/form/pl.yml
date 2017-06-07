@@ -1,1 +1,6 @@
 pl:
+  translations:
+    form:
+      language_label: "Język"
+      is_published_label: "Czy jest opublikowane?"
+      submit_btn: "Zapisz"
