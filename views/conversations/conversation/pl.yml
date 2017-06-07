@@ -1,1 +1,8 @@
 pl:
+  conversations:
+    conversation:
+      restore_btn: "Wyjmij z kosza"
+      move_to_trash_btn: "Przenieś do kosza"
+      move_to_trash_btn_confirm: "Jesteś pewna/y?"
+      mark_as_read_btn: "Oznacz jako przeczytane"
+      sent_ago: "Wysłane %{time} temu"
