@@ -1,1 +1,6 @@
 pl:
+  users:
+    series:
+      meta_title: "Komiksy użytkownika %{user_name}"
+      title: "Komiksy użytkownika %{user_name}"
+      edit_btn: "Zarządzaj moimi komiksami"
