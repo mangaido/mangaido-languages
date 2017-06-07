@@ -1,1 +1,23 @@
 pl:
+  withdrawals:
+    index:
+      meta_title: "Wypłaty"
+      current_balance_label: "Saldo:"
+      current_balance_coins:
+        one: "%{count} żeton"
+        few: "%{count} żetony"
+        many: "%{count} żetonów"
+        other: "%{count} żetona"
+      money_to_be_paid_label: "Wypłaty w trakcie:"
+      form_label: "Formularz wypłaty:"
+      cant_withdraw_msg: "Żeby wypłacić żetony musisz wypłacic co najmniej %{min_coins} żetonów"
+      list_label: "Wypłaty:"
+      list:
+        id: "ID"
+        amount_of_coins: "Ilość żetonów"
+        amount_of_money: "Ilość pieniędzy"
+        created_at: "Data utworzenia"
+        is_paid: "Zakończona"
+        is_paid_yes: "Tak"
+        is_paid_no: "Nie"
+        paid_at: "Data wypłaty"
