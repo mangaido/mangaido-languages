@@ -1,1 +1,5 @@
 pl:
+  novels:
+    new:
+      meta_title: "Dodaj nową nowelę"
+      title: "Dodaj nową nowelę"
