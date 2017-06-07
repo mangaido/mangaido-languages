@@ -4,21 +4,21 @@ en:
       about_mangaido:
         title: "About Mangaido"
         text: >
-          Lets know each other! Check out this quick introduction video of Karolina, Bartek and Michał.
+          Let's get to know each other! Check out this quick introduction video of Karolina, Bartek, and Michał.
         action_btn: "YouTube video"
       translate_mangaido:
         title: "Mangaido in your language"
         text: >
-          If you want to help our community reach people from your country you can now easly become translator by translating some lines of text to your language.
+          If you want to help the community and reach people from your country, you can now easily translate Mangaido to your language.
         action_btn: "How to translate"
       publish_series:
         title: "Publish your comics"
         text: >
-          People here speak hundreds of languages from all over the World (for real!). Inspire readers to translate your series, so that other parts of the globe can enjoy it too.
+          People here speak hundreds of languages from all over the world (for real!). Inspire readers to translate your series, so that other parts of the globe can enjoy it too.
         action_btn: "Start publishing"
         side_btn: "Artist: %{user_name}"
       publish_artworks:
-        title: "Let your creations see the World"
+        title: "Let your creations see the world"
         text: >
           Together we built this place to make uploading and sharing artworks between our friends as easy and quick as possible. Discuss the things you like and dive into the world of manga.
         action_btn: "Upload all the things!"
