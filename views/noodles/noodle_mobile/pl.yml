@@ -1,1 +1,5 @@
 pl:
+  noodles:
+    noodle_mobile:
+      source_html: "Źródło: %{link_html}"
+      time_ago: "%{time_ago} temu"
