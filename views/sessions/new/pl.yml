@@ -1,1 +1,6 @@
 pl:
+  sessions:
+    new:
+      meta_title: "Zaloguj się"
+      title: "Zaloguj się"
+      subtitle: "I zanurkuj do świata Mangi"
