@@ -1,1 +1,21 @@
 pl:
+  layouts:
+    footer:
+      instagram_btn: "@mangaidocom"
+      facebook_btn: "Mangaido na Facebook'u"
+      snapchat_btn: "@mangaido"
+      twitter_btn: "@mangaido"
+      mangaido_logo: "Mangaido"
+      youtube_btn: "Mangaido na YouTube"
+      tumblr_btn: "Mangaido na Tumblr"
+      crew_title: "Ekipa:"
+      crew:
+        official_profile: "Oficjalny profil"
+        karolina: "Karolina"
+        bartek: "Bartek"
+        michal: "Michał"
+      menu:
+        earn_money_with_us_btn: "Zarabiaj z nami!"
+        terms_of_service_btn: "Zasady świadczenia usług"
+        privacy_btn: "Polityka prywatności"
+        contact_us_btn: "Skontaktuj się z nami!"
