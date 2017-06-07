@@ -1,1 +1,6 @@
 pl:
+  notifications:
+    index:
+      meta_title: "Powiadomienia"
+      title: "Powiadomienia:"
+      mark_all_as_read_btn: "Oznacz wszystkie jako przeczytane"
