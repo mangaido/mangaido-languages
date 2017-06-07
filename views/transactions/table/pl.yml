@@ -1,1 +1,6 @@
 pl:
+  transactions:
+    table:
+      link_label: "Link"
+      amount_of_coins_label: "Ilość żetonów"
+      date_label: "Data"
