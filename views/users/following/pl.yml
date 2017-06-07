@@ -1,1 +1,5 @@
 pl:
+  users:
+    following:
+      meta_title: "Użytkownicy, którcyh subskrybuje %{user_name}"
+      title: "Użytkownicy, którcyh subskrybuje %{user_name}"
