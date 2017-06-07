@@ -1,1 +1,7 @@
 pl:
+  status_updates:
+    feed:
+      meta_title: "Posty"
+      menu:
+        feed_btn: "Wszystkie"
+        feed_following_btn: "Posty osób, które subskrybuje"
