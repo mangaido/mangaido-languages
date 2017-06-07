@@ -1,1 +1,25 @@
 pl:
+  shared:
+    carousel:
+      about_mangaido:
+        title: "O Mangaido"
+        text: >
+          Poznajmy się! Karolina, Bartek i Michał zaprszają do obejrzenia krótkiego wideo informacyjnego.
+        action_btn: "Zobacz na YouTube"
+      translate_mangaido:
+        title: "Mangaido w twoim języku"
+        text: >
+          Jeśli chcesz wesprzeć społeczność Mangaido i pomóc dotrzeć do ludzi z twojego kraju, możesz łatwo przetłumaczyć Mangaido na swój język.
+        action_btn: "Jak tłumaczyć"
+      publish_series:
+        title: "Opublikuj swój komiks"
+        text: >
+          Ludzie tutaj mówią setką języków z całego świata (na prawdę!). Zainspiruj swoich czytelników do przetłumaczenia twojego komiksu na inne języki, tak żeby ludzie z całego świata mogli się nim cieszyć.
+        action_btn: "Opublikuj komiks"
+        side_btn: "Twórca: %{user_name}"
+      publish_artworks:
+        title: "Niech świat zobaczy twoją twórczość"
+        text: >
+          Wspólnie budujemy to miejsce, tak żeby publikowanie i dzielenie się ilustracjami ze swoimi przyjaciółmi było jak najprostsze i najszybsze jak to tylko możliwe. Dyskutuj na tematy, które cię interesują i zagłęb się w świecie Mangi.
+        action_btn: "Opublikuj swoje ilustracje!"
+        side_btn: "Twórca: %{user_name}"
