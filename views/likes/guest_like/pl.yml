@@ -1,1 +1,9 @@
 pl:
+  likes:
+    guest_like:
+      tooltip: "Polub!"
+      likes:
+        one: "polubienie"
+        few: "polubienia"
+        many: "polubień"
+        other: "polubienia"
