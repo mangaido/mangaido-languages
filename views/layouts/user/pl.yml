@@ -68,6 +68,6 @@ pl:
           other: "Subskrybuje %{count} osoby"
         followers:
           one: "%{count} subskrybent"
-          few: "%{count} bubsrybentów"
+          few: "%{count} subskrybentów"
           many: "%{count} subskrybentów"
           other: "%{count} subskrybenta"
