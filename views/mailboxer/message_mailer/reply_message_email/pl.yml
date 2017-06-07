@@ -1,1 +1,32 @@
 pl:
+  mailboxer:
+    message_mailer:
+      reply_message_email:
+        conversation_link: "Odpisz na Mangaido"
+        message: >
+          %{subject}
+
+          Cześć %{user_name}!
+          Użytkownik %{sender_name} odpisał:
+
+          %{text}
+
+          Odpisz na Mangaido:
+          %{conversation_link}
+        message_html: >
+          <h1>
+            %{subject}
+          </h1>
+
+          <p>
+            Cześć %{user_name}!<br />
+            Użytkownik %{sender_name} odpisał:
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{conversation_link_html}
+          </p>
