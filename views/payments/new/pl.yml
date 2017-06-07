@@ -1,1 +1,7 @@
 pl:
+  payments:
+    new:
+      meta_title: "Zakup żetonów"
+      coin_packages_title: "Wybierz paczkę żetonów:"
+      calculation_label: "Szybka kalkulacja:"
+      buy_btn: "Kup"
