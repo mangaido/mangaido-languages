@@ -1,1 +1,5 @@
 pl:
+  users:
+    followers:
+      meta_title: "Subskrybenci użytkownika: %{user_name}"
+      title: "Subskrybenci użytkownika: %{user_name}"
