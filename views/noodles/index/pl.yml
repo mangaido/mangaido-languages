@@ -1,1 +1,15 @@
 pl:
+  noodles:
+    index:
+      meta_title: "Miska Ramena"
+      logo_img_alt: "Logo Ramena"
+      title: "Miska Ramena"
+      subtitle_html: >
+        Sprawdź nasze<br />
+        najlepsze noodle!
+      new_noodle_btn:
+        mobile: "Dodaj"
+        desktop: "Dodaj noodle'a!"
+      my_noodles_btn:
+        mobile: "Moje"
+        desktop: "Moje noodle"
