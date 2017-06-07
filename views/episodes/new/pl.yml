@@ -1,1 +1,5 @@
 pl:
+  episodes:
+    new:
+      meta_title: "Dodaj nowy epizod"
+      title: "Dodaj nowy epizod"
