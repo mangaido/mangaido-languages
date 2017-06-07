@@ -1,1 +1,9 @@
 pl:
+  noodles:
+    noodle_desktop:
+      time_ago: "%{time_ago} temu,"
+      comments_count:
+        one: "%{count} komentarz"
+        few: "%{count} komentarze"
+        many: "%{count} komentarzy"
+        other: "%{count} komentarza"
