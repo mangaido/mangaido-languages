@@ -1,1 +1,11 @@
 pl:
+  noodles:
+    my_index:
+      meta_title: "Moje noodle"
+      title: "Moje noodle"
+      add_noodle_btn:
+        mobile: "Dodaj"
+        desktop: "Dodaj noodle'a"
+      my_noodles_btn:
+        mobile: "Moje"
+        desktop: "Moje noodle"
