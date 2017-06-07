@@ -1,1 +1,12 @@
 pl:
+  payments:
+    index:
+      meta_title: "Płatności"
+      payments_label: "Płatności:"
+      table:
+        amount_of_coins: "Ilość żetonów"
+        amount_of_money: "Ilość pieniędzy"
+        completed: "Czy jest zakończona?"
+        completed_yes: "Tak"
+        completed_no: "Nie"
+        date: "Data"
