@@ -1,1 +1,10 @@
 pl:
+  shared:
+    login_register_modal:
+      form_title_hint: "Formularz logowania"
+      close_btn_hint: "Zamknij"
+      log_in_btn: "Zaloguj się"
+      register_btn: "Nowy użytkownik? Zarejestruj konto :)"
+      log_in_form_title: "Zaloguj się"
+      register_form_title: "Zarejestruj konto"
+      close_btn: "Zamknij"
