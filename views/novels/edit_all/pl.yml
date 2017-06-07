@@ -1,1 +1,12 @@
 pl:
+  novels:
+    edit_all:
+      meta_title: "Zarządzanie moimi nowelami"
+      title: "Zarządzanie moimi nowelami"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Dodaj"
+          desktop: "Dodaj nową nowelę"
+        my_novels_btn:
+          mobile: "Moje"
+          desktop: "Moje nowele"
