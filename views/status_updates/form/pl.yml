@@ -1,1 +1,5 @@
 pl:
+  status_updates:
+    form:
+      content_placeholder: "Co ci chodzi po głowie?..."
+      image_hint: "Dodaj obrazek (opcjonalnie) Obrazek nie powinien być większy niż %{max_size_in_mb}MB."
