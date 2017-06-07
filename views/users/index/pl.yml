@@ -1,1 +1,4 @@
 pl:
+  users:
+    index:
+      meta_title: "Użytkownicy"
