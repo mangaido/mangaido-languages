@@ -1,1 +1,5 @@
 pl:
+  translations:
+    list:
+      edit_btn: "Edytuj"
+      no_translations_msg: "Nie znaleziono tłumaczeń."
