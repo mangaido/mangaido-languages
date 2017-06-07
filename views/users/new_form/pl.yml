@@ -1,1 +1,14 @@
 pl:
+  users:
+    new_form:
+      name_label: "Wyświetlana nazwa użytkownika"
+      email_label: "Adres email"
+      password_label: "Hasło (min. 6 znaków)"
+      password_confirmation_label: "Potwierdź hasło"
+      register_btn: "Utwórz konto"
+      log_in_link: "Zaloguj się!"
+      log_in_text_html: "Masz już konto? %{log_in_link_html}"
+      terms_of_service_link: "Zasadami świadczenia usług"
+      privacy_policy_link: "Polityką prywatności"
+      disclaimer_html: >
+        Poprzez zarejestrowanie się, zgadzasz się z naszymi %{terms_of_service_link_html} i %{privacy_policy_link_html}.
