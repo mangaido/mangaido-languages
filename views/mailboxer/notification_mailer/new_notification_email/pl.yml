@@ -1,1 +1,26 @@
 pl:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "Zobacz więcej!"
+        message: >
+          Nowe powiadomienie!
+          Cześć %{user_name},
+          %{text}
+          Zobacz więcej: %{notification_link}
+        message_html: >
+          <h1>
+            Nowe powiadomienie!
+          </h1>
+
+          <p>
+            Cześć %{user_name},
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{notification_link_html}
+          </p>
