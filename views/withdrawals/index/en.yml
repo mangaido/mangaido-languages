@@ -14,8 +14,8 @@ en:
         id: "ID"
         amount_of_coins: "Number of coins"
         amount_of_money: "Amount of money"
-        created_at: Created at
-        is_paid: Completed?
+        created_at: "Created at"
+        is_paid: "Completed?"
         is_paid_yes: "Yes"
         is_paid_no: "No"
-        paid_at: Paid at
+        paid_at: "Paid at"
