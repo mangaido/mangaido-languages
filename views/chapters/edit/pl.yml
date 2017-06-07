@@ -1,1 +1,17 @@
 pl:
+  chapters:
+    edit:
+      meta_title: "%{series_title} - %{chapter_title} - Edycja odcinka"
+      title: "Edycja odcinka: %{title}"
+      toolbar:
+        add_new_images_btn:
+          desktop: "Dodaj nowe obrazki"
+          mobile: "Dodaj"
+        read_chapter_btn:
+          desktop: "Czytaj odcinek"
+          mobile: "Czytaj"
+        delete_btn:
+          mobile: ""
+          desktop: "Usuń"
+        delete_btn_confir: "Jesteś pewna/y?"
+      chapter_images_title: "Obrazki odcinka:"
