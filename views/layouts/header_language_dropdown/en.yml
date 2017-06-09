@@ -2,3 +2,4 @@ en:
   layouts:
     header_language_dropdown:
       languages_btn: "Languages"
+      translate_mangaido_btn: "Other languages"
