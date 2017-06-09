@@ -184,3 +184,41 @@ In some cases it's necessary to have HTML tags inside translation texts to forma
 - `<br />` - Break line. Text after this tag will start from new line
 
 If this is possible try not to edit HTML tags and leave them as they are, just translate the text.
+
+---
+
+## State of translation
+
+Translation status as of 09 June 2017.
+
+### Words count
+
+*Counting measured for English language version*
+
+All files:
+- word count (more than 2 characters): 8814 words
+- word count (more than 3 characters): 7517 words
+
+Big texts:
+- Privacy Policy:
+  - word count (more than 2 characters): 897 words
+  - word count (more than 3 characters): 745 words
+- Terms of Service:
+  - word count (more than 2 characters): 3381 words
+  - word count (more than 3 characters): 2780 words
+  
+**All files without big texts:**
+- word count (more than 2 characters): 8814 - 897 - 3381 = 4536 words
+- word count (more than 3 characters): 7517 - 745 - 2780 = **3992 words**
+
+Used command:
+`I18n::WordCount.word_count(%path_to_translation%, %number_of_chars%)`
+
+### Number of files
+
+*Counted only English files*
+
+171 `en.yml` files
+
+Used command:
+`find . -iname en.yml | wc -l`
