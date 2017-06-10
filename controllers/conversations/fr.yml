@@ -1,1 +1,12 @@
 fr:
+  conversations:
+    reply:
+      success: "Réponse envoyée"
+    destroy:
+      success: "La conversation a été jetée à la poubelle."
+    restore:
+      success: "La conversation a été restaurée."
+    empty_trash:
+      success: "La poubelle est vide!"
+    mark_as_read:
+      success: "La conversation a été marquée comme lue."
