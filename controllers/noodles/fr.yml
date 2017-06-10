@@ -1,1 +1,10 @@
 fr:
+  noodles:
+    update:
+      success: "Le Noodle a été correctement mis à jour"
+      error: "Un problème est survenu dans la mise à jour de ce noodle! Essayes de nouveau."
+    create:
+      success: "Noodle créé!"
+      error: "Noodle pas sauvegardé. :("
+    destroy:
+      success: "Noodle effacé!"
