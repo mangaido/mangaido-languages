@@ -1,1 +1,6 @@
 fr:
+  users:
+    create:
+      not_activated_info: "Veuillez vérifier votre email afin d'activer votre compte."
+    update:
+      success: "Profil mis à jour."
