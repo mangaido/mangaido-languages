@@ -10,10 +10,16 @@ en:
       tumblr_btn: "Mangaido on Tumblr"
       crew_title: "Crew:"
       crew:
-        official_profile: "Official profile"
-        karolina: "Karolina"
-        bartek: "Bartek"
-        michal: "Michał"
+        mangaido:
+          position: "Official profile"
+        karolina:
+          position: "Co-founder"
+        bartek:
+          position: "Co-founder"
+        michal:
+          position: "Co-founder"
+        choux:
+          position: "Ambassador of French-speaking Users"
       menu:
         earn_money_with_us_btn: "Earn money with us!"
         terms_of_service_btn: "Terms of service"

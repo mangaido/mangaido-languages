@@ -17,6 +17,7 @@ If only you know some other language than English we would be very grateful if y
 We're currently supporting:
 
 - English (en)
+- Français (fr)
 - 日本語 (ja)
 - 简体中文 (zh-CN)
 - 中國傳統的 (zh-TW)
@@ -150,6 +151,26 @@ pl:
         many: "%{count} polubień"
         other: "%{count} polubienia"
 ```
+
+### Pluralization rules
+
+**English:**
+- 1 -> "one" key
+- any other numbers -> "other" key
+
+**French:**
+- 0, 1 -> "one" key
+- any other numbers -> "other" key
+
+**Japanese, Chinese, Korean:**
+- use only "other" key
+
+**Polish:** (hard to explain - write 4 forms based on this simple examples)
+- 1 -> "one" key
+- 2, 3, 4 -> "few" key
+- 0, 5, 6, 7 -> "many" key
+- 3.5, 2.7, 0.16 (all the fractions) -> "other" key
+
 ### HTML tags
 
 Sometimes you will find something like this:
