@@ -1,1 +1,11 @@
 fr:
+  chapters:
+    show:
+      no_access_error: "Tu n'as pas accès à ce chapitre!"
+    create:
+      success: "Le chapitre a été correctement créé!"
+    update:
+      success: "Le chapitre a été correctement mis à jour."
+      erorr: "Il y a eu des problèmes avec la mise à jour de ce chapitre! Essayer de nouveau."
+    destroy:
+      success: "Le chapitre a été correctement effacé."
