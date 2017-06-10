@@ -1,1 +1,67 @@
 fr:
+  breadcrumbs:
+    root: "Acceuil"
+    artbook_images:
+      index: "Dessins"
+      edit: "Modifier: %{title}"
+      new: "Nouveau dessin"
+    artbooks:
+      edit_all: "Modifier le classeur"
+      edit: "Modifier: %{title}"
+      new: "Ajouter un nouveau classeur"
+      show: "Classeur %{title}"
+    chapter_images:
+      new: "Ajouter des images au chapitre"
+    chapters:
+      edit: "Modifier le chapitre"
+      new: "Ajouter un nouveau chapitre"
+    conversations:
+      index: "Boite mail"
+      show: "Conversation"
+    episodes:
+      new: "Ajouter un nouveau chapitre"
+      edit: "Modifier le chapitre"
+    messages:
+      new: "Nouvelle conversation"
+    noodles:
+      edit: "Modifier le noodle"
+      index: "Bol de ramen"
+      my_index: "Mes noodles"
+      new: "Ajouter un nouveau noodle"
+    novels:
+      index: "Fictions"
+      new: "Ajouter une nouvelle fiction"
+      edit: "Modifier la fiction"
+      edit_all: "Modifier mes fictions"
+      user_novels: "Ficitions de l'artiste"
+    users:
+      artbooks: "Dessins de l'utilisateur"
+      authors: "Auteurs"
+      dashboard: "Tableau de bord"
+      edit: "Modifier le profil de %{user_name}"
+      index: "Utilisateurs"
+      series: "Mangas de l'utilisateur"
+    payments:
+      index: "Paiements"
+      new: "Acheter des pièces"
+    series:
+      edit: "Modifier les mangas"
+      edit_all: "Modifier tous mes mangas"
+      for_adults: "Pour les adultes"
+      index: "Mangas"
+      new: "Ajouter un nouveau manga"
+    static_pages:
+      earn_money_with_us: "Gagnez de l'argent avec nous!"
+      privacy_policy: "Politique de confidentialité"
+      search: "Résultats de la recherche"
+      terms_of_service: "Condition d'utilisation"
+      translate_mangaido_to_your_language: "Traduisez mangaido dans votre langue!"
+    transactions:
+      chapter_purchases: "Achat de chapitre"
+      chapter_sales: "Chapitre vendu"
+      donations_sent: "Donation donnée"
+      donations_received: "Donation reçue"
+    translations:
+      edit: "Modifier: la traduction en %{language_name}"
+    withdrawals:
+      index: "Retraits"
