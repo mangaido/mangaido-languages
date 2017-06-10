@@ -6,6 +6,6 @@ fr:
       success: "Le chapitre a été correctement créé!"
     update:
       success: "Le chapitre a été correctement mis à jour."
-      erorr: "Il y a eu des problèmes avec la mise à jour de ce chapitre! Essayer de nouveau."
+      erorr: "Un problème est survenu dans la mise à jour de ce chapitre! Essayes de nouveau."
     destroy:
       success: "Le chapitre a été correctement effacé."
