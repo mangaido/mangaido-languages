@@ -1,1 +1,42 @@
 fr:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Dessin"
+        other: "Dessins"
+      artbook:
+        one: "Classeur à dessins"
+        other: "Classeurs à dessins"
+      chapter_image:
+        one: "Image du chapitre"
+        other: "Images du chapitre"
+      chapter:
+        one: "Chapitre"
+        other: "Chapitres"
+      comment:
+        one: "Commentaire"
+        other: "Commentaires"
+      episode:
+        one: "Chapitre de fiction"
+        other: "Chapitres de fiction"
+      noodle:
+        one: "Ramen de noodle"
+        other: "Ramen de noodles"
+      novel:
+        one: "Fiction"
+        other: "Fictions"
+      series:
+        one: "Manga"
+        other: "Mangas"
+      status_update:
+        one: "Publication"
+        other: "Publications"
+      translation_balloon:
+        one: "Bulle de traduction"
+        other: "Bulles de traduction"
+      translation:
+        one: "Traduction"
+        other: "Traductions"
+      user:
+        one: "Utilisateur"
+        other: "Utilisateurs"
