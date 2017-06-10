@@ -1,1 +1,36 @@
 fr:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Validation échouée: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Incapacité de supprimer la donnée à cause d'une %{record} dépendante déjà existante"
+          has_many: "Incapacité de supprimer les données à cause d'une %{record} dépendante déjà existante"
+      models:
+        artbook_image:
+          image_too_big: "L'image de l'artbook doit être inférieur à %{size}"
+        chapter:
+          image_too_big: "L'image du chapitre doit être inférieur à %{size}"
+          too_many_authorized_users: "Ce chapitre a déjà trop d'utilisateurs autorisés"
+        chapter_image:
+          image_too_big: "L'image du chapitre doit être inférieur à %{size}"
+        noodle:
+          image_too_big: "L'image du noodle doit être inférieur à %{size}"
+        novel:
+          image_too_big: "L'image de la fiction doit être inférieur à %{size}"
+        password_reset:
+          password:
+            cant_be_empty: "Le mot de passe ne peut pas être vide"
+        series:
+          cover_too_big: "La couverture de la série doit être inférieur à %{size}"
+          wide_cover_too_big: "La couverture large de la série doit être inférieur à %{size}"
+        status_update:
+          image_too_big: "L'image de la publication doit être inférieur à %{size}"
+        transaction:
+          general_error: "Il y a eu un problème avec la traduction. Essayer de nouveau."
+          not_enough_coins: "Pas assez de pièces."
+        user:
+          avatar_too_big: "L'avatar doit être inférieur à %{size}"
+          cover_too_big: "La couverture doit être inférieur à %{size}"
+        withdrawal:
+          not_enough_coins: "Pas assez de pièces!"
