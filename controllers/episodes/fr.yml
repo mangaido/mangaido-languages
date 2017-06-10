@@ -1,1 +1,12 @@
 fr:
+  episodes:
+    show:
+      episode_not_published_error: "Ce chapitre n'est pas encore publié."
+      novel_not_published_error: "La fiction n'est pas encore publiée."
+      episode_not_published_info: "La fiction n'est pas encore publiée."
+    create:
+      success: "Le chapitre a été correctement créé!"
+    update:
+      success: "Le chapitre a été correctement mis à jour."
+    destroy:
+      success: "Le chapitre a été correctement effacé!"
