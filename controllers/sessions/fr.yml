@@ -1,1 +1,5 @@
 fr:
+  sessions:
+    create:
+      not_activated_warning: "Le compte n'est pas activé. Vérifies tes emails pour le lien d'activation."
+      error: "Mot de passe/Email invalides."

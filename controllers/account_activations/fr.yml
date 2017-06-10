@@ -1,1 +1,5 @@
 fr:
+  account_activations:
+    edit:
+      success: "Compte activé!"
+      error: "Le lien d'activation n'est pas validé"

@@ -1,1 +1,6 @@
 fr:
+  status_updates:
+    create:
+      success: "La mise à jour de statut a été créé!"
+    destroy:
+      success: "La mise à jour de statut a été effacée."

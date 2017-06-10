@@ -1,1 +1,9 @@
 fr:
+  password_resets:
+    create:
+      success: "Un email a été envoyé avec les instructions pour réinitialiser le mot de passe."
+      email_not_found_error: "L'adresse email n'a pas été trouvé."
+    update:
+      success: "Le mot de passe a été réinitialisé."
+    check_expiration:
+      error: "La réinitialisation du mot de passe a expirée."
