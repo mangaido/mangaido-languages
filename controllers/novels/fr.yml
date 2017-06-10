@@ -1,1 +1,11 @@
 fr:
+  novels:
+    show:
+      not_published_error: "Cette fiction n'est pas encore publiée."
+      not_published_info: "Cette fiction n'est pas encore publiée."
+    create:
+      success: "La fiction a été correctement créée!"
+    update:
+      success: "La fiction a été correctement mise à jour."
+    destroy:
+      success: "La fiction a été correctement effacée!"
