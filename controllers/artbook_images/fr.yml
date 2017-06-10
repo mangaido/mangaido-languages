@@ -1,6 +1,6 @@
 fr:
   artbook_images:
     update:
-      success: "L'image du classeur a été correctement créée."
+      success: "L'image a été correctement mise en ligne."
     destroy:
       success: "L'image a été correctement effacée."
