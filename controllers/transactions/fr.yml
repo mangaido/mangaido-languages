@@ -1,1 +1,8 @@
 fr:
+  transactions:
+    new:
+      error: "Tu ne peux pas créer cette transaction!"
+    create:
+      no_enough_coins_error: "Tu dois acheter des pièces pour compléter cette transaction."
+      success: "Transaction réalisée avec succès!"
+      error: "Oh oh! Quelque chose c'est mal passé!"
