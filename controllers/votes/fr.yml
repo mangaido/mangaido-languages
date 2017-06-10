@@ -1,1 +1,4 @@
 fr:
+  votes:
+    create:
+      error: "Impossible de voter pour l'élément :("
