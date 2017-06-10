@@ -1,1 +1,4 @@
 fr:
+  messages:
+    create:
+      success: "Le message a été envoyé!"
