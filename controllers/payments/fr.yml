@@ -1,1 +1,6 @@
 fr:
+  payments:
+    success:
+      success: "Le paiement a été confirmé!"
+    cancel:
+      error: "Le paiement a été annulé."
