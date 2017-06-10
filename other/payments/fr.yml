@@ -1,1 +1,11 @@
 fr:
+  payments:
+    paypal:
+      description: "Achat de pièce Mangaido"
+      item:
+        name:
+          one: "%{count} pièce"
+          other: "%{count} pièces"
+        description:
+          one: "%{count} pièce"
+          other: "%{count} pièces"
