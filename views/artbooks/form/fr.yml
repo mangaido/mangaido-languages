@@ -1,1 +1,5 @@
 fr:
+  artbooks:
+    form:
+      title_label: "Titre"
+      submit_btn: "Valider"
