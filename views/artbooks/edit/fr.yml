@@ -1,1 +1,13 @@
 fr:
+  artbooks:
+    edit:
+      meta_title: "Modifier la page du classeur"
+      title: "Modifier le classeur:"
+      new_artbook_image_btn:
+        mobile: "Ajouter"
+        desktop: "Ajouter une nouvelle image"
+      show_this_artbook_btn:
+        mobile: "Voir"
+        desktop: "Voir le classeur"
+      delete_btn: "Effacer"
+      
