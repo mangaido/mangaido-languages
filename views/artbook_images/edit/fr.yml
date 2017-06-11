@@ -1,1 +1,14 @@
 fr:
+  artbook_images:
+    edit:
+      meta_title: "Modifier la page du dessin"
+      title: "Modifier le dessin:"
+      previous_btn: "Précédent"
+      back_to_artbook:
+        mobile: "Retour"
+        desktop: "Retour au classeur"
+      show_artwork:
+        mobile: "Voir"
+        desktop: "Voir le dessin"
+      next_btn: "Suivant"
+      delete_btn: "Effacer"
