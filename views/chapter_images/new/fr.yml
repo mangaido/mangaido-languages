@@ -1,1 +1,17 @@
 fr:
+  chapter_images:
+    new:
+      meta_title: "Ajouter une nouvelle page au chapitre"
+      title: "Ajouter une nouvelle image de chapitre"
+      chapter_images_hint_text: >
+        Les images seront redimensionnées pour correspondre à 720x5000px. Les images ne doivent pas peser plus que 15MB chacunes.
+      step_1: "Etape #1"
+      step_1_subtitle: "Sélectionner l'image:"
+      step_2: "Etape #2"
+      step_2_subtitle: "Télécharger:"
+      step_2_select_files_to_upload: "Veuillez d'abord sélectionner les fichiers à télécharger."
+      upload_btn: "En ligne!"
+      file_dropzone_label: Fais glisser les fichiers là, où clique ici pour sélectionner les images à télécharger."
+      files_label: "Images à télécharger:"
+      edit_chapter_btn: "Modifier le chapitre"
+      show_chapter_btn: "Voir le chapitre"
