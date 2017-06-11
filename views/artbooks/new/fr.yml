@@ -1,1 +1,5 @@
 fr:
+  artbooks:
+    new:
+      meta_title: "Ajouter une nouvelle page au classeur"
+      title: "Ajouter un nouveau classeur:"
