@@ -1,1 +1,12 @@
 fr:
+  artbooks:
+    edit_all:
+      meta_title: "Modifier mes classeurs"
+      title: "Modifier mes classeurs"
+      new_artbook_btn:
+        mobile: "Ajouter"
+        desktop: "Ajouter un nouveau classeur"
+      show_my_artbooks_btn:
+        mobile: "Voir"
+        desktop: "Voir mes classeurs"
+      
