@@ -1,1 +1,17 @@
 fr:
+  chapters:
+    edit:
+      meta_title: "%{series_title} - %{chapter_title} - Modifier la page du chapitre"
+      title: "Modifier le chapitre: %{title}"
+      toolbar:
+        add_new_images_btn:
+          desktop: "Ajouter de nouvelles images"
+          mobile: "Ajouter"
+        read_chapter_btn:
+          desktop: "Lire le chapitre"
+          mobile: "Lire"
+        delete_btn:
+          mobile: ""
+          desktop: "Effacer"
+        delete_btn_confir: "Es-tu sûr?"
+      chapter_images_title: "Images du chapitre:"
