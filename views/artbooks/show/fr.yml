@@ -1,1 +1,13 @@
 fr:
+  artbooks:
+    show:
+      meta_title: "%{title} - page de classeur"
+      new_artworks_btn:
+        mobile: "Ajouter"
+        desktop: "Ajouter de nouveaux dessins"
+      my_artbooks_btn:
+        mobile: "Le mien"
+        desktop: "Mes classeurs"
+      edit_this_artbook:
+        mobile: "Modifier"
+        desktop: "Modifier ce classeur"
