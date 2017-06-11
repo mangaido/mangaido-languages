@@ -1,1 +1,34 @@
 fr:
+  chapters:
+    form:
+      title_label: "Titre"
+      is_published_label: "Le publier?"
+      is_published_yes_label: "Publier"
+      is_published_no_label: "En attente"
+      cover_label: "Couverture (Optionnelle)"
+      remove_cover_yes_label: "Enlever cette couverture"
+      remove_cover_no_label: "Laisser la couverture comme ça"
+      cover_hint_text: >
+        Pour un meilleur rendu, télécharger l'image avec les dimensions 640x260 px (JPG ou PNG)
+      amount_of_coins_label: "Nombre de pièces:"
+      amount_of_coins_help_btn: "Plus d'informations"
+      amount_of_coins_help_text_html: >
+        Ici tu peux choisir de sélectionner le prix que les lecteurs du manga devront payer pour avoir accès à ce chapitre.<br />
+        Si tu sélectionnes "0 pièce", ton chapitre sera accessible gratuitement.<br />
+        Tu peux en permanence changer le prix.<br />
+        Souviens toi que pour toutes transactions, Mangaido déduit automatiquement %{percent_fee}% des frais.
+      amount_of_coins_select:
+        one: "%{count} pièce"
+        other:  "%{count} pièces"
+      authorized_users_label: "Utilisateurs autorisés:"
+      authorized_users_help_btn: "Plus d'information"
+      authorized_users_help_text_html: >
+        Ici tu peux choisir de sélectionner les utilisateurs qui auront accès à ton chapitre sans avoir besoin de le payer ou quand le chapitre n'est pas encore publié.<br />
+        These feature is spécialement utile quand tu veux donner l'accès à ton chapitre à des traducteurs.<br />
+        Les utilisateurs autorisés seront seulement capable de lire ton chapitre et de créer une traduction. Ils ne pourront pas le modifier.<br />
+        Envoies leur juste un lien de ton chapitre.<br />
+        Tu peux ajouter et enlever des utilisateurs autorisés à tout moment.<br />
+        Il y a un maximum de %{max_users} autorisés que tu peux assigner à ton chapitre.
+      authorized_users_field_placeholder: "Recherche d'utilisateurs..."
+      too_many_users_error: "Trop d'utilisateurs autorisés!"
+      submit_btn: "Envoyer"
