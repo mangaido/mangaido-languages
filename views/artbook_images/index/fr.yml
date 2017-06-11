@@ -1,1 +1,16 @@
 fr:
+  artbook_images:
+    index:
+      meta_title: "Dessins récents"
+      title: "Dessins récents"
+      subtitle: "Créativité déchaînée"
+      toolbar:
+        add_new_artworks:
+          mobile: "Ajouter"
+          desktop: "Ajouter un nouveau dessin"
+        my_artbooks:
+          mobile: "Le mien"
+          desktop: "Mon classeur"
+        edit_my_artbooks:
+          mobile: "Modifier"
+          desktop: "Modifier mon classeur"
