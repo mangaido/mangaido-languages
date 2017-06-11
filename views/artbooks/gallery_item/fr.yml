@@ -1,1 +1,6 @@
 fr:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "Dessin de %{count}"
+        other: "Dessins de %{count}"
