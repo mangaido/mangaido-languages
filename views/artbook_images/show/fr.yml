@@ -1,1 +1,12 @@
 fr:
+  artbook_images:
+    show:
+      meta_title: "Page du classeur"
+      previous_btn: "Préc"
+      nr_of_pages: "%{page_nr} sur %{pages}"
+      next_btn: "Suiv"
+      edit_this_image_option: "Modifier cette image"
+      edit_this_artbook_option: "Modifier ce classeur"
+      edit_all_my_artbooks_option: "Modifier tous mes classeurs"
+      author_label: "Auteur:"
+      artbook_label: "Classeur:"
