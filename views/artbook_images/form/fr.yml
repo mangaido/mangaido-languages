@@ -1,1 +1,10 @@
 fr:
+  artbook_images:
+    form:
+      title: "Titre (Optionnel)"
+      description: "Description (Optionnelle)"
+      tags: "Tagues (Optionnels)"
+      tags_hint: >
+        Séparer les tagues par des virgules (",").
+        Ça aide à trouver plus facilement les dessins.
+      save_btn: "Sauvegarder"
