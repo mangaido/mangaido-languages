@@ -1,1 +1,4 @@
 fr:
+  noodles:
+    noodle:
+      delete_btn_confirm: "Es-tu sûr?"
