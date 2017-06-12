@@ -1,1 +1,17 @@
 fr:
+  notifications:
+    notification:
+      ArtbookImage: "Image du classeur à dessin"
+      Artbook: "Classeur à dessin"
+      StatusUpdate: "Statut mis à jour"
+      Series: "Mangas"
+      Chapter: "Chapitre manga"
+      Episode: "Chapitre fiction"
+      Novel: "Fiction"
+      User: "Profil"
+      Noodle: "Noodle"
+      code:
+        LIKE_html: "%{who} aime votre %{what}"
+        COMMENT_html: "%{who} a commenté votre %{what}"
+        FOLLOW_html: "%{who} est maintenant fan de toi"
+      time_ago: "il y a %{time_ago}"
