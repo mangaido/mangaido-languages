@@ -1,1 +1,32 @@
 fr:
+  mailboxer:
+    message_mailer:
+      new_message_email:
+        conversation_link: "Répondre sur Mangaido"
+        message: >
+          %{subject}
+
+          Salut %{user_name}!
+          %{sender_name} a écrit:
+
+          %{text}
+
+          Répondre sur Mangaido:
+          %{conversation_link}
+        message_html: >
+          <h1>
+            %{subject}
+          </h1>
+
+          <p>
+            Salut %{user_name}!<br />
+            %{sender_name} a écrit:
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{conversation_link_html}
+          </p>
