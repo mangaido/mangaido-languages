@@ -1,1 +1,6 @@
 fr:
+  noodles:
+    new:
+      meta_title: "Ajouter un nouveau noodle"
+      title: "Ajouter un nouveau noodle"
+      subtitle: "Ici vous pouvez créer des noodles (nouilles) pour notre bol de ramen."
