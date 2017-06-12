@@ -1,1 +1,11 @@
 fr:
+  layouts:
+    header_profile_dropdown:
+      profile: "Profil"
+      my_artbooks: "Mes classeurs"
+      my_comic_series: "Mes mangas"
+      my_translations: "Mes traductions"
+      my_novels: "Mes fictions"
+      mailbox: "Boite mail"
+      settings: "Paramètres"
+      log_out: "Deconnection"
