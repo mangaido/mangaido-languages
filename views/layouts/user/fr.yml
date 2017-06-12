@@ -1,1 +1,47 @@
 fr:
+  layouts:
+    user:
+      edit_profile: "Modifier le profil"
+      send_message: "Envoyer un message"
+      stats:
+        following:
+          one: "Fan de"
+          other: "Fan de"
+        followers:
+          one: "Fan"
+          other: "Fans"
+        posts:
+          one: "Publication"
+          other: "Publications"
+        artwork_views:
+          one: "Dessin vu"
+          other: "Dessins vus"
+        series_views:
+          one: "Manga vu"
+          other: "Mangas vus"
+        translation_views:
+          one: "Traduction vue"
+          other: "Tranductions vues"
+        novel_views:
+          one: "Fiction vue"
+          other: "Fictions vues"
+      menu:
+        donate: "Faire un don"
+        artbooks:
+          one: "%{count} dessin"
+          other: "%{count} dessins"
+        comic_series:
+          one: "%{count} manga"
+          other: "%{count} mangas"
+        translations:
+          one: "%{count} traduction"
+          other: "%{count} traductions"
+        novels:
+          one: "%{count} fiction"
+          other: "%{count} fictions"
+        following:
+          one: "Fan de %{count}"
+          other: "Fan de %{count}"
+        followers:
+          one: "%{count} fan"
+          other: "%{count} fans"
