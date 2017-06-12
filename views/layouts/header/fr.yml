@@ -1,1 +1,12 @@
 fr:
+  layouts:
+    header:
+      toggle_navigation_text: "Basculer la navigation"
+      upload: "Mettre en ligne"
+      status_updates: "Suivis"
+      feed: "Suivis"
+      artworks: "Dessins"
+      series: "Mangas"
+      novels: "Fictions"
+      ramen: "Ramen"
+      log_in: "Connection"
