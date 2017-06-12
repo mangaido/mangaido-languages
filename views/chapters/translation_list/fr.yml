@@ -1,1 +1,8 @@
 fr:
+  chapters:
+    translation_list:
+      translation_link_hint: "Lire"
+      author_link_hint: "Voir l'auteur"
+      translation_edit_btn_hint: "Modifier"
+      buy_link_hint: "Acheter le chapitre"
+      no_translations_msg: "Il n'y a aucune traduction de ce chapitre disponible."
