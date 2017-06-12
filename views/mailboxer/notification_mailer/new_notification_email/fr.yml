@@ -1,1 +1,26 @@
 fr:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "Vérifier!"
+        message: >
+          Nouvelle notification!
+          Salut %{user_name},
+          %{text}
+          Vérifier: %{notification_link}
+        message_html: >
+          <h1>
+            Nouvelle notification!
+          </h1>
+
+          <p>
+            Salut %{user_name},
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{notification_link_html}
+          </p>
