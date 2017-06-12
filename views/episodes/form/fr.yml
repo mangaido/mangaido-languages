@@ -1,1 +1,10 @@
 fr:
+  episodes:
+    form:
+      title_label: "Titre"
+      description_label: "Description (Optionnelle)"
+      text_label: "Texte"
+      is_published_label: "Publié"
+      is_published_yes_label: "Publié"
+      is_published_no_label: "En cours"
+      submit_btn: "Confirmer"
