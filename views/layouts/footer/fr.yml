@@ -1,1 +1,27 @@
 fr:
+  layouts:
+    footer:
+      instagram_btn: "@mangaidocom"
+      facebook_btn: "Mangaido sur Facebook"
+      snapchat_btn: "@mangaido"
+      twitter_btn: "@mangaido"
+      mangaido_logo: "Mangaido"
+      youtube_btn: "Mangaido sur YouTube"
+      tumblr_btn: "Mangaido sur Tumblr"
+      crew_title: "Staff:"
+      crew:
+        mangaido:
+          position: "Profil officiel"
+        karolina:
+          position: "Co-fondateur"
+        bartek:
+          position: "Co-fondateur"
+        michal:
+          position: "Co-fondateur"
+        choux:
+          position: "Ambassadrice des français"
+      menu:
+        earn_money_with_us_btn: "Gagnes de l'argent avec nous!"
+        terms_of_service_btn: "Conditions d'utilisation"
+        privacy_btn: "Confidentialité"
+        contact_us_btn: "Nous contacter!"
