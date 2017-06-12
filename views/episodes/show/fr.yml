@@ -1,1 +1,36 @@
 fr:
+  episodes:
+    show:
+      meta_title: "%{title} - Page des chapitres"
+      toolbar:
+        my_novels_btn:
+          mobile: "Les miens"
+          desktop: "Mes fictions"
+        edit_btn:
+          mobile: "Modifier"
+          desktop: "Modifier ce chapitre"
+      by_author:
+        html: "par %{author_link}"
+      novel_btns:
+        views:
+          one: "%{count} vue"
+          other: "%{count} vues"
+        comments:
+          one: "%{count} commentaire"
+          other: "%{count} commentaires"
+      updated_ago: "Chapitre mis à jour il y a %{time}"
+      episode_btns:
+        views:
+          one: "%{count} vue"
+          other: "%{count} vues"
+        comments:
+          one: "%{count} commentaire"
+          other: "%{count} commentaires"
+      description_label: "A propos de l'auteur:"
+      prev_btn:
+        mobile: "Préc"
+        desktop: "Chapitre précédent"
+      next_btn:
+        mobile: "Suiv"
+        desktop: "Chapitre suivant"
+      comments_label: "Commentaires:"
