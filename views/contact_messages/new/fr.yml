@@ -1,1 +1,9 @@
 fr:
+  contact_messages:
+    new:
+      meta_title: "Page de contact"
+      title: "Contact nous!"
+      name_label: "Nom"
+      email_label: "Email"
+      content_label: "Message"
+      submit_btn: "Envoyer"
