@@ -1,1 +1,11 @@
 fr:
+  noodles:
+    my_index:
+      meta_title: "Mon ramen aux noodles"
+      title: "Mon ramen aux noodles"
+      add_noodle_btn:
+        mobile: "Ajouter un noodle!"
+        desktop: "Ajouter un noodle!"
+      my_noodles_btn:
+        mobile: "Mes noodles"
+        desktop: "Mes noodles"
