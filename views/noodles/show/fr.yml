@@ -1,1 +1,9 @@
 fr:
+  noodles:
+    show:
+      meta_title: "%{title} - Ramen aux noodles"
+      info_html: "il y a %{time_ago} par %{user_link_html}"
+      edit_btn: "Modifier"
+      delete_btn: "Effacer"
+      delete_btn_confirm: "Es-tu sûr?"
+      delete_btn_hint: "Effacer le noodle"
