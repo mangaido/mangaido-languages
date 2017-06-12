@@ -1,1 +1,6 @@
 fr:
+  noodles:
+    edit:
+      meta_title: "%{title} - modifier le noodle"
+      title: "%{title} - modifier le noodle"
+      cancel_btn: "Fermer"
