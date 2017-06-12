@@ -1,1 +1,12 @@
 fr:
+  episodes:
+    list:
+      title: "%{nr}). %{title}"
+      updated_ago: "Mis à jour il y a %{time}"
+      views:
+        one: "%{count} vue"
+        other: "%{count} vues"
+      comments:
+        one: "%{count} commentaire"
+        other: "%{count} commentaires"
+      not_published_message: "Pas encore publié"
