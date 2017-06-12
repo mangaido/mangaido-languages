@@ -1,1 +1,8 @@
 fr:
+  noodles:
+    form:
+      title_label: "Titre"
+      link_label: "Lien"
+      content_label: "Contenu"
+      image_label: "Ajouter une image"
+      submit_btn: "Sauvegarder le noodle"
