@@ -1,1 +1,14 @@
 fr:
+  layouts:
+    feed:
+      edit_profile_btn: "Modifier le profil"
+      artbooks_btn: "Mes classeurs"
+      artbooks_edit_link: "Modifier"
+      comic_series_btn: "Mes mangas"
+      comic_series_edit_link: "Modifier"
+      translations_btn: "Mes traductions"
+      novels_btn: "Mes fictions"
+      novels_edit_link: "Modifier"
+      following_btn: "Fan de"
+      followers_btn: "Fans"
+      mailbox_btn: "Boite mail"
