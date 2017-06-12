@@ -1,1 +1,17 @@
 fr:
+  episodes:
+    edit:
+      meta_title: "%{title} - modifier le chapitre"
+      title: "%{title} - modifier le chapitre"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "Retour"
+          desktop: "Retour à la fiction"
+        show_btn:
+          mobile: "Voir"
+          desktop: "Voir ce chapitre"
+        delete_confirm: >
+          Es-tu sûr de vouloir effacer ce chapitre?
+        delete_btn:
+          mobile: "Effacer"
+          desktop: "Effacer ce chapitre"
