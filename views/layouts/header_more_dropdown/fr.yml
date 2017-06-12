@@ -1,1 +1,9 @@
 fr:
+  layouts:
+    header_more_dropdown:
+      more_btn: "Plus"
+      all_users: "Tous les utilisateurs"
+      artwork_creators: "Dessinateurs"
+      comic_authors: "Mangakas"
+      translators: "Traducteurs"
+      writers: "Ecrivains"
