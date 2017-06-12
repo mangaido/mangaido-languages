@@ -1,1 +1,7 @@
 fr:
+  likes:
+    unlike:
+      tooltip: "Enlever!"
+      likes:
+        one: "J'aime"
+        other: "J'aime"
