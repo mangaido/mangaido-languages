@@ -1,1 +1,12 @@
 fr:
+  messages:
+    new:
+      meta_title: "Nouvelle conversation"
+      title: "Nouvelle conversation"
+      subtitle: "Discuter avec quelqu'un"
+      subject_label: "Sujet"
+      body_label: "Message"
+      recipients_label: "Choisir les participants"
+      recipients_no_results_text: "Aucun résultat"
+      recipients_placeholder: "Sélectionner les utilisateurs"
+      submit_btn: "Envoyer"
