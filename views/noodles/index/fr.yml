@@ -1,1 +1,15 @@
 fr:
+  noodles:
+    index:
+      meta_title: "Bol de ramen"
+      logo_img_alt: "Logo ramen"
+      title: "Bol de ramen"
+      subtitle_html: >
+        Vérifies nos meilleurs<br />
+        noodles de ramen!
+      new_noodle_btn:
+        mobile: "Ajouter un noodle!"
+        desktop: "Ajouter un noodle!"
+      my_noodles_btn:
+        mobile: "Mes noodles"
+        desktop: "Mes noodles"
