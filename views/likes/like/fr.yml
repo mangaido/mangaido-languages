@@ -1,1 +1,7 @@
 fr:
+  likes:
+    like:
+      tooltip: "J'aime!"
+      likes:
+        one: "J'aime"
+        other: "J'aime"
