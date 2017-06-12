@@ -1,1 +1,5 @@
 fr:
+  chapters:
+    new:
+      meta_title: "Ajouter un nouveau chapitre"
+      title: "Ajouter un nouveau chapitre"
