@@ -1,1 +1,5 @@
 fr:
+  layouts:
+    header_language_dropdown:
+      languages_btn: "Langues"
+      translate_mangaido_btn: "Autres langues"
