@@ -1,1 +1,9 @@
 fr:
+  password_resets:
+    new_form:
+      email_label: "Email"
+      submit_btn: "Réinitialiser le mot de passe"
+      login_btn: "Connection"
+      back_to_login_html: "Retour à la connection? %{login_btn_html}"
+      signup_btn: "Connectez-vous!"
+      new_user_html: "Nouvel utilisateur? %{signup_btn_html}"
