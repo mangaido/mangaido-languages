@@ -1,1 +1,12 @@
 fr:
+  payments:
+    index:
+      meta_title: "Paiements"
+      payments_label: "Paiements:"
+      table:
+        amount_of_coins: "Nombre de pièces"
+        amount_of_money: "Quantité d'argent"
+        completed: "Est-ce complété?"
+        completed_yes: "Oui"
+        completed_no: "Non"
+        date: "Date"
