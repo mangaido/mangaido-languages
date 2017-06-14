@@ -1,1 +1,7 @@
 fr:
+  password_resets:
+    new:
+      meta_title: "Mot de passe oublié"
+      title: "Réinitialiser le mot de passe"
+      subtitle: "Pour récupérer votre compte!"
+      
