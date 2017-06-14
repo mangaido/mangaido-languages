@@ -1,1 +1,7 @@
 fr:
+  payments:
+    new:
+      meta_title: "Acheter des pièces"
+      coin_packages_title: "Sélectionner le pack de pièce:"
+      calculation_label: "Calcul rapide:"
+      buy_btn: "Acheter"
