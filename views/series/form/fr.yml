@@ -1,1 +1,21 @@
 fr:
+  series:
+    form:
+      title_label: "Titre"
+      description_label: "Description (Optionnelle)"
+      is_published_label: "Statut?"
+      is_published_yes_label: "Publié"
+      is_published_no_label: "En projet"
+      is_for_adults_label: "Est-ce réservé aux adultes?"
+      is_for_adults_yes_label: "Pour adultes"
+      is_for_adults_no_label: "Pour tous"
+      language_label: "Langue"
+      cover_label: "Couverture (Optionnelle)"
+      remove_cover_yes_label: "Enlever la couverture"
+      remove_cover_no_label: "Laisser la couverture comme ça"
+      cover_help_text: "Pour un meilleur rendu, télécharger l'image avec les dimensions 1600x800 px (JPG ou PNG)"
+      wide_cover_label: "Couverture large (Optionnelle)"
+      remove_wide_cover_yes_label: "Enlever la couverture"
+      remove_wide_cover_no_label: "Laisser la couverture comme ça"
+      wide_cover_help_text: "Pour un meilleur rendu, télécharger l'image avec les dimensions 1920x320 px (JPG ou PNG)"
+      submit_btn: "Envoyer"
