@@ -1,1 +1,21 @@
 fr:
+  novels:
+    show:
+      meta_title: "Fiction"
+      toolbar:
+        my_novels_btn:
+          mobile: "Les miennes"
+          desktop: "Mes fictions"
+        edit_btn:
+          mobile: "Modifier"
+          desktop: "Modifier cette fiction"
+      by_author:
+        html: "par %{author}"
+      views_btn:
+        one: "%{count} vu"
+        other: "%{count} vus"
+      comments_btn:
+        one: "%{count} commentaire"
+        other: "%{count} commentaires"
+      episodes_label: "Chapitres:"
+      comments_label: "Commentaires:"
