@@ -1,1 +1,15 @@
 fr:
+  novels:
+    form:
+      title_label: "Titre"
+      description_label: "Description (Optionnelle)"
+      is_published_label: "Statut?"
+      is_published_yes_label: "Publiée"
+      is_published_no_label: "En projet"
+      cover_label: "Couverture (Optionnelle)"
+      remove_cover_yes_label: "Enlever cette couverture"
+      remove_cover_no_label: "Laisser la couverture comme ça"
+      cover_hint_text: >
+        Pour un meilleur rendu, télécharger l'image avec les dimensions %{width}x%{height}px (JPG or PNG).
+        L'image ne doit pas être plus grande que %{max_size_in_mb}MB
+      submit_btn: "Envoyer"
