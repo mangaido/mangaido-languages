@@ -1,1 +1,8 @@
 fr:
+  password_resets:
+    edit:
+      meta_title: "Réinitialiser le mot de passe"
+      title: "Réinitialiser le mot de passe"
+      password_label: "Mot de passe (6 caractères min.)"
+      password_confirmation_label: "Confirmer le mot de passe"
+      submit_btn: "Envoyer"
