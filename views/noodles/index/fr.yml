@@ -5,8 +5,8 @@ fr:
       logo_img_alt: "Logo ramen"
       title: "Bol de ramen"
       subtitle_html: >
-        Vérifies nos meilleurs<br />
-        noodles de ramen!
+        Voici nos ramens<br />
+          aux noodles!
       new_noodle_btn:
         mobile: "Ajouter un noodle!"
         desktop: "Ajouter un noodle!"
