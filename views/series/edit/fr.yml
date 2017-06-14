@@ -1,1 +1,15 @@
 fr:
+  series:
+    edit:
+      meta_title: "%{title} - modifier le manga"
+      title: "%{title} - modifier le manga"
+      add_new_btn:
+        mobile: "Ajouter"
+        desktop: "Ajouter un chapitre"
+      show_btn:
+        mobile: "Voir"
+        desktop: "Voir ce manga"
+      delete_btn:
+        mobile: ""
+        desktop: "Effacer"
+      chapters_title: "Chapitres:"
