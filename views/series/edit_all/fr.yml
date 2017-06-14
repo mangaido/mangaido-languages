@@ -1,1 +1,13 @@
 fr:
+  series:
+    edit_all:
+      meta_title: "Modifier tous mes mangas"
+      title: "Modifier tous mes mangas"
+      toolbar:
+        add_new_series_btn:
+          mobile: "Ajouter"
+          desktop: "Ajouter un manga"
+        show_all_series_btn:
+          mobile: "Voir"
+          desktop: "Voir tous mes mangas"
+      series_list_title: "Tous mes mangas:"
