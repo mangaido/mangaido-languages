@@ -1,1 +1,14 @@
 fr:
+  novels:
+    gallery_item:
+      author: "par @%{user_name}"
+      time_ago: "il y a %{time_ago}"
+      nr_of_episodes:
+        one: "%{count} chapitre"
+        other: "%{count} chapitres"
+      likes:
+        one: "%{count} j'aime"
+        other: "%{count} j'aime"
+      views:
+        one: "%{count} vu"
+        other: "%{count} vus"
