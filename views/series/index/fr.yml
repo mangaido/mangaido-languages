@@ -1,1 +1,18 @@
 fr:
+  series:
+    index:
+      meta_title: "Mangas"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Ajouter"
+          desktop: "Ajouter un manga"
+        my_comic_series_btn:
+          mobile: "Les miens"
+          desktop: "Mes mangas"
+        edit_my_comic_series_btn:
+          mobile: "Modifier"
+          desktop: "Modifier mes mangas"
+        for_adults_btn:
+          mobile: "+18"
+          desktop: "Pour adultes"
+      translations_title: "Traductions"
