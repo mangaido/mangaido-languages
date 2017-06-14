@@ -1,1 +1,12 @@
 fr:
+  novels:
+    edit_all:
+      meta_title: "Modifier toutes mes fictions"
+      title: "Modifier toutes mes fictions"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Ajouter"
+          desktop: "Ajouter une fiction"
+        my_novels_btn:
+          mobile: "Les miennes"
+          desktop: "Mes fictions"
