@@ -1,1 +1,16 @@
 fr:
+  novels:
+    edit:
+      meta_title: "Modifier la fiction"
+      title: "Modifier la fiction:"
+      toolbar:
+        add_new_episode_btn:
+          mobile: "Ajouter"
+          desktop: "Ajouter un chapitre"
+        show_btn:
+          mobile: "Voir"
+          desktop: "Voir cette fiction"
+        delete_confirm: "Etes-vous sûr de vouloir effacer cette fiction?"
+        delete_btn:
+          mobile: "Effacer"
+          desktop: "Effacer cette fiction"
