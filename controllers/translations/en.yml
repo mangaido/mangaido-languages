@@ -1,11 +1,11 @@
 en:
   traslations:
     show:
-      no_acceess_error: "You don't have access to this translation!"
+      no_access_error: "You don't have access to this translation!"
     edit:
-      no_acceess_error: "You can't edit this translation!"
+      no_access_error: "You can't edit this translation!"
     create:
-      no_acceess_error: "You can't create this translation. Try again later."
+      no_access_error: "You can't create this translation. Try again later."
       success: "Translation was successfully created!"
       error: "There was a problem with creating your translation! Try again."
     update:

@@ -1,11 +1,11 @@
 fr:
   traslations:
     show:
-      no_acceess_error: "Tu n'as pas accès à cette traduction!"
+      no_access_error: "Tu n'as pas accès à cette traduction!"
     edit:
-      no_acceess_error: "Tu ne peux pas modifier cette traduction!"
+      no_access_error: "Tu ne peux pas modifier cette traduction!"
     create:
-      no_acceess_error: "Tu ne peux pas créer cette traduction. Essayes plus tard."
+      no_access_error: "Tu ne peux pas créer cette traduction. Essayes plus tard."
       success: "La traduction a été correctement créée!"
       error: "Il y a eu un problème avec la création de ta traduction! Essayes de nouveau."
     update:
