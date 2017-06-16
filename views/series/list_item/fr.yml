@@ -1,1 +1,4 @@
 fr:
+  series:
+    list_item:
+      time_ago: "il y a %{time_ago}"
