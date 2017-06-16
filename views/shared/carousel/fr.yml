@@ -1,1 +1,25 @@
 fr:
+  shared:
+    carousel:
+      about_mangaido:
+        title: "A propos de Mangaido"
+        text: >
+          Faisons tous connaissance! Regardez cette rapide vidéo d'introduction de Karolina, Bartek, et Michał.
+        action_btn: "Vidéo YouTube"
+      translate_mangaido:
+        title: "Mangaido dans ta langue"
+        text: >
+          Si vous souhaitez aider la communauté et atteindre les personnes de votre pays, tu peux facilement traduire Mangaido dans ta langue.
+        action_btn: "Comment traduire"
+      publish_series:
+        title: "Publiez vos mangas"
+        text: >
+          Ici les gens parlent des centaines de langues de partout dans le monde (c'est vrai!). Donnez envie aux lecteurs de traduire vos mangas, comme ça on pourra l'apprécier partout dans le monde.
+        action_btn: "Commencer à publier"
+        side_btn: "Artiste: %{user_name}"
+      publish_artworks:
+        title: "Laissez vos créations être vu par le monde entier!"
+        text: >
+          Ensemble nous construisons cet endroit pour faire voir et partager des dessins entre nous aussi vite que possible. Discutez des choses que vous aimez er entrez dans le monde des mangas.
+        action_btn: "Télécharger vos créations!"
+        side_btn: "Artiste: %{user_name}"
