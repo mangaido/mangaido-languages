@@ -1,1 +1,6 @@
 fr:
+  shared:
+    error_messages:
+      nr_of_errors_in_form:
+        one: "La page contient %{count} erreur."
+        other: "La page contient %{count} erreurs."
