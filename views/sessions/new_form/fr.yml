@@ -1,1 +1,10 @@
 fr:
+  sessions:
+    new_form:
+      email_label: "Email"
+      password_label: "Mot de passe"
+      forgot_password_link: "(j'ai oublié mon mot de passe)"
+      remember_me_checkbox: "Se souvenir de moi"
+      log_in_btn: "Connection"
+      sign_up_link_html: "Se connecter!"
+      sign_up_text_html: "Nouvel utilisateur? %{sign_up_link_html}"
