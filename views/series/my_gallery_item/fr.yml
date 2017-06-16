@@ -1,1 +1,4 @@
 fr:
+  series:
+    my_gallery_item:
+      delete_btn_confirm: "Etes-vous sûr?"
