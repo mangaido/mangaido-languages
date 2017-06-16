@@ -1,1 +1,38 @@
 fr:
+  series:
+    show:
+      meta_title: "%{title} - voir les mangas"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "Les miens"
+          desktop: "Mes mangas"
+        edit_btn:
+          mobile: "Modifier"
+          desktop: "Modifier ce manga"
+      chapters_list:
+        title: "Chapitres:"
+        not_published_message: "Pas encore publié"
+        chapter:
+          free_icon: "Chapitre gratuit"
+          bought_icon: "Acheter le chapitre"
+          unlocked_icon: "Accès autorisé"
+          locked_icon: "Vous devez acheter ce chapitre pour le lire!"
+          views:
+            one: "%{count} vu"
+            other: "%{count} vus"
+          translations_btn:
+            one: "%{count} traduction"
+            other: "%{count} traductions"
+          edit_btn: "Modifier"
+      description_title: "Description:"
+      informations:
+        title: "Informations:"
+        views:
+          one: "%{count} vu"
+          other: "%{count} vus"
+        for_adults: "Pour adulte"
+        safe_for_children: "Pour tous"
+        language: "Langue: %{language_name}"
+        translations: "Traductions:"
+        translation_language: "%{language_name} (%{count})"
+      comments_title: "Commentaires:"
