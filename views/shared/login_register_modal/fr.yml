@@ -1,1 +1,10 @@
 fr:
+  shared:
+    login_register_modal:
+      form_title_hint: "Connection"
+      close_btn_hint: "Fermer"
+      log_in_btn: "Connection"
+      register_btn: "Nouvel utilisateur? Enregistrez-vous :D"
+      log_in_form_title: "Connection"
+      register_form_title: "S'enregistrer"
+      close_btn: "Fermer"
