@@ -1,1 +1,6 @@
 fr:
+  sessions:
+    new:
+      meta_title: "Connection"
+      title: "Connection"
+      subtitle: "Bienvenue dans le monde des mangas!"
