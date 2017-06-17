@@ -1,1 +1,14 @@
 fr:
+  static_pages:
+    homepage:
+      publish:
+        artworks:
+          upload_btn: "Télécharger des dessins"
+          title: "Publier un classeur"
+          description: >
+            Publiez des dessins qui ne font pas partis d'histoires particulières. Vous pouvez organiser vos créations dans des classeurs.
+        comic_series:
+          create_btn: "Créer des mangas"
+          title: "Publier un manga"
+          description: >
+            Publiez votre propre manga! Construisez l'histoire, développez les perssonages, publiez les chapitres et donnez envie aux lecteurs de voir la suite!
