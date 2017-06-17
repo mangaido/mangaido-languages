@@ -2,6 +2,6 @@ fr:
   layouts:
     header_notifications_dropdown:
       notifications_title: "Notifications"
-      mark_all_as_read_btn: "Marquer tout comme lue"
+      mark_all_as_read_btn: "marquer comme lu(s)"
       loader: "Chargement..."
       show_all_btn: "Tout voir"
