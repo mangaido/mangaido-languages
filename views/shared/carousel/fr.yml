@@ -18,8 +18,8 @@ fr:
         action_btn: "Commencer à publier"
         side_btn: "Artiste: %{user_name}"
       publish_artworks:
-        title: "Laissez vos créations être vu par le monde entier!"
+        title: "Laissez vos créations voyager!"
         text: >
-          Ensemble nous construisons cet endroit pour faire voir et partager des dessins entre nous aussi vite que possible. Discutez des choses que vous aimez er entrez dans le monde des mangas.
+          Ensemble nous construisons cet endroit afin que nous puissions partager entre nous aussi vite que possible. Discutez des choses que vous aimez et entrez dans le monde des mangas.
         action_btn: "Télécharger vos créations!"
         side_btn: "Artiste: %{user_name}"
