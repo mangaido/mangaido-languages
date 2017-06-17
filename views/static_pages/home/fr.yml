@@ -1,1 +1,16 @@
 fr:
+  static_pages:
+    home:
+      meta_title: "Page d'acceuil"
+      translations_section_title: "Traductions récentes"
+      translations_section_more_btn: "Plus de traductions"
+      comic_series_section_title: "Mangas récents"
+      comic_series_section_more_btn: "Plus de mangas"
+      comic_series_for_adults_btn: "Mangas pour adultes"
+      translators_section_title: "Top Traducteurs"
+      translators_section_more_btn: "Tous les traducteurs"
+      novels_section_title: "Fictions récentes"
+      novels_section_more_btn: "Plus de fictions"
+      ginza_title: "Ginza (populaires)"
+      shibuya_title: "Shibuya (récents)"
+      akihabara_title: "Akihabara (aléatoires)"
