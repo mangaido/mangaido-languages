@@ -1,1 +1,7 @@
 fr:
+  status_updates:
+    feed:
+      meta_title: "Suivis"
+      menu:
+        feed_btn: "Tout"
+        feed_following_btn: "Suivis"
