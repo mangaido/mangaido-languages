@@ -1,1 +1,19 @@
 fr:
+  static_pages:
+    search_form:
+      search_field_placeholder: "Recherche..."
+      found_results:
+        one: "%{count} résultat trouvé"
+        other: "%{count} résultats trouvés"
+      page_x_of_y: "page: %{x} sur %{y}"
+      menu:
+        all_btn: "Tout"
+        artbook_images_btn: "Dessins"
+        series_btn: "Mangas"
+        users_btn: "Utilisateurs"
+        novels_btn: "Fictions"
+        noodles_btn: "Noodles"
+      adult_filter:
+        safe_for_children_label: "Pour tous"
+        for_adults_label: "Pour adultes"
+        all_label: "Tout"
