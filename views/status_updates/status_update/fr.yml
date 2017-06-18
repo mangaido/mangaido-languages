@@ -1,1 +1,7 @@
 fr:
+  status_updates:
+    status_update:
+      delete_btn: "Effacer la publication"
+      delete_btn_confirm: "Etes-vous sûr de vouloir supprimer cette publication?"
+      posted_time_ago: "Posté il y a %{time_ago}."
+      show_comments_btn: "Voir les commentaires"
