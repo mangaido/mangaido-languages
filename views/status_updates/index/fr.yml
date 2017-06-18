@@ -1,1 +1,5 @@
 fr:
+  status_updates:
+    index:
+      meta_title: "Récents statuts mis à jour"
+      title: "Récents statuts mis à jour"
