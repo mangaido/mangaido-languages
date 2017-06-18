@@ -1,1 +1,10 @@
 fr:
+  static_pages:
+    search:
+      meta_title: "Résultats de recherche"
+      type_names:
+        artbook_image: "Dessins"
+        series: "Mangas"
+        user: "Utilisateurs"
+        novel: "Fictions"
+        noodle: "Ramen aux noodles"
