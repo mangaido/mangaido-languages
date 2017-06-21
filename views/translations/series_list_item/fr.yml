@@ -1,1 +1,4 @@
 fr:
+  translations:
+    series_list_item:
+      time_ago: "il y a %{time_ago}"
