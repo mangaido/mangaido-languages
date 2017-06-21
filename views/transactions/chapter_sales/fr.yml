@@ -1,1 +1,5 @@
 fr:
+  transactions:
+    chapter_sales:
+      meta_title: "Chapitre vendu"
+      title: "Chapitre vendu:"
