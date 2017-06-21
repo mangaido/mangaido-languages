@@ -1,1 +1,5 @@
 fr:
+  translations:
+    list:
+      edit_btn: "Modifier"
+      no_translations_msg: "Il n'y a aucune traduction."
