@@ -1,1 +1,6 @@
 fr:
+  translations:
+    form:
+      language_label: "Langue"
+      is_published_label: "Publier?"
+      submit_btn: "Sauvegarder"
