@@ -1,1 +1,6 @@
 fr:
+  transactions:
+    table:
+      link_label: "Lien"
+      amount_of_coins_label: "Nombre de pièces"
+      date_label: "Date"
