@@ -1,7 +1,7 @@
 fr:
   artbooks:
     new:
-      title: "Classeur de %{user_name}"
+      default_title: "Classeur de %{user_name}"
     create:
       success: "Le classeur a été correctement créé."
     update:

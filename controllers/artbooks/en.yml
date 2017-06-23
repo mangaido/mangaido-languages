@@ -1,7 +1,7 @@
 en:
   artbooks:
     new:
-      title: "%{user_name}'s Artbook"
+      default_title: "%{user_name}'s Artbook"
     create:
       success: "Artbook was successfully created!"
     update:
