@@ -1,1 +1,21 @@
 fr:
+  withdrawals:
+    index:
+      meta_title: "Retraits"
+      current_balance_label: "Solde actuel:"
+      current_balance_coins:
+        one: "%{count} pièce"
+        other: "%{count} pièces"
+      money_to_be_paid_label: "Retrait en cours:"
+      form_label: "Condition de retrait:"
+      cant_withdraw_msg: "Pour retirer de l'argent vous avez besoin d'un minimum de %{min_coins} pièces."
+      list_label: "Retraits:"
+      list:
+        id: "ID"
+        amount_of_coins: "Nombre de pièces"
+        amount_of_money: "Quantité d'argent"
+        created_at: "Créé à"
+        is_paid: "Complété?"
+        is_paid_yes: "Oui"
+        is_paid_no: "Non"
+        paid_at: "Payé à"
