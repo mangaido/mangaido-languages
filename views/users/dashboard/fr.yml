@@ -1,1 +1,16 @@
 fr:
+  users:
+    dashboard:
+      meta_title: "Tableau de bord"
+      current_balance_label: "Solde actuel"
+      current_balance_amount_of_coins:
+        one: "%{count} pièce"
+        other: "%{count} pièces"
+      buy_coins_btn: "Acheter des pièces"
+      withdrawals_money_label: "Retrait en cours"
+      withdrawals_btn: "Retraits"
+      chapter_purchases_btn: "Accès aux chapitres achetés"
+      donations_sent_btn: "Dons envoyés"
+      chapter_sales_btn: "Accès aux chapitres vendus"
+      donations_received_btn: "Dons reçus"
+      payments_btn: "Paiements"
