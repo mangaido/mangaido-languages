@@ -1,1 +1,6 @@
 fr:
+  users:
+    artbooks:
+      meta_title: "Classeur de %{user_name}"
+      title: "Classeur de %{user_name}:"
+      edit_artbooks_btn: "Modifier les classeurs"
