@@ -1,1 +1,10 @@
 fr:
+  withdrawals:
+    form:
+      amount_of_coins_label: "Combien de pièces voulez-vous retirer:"
+      summary_loading_text: "Chargement du sommaire..."
+      summary_text: >
+        <b>%amount_of_coins%</b> coins = %coins_to_money%USD<br />
+        Frais de retrait: %percent_fee%%<br />
+        Vous allez retirer <b>%amount_of_money%USD<b/>
+      withdraw_btn: "Pièces retirées!"
