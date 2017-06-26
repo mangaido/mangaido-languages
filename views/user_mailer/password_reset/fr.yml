@@ -1,1 +1,31 @@
 fr:
+  user_mailer:
+    password_reset:
+      subject: "Réinitialisation du mot de passe"
+      reset_link: "Réinitialiser"
+      message: >
+        Réinitialisation du mot de passe Mangaido
+        Salut %{user_name},
+        Pour réinitialiser votre mot de passe cliquez ici: %{reset_link}
+        Ce lien expirera dans deux heures.
+        Si vous ne voulez pas réinitialiser votre mot de passe, veuillez ignorer ce mail et votre mot de passe ne changera pas.
+      message_html: >
+        <h1>
+          Réinitialisation du mot de passe Mangaido
+        </h1>
+
+        <p>
+          Salut %{user_name},
+        </p>
+
+        <p>
+          Pour réinitialiser votre mot de passe cliquez ici: %{reset_link_html}.
+        </p>
+
+        <p>
+          Ce lien expirera dans deux heures.
+        </p>
+
+        <p>
+          Si vous ne voulez pas réinitialiser votre mot de passe, veuillez ignorer ce mail et votre mot de passe ne changera pas.
+        </p>
