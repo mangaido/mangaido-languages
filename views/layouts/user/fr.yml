@@ -46,4 +46,4 @@ fr:
           one: "%{count} fan"
           other: "%{count} fans"
       q_and_a:
-        # country: "Country?"
+        country: "Pays?"
