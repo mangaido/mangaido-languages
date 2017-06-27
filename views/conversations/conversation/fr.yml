@@ -3,6 +3,6 @@ fr:
     conversation:
       restore_btn: "Restaurer"
       move_to_trash_btn: "Déplacer vers la poubelle"
-      move_to_trash_btn_confirm: "Es-tu sûr?"
+      move_to_trash_btn_confirm: "Etes-vous sûr?"
       mark_as_read_btn: "Marquer comme lu"
       sent_ago: "Envoyer il y a %{time}"
