@@ -11,7 +11,7 @@ fr:
           mobile: "Voir"
           desktop: "Voir ce chapitre"
         delete_confirm: >
-          Es-tu sûr de vouloir effacer ce chapitre?
+          Etes-vous sûr de vouloir effacer ce chapitre?
         delete_btn:
           mobile: "Effacer"
           desktop: "Effacer ce chapitre"
