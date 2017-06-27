@@ -6,6 +6,6 @@ fr:
       success: "Le classeur a été correctement créé."
     update:
       success: "Le classeur a été correctement mis à jour."
-      error: "Un problème est survenu dans la mise à jour de ce classeur! Essayes de nouveau."
+      error: "Un problème est survenu dans la mise à jour de ce classeur! Essayez de nouveau."
     destroy:
       success: "Le classeur a été correctement effacé!"
