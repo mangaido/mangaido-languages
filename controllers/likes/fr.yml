@@ -1,4 +1,4 @@
 fr:
   likes:
     create:
-      error: "Tu n'as pas pu aimer cet élément :("
+      error: "Vous n'avez pas pu aimer cet élément :("
