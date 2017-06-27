@@ -1,1 +1,4 @@
 fr:
+  users:
+    guest_follow:
+      follow_btn: "Suivre"
