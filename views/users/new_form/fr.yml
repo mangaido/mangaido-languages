@@ -1,1 +1,14 @@
 fr:
+  users:
+    new_form:
+      name_label: "Surnom"
+      email_label: "Email"
+      password_label: "Mot de passe"
+      password_confirmation_label: "Confirmer le mot de passe"
+      register_btn: "Créer mon compte"
+      log_in_link: "Connection!"
+      log_in_text_html: "Vous avez déjà un compte? %{log_in_link_html}"
+      terms_of_service_link: "Condition d'utilisation"
+      privacy_policy_link: "Confidentialité"
+      disclaimer_html: >
+        En vous inscrivant, vous acceptez nos %{terms_of_service_link_html} et notre %{privacy_policy_link_html}.
