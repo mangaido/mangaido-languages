@@ -1,1 +1,4 @@
 fr:
+  users:
+    follow:
+      follow_btn: "Suivre"
