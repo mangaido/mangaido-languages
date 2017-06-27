@@ -3,5 +3,5 @@ fr:
     comments_body:
       no_comments_message: "Il n'y a aucun commentaire pour l'instant, pourquoi ne pas être le premier?"
       delete_btn: "Effacer"
-      delete_btn_confirm: "Es-tu sûr de vouloir effacer ce commentaire?"
+      delete_btn_confirm: "Etes-vous sûr de vouloir effacer ce commentaire?"
       time_ago: "Il y a %{time_ago}"
