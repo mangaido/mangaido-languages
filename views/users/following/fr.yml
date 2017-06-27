@@ -1,1 +1,5 @@
 fr:
+  users:
+    following:
+      meta_title: "Utilisateurs suivis par %{user_name}"
+      title: "Utilisateurs suivis par %{user_name}"
