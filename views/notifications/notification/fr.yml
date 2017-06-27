@@ -13,5 +13,5 @@ fr:
       code:
         LIKE_html: "%{who} aime votre %{what}"
         COMMENT_html: "%{who} a commenté votre %{what}"
-        FOLLOW_html: "%{who} est maintenant fan de toi"
+        FOLLOW_html: "%{who} est maintenant fan de vous!"
       time_ago: "il y a %{time_ago}"
