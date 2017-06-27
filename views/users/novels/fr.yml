@@ -1,1 +1,6 @@
 fr:
+  users:
+    novels:
+      meta_title: "Fiction de %{user_name}"
+      title: "Fiction de %{user_name}"
+      edit_novels_btn: "Modifier toutes mes fictions"
