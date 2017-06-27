@@ -19,4 +19,5 @@ pl:
       cover_hint_text: >
         Dla użyskania najlepszych rezultatów wyślij obrazek o wymiarach 1920x320 pikseli (JPG lub PNG).
       default_language_label: "Domyślny język (używany obecnie do wysyłania emaili)"
+      country_label: "Twój kraj"
       submit_btn: "Zapisz"

@@ -18,4 +18,5 @@ en:
       cover_hint_text: >
         For best results upload image with dimensions 1920x320 px (JPG or PNG)
       default_language_label: "Default language (used for sending emails)"
+      country_label: "Your country"
       submit_btn: "Save"

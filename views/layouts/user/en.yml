@@ -45,3 +45,5 @@ en:
         followers:
           one: "%{count} follower"
           other: "%{count} followers"
+      q_and_a:
+        country: "Country?"

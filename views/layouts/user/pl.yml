@@ -71,3 +71,5 @@ pl:
           few: "%{count} subskrybentów"
           many: "%{count} subskrybentów"
           other: "%{count} subskrybenta"
+      q_and_a:
+        country: "Kraj?"
