@@ -1,1 +1,4 @@
 fr:
+  users:
+    unfollow:
+      unfollow_btn: "Plus suivre"
