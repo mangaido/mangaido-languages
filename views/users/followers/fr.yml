@@ -1,1 +1,5 @@
 fr:
+  users:
+    followers:
+      meta_title: "Utilisateurs fans de %{user_name}"
+      title: "Utilisateurs fans de %{user_name}"
