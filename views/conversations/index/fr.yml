@@ -3,12 +3,12 @@ fr:
     index:
       meta_title: "Boite mail"
       title: "Boite mail"
-      subtitle: "Ne sois pas timide!"
+      subtitle: "Ne soyez pas timide!"
       new_message_btn: "Commencer une conversation"
       menu:
         inbox_btn: "Boite de réception"
         sent_btn: "Envoyer"
         trash_btn: "Poubelle"
       empty_trash_btn: "Vider la poubelle"
-      empty_trash_btn_confirm: "Es-tu sûr?"
+      empty_trash_btn_confirm: "Etes-vous sûr?"
       
