@@ -8,6 +8,6 @@ fr:
       error: "Un problème est survenu dans la création de ce manga!"
     update:
       success: "Le manga a été correctement mis à jour."
-      error: "Un problème est survenu dans la mise à jour de ce manga! Essayes de nouveau."
+      error: "Un problème est survenu dans la mise à jour de ce manga! Essayez de nouveau."
     destroy:
       success: "Série correctement effacée!"
