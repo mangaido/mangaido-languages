@@ -1,1 +1,21 @@
 fr:
+  users:
+    form:
+      name_label: "Nom"
+      email_label: "Email"
+      password_label: "Mot de passe (6 caractères min.)"
+      password_confirmation_label: "Confirmer le mot de passe"
+      paypal_email_label: "Email de PayPal"
+      paypal_email_help_btn: "Plus d'info"
+      paypal_email_help_text_html: >
+        Ajoutez votre email PayPal pour savoir où vous envoyer l'argent.
+      about_label: "A propos de moi (Optionnel)"
+      remove_avatar_label: "Enlever cet avatar?"
+      avatar_hint_text: >
+        Pour un meilleur rendu, télécharger l'image avec les dimensions 800x800 px (JPG ou PNG). Si aucun avatar est chargé, nous chercherons votre avatar sur Gravatar.com
+      cover_label: "Couverture"
+      remove_cover_label: "Enlever cette couverture?"
+      cover_hint_text: >
+        Pour un meilleur rendu, télécharger l'image avec les dimensions 1920x320 px (JPG ou PNG)
+      default_language_label: "Language par défault (utilisé pour envoyer des emails)"
+      submit_btn: "Sauvegarder"
