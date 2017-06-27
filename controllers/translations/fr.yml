@@ -1,15 +1,15 @@
 fr:
   traslations:
     show:
-      no_access_error: "Tu n'as pas accès à cette traduction!"
+      no_access_error: "Vous n'avez pas accès à cette traduction!"
     edit:
-      no_access_error: "Tu ne peux pas modifier cette traduction!"
+      no_access_error: "Vous ne pouvez pas modifier cette traduction!"
     create:
-      no_access_error: "Tu ne peux pas créer cette traduction. Essayes plus tard."
+      no_access_error: "Vous ne pouvez pas créer cette traduction. Essayez plus tard."
       success: "La traduction a été correctement créée!"
-      error: "Il y a eu un problème avec la création de ta traduction! Essayes de nouveau."
+      error: "Il y a eu un problème avec la création de votre traduction! Essayez de nouveau."
     update:
       success: "La traduction a été correctement mise à jour."
-      error: "TUn problème est survenu dans la mise à jour de cette traduction."
+      error: "Un problème est survenu dans la mise à jour de cette traduction."
     destroy:
       success: "La traduction a été correctement effacée."
