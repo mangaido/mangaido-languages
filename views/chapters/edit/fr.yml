@@ -13,5 +13,5 @@ fr:
         delete_btn:
           mobile: ""
           desktop: "Effacer"
-        delete_btn_confir: "Es-tu sûr?"
+        delete_btn_confir: "Etes-vous sûr?"
       chapter_images_title: "Images du chapitre:"
