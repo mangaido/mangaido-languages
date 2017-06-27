@@ -2,4 +2,4 @@ fr:
   comments:
     form:
       content_placeholder: "Commentaire..."
-      log_in_message: "Connectes toi pour pouvoir lâcher un commentaire!"
+      log_in_message: "Connectez-vous pour pouvoir lâcher un commentaire!"
