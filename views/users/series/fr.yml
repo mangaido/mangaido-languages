@@ -1,1 +1,6 @@
 fr:
+  users:
+    series:
+      meta_title: "Mangas de %{user_name}"
+      title: "Mangas de %{user_name}:"
+      edit_btn: "Modifier les mangas"
