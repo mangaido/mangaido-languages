@@ -13,7 +13,7 @@ fr:
         mangaido:
           position: "Profil officiel"
         karolina:
-          position: "Co-fondateur"
+          position: "Co-fondatrice"
         bartek:
           position: "Co-fondateur"
         michal:
@@ -21,7 +21,7 @@ fr:
         choux:
           position: "Ambassadrice des français"
       menu:
-        earn_money_with_us_btn: "Gagnes de l'argent avec nous!"
+        earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"
         privacy_btn: "Confidentialité"
         contact_us_btn: "Nous contacter!"
