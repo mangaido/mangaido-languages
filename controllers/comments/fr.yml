@@ -2,6 +2,6 @@ fr:
   comments:
     create:
       success: "Commentaire créé."
-      error: "Un problème est survenu dans la mise à jour de ce commentaire! Essayes de nouveau."
+      error: "Un problème est survenu dans la mise à jour de ce commentaire! Essayez de nouveau."
     destroy:
       success: "Commentaire effacé."
