@@ -1,1 +1,5 @@
 fr:
+  users:
+    show:
+      meta_title: "Profil de %{user_name}"
+      artists_posts: "Publications de %{user_name}:"
