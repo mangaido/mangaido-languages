@@ -18,5 +18,5 @@ fr:
       cover_hint_text: >
         Pour un meilleur rendu, télécharger l'image avec les dimensions 1920x320 px (JPG ou PNG)
       default_language_label: "Language par défault (utilisé pour envoyer des emails)"
-      # country_label: "Your country"
+      country_label: "Votre pays"
       submit_btn: "Sauvegarder"
