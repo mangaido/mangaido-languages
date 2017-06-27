@@ -1,1 +1,5 @@
 fr:
+  users:
+    edit:
+      meta_title: "Modifier le profil de %{user_name}"
+      title: "Modifier le profil de %{user_name}"
