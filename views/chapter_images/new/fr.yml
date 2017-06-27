@@ -11,7 +11,7 @@ fr:
       step_2_subtitle: "Télécharger:"
       step_2_select_files_to_upload: "Veuillez d'abord sélectionner les fichiers à télécharger."
       upload_btn: "En ligne!"
-      file_dropzone_label: Fais glisser les fichiers là, où clique ici pour sélectionner les images à télécharger."
+      file_dropzone_label: Faites glisser les fichiers là, où cliquez ici pour sélectionner les images à télécharger."
       files_label: "Images à télécharger:"
       edit_chapter_btn: "Modifier le chapitre"
       show_chapter_btn: "Voir le chapitre"
