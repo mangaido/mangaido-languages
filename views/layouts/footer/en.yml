@@ -20,6 +20,8 @@ en:
           position: "Co-founder"
         choux:
           position: "Ambassador of French-speaking Users"
+        makkusu:
+          position: "Ambassador of Japanese-speaking Users"
       menu:
         earn_money_with_us_btn: "Earn money with us!"
         terms_of_service_btn: "Terms of service"
