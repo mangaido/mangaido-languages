@@ -1,1 +1,10 @@
 de:
+  sessions:
+    new_form:
+      email_label: "E-mail"
+      password_label: "Passwort"
+      forgot_password_link: "(Passwort vergessen)"
+      remember_me_checkbox: "Auf diesem Computer angemeldet bleiben."
+      log_in_btn: "Anmelden"
+      sign_up_link_html: "Registrieren!"
+      sign_up_text_html: "Neuer Benutzer? %{sign_up_link_html}"
