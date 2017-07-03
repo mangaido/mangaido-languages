@@ -1,1 +1,14 @@
 de:
+  users:
+    new_form:
+      name_label: "Benutzername"
+      email_label: "E-mail"
+      password_label: "Passwort"
+      password_confirmation_label: "Passwort wiederholen"
+      register_btn: "Konto erstellen"
+      log_in_link: "Anmelden!"
+      log_in_text_html: "Sie haben Konto? %{log_in_link_html}"
+      terms_of_service_link: "Nutzungsbedingungen"
+      privacy_policy_link: "Datenschutzerklärung"
+      disclaimer_html: >
+        Durch die Registrierung akzeptieren Sie unsere %{terms_of_service_link_html} und %{privacy_policy_link_html}.
