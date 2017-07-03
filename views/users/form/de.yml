@@ -1,1 +1,22 @@
 de:
+  users:
+    form:
+      name_label: "Name"
+      email_label: "E-mail"
+      password_label: "Passwort (min. 6 Zeichen)"
+      password_confirmation_label: "Passwort nochmals eingeben"
+      paypal_email_label: "PayPal E-mail"
+      paypal_email_help_btn: "Mehr info"
+      paypal_email_help_text_html: >
+        Geben Sie Ihre Paypal E-Mail ein. Wir müssen wissen, wo Geld senden.
+      about_label: "Über mich (Optional)"
+      remove_avatar_label: "Avatar löschen?"
+      avatar_hint_text: >
+        Für die besten Ergebnisse hochladen Bild 800x800 px (JPG oder PNG). Wenn Sie nicht Avatar haben, erhalten Sie Avatar von Gravatar.com
+      cover_label: "Profil-Hintergrund"
+      remove_cover_label: "Profil-Hintergrund löschen?"
+      cover_hint_text: >
+        Für die besten Ergebnisse hochladen Bild 1920x320 px (JPG oder PNG)
+      default_language_label: "Ihre bevorzugte Sprache (verwenden zum Senden von E-mail)"
+      country_label: "Ihr Land"
+      submit_btn: "Speichern"
