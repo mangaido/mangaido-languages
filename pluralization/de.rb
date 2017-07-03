@@ -1,4 +1,4 @@
-# https://github.com/svenfuchs/rails-i18n/blob/master/rails/pluralization/en.rb
+# https://github.com/svenfuchs/rails-i18n/blob/master/rails/pluralization/de.rb
 
 key = lambda do |n|
   n ||= 0
@@ -10,7 +10,7 @@ key = lambda do |n|
   end
 end
 
-{ :en => {
+{ :de => {
     :'i18n' => {
       :plural => {
         :keys => [:one, :other],

@@ -2,7 +2,7 @@
 
 key = lambda { |n| n && n >= 0 && n < 2 ? :one : :other }
 
-{ :en => {
+{ :fr => {
     :'i18n' => {
       :plural => {
         :keys => [:one, :other],
