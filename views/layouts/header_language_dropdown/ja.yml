@@ -1,1 +1,5 @@
 ja:
+  layouts:
+    header_language_dropdown:
+      languages_btn: "語"
+      translate_mangaido_btn: "ほかの語"
