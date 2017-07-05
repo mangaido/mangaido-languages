@@ -1,1 +1,13 @@
 ja:
+  layouts:
+    header:
+      toggle_navigation_text: "Toggle navigation"
+      upload: "アップロード"
+      status_updates: "Feed"
+      feed: "Feed"
+      artworks: "アートワーク"
+      series: "コミックス"
+      novels: "小説"
+      ramen: "ラーメン"
+      log_in: "ログイン"
+      search_btn: "検索"
