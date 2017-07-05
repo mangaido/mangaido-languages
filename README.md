@@ -23,6 +23,7 @@ We're currently supporting:
 - 中國傳統的 (zh-TW)
 - 한국어 (ko)
 - Polski (pl)
+- Deutsch (de)
 
 if you know any other language and you want to help, let us know via email: contact@mangaido.com and we will add support to your language so that you will be able to start your translation journey here.
 
