@@ -1,1 +1,9 @@
 ja:
+  layouts:
+    header_more_dropdown:
+      more_btn: "モア"
+      all_users: "すべてのユーザー"
+      artwork_creators: "絵画家"
+      comic_authors: "コミックス作家"
+      translators: "翻訳者"
+writers: "小説家"
