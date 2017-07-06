@@ -1,1 +1,11 @@
 ja:
+  payments:
+    paypal:
+      description: "Mangaidoのコインを購入する。"
+      item:
+        name:
+          one: "%{count}枚"
+          other: "%{count}枚"
+        description:
+          one: "%{count}枚"
+          other: "%{count}枚"
