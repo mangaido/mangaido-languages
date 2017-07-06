@@ -1,1 +1,9 @@
 ja:
+  artbook_images:
+    form:
+      title: "タイトル (任意)"
+      description: "説明 (任意)"
+      tags: "タグ (任意)"
+      tags_hint: >
+        タグを(,)で分けると、検索に引っかかりやすくなります。
+      save_btn: "セーブ"
