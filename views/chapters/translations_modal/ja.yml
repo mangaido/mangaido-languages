@@ -1,1 +1,8 @@
 ja:
+  chapters:
+    translations_modal:
+      close_btn: "閉じる"
+      title: "翻訳"
+      close_translation_btn: "翻訳を閉じる"
+      new_form_title: "翻訳を追加する"
+      my_translations_btn: "私の翻訳"
