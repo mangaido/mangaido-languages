@@ -1,1 +1,11 @@
 ja:
+  artbooks:
+    new:
+      default_title: "%{user_name}さんのアートブック"
+    create:
+      success: "アートブックが作成されました。"
+    update:
+      success: "アートブックが更新されました。"
+      error: "アートブックの更新時に、問題が発生しました。再度、お試しください。"
+    destroy:
+      success: "アートブックを削除しました。"
