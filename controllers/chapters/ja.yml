@@ -1,1 +1,11 @@
 ja:
+  chapters:
+    show:
+      no_access_error: "チャプターのアクセス権限がありません。"
+    create:
+      success: "チャプターが作成されました。"
+    update:
+      success: "チャプターが更新されました。"
+      erorr: "チャプター更新時に問題が発生しました。再度、お試しください。"
+    destroy:
+      success: "チャプターを削除しました。"
