@@ -1,1 +1,140 @@
 ja:
+  languages:
+    af:
+      name: "アフリカ語"
+    sq:
+      name: "アルバニア語"
+    ar:
+      name: "アラブア後"
+    hy:
+      name: "アルメニア語"
+    cy_az:
+      name: "アゼルバイジャン語 (キリル)"
+    lt_az:
+      name: "アゼルバイジャン語 (ラテン)"
+    eu:
+      name: "バスク語"
+    be:
+      name: "ベラルーシ後"
+    bg:
+      name: "ブルガリア語"
+    ca:
+      name: "カタルーニャ語"
+    zh_CHS:
+      name: "中国語(簡体字)"
+    zh_CHT:
+      name: "中国語(繁体字)"
+    hr:
+      name: "クロアチア語"
+    cs:
+      name: "チェコ語"
+    da:
+      name: "デンマーク語"
+    div:
+      name: "ディベヒ語"
+    nl:
+      name: "オランダ語"
+    en_US:
+      name: "英語"
+    et:
+      name: "エストニア語"
+    fo:
+      name: "フェロー語"
+    fi:
+      name: "フィンランド語"
+    fr:
+      name: "フランス語"
+    gl:
+      name: "ガリシア語"
+    ka:
+      name: "ジョージア語"
+    de:
+      name: "ドイツ語"
+    el:
+      name: "ギリシア語"
+    gu:
+      name: "グジャラート語"
+    he:
+      name: "ヘブライ語"
+    hi:
+      name: "ヒンディー語"
+    hu:
+      name: "ハンガリー語"
+    is:
+      name: "アイスランド語"
+    id:
+      name: "インドネシア語"
+    it:
+      name: "イタリア語"
+    ja:
+      name: "日本語"
+    kn:
+      name: "カンナダ語"
+    kk:
+      name: "カザフ語"
+    kok:
+      name: "コーンクニー語"
+    ko:
+      name: "韓国語"
+    ky:
+      name: "キルギス語"
+    lv:
+      name: "ラトビア語"
+    lt:
+      name: "リトアニア語"
+    mk:
+      name: "マケドニア語"
+    ms:
+      name: "マレー語"
+    mr:
+      name: "マラーティー語"
+    mn:
+      name: "モンゴル語"
+    nb_NO:
+      name: "ノルウェー語(書籍語)"
+    nn_NO:
+      name: "ノルウェー語(新ノルウェー語)"
+    pl_PL:
+      name: "ポーランド語"
+    pt:
+      name: "ポルトガル語"
+    pa:
+      name: "パンジャーブ語"
+    ro:
+      name: "ルーマニア語"
+    ru:
+      name: "ロシア語"
+    sa:
+      name: "サンスクリット語"
+    cy_sr:
+      name: "セルビア語(キリル)"
+    lt_sr:
+      name: "セルビア語(ラテン)"
+    sk:
+      name: "スロバキア語"
+    sl:
+      name: "スロベニア語"
+    es:
+      name: "スペイン語"
+    syr:
+      name: "シリア語"
+    ta:
+      name: "タミル語"
+    tt:
+      name: "タタール語"
+    te:
+      name: "テルグ語"
+    th:
+      name: "タイ語"
+    tr:
+      name: "トルコ語"
+    uk:
+      name: "ウクライナ語"
+    ur:
+      name: "ウルドゥー語"
+    cy_uz:
+      name: "ウズベキスタン語(キリル)"
+    lt_uz:
+      name: "ウズベキスタン語(ラテン)"
+    vi:
+      name: "ベトナム語"
