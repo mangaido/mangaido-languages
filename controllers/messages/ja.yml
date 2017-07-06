@@ -1,1 +1,4 @@
 ja:
+  messages:
+    create:
+      success: "メッセージを送信しました。"
