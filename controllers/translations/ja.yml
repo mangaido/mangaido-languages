@@ -1,1 +1,15 @@
 ja:
+  traslations:
+    show:
+      no_access_error: "アクセス権限がありません。"
+    edit:
+      no_access_error: "翻訳を編集できません。"
+    create:
+      no_access_error: "翻訳を作成できませんでした。再度、お試しください。"
+      success: "翻訳を作成しました。"
+      error: "翻訳作成時に、問題が発生しました。再度、お試しください。"
+    update:
+      success: "翻訳を更新しました。"
+      error: "翻訳更新時に、問題が発生しました。再度、お試しください。"
+    destroy:
+      success: "翻訳を削除しました。"
