@@ -1,1 +1,8 @@
 ja:
+  chapters:
+    translation_list:
+      translation_link_hint: "読む"
+      author_link_hint: "作者を表示"
+      translation_edit_btn_hint: "編集"
+      buy_link_hint: "チャプターを買う"
+      no_translations_msg: "現在このチャプターは、翻訳されていません。"
