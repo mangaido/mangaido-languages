@@ -1,1 +1,5 @@
 ja:
+  artbooks:
+    form:
+      title_label: "タイトル"
+      submit_btn: "送信"
