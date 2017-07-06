@@ -1,1 +1,4 @@
 ja:
+  artbook_images:
+    my_gallery_item:
+      delete_btn_confirm: "本当に削除しますか？"
