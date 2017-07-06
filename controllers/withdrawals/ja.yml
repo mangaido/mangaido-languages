@@ -1,1 +1,4 @@
 ja:
+  withdrawals:
+    create:
+      no_access_error: "エラーです。"
