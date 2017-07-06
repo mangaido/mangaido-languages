@@ -1,1 +1,12 @@
 ja:
+  artbook_images:
+    show:
+      meta_title: "アートブックページ
+      previous_btn: "前"
+      nr_of_pages: "%{page_nr} / %{pages}"
+      next_btn: "次"
+      edit_this_image_option: "イメージを編集"
+      edit_this_artbook_option: "アートブックを編集"
+      edit_all_my_artbooks_option: "全アートブックを編集"
+      author_label: "作者:"
+      artbook_label: "アートブック:"
