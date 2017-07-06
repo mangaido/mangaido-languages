@@ -1,1 +1,6 @@
 ja:
+  likes:
+    unlike:
+      tooltip: "好きではない!"
+      likes:
+        other: "いいね！"
