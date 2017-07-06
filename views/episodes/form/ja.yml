@@ -1,1 +1,10 @@
 ja:
+  episodes:
+    form:
+      title_label: "タイトル"
+      description_label: "記述(要らない)"
+      text_label: "テキスト"
+      is_published_label: "出版"
+      is_published_yes_label: "出版"
+      is_published_no_label: "ドラフト"
+      submit_btn: "出す"
