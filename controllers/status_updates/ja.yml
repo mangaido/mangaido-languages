@@ -1,1 +1,6 @@
 ja:
+  status_updates:
+    create:
+      success: "ステータスを更新しました。"
+    destroy:
+      success: "ステータスを破棄しました。"
