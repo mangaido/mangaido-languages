@@ -1,1 +1,10 @@
 ja:
+  episodes:
+    list:
+      title: "%{nr}). %{title}"
+      updated_ago: "%{time}間前アップデートしました"
+      views:
+        other: "閲覧数：%{count}"
+      comments:
+        other: "コメント：%{count}"
+      not_published_message: "出版しません"
