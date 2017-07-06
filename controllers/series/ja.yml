@@ -1,1 +1,13 @@
 ja:
+  series:
+    show:
+      not_published_error: "このマンガシリーズは、公開されていません。"
+      not_published_info: "このマンガシリーズは、公開されていません。"
+    create:
+      success: "マンガシリーズが作成されました。"
+      error: "マンガシリーズ作成時にエラーが発生しました。再度、お試しください。"
+    update:
+      success: "マンガシリーズを更新しました。"
+      error: "マンガシリーズ更新時にエラーが発生しました。再度、お試しください。"
+    destroy:
+      success: "マンガシリーズを削除しました。"
