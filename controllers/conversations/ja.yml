@@ -1,1 +1,12 @@
 ja:
+  conversations:
+    reply:
+      success: "返信しました。"
+    destroy:
+      success: "会話内容を削除しました。"
+    restore:
+      success: "会話内容をもどしました。"
+    empty_trash:
+      success: "削除しました。"
+    mark_as_read:
+      success: "既読にしました。"
