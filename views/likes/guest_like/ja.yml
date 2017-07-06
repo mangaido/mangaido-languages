@@ -1,1 +1,6 @@
 ja:
+  likes:
+    guest_like:
+      tooltip: "いいね！"
+      likes:
+        other: "いいね！"
