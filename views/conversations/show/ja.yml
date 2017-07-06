@@ -1,1 +1,10 @@
 ja:
+  conversations:
+    show:
+      meta_title: "%{subject} - 会話ページ"
+      title: "%{subject} - 会話"
+      chatting_with: "会話の相手"
+      message:
+        info: "%{sender_name}はこのメッセージを%{time_ago}間前送りました"
+        textarea_placeholder: "返事。。。"
+        submit_btn: "メッセージを送る"
