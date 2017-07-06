@@ -1,1 +1,6 @@
 ja:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "%{count}　本"
+        other: "%{count} 本"
