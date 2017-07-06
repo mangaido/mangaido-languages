@@ -1,1 +1,42 @@
 ja:
+  activerecord:
+    models:
+      artbook_images:
+        one: "アートワーク"
+        other: "アートワーク"
+      artbook:
+        one: "アートブック"
+        other: "アートブック"
+      chapter_image:
+        one: "チャプターイメージ"
+        other: "チャプターイメージ"
+      chapter:
+        one: "チャプター"
+        other: "チャプター"
+      comment:
+        one: "コメント"
+        other: "コメント"
+      episode:
+        one: "エピソード"
+        other: "エピソード"
+      noodle:
+        one: "ラーメン"
+        other: "ラーメン"
+      novel:
+        one: "小説"
+        other: "小説"
+      series:
+        one: "マンガシリーズ"
+        other: "マンガシリーズ"
+      status_update:
+        one: "掲示板"
+        other: "掲示板"
+      translation_balloon:
+        one: "翻訳ヒント"
+        other: "翻訳ヒント"
+      translation:
+        one: "翻訳"
+        other: "翻訳"
+      user:
+        one: "ユーザ"
+        other: "ユーザ"
