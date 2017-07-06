@@ -1,1 +1,16 @@
 ja:
+  artbook_images:
+    index:
+      meta_title: "最新のアートワーク"
+      title: "最新のアートワーク"
+      subtitle: "想像力を解放せよ"
+      toolbar:
+        add_new_artworks:
+          mobile: "追加"
+          desktop: "アートワークを追加"
+        my_artbooks:
+          mobile: "私の"
+          desktop: "私のアートブック"
+        edit_my_artbooks:
+          mobile: "編集"
+          desktop: "アートブックを編集"
