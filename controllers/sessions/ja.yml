@@ -1,1 +1,5 @@
 ja:
+  sessions:
+    create:
+      not_activated_warning: "アカウントができておりません。メールのリンクから、確認してください。"
+      error: "メールアドレス、パスワードの組み合わせが不正です。"
