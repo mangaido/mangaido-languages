@@ -1,1 +1,5 @@
 ja:
+  episodes:
+    new:
+      meta_title: "新エピソードページ"
+      title: "新エピソードを出す"
