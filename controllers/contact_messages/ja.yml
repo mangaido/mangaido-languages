@@ -1,1 +1,5 @@
 ja:
+  contact_messgaes:
+    create:
+      success: "メッセージが送信されました。"
+      error: "メッセージ送信時に、エラーが発生しました。"
