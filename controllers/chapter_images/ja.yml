@@ -1,1 +1,4 @@
 ja:
+  chapter_images:
+    destroy:
+      success: "イメージを削除しました。"
