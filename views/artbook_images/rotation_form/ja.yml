@@ -1,1 +1,5 @@
 ja:
+  artbook_images:
+    rotation_form:
+      rotate_left_btn: "左へ回転"
+      rotate_right_btn: "右へ回転"
