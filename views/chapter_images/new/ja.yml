@@ -1,1 +1,18 @@
 ja:
+  chapter_images:
+    new:
+      meta_title: "新しいイメージを追加"
+      title: "新しいチャプターイメージを追加"
+      chapter_images_hint_text: >
+        イメージ画像の大きさは、720x5000px以下におさめて下さい。15MB以上のファイルは、アップロードできません。
+       
+      step_1: "ステップ #1"
+      step_1_subtitle: "イメージを選択:"
+      step_2: "ステップ #2"
+      step_2_subtitle: "アップロード:"
+      step_2_select_files_to_upload: "アップロードするイメージを選択してください。"
+      upload_btn: "アップロード"
+      file_dropzone_label: "ファイルをドロップするか,アップロードするイメージを選択してください。"
+      files_label: "イメージをアップロード:"
+      edit_chapter_btn: "チャプターを編集"
+      show_chapter_btn: "チャプターを表示"
