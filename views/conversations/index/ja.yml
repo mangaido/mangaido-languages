@@ -1,1 +1,13 @@
 ja:
+  conversations:
+    index:
+      meta_title: "メールボックス"
+      title: "メールボックス"
+      subtitle: "don't be a stranger!"
+      new_message_btn: "新しいやりとりを開始"
+      menu:
+        inbox_btn: "メッセージ"
+        sent_btn: "送信されたメッセージ"
+        trash_btn: "ゴミ箱"
+      empty_trash_btn: "ゴミ箱を空にする"
+      empty_trash_btn_confirm: "本当に？"
