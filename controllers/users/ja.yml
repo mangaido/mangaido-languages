@@ -1,1 +1,6 @@
 ja:
+  users:
+    create:
+      not_activated_info: "アカウントを許可するため、メールをご確認してください。"
+    update:
+      success: "プロフィールを更新しました。"
