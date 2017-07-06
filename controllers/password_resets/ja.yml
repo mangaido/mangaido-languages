@@ -1,1 +1,9 @@
 ja:
+  password_resets:
+    create:
+      success: "リセットパスワードを送信しました。メールをご確認ください。"
+      email_not_found_error: "メールアドレスが不正です。"
+    update:
+      success: "パスワードを変更しました。"
+    check_expiration:
+      error: "時間切れです。再度、お試しください。"
