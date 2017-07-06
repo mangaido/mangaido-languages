@@ -1,1 +1,4 @@
 ja:
+  votes:
+    create:
+      error: "エラーが発生しました。 :("
