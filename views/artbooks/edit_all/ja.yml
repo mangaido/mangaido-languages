@@ -1,1 +1,11 @@
 ja:
+  artbooks:
+    edit_all:
+      meta_title: "アートブックを編集"
+      title: "アートブックを編集"
+      new_artbook_btn:
+        mobile: "追加"
+        desktop: "アートブックを追加"
+      show_my_artbooks_btn:
+        mobile: "表示"
+        desktop: "アートブックを表示"
