@@ -1,1 +1,8 @@
 ja:
+  transactions:
+    new:
+      error: "トランザクションの作成に失敗しました。"
+    create:
+      no_enough_coins_error: "トランザクション作成のためには、コインが必要です。"
+      success: "トランザクション作成に成功しました。"
+      error: "エラーです。"
