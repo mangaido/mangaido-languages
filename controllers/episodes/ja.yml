@@ -1,1 +1,12 @@
 ja:
+  episodes:
+    show:
+      episode_not_published_error: "このエピソードは、公開されていません。"
+      novel_not_published_error: "この小説は、公開されていません。"
+      episode_not_published_info: "この小説は、公開されていません。"
+    create:
+      success: "エピソードが作成されました。"
+    update:
+      success: "エピソードが更新されました。"
+    destroy:
+      success: "エピソードが削除されました。"
