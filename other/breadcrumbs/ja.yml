@@ -1,1 +1,67 @@
 ja:
+  breadcrumbs:
+    root: "ホーム"
+    artbook_images:
+      index: "アートワーク"
+      edit: "編集: %{title}"
+      new: "新しいアートワーク"
+    artbooks:
+      edit_all: "アートブックを編集"
+      edit: "編集: %{title}"
+      new: "新しいアートブックを追加"
+      show: "%{title} を表示"
+    chapter_images:
+      new: "新しいチャプターイメージを追加"
+    chapters:
+      edit: "チャプターを編集"
+      new: "新しいチャプターを追加"
+    conversations:
+      index: "メールボックス"
+      show: "会話"
+    episodes:
+      new: "新しいエピソードを追加"
+      edit: "エピソードう編集"
+    messages:
+      new: "新しいメッセージ"
+    noodles:
+      edit: "ラーメンを編集"
+      index: "ラーメンボール"
+      my_index: "私のラーメン"
+      new: "新しいラーメンを追加"
+    novels:
+      index: "小説"
+      new: "新しい小説を追加"
+      edit: "小説を編集"
+      edit_all: "全小説を編集"
+      user_novels: "作家の小説"
+    users:
+      artbooks: "ユーザのアートブック"
+      authors: "作成者"
+      dashboard: "ダッシュボード"
+      edit: "%{user_name}さんのプロフィールを編集"
+      index: "ユーザ"
+      series: "ユーザのマンガシリーズ"
+    payments:
+      index: "お支払い"
+      new: "コインを買う"
+    series:
+      edit: "マンガシリーズを編集"
+      edit_all: "全マンガシリーズを編集"
+      for_adults: "18禁"
+      index: "マンガシリーズ"
+      new: "新しいマンガシリーズを追加"
+    static_pages:
+      earn_money_with_us: "お金を稼ごう！！"
+      privacy_policy: "プライバシーポリシー"
+      search: "結果を検索"
+      terms_of_service: "サービスについて"
+      translate_mangaido_to_your_language: "Mangaidoを翻訳しよう"
+    transactions:
+      chapter_purchases: "チャプターを購入"
+      chapter_sales: "チャプターの販売"
+      donations_sent: "寄付の贈与"
+      donations_received: "寄付の受け取り"
+    translations:
+      edit: "編集: %{language_name}"
+    withdrawals:
+      index: "出金"
