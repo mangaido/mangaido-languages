@@ -1,1 +1,34 @@
 ja:
+  chapters:
+    form:
+      title_label: "タイトル"
+      is_published_label: "公開しますか？"
+      is_published_yes_label: "公開しました。"
+      is_published_no_label: "草稿中"
+      cover_label: "Cover (Optional)"
+      remove_cover_yes_label: "カバーを外す"
+      remove_cover_no_label: "カバーを外す"
+      cover_hint_text: >
+        640x260 px (JPG or PNG)が理想的な大きさです。
+      amount_of_coins_label: "コインの量:"
+      amount_of_coins_help_btn: "インフォメーション"
+      amount_of_coins_help_text_html: >
+        ここで読者が支払うべきコイン量を選択することができます。<br />
+        0枚にすると無料です。<br />
+        いつでも変更可能です。<br />
+        自動的にトランザクションごとに%{percent_fee}%ずつ控除されます。 
+      amount_of_coins_select:
+        one: "%{count} 枚"
+        other:  "%{count} 枚"
+      authorized_users_label: "認定ユーザ:"
+      authorized_users_help_btn: "インフォメーション"
+      authorized_users_help_text_html: 
+        ここでは、あなたのチャプターにアクセスできるユーザを選択できます。コインを払わなくても、また非公開でも選択可能です。<br />
+        また、翻訳者をチャプターにアクセスさせることができるのも特徴です。<br />
+        認定ユーザのみあなたのチャプターを読むことができ、また翻訳することが可能です。また、認定ユーザは、編集することができません。<br />
+        あなたのチャプターのリンクを送るだけです。<br />
+        認定ユーザをいつでも追加したり削除することができます。<br />
+        認定ユーザは、最大%{max_users}人です。
+      authorized_users_field_placeholder: "ユーザ検索"
+      too_many_users_error: "認定ユーザが多すぎます。"
+      submit_btn: "送信"
