@@ -1,1 +1,13 @@
 ja:
+  artbooks:
+    show:
+      meta_title: "%{title} - アートブック"
+      new_artworks_btn:
+        mobile: "追加"
+        desktop: "アートブックを追加"
+      my_artbooks_btn:
+        mobile: "私の"
+        desktop: "私のアートブック"
+      edit_this_artbook:
+        mobile: "編集"
+        desktop: "アートブックを編集"
