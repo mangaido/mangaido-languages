@@ -1,1 +1,7 @@
 ja:
+  comments:
+    create:
+      success: "コメントを投稿しました。"
+      error: "コメント投稿時にエラーが発生しました。再度、お試しください。"
+    destroy:
+      success: "コメントを削除しました。"
