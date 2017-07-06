@@ -1,1 +1,7 @@
 ja:
+  comments:
+    comments_body:
+      no_comments_message: "まだコメントが投稿されていません。コメントを投稿してあげましょう。"
+      delete_btn: "削除"
+      delete_btn_confirm: "このコメントを削除しますか？"
+      time_ago: "%{time_ago} 時間前"
