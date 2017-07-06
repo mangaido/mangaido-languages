@@ -1,1 +1,9 @@
 ja:
+  contact_messages:
+    new:
+      meta_title: "お問い合わせ"
+      title: "お問い合わせ"
+      name_label: "名前"
+      email_label: "Email"
+      content_label: "内容"
+      submit_btn: "送信"
