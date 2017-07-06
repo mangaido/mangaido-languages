@@ -1,1 +1,11 @@
 ja:
+  novels:
+    show:
+      not_published_error: "小説を公開していません。"
+      not_published_info: "小説を公開していません。"
+    create:
+      success: "小説を作成しました。"
+    update:
+      success: "小説を更新しました。"
+    destroy:
+      success: "小説を削除しました。"
