@@ -1,1 +1,10 @@
 ja:
+  noodles:
+    update:
+      success: "ラーメンを更新しました。"
+      error: "ラーメン更新時に問題が発生しました。再度、お試しください。"
+    create:
+      success: "ラーメンを作成しました。"
+      error: "ラーメンを作成できませんでした。"
+    destroy:
+      success: "ラーメンを削除しました。"
