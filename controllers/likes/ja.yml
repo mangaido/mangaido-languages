@@ -1,1 +1,4 @@
 ja:
+  likes:
+    create:
+      error: "エラーです。 :("
