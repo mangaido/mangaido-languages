@@ -1,1 +1,36 @@
 ja:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "バリデーションエラー:%{errors}"
+        restrict_dependent_destroy:
+          has_one: "%{record}が存在しているため、レコードを消去できません。"
+          has_many: "%{record}が存在しているため、レコードを消去できません。"
+      models:
+        artbook_image:
+          image_too_big: "アートブックイメージのサイズは、%{size}以下にしてください。"
+        chapter:
+          image_too_big: "イメージのサイズは、%{size}以下にしてください。"
+          too_many_authorized_users: "このチャプターは、すでに他のユーザに所有されています。"
+        chapter_image:
+          image_too_big: "チャプターイメージのサイズは、%{size}以下にしてください。"
+        noodle:
+          image_too_big: "イメージのサイズは、%{size}以下にしてください。"
+        novel:
+          image_too_big: "イメージのサイズは、%{size}以下にしてください。"
+        password_reset:
+          password:
+            cant_be_empty: "パスワードを入力してください。"
+        series:
+          cover_too_big: "イメージのサイズは、%{size}以下にしてください。"
+          wide_cover_too_big: "イメージのサイズは、%{size}以下にしてください。"
+        status_update:
+          image_too_big: "イメージのサイズは、%{size}以下にしてください。"
+        transaction:
+          general_error: "トランザクション処理に失敗しました。再度、お試しください。"
+          not_enough_coins: "コインが足りません。"
+        user:
+          avatar_too_big: "アバターイメージのサイズは、%{size}以下にしてください。"
+          cover_too_big: "カバーイメージのサイズは、%{size}以下にしてください。"
+        withdrawal:
+          not_enough_coins: "コインが足りません。"
