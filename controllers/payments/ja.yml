@@ -1,1 +1,6 @@
 ja:
+  payments:
+    success:
+      success: "支払いが完了しました。"
+    cancel:
+      error: "支払いをキャンセルしました。"
