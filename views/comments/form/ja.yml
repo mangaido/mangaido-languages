@@ -1,1 +1,5 @@
 ja:
+  comments:
+    form:
+      content_placeholder: "コメント..."
+      log_in_message: "ログイン後、コメントできます。"
