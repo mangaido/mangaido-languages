@@ -1,1 +1,17 @@
 ja:
+  chapters:
+    edit:
+      meta_title: "%{series_title} - %{chapter_title} - チャプター編集"
+      title: "チャプター編集: %{title}"
+      toolbar:
+        add_new_images_btn:
+          desktop: "イメージを編集"
+          mobile: "追加"
+        read_chapter_btn:
+          desktop: "チャプターを読む"
+          mobile: "読む"
+        delete_btn:
+          mobile: ""
+          desktop: "削除"
+        delete_btn_confir: "本当に削除しますか？"
+      chapter_images_title: "チャプターイメージ:"
