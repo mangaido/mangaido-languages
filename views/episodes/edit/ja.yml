@@ -1,1 +1,17 @@
 ja:
+  episodes:
+    edit:
+      meta_title: "%{title} - エピソードページをエディトする"
+      title: "%{title} - エピソードをエディトする"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "戻る"
+          desktop: "小説に戻る"
+        show_btn:
+          mobile: "見る"
+          desktop: "このエピソードを見る"
+        delete_confirm: >
+          Are you sure you want to delete this episode?
+        delete_btn:
+          mobile: "削除"
+          desktop: "このエピソードを削除する"
