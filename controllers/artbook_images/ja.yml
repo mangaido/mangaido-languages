@@ -1,1 +1,6 @@
 ja:
+  artbook_images:
+    update:
+      success: "アートブックイメージを更新しました。"
+    destroy:
+      success: "イメージを削除しました。"
