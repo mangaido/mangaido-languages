@@ -1,1 +1,5 @@
 ja:
+  account_activations:
+    edit:
+      success: "アカウントが更新されました。"
+      error: "エラーです。"
