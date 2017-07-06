@@ -1,1 +1,14 @@
 ja:
+  artbook_images:
+    edit:
+      meta_title: "アートワークを編集"
+      title: "アートワークを編集:"
+      previous_btn: "前"
+      back_to_artbook:
+        mobile: "戻る"
+        desktop: "アートブックに戻る"
+      show_artwork:
+        mobile: "表示"
+        desktop: "アートワークを表示"
+      next_btn: "次"
+      delete_btn: "削除"
