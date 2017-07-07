@@ -1,1 +1,5 @@
 ja:
+  users:
+    followers:
+      meta_title: "%{user_name}のフォロワーページ"
+      title: "%{user_name}のフォロワー"
