@@ -1,7 +1,7 @@
 ja:
   artbook_images:
     show:
-      meta_title: "アートブックページ
+      meta_title: "アートブックページ"
       previous_btn: "前"
       nr_of_pages: "%{page_nr} / %{pages}"
       next_btn: "次"

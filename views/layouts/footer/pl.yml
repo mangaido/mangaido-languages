@@ -22,6 +22,8 @@ pl:
           position: "Ambasador Francuskojęzycznych użytkowników"
         makkusu:
           position: "Ambasador Japońskojęzycznych użytkowników"
+        kokko:
+          position: "Ambasador Japońskojęzycznych użytkowników"
       menu:
         earn_money_with_us_btn: "Zarabiaj z nami!"
         terms_of_service_btn: "Zasady świadczenia usług"

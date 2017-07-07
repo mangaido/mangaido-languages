@@ -22,6 +22,8 @@ fr:
           position: "Ambassadrice des français"
         makkusu:
           position: "Ambassadeur des japonais"
+        kokko:
+          position: "Ambassadeur des japonais"
       menu:
         earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"
