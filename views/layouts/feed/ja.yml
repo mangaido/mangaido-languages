@@ -1,1 +1,14 @@
 ja:
+  layouts:
+    feed:
+      edit_profile_btn: "プロフィールの編集"
+      artbooks_btn: "アートブック"
+      artbooks_edit_link: "編集"
+      comic_series_btn: "マンガシリーズ"
+      comic_series_edit_link: "編集"
+      translations_btn: "翻訳"
+      novels_btn: "小説"
+      novels_edit_link: "編集"
+      following_btn: "フォロー"
+      followers_btn: "フォロワー"
+      mailbox_btn: "メール"
