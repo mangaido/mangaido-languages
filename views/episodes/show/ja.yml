@@ -1,1 +1,36 @@
 ja:
+  episodes:
+    show:
+      meta_title: "%{title} - エピソードページ"
+      toolbar:
+        my_novels_btn:
+          mobile: "私の"
+          desktop: "私の小説"
+        edit_btn:
+          mobile: "編集"
+          desktop: "小説を編集"
+      by_author:
+        html: "作者詳細: %{author_link}"
+      novel_btns:
+        views:
+          one: "閲覧回数:%{count}回"
+          other: "閲覧回数:%{count}回"
+        comments:
+          one: "%{count}個"
+          other: "%{count}個"
+      updated_ago: "更新:%{time}前"
+      episode_btns:
+        views:
+          one: "閲覧回数:%{count}回"
+          other: "閲覧回数:%{count}回"
+        comments:
+          one: "%{count}個"
+          other: "%{count}個"
+      description_label: "作者について:"
+      prev_btn:
+        mobile: "前"
+        desktop: "前回"
+      next_btn:
+        mobile: "次"
+        desktop: "次回"
+      comments_label: "コメント:"
