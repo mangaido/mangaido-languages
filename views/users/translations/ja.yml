@@ -1,1 +1,5 @@
 ja:
+  users:
+    translations:
+      meta_title: "%{user_name}の翻訳ページ"
+      title: "%{user_name}の翻訳:"
