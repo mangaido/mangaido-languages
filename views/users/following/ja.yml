@@ -1,1 +1,5 @@
 ja:
+  users:
+    following:
+      meta_title: "%{user_name}のフォローユーザーページ"
+      title: "%{user_name}のフォローユーザー"
