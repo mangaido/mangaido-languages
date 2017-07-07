@@ -1,1 +1,6 @@
 ja:
+  users:
+    artbooks:
+      meta_title: "%{user_name}のアートブックページ"
+      title: "%{user_name}のアートブック:"
+      edit_artbooks_btn: "アートブックをエディットする"
