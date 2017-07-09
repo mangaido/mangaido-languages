@@ -1,1 +1,5 @@
 ja:
+  noodles:
+    noodle_mobile:
+      source_html: "ソースリンク: %{link_html}"
+      time_ago: "%{time_ago}前"
