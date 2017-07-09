@@ -1,1 +1,15 @@
 ja:
+  novels:
+    form:
+      title_label: "タイトル"
+      description_label: "説明 (任意)"
+      is_published_label: "公開しますか？"
+      is_published_yes_label: "公開されました。"
+      is_published_no_label: "草稿中"
+      cover_label: "カバー (任意)"
+      remove_cover_yes_label: "このカバーを削除する。"
+      remove_cover_no_label: "カバーを削除する"
+      cover_hint_text: >
+        推奨サイズ:%{width}x%{height}px (JPG or PNG)
+        %{max_size_in_mb}MB以上の大きさは、アップロード不可
+      submit_btn: "送信"
