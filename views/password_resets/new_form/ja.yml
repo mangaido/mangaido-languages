@@ -1,1 +1,9 @@
 ja:
+  password_resets:
+    new_form:
+      email_label: "Email"
+      submit_btn: "パスワードをリセット"
+      login_btn: "ログイン"
+      back_to_login_html: "ログイン画面にもどりますか? %{login_btn_html}"
+      signup_btn: "登録しました!"
+      new_user_html: "登録は、お済ですか? %{signup_btn_html}"
