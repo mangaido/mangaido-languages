@@ -1,1 +1,12 @@
 ja:
+  payments:
+    index:
+      meta_title: "お支払いページ"
+      payments_label: "お支払い:"
+      table:
+        amount_of_coins: "コイン量"
+        amount_of_money: "金額"
+        completed: "完了しましたか?"
+        completed_yes: "はい"
+        completed_no: "いいえ"
+        date: "日付"
