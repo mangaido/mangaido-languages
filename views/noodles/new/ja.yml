@@ -1,1 +1,6 @@
 ja:
+  noodles:
+    new:
+      meta_title: "新しいヌードルページ"
+      title: "新しいヌードルを追加"
+      subtitle: "ここで新しいヌードルを作成することができます。"
