@@ -1,1 +1,14 @@
 ja:
+  noodles:
+    index:
+      meta_title: "ラーメンボウル"
+      logo_img_alt: "ラーメンロゴ"
+      title: "ラーメンボウル"
+      subtitle_html: >
+        あなたのとっておきのラーメンボウルをチェックしよう！<br />
+      new_noodle_btn:
+        mobile: "ヌードルを追加"
+        desktop: "ヌードルを追加"
+      my_noodles_btn:
+        mobile: "私のヌードル"
+        desktop: "私のヌードル"
