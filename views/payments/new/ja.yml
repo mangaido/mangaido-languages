@@ -1,1 +1,7 @@
 ja:
+  payments:
+    new:
+      meta_title: "コインの購入"
+      coin_packages_title: "コインパッケージを選択してください。"
+      calculation_label: "計算する"
+      buy_btn: "購入"
