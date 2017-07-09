@@ -1,1 +1,4 @@
 ja:
+  noodles:
+    noodle:
+      delete_btn_confirm: "本当に削除しますか？"
