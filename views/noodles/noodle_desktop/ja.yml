@@ -1,1 +1,7 @@
 ja:
+  noodles:
+    noodle_desktop:
+      time_ago: "%{time_ago}前,"
+      comments_count:
+        one: "%{count}コメント"
+        other: "%{count}コメント"
