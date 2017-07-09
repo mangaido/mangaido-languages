@@ -1,1 +1,16 @@
 ja:
+  novels:
+    edit:
+      meta_title: "小説を編集"
+      title: "小説を編集"
+      toolbar:
+        add_new_episode_btn:
+          mobile: "追加"
+          desktop: "新しいエピソードを追加"
+        show_btn:
+          mobile: "表示"
+          desktop: "小説を表示"
+        delete_confirm: "この小説を本当に削除しますか？"
+        delete_btn:
+          mobile: "削除"
+          desktop: "小説を削除"
