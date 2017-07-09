@@ -1,1 +1,7 @@
 ja:
+  layouts:
+    header_notifications_dropdown:
+      notifications_title: "お知らせ"
+      mark_all_as_read_btn: "全て既読"
+      loader: "ロード中"
+      show_all_btn: "すべて表示"
