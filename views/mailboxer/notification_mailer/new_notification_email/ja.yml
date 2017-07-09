@@ -1,1 +1,26 @@
 ja:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "確認する"
+        message: >
+          お知らせ!
+          こんにちは %{user_name}さん,
+          %{text}
+          確認しましょう。: %{notification_link}
+        message_html: >
+          <h1>
+           　お知らせです。
+          </h1>
+
+          <p>
+            こんにちは %{user_name}さん,
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{notification_link_html}
+          </p>
