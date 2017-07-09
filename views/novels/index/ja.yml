@@ -1,1 +1,13 @@
 ja:
+  novels:
+    index:
+      meta_title: "小説ページ"
+      title: "最新の小説"
+      subtitle: "想像力を発揮せよ"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "追加"
+          desktop: "小説を追加"
+        my_novels_btn:
+          mobile: "私の"
+          desktop: "私の小説"
