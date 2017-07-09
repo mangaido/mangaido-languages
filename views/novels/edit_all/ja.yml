@@ -1,1 +1,12 @@
 ja:
+  novels:
+    edit_all:
+      meta_title: "この小説を編集"
+      title: "全小説を編集"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "追加"
+          desktop: "新しい小説を追加"
+        my_novels_btn:
+          mobile: "私の"
+          desktop: "私の小説"
