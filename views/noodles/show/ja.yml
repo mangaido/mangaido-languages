@@ -1,1 +1,9 @@
 ja:
+  noodles:
+    show:
+      meta_title: "%{title} - ラーメンヌードルページ"
+      info_html: "%{time_ago}前 作成者: %{user_link_html}"
+      edit_btn: "編集"
+      delete_btn: "削除"
+      delete_btn_confirm: "本当に削除しますか？"
+      delete_btn_hint: "ヌードルを削除"
