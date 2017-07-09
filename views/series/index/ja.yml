@@ -1,1 +1,18 @@
 ja:
+  series:
+    index:
+      meta_title: "マンガシリーズ"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "追加"
+          desktop: "新しいマンガシリーズを追加"
+        my_comic_series_btn:
+          mobile: "私の"
+          desktop: "私のマンガシリーズ"
+        edit_my_comic_series_btn:
+          mobile: "編集"
+          desktop: "マンガシリーズを編集"
+        for_adults_btn:
+          mobile: "+18"
+          desktop: "18禁"
+      translations_title: "翻訳"
