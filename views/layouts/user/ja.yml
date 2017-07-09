@@ -1,1 +1,49 @@
 ja:
+  layouts:
+    user:
+      edit_profile: "プロフィールを編集"
+      send_message: "メッセージを送信"
+      stats:
+        following:
+          one: "フォロ数ー"
+          other: "フォロー数"
+        followers:
+          one: "フォロワー数"
+          other: "フォロワー数"
+        posts:
+          one: "記事数"
+          other: "記事数"
+        artwork_views:
+          one: "アートワーク数"
+          other: "アートワーク数"
+        series_views:
+          one: "マンガシリーズ数"
+          other: "マンガシリーズ数"
+        translation_views:
+          one: "翻訳数"
+          other: "翻訳数"
+        novel_views:
+          one: "小説数"
+          other: "小説数"
+      menu:
+        donate: "寄付ユーザ"
+        artbooks:
+          one: "%{count}枚"
+          other: "%{count}枚"
+        comic_series:
+          one: "%{count}回"
+          other: "%{count}回"
+        translations:
+          one: "%{count}本"
+          other: "%{count}本"
+        novels:
+          one: "%{count}回"
+          other: "%{count}回"
+        following:
+          one: "%{count}フォロー"
+          other: "%{count}フォロー"
+        followers:
+          one: "%{count}フォロワー"
+          other: "%{count}フォロワー"
+      q_and_a:
+        country: "国籍"
