@@ -1,1 +1,21 @@
 ja:
+  novels:
+    show:
+      meta_title: "小説ページ"
+      toolbar:
+        my_novels_btn:
+          mobile: "私の"
+          desktop: "私の小説ページ"
+        edit_btn:
+          mobile: "編集"
+          desktop: "小説を編集"
+      by_author:
+        html: "作者: %{author}"
+      views_btn:
+        one: "閲覧:%{count}回"
+        other: "閲覧:%{count}回"
+      comments_btn:
+        one: "%{count}コメント"
+        other: "%{count}コメント"
+      episodes_label: "エピソード:"
+      comments_label: "コメント:"
