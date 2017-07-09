@@ -1,1 +1,8 @@
 ja:
+  password_resets:
+    edit:
+      meta_title: "パスワードリセットページ"
+      title: "パスワードをリセット"
+      password_label: "パスワード(6文字以上)"
+      password_confirmation_label: "確認用"
+      submit_btn: "パスワードを更新"
