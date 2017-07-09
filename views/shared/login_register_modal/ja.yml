@@ -1,1 +1,10 @@
 ja:
+  shared:
+    login_register_modal:
+      form_title_hint: "ログインフォーム"
+      close_btn_hint: "閉じる"
+      log_in_btn: "ログイン"
+      register_btn: "登録はお済ですか? 登録しましょう :)"
+      log_in_form_title: "ログイン"
+      register_form_title: "登録"
+      close_btn: "閉じる"
