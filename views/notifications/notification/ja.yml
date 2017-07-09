@@ -1,1 +1,17 @@
 ja:
+  notifications:
+    notification:
+      ArtbookImage: "アートブックイメージ"
+      Artbook: "アートブック"
+      StatusUpdate: "状態を更新"
+      Series: "マンガシリーズ"
+      Chapter: "チャプター"
+      Episode: "エピソード"
+      Novel: "小説"
+      User: "プロフィール"
+      Noodle: "ヌードル"
+      code:
+        LIKE_html: "%{who}さんが%{what}を気に入っています。"
+        COMMENT_html: "%{who}さんが%{what}をコミットしました。"
+        FOLLOW_html: "%{who}さんがフォローしました。"
+      time_ago: "%{time_ago}前"
