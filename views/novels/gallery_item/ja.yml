@@ -1,1 +1,14 @@
 ja:
+  novels:
+    gallery_item:
+      author: "@%{user_name}"
+      time_ago: "%{time_ago}前"
+      nr_of_episodes:
+        one: "%{count}回"
+        other: "%{count}回"
+      likes:
+        one: "%{count}いいね"
+        other: "%{count}いいね"
+      views:
+        one: "閲覧:%{count}回"
+        other: "閲覧:%{count}回"
