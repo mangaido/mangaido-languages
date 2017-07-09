@@ -1,1 +1,13 @@
 ja:
+  series:
+    edit_all:
+      meta_title: "マンガシリーズ編集"
+      title: "全マンガシリーズ編集"
+      toolbar:
+        add_new_series_btn:
+          mobile: "追加"
+          desktop: "新しいマンガシリーズを追加"
+        show_all_series_btn:
+          mobile: "表示"
+          desktop: "全マンガシリーズを表示"
+      series_list_title: "全マンガシリーズを表示"
