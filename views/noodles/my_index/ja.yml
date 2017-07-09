@@ -1,1 +1,11 @@
 ja:
+  noodles:
+    my_index:
+      meta_title: "ラーメンヌードルページ"
+      title: "ラーメンヌードル"
+      add_noodle_btn:
+        mobile: "ヌードルを追加"
+        desktop: "ヌードルを追加"
+      my_noodles_btn:
+        mobile: "私のヌードル"
+        desktop: "私のヌードル"
