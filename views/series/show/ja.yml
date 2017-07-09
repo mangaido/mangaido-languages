@@ -1,1 +1,38 @@
 ja:
+  series:
+    show:
+      meta_title: "%{title} - マンガシリーズを表示"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "私の"
+          desktop: "私のマンガシリーズ"
+        edit_btn:
+          mobile: "編集"
+          desktop: "マンガシリーズを編集"
+      chapters_list:
+        title: "チャプター:"
+        not_published_message: "まだ公開されておりません。"
+        chapter:
+          free_icon: "無料チャプター"
+          bought_icon: "有料チャプター"
+          unlocked_icon: "解除チャプター"
+          locked_icon: "このチャプターを解除するためにコインを購入しますか？"
+          views:
+            one: "閲覧%{count}回数"
+            other: 閲覧"%{count}回数"
+          translations_btn:
+            one: "%{count}本"
+            other: "%{count}本"
+          edit_btn: "編集"
+      description_title: "説明:"
+      informations:
+        title: "情報"
+        views:
+          one: "閲覧%{count}回数"
+          other: "閲覧%{count}回数"
+        for_adults: "18禁"
+        safe_for_children: "全年齢対象"
+        language: "Language: %{language_name}"
+        translations: "翻訳:"
+        translation_language: "%{language_name} (%{count})"
+      comments_title: "コメント:"
