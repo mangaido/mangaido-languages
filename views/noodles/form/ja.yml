@@ -1,1 +1,8 @@
 ja:
+  noodles:
+    form:
+      title_label: "タイトル"
+      link_label: "リンク"
+      content_label: "コンテンツ"
+      image_label: "イメージを追加"
+      submit_btn: "セーブ"
