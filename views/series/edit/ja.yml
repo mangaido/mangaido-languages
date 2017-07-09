@@ -1,1 +1,15 @@
 ja:
+  series:
+    edit:
+      meta_title: "%{title} -　マンガシリーズを編集"
+      title: "%{title} - マンガシリーズを編集"
+      add_new_btn:
+        mobile: "追加"
+        desktop: "あたらしいチャプターを編集"
+      show_btn:
+        mobile: "表示"
+        desktop: "このマンガシリーズを表示"
+      delete_btn:
+        mobile: ""
+        desktop: "削除"
+      chapters_title: "チャプター:"
