@@ -1,1 +1,21 @@
 ja:
+  series:
+    form:
+      title_label: "タイトル"
+      description_label: "説明 (任意)"
+      is_published_label: "公開しますか?"
+      is_published_yes_label: "公開されました。"
+      is_published_no_label: "草稿中"
+      is_for_adults_label: "18禁にしますか？"
+      is_for_adults_yes_label: "18禁"
+      is_for_adults_no_label: "全年齢対象"
+      language_label: "言語"
+      cover_label: "カバー (任意)"
+      remove_cover_yes_label: "表紙を外す"
+      remove_cover_no_label: "表紙を戻す"
+      cover_help_text: "推奨サイズ:1600x800 px (JPG or PNG)"
+      wide_cover_label: "広い表紙 (任意)"
+      remove_wide_cover_yes_label: "表紙を外す"
+      remove_wide_cover_no_label: "表紙を戻す"
+      wide_cover_help_text: "推奨サイズ:1920x320 px (JPG or PNG)"
+      submit_btn: "送信"
