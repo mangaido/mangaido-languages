@@ -1,1 +1,6 @@
 ja:
+  password_resets:
+    new:
+      meta_title: "パスワードを忘れた方"
+      title: "パスワードをリセット"
+      subtitle: "あなたのアカウントを解除します。"
