@@ -1,1 +1,10 @@
 ja:
+  sessions:
+    new_form:
+      email_label: "メールアドレス"
+      password_label: "パスワード"
+      forgot_password_link: "パスワードをお忘れですか？"
+      remember_me_checkbox: "ログイン情報を保存する"
+      log_in_btn: "ログイン"
+      sign_up_link_html: "登録する"
+      sign_up_text_html: "登録はお済ですか? %{sign_up_link_html}"
