@@ -1,1 +1,12 @@
 ja:
+  messages:
+    new:
+      meta_title: "新規メッセージ"
+      title: "メッセージやりとり"
+      subtitle: "make someone's day"
+      subject_label: "タイトル"
+      body_label: "メッセージ"
+      recipients_label: "送信先ユーザを選択"
+      recipients_no_results_text: "該当ユーザは、存在しません。"
+      recipients_placeholder: "ユーザを選択"
+      submit_btn: "送信"
