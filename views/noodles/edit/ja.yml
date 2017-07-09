@@ -1,1 +1,6 @@
 ja:
+  noodles:
+    edit:
+      meta_title: "%{title} - ラーメンを編集"
+      title: "%{title} -　ラーメンを編集"
+      cancel_btn: "キャンセル"
