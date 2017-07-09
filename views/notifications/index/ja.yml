@@ -1,1 +1,6 @@
 ja:
+  notifications:
+    index:
+      meta_title: "お知らせページ"
+      title: "お知らせ:"
+      mark_all_as_read_btn: "既読にする"
