@@ -1,1 +1,7 @@
 ja:
+  status_updates:
+    status_update:
+      delete_btn: "投稿を削除"
+      delete_btn_confirm: "この投稿を本当に削除しますか？"
+      posted_time_ago: "%{time_ago}前."
+      show_comments_btn: "コメント"
