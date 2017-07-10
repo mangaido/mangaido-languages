@@ -1,1 +1,19 @@
 ja:
+  static_pages:
+    search_form:
+      search_field_placeholder: "検索"
+      found_results:
+        one: "%{count} 件ヒットしました。"
+        other: "%{count}件ヒットしました。"
+      page_x_of_y: "ページ: %{x} / %{y}"
+      menu:
+        all_btn: "全て"
+        artbook_images_btn: "アートブックイメージ"
+        series_btn: "マンガシリーズ"
+        users_btn: "ユーザ"
+        novels_btn: "小説"
+        noodles_btn: "ラーメン"
+      adult_filter:
+        safe_for_children_label: "全年齢対象"
+        for_adults_label: "18禁"
+        all_label: "全て"
