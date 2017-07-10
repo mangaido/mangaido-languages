@@ -1,1 +1,10 @@
 ja:
+  static_pages:
+    search:
+      meta_title: "検索画面"
+      type_names:
+        artbook_image: "アートブックイメージ"
+        series: "マンガシリーズ"
+        user: "ユーザ"
+        novel: "小説"
+        noodle: "ラーメン"
