@@ -1,1 +1,5 @@
 ja:
+  status_updates:
+    form:
+      content_placeholder: "何が心に残りましたか？"
+      image_hint: "イメージを追加 (任意)　%{max_size_in_mb}MB以上のイメージは、アップロード不可能です。"
