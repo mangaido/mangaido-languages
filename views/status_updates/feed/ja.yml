@@ -1,1 +1,7 @@
 ja:
+  status_updates:
+    feed:
+      meta_title: "Feed画面"
+      menu:
+        feed_btn: "全て"
+        feed_following_btn: "フォロー中"
