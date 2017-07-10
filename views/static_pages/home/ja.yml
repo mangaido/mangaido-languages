@@ -1,1 +1,16 @@
 ja:
+  static_pages:
+    home:
+      meta_title: "ホーム画面"
+      translations_section_title: "最近の翻訳"
+      translations_section_more_btn: "翻訳について"
+      comic_series_section_title: "マンガシリーズ"
+      comic_series_section_more_btn: "マンガシリーズについて"
+      comic_series_for_adults_btn: "18禁シリーズ"
+      translators_section_title: "トップ翻訳者"
+      translators_section_more_btn: "全翻訳者"
+      novels_section_title: "最近の小説"
+      novels_section_more_btn: "小説について"
+      ginza_title: "銀座 (ホット)"
+      shibuya_title: "渋谷 (最近追加)"
+      akihabara_title: "秋葉原 (ランダム)"
