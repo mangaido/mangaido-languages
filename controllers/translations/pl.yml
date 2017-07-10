@@ -1,5 +1,5 @@
 pl:
-  traslations:
+  translations:
     show:
       no_access_error: "Nie posiadasz dostępu do tego tłumaczenia!"
     edit:
