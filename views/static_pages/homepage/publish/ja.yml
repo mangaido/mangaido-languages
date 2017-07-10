@@ -1,1 +1,14 @@
 ja:
+  static_pages:
+    homepage:
+      publish:
+        artworks:
+          upload_btn: "アートブックをアップロード"
+          title: "アートブックを公開"
+          description: >
+          　物語性がなく単発の作品になります。ですが、グループ化することによりまとめることができます。
+        comic_series:
+          create_btn: "マンガシリーズの作成"
+          title: "マンガシリーズの公開"
+          description: >
+          　フルスケールのマンガシリーズを公開しよう!ストーリーを構成し、キャラクターを作り、読者をドキドキさせよう!
