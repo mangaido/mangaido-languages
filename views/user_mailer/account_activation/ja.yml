@@ -1,1 +1,20 @@
 ja:
+  user_mailer:
+    account_activation:
+      subject: "Mangaidoアカウントのアクティベイト"
+      activation_link: "ログイン中のユーザ"
+      message: >
+        こんにちは、 %{user_name}さん,
+        Mangaidoにようこそ! アカウントを有効化するため、こちらのリンクをダブルクリックしてください。: %{activation_link}
+      message_html: >
+        <h1>
+          Mangaidoアカウントの有効化
+        </h1>
+
+        <p>
+          こんにちは、%{user_name}さん,
+        </p>
+
+        <p>
+          Mangaidoへ、ようこそ! アカウントを有効化するため、こちらのリンクをダブルクリックしてください。: %{activation_link_html}.
+        </p>
