@@ -1,1 +1,5 @@
 ja:
+  users:
+    show:
+      meta_title: "%{user_name}さんのプロフィール"
+      artists_posts: "%{user_name}さんの投稿:"　
