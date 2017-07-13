@@ -1,1 +1,16 @@
 ja:
+  users:
+    dashboard:
+      meta_title: "ダッシュボード"
+      current_balance_label: "現在の収支"
+      current_balance_amount_of_coins:
+        one: "%{count}コイン"
+        other: "%{count}コイン"
+      buy_coins_btn: "コインを購入する"
+      withdrawals_money_label: "出金手続き"
+      withdrawals_btn: "出金"
+      chapter_purchases_btn: "チャプターアクセス購入権を購入"
+      donations_sent_btn: "寄付金を送付"
+      chapter_sales_btn: "チャプターアクセス権販売"
+      donations_received_btn: "寄付金受け取り"
+      payments_btn: "支払い"
