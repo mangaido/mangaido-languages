@@ -14,17 +14,17 @@ ja:
           one: "記事数"
           other: "記事数"
         artwork_views:
-          one: "アートワーク数"
-          other: "アートワーク数"
+          one: "アートワーク閲覧数"
+          other: "アートワーク閲覧数"
         series_views:
-          one: "マンガシリーズ数"
-          other: "マンガシリーズ数"
+          one: "マンガシリーズ閲覧数"
+          other: "マンガシリーズ閲覧数"
         translation_views:
-          one: "翻訳数"
-          other: "翻訳数"
+          one: "翻訳閲覧数"
+          other: "翻訳閲覧数"
         novel_views:
-          one: "小説数"
-          other: "小説数"
+          one: "小説閲覧数"
+          other: "小説閲覧数"
       menu:
         donate: "寄付ユーザ"
         artbooks:
@@ -37,8 +37,8 @@ ja:
           one: "%{count}本"
           other: "%{count}本"
         novels:
-          one: "%{count}回"
-          other: "%{count}回"
+          one: "閲覧:%{count}回"
+          other: "閲覧:%{count}回"
         following:
           one: "%{count}フォロー"
           other: "%{count}フォロー"
