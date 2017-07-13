@@ -1,1 +1,4 @@
 ja:
+  translations:
+    new_form:
+      add_btn: "編集"
