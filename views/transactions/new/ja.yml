@@ -1,1 +1,15 @@
 ja:
+  transactions:
+    new:
+      meta_title: "送金確認画面"
+      title: "送金しますか?"
+      chapter_price: "値段:"
+      donation_title_html: "相手先: %{user_link}"
+      donation_price_title_html: "<b>百</b>コイン単位で送金額、送金相手を決めてください。"
+      donation_summary_text_html: >
+        <b>%giver_send%</b>コイン送金します。<br />
+        %giver_balance%コイン所持<br />
+        ユーザは、%receiver_receive%コイン受け取ります(%percent_fee%%が手数料に含まれます).
+      doantion_summary_loading_text: "Loading donation summary..."
+      confirm_btn: "確認"
+      cancel_btn: "キャンセル"
