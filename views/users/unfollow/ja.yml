@@ -1,1 +1,4 @@
 ja:
+  users:
+    unfollow:
+      unfollow_btn: "フォローしない"
