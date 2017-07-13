@@ -1,1 +1,5 @@
 ja:
+  transactions:
+    chapter_purchases:
+      meta_title: "チャプター購入ページ"
+      title: "チャプター購入:"
