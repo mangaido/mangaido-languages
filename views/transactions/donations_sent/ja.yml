@@ -1,1 +1,5 @@
 ja:
+  transactions:
+    donations_sent:
+      meta_title: "寄付送金画面"
+      title: "寄付送金:"
