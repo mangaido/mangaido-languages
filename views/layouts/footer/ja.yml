@@ -1,1 +1,33 @@
 ja:
+  layouts:
+    footer:
+      instagram_btn: "@mangaidocom"
+      facebook_btn: "Mangaido on Facebook"
+      snapchat_btn: "@mangaido"
+      twitter_btn: "@mangaido"
+      mangaido_logo: "Mangaido"
+      youtube_btn: "Mangaido on YouTube"
+      tumblr_btn: "Mangaido on Tumblr"
+      crew_title: "チームメンバー:"
+      crew:
+        mangaido:
+          position: "公式プロフィール"
+        karolina:
+          position: "共同創立者"
+        bartek:
+          position: "共同創立者"
+        michal:
+          position: "共同創立者"
+        choux:
+          position: "フランス語担当者"
+        makkusu:
+          position: "日本語担当者"
+        kokko:
+          position: "日本語担当者"
+        polaczarlin:
+          position: "チームサポートスペシャリスト"
+      menu:
+        earn_money_with_us_btn: "報酬を得よう!"
+        terms_of_service_btn: "利用規約"
+        privacy_btn: "プライバシー"
+        contact_us_btn: "お問い合わせ"
