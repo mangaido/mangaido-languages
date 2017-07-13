@@ -1,1 +1,5 @@
 ja:
+  translations:
+    list:
+      edit_btn: "編集"
+      no_translations_msg: "翻訳がまだありません。"
