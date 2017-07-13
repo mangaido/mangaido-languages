@@ -2,17 +2,17 @@ ja:
   translations:
     edit:
       meta_title: >
-        %{series_title} - %{chapter_title} - %{language_name} - 翻訳エディットページ
-      title: "%{language_name}の翻訳エディットする"
+        %{series_title} - %{chapter_title} - %{language_name} - 翻訳編集画面
+      title: "%{language_name}に翻訳編集 "
       toolbar:
         show_btn:
-          mobile: "見る"
-          desktop: "翻訳を見る"
+          mobile: "表示"
+          desktop: "翻訳を表示する"
         my_translations_btn:
-          mobile: "自分の"
-          desktop: "自分の翻訳"
+          mobile: "私の"
+          desktop: "私の翻訳"
         delete_btn_confirm: >
-          Are you sure you want to delete this translation?
+          この翻訳を本当に削除しますか?
         delete_btn: 
-          mobile: "抹消"
-          desktop: "この翻訳を抹消する"
+          mobile: "削除"
+          desktop: "削除しました。"
