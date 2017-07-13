@@ -5,6 +5,6 @@ ja:
       summary_loading_text: "Loading summary..."
       summary_text: >
         <b>%amount_of_coins%</b> coins = %coins_to_money%USD<br />
-        料金: %percent_fee%%<br />
+        手数料: %percent_fee%%<br />
         引き出す： <b>%amount_of_money%USD<b/>
       withdraw_btn: "コインを引き出す"
