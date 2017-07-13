@@ -1,1 +1,6 @@
 ja:
+  transactions:
+    table:
+      link_label: "リンク"
+      amount_of_coins_label: "コイン額"
+      date_label: "日付"
