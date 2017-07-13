@@ -3,9 +3,9 @@ ja:
     header_profile_dropdown:
       profile: "プロフィール"
       my_artbooks: "自分のアートブック"
-      my_comic_series: "自分のコミックス"
+      my_comic_series: "自分のマンガシリーズ"
       my_translations: "自分の翻訳"
       my_novels: "自分の小説"
       mailbox: "メールボックス"
       settings: "設定"
-      log_out: "Log out"
+      log_out: "ログアウト"
