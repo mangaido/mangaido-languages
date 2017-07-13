@@ -1,1 +1,5 @@
 ja:
+  users:
+    edit:
+      meta_title: "%{user_name}さんのプロフィールを編集"
+      title: "%{user_name}さんのプロフィールを編集"
