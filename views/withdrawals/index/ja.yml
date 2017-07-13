@@ -1,1 +1,21 @@
 ja:
+  withdrawals:
+    index:
+      meta_title: "出金"
+      current_balance_label: "残高:"
+      current_balance_coins:
+        one: "%{count}枚"
+        other: "%{count}枚"
+      money_to_be_paid_label: "出金の手続き:"
+      form_label: "出金フォーム:"
+      cant_withdraw_msg: "出金最低額:{min_coins}枚"
+      list_label: "出金"
+      list:
+        id: "ID"
+        amount_of_coins: "コインの数"
+        amount_of_money: "金額"
+        created_at: "作成"
+        is_paid: "完了しましたか?
+        is_paid_yes: "はい"
+        is_paid_no: "いいえ"
+        paid_at: "支払い"
