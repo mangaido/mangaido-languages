@@ -1,1 +1,57 @@
 id:
+  activerecord:
+    attributes:
+      artbook_image:
+        image: "Gambar"
+        title: "Judul"
+        description: "Deskripsi"
+      artbook:
+        title: "Judul"
+      chapter_image:
+        image: "Gambar"
+      chapter:
+        title: "Judul"
+        cover: "Gambar Cover"
+        is_published: "Diterbitkan"
+        amount_of_coins: "Jumlah Koin"
+      comment:
+        content: "Konten"
+      episode:
+        title: "Judul"
+        description: "Deskripsi"
+        text: "Teks"
+        is_published: "Diterbitkan"
+      noodle:
+        title: "Judul"
+        content: "Konten"
+        link: "Tautan"
+        image: "Gambar"
+      novel:
+        title: "Judul"
+        description: "Deskripsi"
+        cover: "Gambar Cover"
+        is_published: "Diterbitkan"
+      series:
+        title: "Judul"
+        cover: "Gambar Cover"
+        wide_cover: "Gambar Cover Lebar"
+        is_published: "Diterbitkan"
+        description: "Deskripsi"
+        language: "Bahasa"
+        is_for_adults: "Untuk Dewasa"
+      status_update:
+        content: "Konten"
+        image: "Gambar"
+      translation_balloon:
+        text: "Teks"
+      translation:
+        is_published: "Diterbitkan"
+        language: "Bahasa"
+      user:
+        name: "Nama"
+        email: "Email"
+        about: "Biografi"
+        cover: "Gambar Cover"
+        avatar: "Gambar Avatar"
+        default_language: "Bahasa Default"
+        paypal_email: "Email PayPal"
