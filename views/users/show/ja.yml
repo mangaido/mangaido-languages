@@ -2,4 +2,4 @@ ja:
   users:
     show:
       meta_title: "%{user_name}さんのプロフィール"
-      artists_posts: "%{user_name}さんの投稿:"　
+      artists_posts: "%{user_name}さんの投稿:"
