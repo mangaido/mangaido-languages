@@ -1,1 +1,38 @@
-id:
+en:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Validasi Gagal: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Tidak bisa menghapus data karena berhubungan dengan %{record}"
+          has_many: "Tidak bisa menghapus data karena berhubungan dengan %{record}"
+      models:
+        artbook_image:
+          image_too_big: "Gambar Artbook harus berukuran kurang dari %{size}"
+        chapter:
+          image_too_big: "Gambar episode harus berukuran kurang dari %{size}"
+          too_many_authorized_users: "Episode ini memiliki terlalu banyak pengguna yang terhubung"
+        chapter_image:
+          image_too_big: "Gambar episode harus berukuran kurang dari %{size}"
+        noodle:
+          image_too_big: "Gambar camilan harus berukuran kurang dari %{size}"
+        novel:
+          image_too_big: "Gambar novel harus berukuran kurang dari %{size}"
+        password_reset:
+          password:
+            cant_be_empty: "Password tidak boleh kosong!"
+        series:
+          cover_too_big: "Gambar seri harus berukuran kurang dari %{size}"
+          wide_cover_too_big: "Gambar seri versi lebar harus berukuran kurang darin %{size}"
+        status_update:
+          image_too_big: "Gambar status update harus berukuran kurang dari%{size}"
+        transaction:
+          general_error: "Ada kendala pada saat melakukan transaksi. Silahkan coba lagi."
+          not_enough_coins: "Koin tidak cukup!"
+        user:
+          avatar_too_big: "Gambar avatar harus berukuran kurang dari %{size}"
+          cover_too_big: "Gambar cover harus berukuran kurang dari %{size}"
+        withdrawal:
+          not_enough_coins: "Koin tidak cukup!"
+          
+
