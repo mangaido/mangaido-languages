@@ -15,7 +15,7 @@ ja:
         amount_of_coins: "コインの数"
         amount_of_money: "金額"
         created_at: "作成"
-        is_paid: "完了しましたか?
+        is_paid: "完了しましたか?"
         is_paid_yes: "はい"
         is_paid_no: "いいえ"
         paid_at: "支払い"
