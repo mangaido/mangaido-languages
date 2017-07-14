@@ -1,7 +1,7 @@
 en:
   users:
     new_form:
-      name_label: "Disaplay name"
+      name_label: "Display name"
       email_label: "Email"
       password_label: "Password"
       password_confirmation_label: "Confirm password"
