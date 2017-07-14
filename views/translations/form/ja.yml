@@ -1,1 +1,6 @@
 ja:
+  translations:
+    form:
+      language_label: "言語"
+      is_published_label: "公開しますか?"
+      submit_btn: "保存"

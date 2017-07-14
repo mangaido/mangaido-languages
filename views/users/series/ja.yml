@@ -1,1 +1,6 @@
 ja:
+  users:
+    series:
+      meta_title: "%{user_name}さんのマンガシリーズ"
+      title: "%{user_name}さんのマンガシリーズ:"
+      edit_btn: "マンガシリーズの編集"

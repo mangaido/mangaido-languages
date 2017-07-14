@@ -1,1 +1,22 @@
 ja:
+  users:
+    form:
+      name_label: "名前"
+      email_label: "Email"
+      password_label: "パスワード (6文字以上)"
+      password_confirmation_label: "確認用パスワード"
+      paypal_email_label: "PayPal email"
+      paypal_email_help_btn: "さらに表示"
+      paypal_email_help_text_html: >
+        送金先のPayPalメールを設定してください。
+      about_label: "私について (任意)"
+      remove_avatar_label: "このアバターを削除しますか？"
+      avatar_hint_text: >
+        推奨サイズ:800x800 px (JPG or PNG).指定なしの場合、Gravatar.comからランダムで指定します。
+      cover_label: "カバー"
+      remove_cover_label: "このカバーを削除しますか？"
+      cover_hint_text: >
+        推奨サイズ:1920x320 px (JPG or PNG)
+      default_language_label: "設定言語(メール送信用)"
+      country_label: "国籍"
+      submit_btn: "保存"

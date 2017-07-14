@@ -1,1 +1,6 @@
 ja:
+  users:
+    novels:
+      meta_title: "%{user_name}さんの小説"
+      title: "%{user_name}さんの小説"
+      edit_novels_btn: "全小説を編集する"

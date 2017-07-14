@@ -1,1 +1,14 @@
 ja:
+  users:
+    new_form:
+      name_label: "ユーザ名"
+      email_label: "Email"
+      password_label: "パスワード"
+      password_confirmation_label: "確認用パスワード"
+      register_btn: "アカウントの作成"
+      log_in_link: "ログイン"
+      log_in_text_html: "アカウント登録は、お済ですか？ %{log_in_link_html}"
+      terms_of_service_link: "利用規約"
+      privacy_policy_link: "プライバシーポリシー"
+      disclaimer_html: >
+        私は%{terms_of_service_link_html} と %{privacy_policy_link_html}について合意しました。
