@@ -25,7 +25,7 @@ id:
           cover_too_big: "Gambar seri harus berukuran kurang dari %{size}"
           wide_cover_too_big: "Gambar seri versi lebar harus berukuran kurang darin %{size}"
         status_update:
-          image_too_big: "Gambar status update harus berukuran kurang dari%{size}"
+          image_too_big: "Gambar status update harus berukuran kurang dari %{size}"
         transaction:
           general_error: "Ada kendala pada saat melakukan transaksi. Silahkan coba lagi."
           not_enough_coins: "Koin tidak cukup!"
