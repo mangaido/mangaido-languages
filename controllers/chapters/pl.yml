@@ -9,3 +9,5 @@ pl:
       erorr: "Wystąpiły problemy z aktualizacją tego odcinka! Spróbuj ponownie."
     destroy:
       success: "Odcinek został pomyślnie usunięty!"
+    sort_chapter_images_by_filenames:
+      success: "Obrazki odcinka zostały poprawnie posortowane!"

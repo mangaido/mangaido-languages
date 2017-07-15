@@ -15,3 +15,26 @@ pl:
           desktop: "Usuń"
         delete_btn_confir: "Jesteś pewna/y?"
       chapter_images_title: "Obrazki odcinka:"
+      sort_chapter_images_by_filenames_btn: "Posortuj obrazki po nazwie plików"
+      sort_chapter_images_by_filenames_help_html: >
+        Wgrywając obrazki są one automatycznie sortowane w naturalny/ludzki sposób sortowania (niekoniecznie posortowane alfabetycznie) po nazwach plików.<br />
+        <br />
+
+        Przykładowo takie obrazki zostaną posortowane w nastąpujący sposób:
+        <ol>
+          <li>
+            "plik_1.jpg"
+          </li>
+          <li>
+            "plik_2.jpg"
+          </li>
+          <li>
+            "plik_3.jpg"
+          </li>
+          <li>
+            "plik_10.jpg"
+          </li>
+          <li>
+            "plik_11.jpg"
+          </li>
+        </ol>

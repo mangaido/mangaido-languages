@@ -9,3 +9,5 @@ ja:
       erorr: "チャプター更新時に問題が発生しました。再度、お試しください。"
     destroy:
       success: "チャプターを削除しました。"
+    # sort_chapter_images_by_filenames:
+    #   success: "Chapter images was successfully sorted!"

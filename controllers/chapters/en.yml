@@ -9,3 +9,5 @@ en:
       erorr: "There was some problems with updating this chapter! Try again."
     destroy:
       success: "Chapter was successfully deleted."
+    sort_chapter_images_by_filenames:
+      success: "Chapter images was successfully sorted!"
