@@ -1,1 +1,6 @@
 id:
+  notifications:
+    index:
+      meta_title: "notifikasi"
+      title: "Pemberitahuan:"
+      mark_all_as_read_btn: "Tandai semua telah dibaca"
