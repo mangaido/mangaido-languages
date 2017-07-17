@@ -1,1 +1,6 @@
 id:
+  likes:
+    unlike:
+      tooltip: "Batal suka!"
+      likes:
+        other: "Menyukai"
