@@ -1,1 +1,5 @@
 id:
+  comments:
+    form:
+      content_placeholder: "Komentar..."
+      log_in_message: "Harap masuk jika ingin berkomentar!"
