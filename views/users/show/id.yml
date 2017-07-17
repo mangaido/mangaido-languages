@@ -1,1 +1,6 @@
 id:
+  users:
+    show:
+      meta_title: "profil %{user_name}"
+      artists_posts: "Postingan oleh %{user_name} :"
+   
