@@ -1,1 +1,7 @@
 id:
+  comments:
+    comments_body:
+      no_comments_message: "Tidak ada komentar, ingin jadi yang pertama?"
+      delete_btn: "Hapus"
+      delete_btn_confirm: "Apa Kamu yakin ingin menghapus komentar?"
+      time_ago: "%{time_ago} yang lalu"
