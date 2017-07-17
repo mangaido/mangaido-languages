@@ -1,1 +1,4 @@
 id:
+  users:
+    unfollow:
+      unfollow_btn: "Batal ikuti"
