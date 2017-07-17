@@ -1,1 +1,8 @@
 id:
+  conversations:
+    conversation:
+      restore_btn: "Tampilkan"
+      move_to_trash_btn: "Buang"
+      move_to_trash_btn_confirm: "Apa kamu yakin?"
+      mark_as_read_btn: "Tandai sudah dibaca"
+      sent_ago: "Terkirim %{time} yang lalu"
