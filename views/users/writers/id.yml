@@ -1,1 +1,5 @@
 id:
+  users:
+    writers:
+      meta_title: "halaman penulis"
+      title: "Penulis"
