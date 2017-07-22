@@ -3,9 +3,9 @@ id:
     header:
       toggle_navigation_text: "Tombol Navigasi"
       upload: "Unggah"
-      status_updates: "Berita"
+      status_updates: "Status terbaru"
       feed: "Berita"
-      artworks: "Gambar"
+      artworks: "Karya"
       series: "serial Komik"
       novels: "Novel"
       ramen: "Ramen"
