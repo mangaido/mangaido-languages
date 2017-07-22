@@ -1,1 +1,16 @@
 id:
+  static_pages:
+    home:
+      meta_title: "Beranda"
+      translations_section_title: "Terjemahan terbaru"
+      translations_section_more_btn: "Terjemahan yang lain"
+      comic_series_section_title: "Serial komik"
+      comic_series_section_more_btn: "Serial komik lain"
+      comic_series_for_adults_btn: "Serial untuk dewasa"
+      translators_section_title: "Penerjemah terbaik"
+      translators_section_more_btn: "Semua penerjemah"
+      novels_section_title: "Novel terbaru"
+      novels_section_more_btn: "Novel yang lain"
+      ginza_title: "Ginza (Terpanas)"
+      shibuya_title: "Shibuya (Baru ditambahkan)"
+      akihabara_title: "Akihabara (Acak)"
