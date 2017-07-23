@@ -1,0 +1,5 @@
+es:
+  comments:
+    form:
+      content_placeholder: "Comentario..."
+      log_in_message: "¡Inicia sesión para comentar!"
