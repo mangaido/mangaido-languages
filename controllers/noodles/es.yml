@@ -1,0 +1,10 @@
+es:
+  noodles:
+    update:
+      success: "¡El fideo se actualizó!"
+      error: "¡Ups! Hubo un problema actualizando el fideo, vuelve a intentarlo"
+    create:
+      success: "¡Fideo creado!"
+      error: "¡El fideo no se guardó!"
+    destroy:
+      success: "¡Fideo eliminado!"
