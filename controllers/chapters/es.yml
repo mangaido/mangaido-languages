@@ -1,0 +1,13 @@
+es:
+  chapters:
+    show:
+      no_access_error: "¡No puedes acceder a este capítulo!"
+    create:
+      success: "¡El capitulo fue creado!"
+    update:
+      success: "¡El capítulo se actualizó!"
+      erorr: "¡Ups! Hubo un problema actualizando este capítulo, vuelve a intentarlo."
+    destroy:
+      success: "¡El capítulo se eliminó!"
+    sort_chapter_images_by_filenames:
+      success: "¡Las imágenes se ordenaron!"
