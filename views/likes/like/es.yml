@@ -1,0 +1,7 @@
+es:
+  likes:
+    like:
+      tooltip: "¡Me gusta!"
+      likes:
+        one: "Me gusta"
+        other: "Me gusta"
