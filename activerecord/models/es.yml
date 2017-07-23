@@ -1,0 +1,42 @@
+es:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Artwork"
+        other: "Artworks"
+      artbook:
+        one: "Artbook"
+        other: "Artbooks"
+      chapter_image:
+        one: "Imágen del capítulo"
+        other: "Imágenes del capítulo"
+      chapter:
+        one: "Capítulo"
+        other: "Capítulos"
+      comment:
+        one: "Comentario"
+        other: "Comentarios"
+      episode:
+        one: "Episodio de la novela"
+        other: "Episodios de la novela"
+      noodle:
+        one: "Fideo del ramen"
+        other: "Fideos del ramen"
+      novel:
+        one: "Novela"
+        other: "Novelas"
+      series:
+        one: "Comic"
+        other: "Comics"
+      status_update:
+        one: "Feed"
+        other: "Feeds"
+      translation_balloon:
+        one: "Globo de traducción"
+        other: "Globos de traducción"
+      translation:
+        one: "Tranducción"
+        other: "Tranducciónes"
+      user:
+        one: "Usuario"
+        other: "Usuarios"
