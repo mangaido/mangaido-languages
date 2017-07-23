@@ -1,0 +1,16 @@
+es:
+  artbook_images:
+    index:
+      meta_title: "Últimos Artworks"
+      title: "Últimos Artworks"
+      subtitle: "Creatividad desencadenada"
+      toolbar:
+        add_new_artworks:
+          mobile: "Agregar Artworks"
+          desktop: "Agregar Artworks"
+        my_artbooks:
+          mobile: "Mi Artbooks"
+          desktop: "Mis Artbooks"
+        edit_my_artbooks:
+          mobile: "Editar mis Artbooks"
+          desktop: "Editar mis Artbooks"
