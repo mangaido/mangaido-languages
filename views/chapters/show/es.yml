@@ -1,0 +1,21 @@
+es:
+  chapters:
+    show:
+      meta_title: >
+        %{series_title} - %{chapter_title} - Página de comic
+      translation_meta_title: >
+        %{series_title} - %{chapter_title} - %{language_name} - Página de traducción del comic
+      translations_btn: "Traducciones"
+      top_menu:
+        series_btn: "Todos los capítulos"
+      bottom_menu:
+        previous_chapter_btn: "Capítulo anterior"
+        next_chapter_btn: "Siguiente capítulo"
+      settings:
+        edit_chapter: "Editar capítulo"
+        edit_series: "Edit this comic series"
+        edit_all_series: "Editar todos los comics"
+      author_label: "Autor:"
+      translator_label: "Traductor:"
+      series_label: "Comics:"
+      gallery_item_title: "Cap. %{chapter_nr}"
