@@ -1,0 +1,12 @@
+es:
+  payments:
+    index:
+      meta_title: "Pagos"
+      payments_label: "Pagos:"
+      table:
+        amount_of_coins: "Número de monedas"
+        amount_of_money: "Cantidad de dinero"
+        completed: "¿Está completado?"
+        completed_yes: "Si"
+        completed_no: "No"
+        date: "Datos"
