@@ -1,0 +1,10 @@
+es:
+  static_pages:
+    search:
+      meta_title: "Buscar resultados"
+      type_names:
+        artbook_image: "Imágen de Artbook"
+        series: "Comic"
+        user: "Usuario"
+        novel: "Novela"
+        noodle: "Fideo de Ramen"
