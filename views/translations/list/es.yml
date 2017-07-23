@@ -1,0 +1,5 @@
+es:
+  translations:
+    list:
+      edit_btn: "Editar"
+      no_translations_msg: "No hay traducciones."
