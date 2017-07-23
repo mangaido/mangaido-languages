@@ -1,0 +1,23 @@
+es:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "¡Mira esto!"
+        message: >
+          New notification!
+          Hola %{user_name},
+          %{text}
+          Mira esto: %{notification_link}
+        message_html: >
+          <h1>
+            nueva notificación!
+          </h1>
+          <p>
+            Hola %{user_name},
+          </p>
+          <p>
+            %{text}
+          </p>
+          <p>
+            %{notification_link_html}
+          </p>
