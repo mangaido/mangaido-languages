@@ -1,0 +1,5 @@
+es:
+  likes:
+    create:
+      error: "¡Ups! Tal vez no te guste esto :("
+    
