@@ -1,0 +1,6 @@
+es:
+  artbook_images:
+    update:
+      success: "¡La imágen del Artbook se actualizó con exito!"
+    destroy:
+      success: "La imágen fue eliminada con exito."
