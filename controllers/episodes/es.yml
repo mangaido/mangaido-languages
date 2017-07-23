@@ -1,0 +1,12 @@
+es:
+  episodes:
+    show:
+      episode_not_published_error: "¡Este episodio aún no está publicado!"
+      novel_not_published_error: "¡Esta novela aún no está publicada!"
+      episode_not_published_info: "Esta novela aún no está publicada."
+    create:
+      success: "¡Tu episodio fue creado!"
+    update:
+      success: "¡tu episodio se actualizó!"
+    destroy:
+      success: "¡Tu episodio se eliminó!"
