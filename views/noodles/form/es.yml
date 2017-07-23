@@ -1,0 +1,8 @@
+es:
+  noodles:
+    form:
+      title_label: "Título"
+      link_label: "Enlace"
+      content_label: "Contenido"
+      image_label: "Agregar imágen"
+      submit_btn: "Guardar fideo"
