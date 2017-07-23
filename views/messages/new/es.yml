@@ -1,0 +1,12 @@
+es:
+  messages:
+    new:
+      meta_title: "Nueva conversación"
+      title: "Nueva conversación"
+      subtitle: "¡Alegrale el día!"
+      subject_label: "Asunto"
+      body_label: "Mensaje"
+      recipients_label: "Elegir destinatarios"
+      recipients_no_results_text: "Sin resultados"
+      recipients_placeholder: "Seleccionar usuario"
+      submit_btn: "Enviar"
