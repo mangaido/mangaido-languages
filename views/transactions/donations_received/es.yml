@@ -1,0 +1,5 @@
+es:
+  transactions:
+    donations_received:
+      meta_title: "Donaciones recibidas"
+      title: "Donaciones recibidas:"
