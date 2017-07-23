@@ -1,0 +1,49 @@
+es:
+  layouts:
+    user:
+      edit_profile: "Editar perfil"
+      send_message: "Enviar mensaje"
+      stats:
+        following:
+          one: "Siguiendo"
+          other: "Siguiendo"
+        followers:
+          one: "Seguidor"
+          other: "Seguidores"
+        posts:
+          one: "Post"
+          other: "Posts"
+        artwork_views:
+          one: "Visualización de Artwork"
+          other: "visualizaciones de Artwork"
+        series_views:
+          one: "Comic visto"
+          other: "Comics vistos"
+        translation_views:
+          one: "Visualización de traducción"
+          other: "visualizaciones de traducción"
+        novel_views:
+          one: "Sisualización de novela"
+          other: "Visualizaciones de novela"
+      menu:
+        donate: "Donación de usuario"
+        artbooks:
+          one: "%{count} artbook"
+          other: "%{count} artbooks"
+        comic_series:
+          one: "%{count} comic"
+          other: "%{count} comics"
+        translations:
+          one: "%{count} traducción"
+          other: "%{count} traducciones"
+        novels:
+          one: "%{count} novela"
+          other: "%{count} novelas"
+        following:
+          one: "%{count} siguiendo"
+          other: "%{count} seguiendo"
+        followers:
+          one: "%{count} seguidor"
+          other: "%{count} seguidores"
+      q_and_a:
+        country: "¿País?"
