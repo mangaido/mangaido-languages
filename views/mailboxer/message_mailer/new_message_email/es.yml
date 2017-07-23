@@ -1,0 +1,30 @@
+es:
+  mailboxer:
+    message_mailer:
+      new_message_email:
+        conversation_link: "Responder en Mangaido"
+        message: >
+          %{subject}
+          Hola %{user_name}!
+          %{sender_name} escribió:
+
+          %{text}
+
+          Respuesta en Mangaido:
+          %{conversation_link}
+        message_html: >
+          <h1>
+            %{subject}
+          </h1>
+          <p>
+            hola %{user_name}!<br />
+            %{sender_name} escribió:
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{conversation_link_html}
+          </p>
