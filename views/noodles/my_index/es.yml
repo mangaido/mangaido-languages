@@ -1,0 +1,11 @@
+es:
+  noodles:
+    my_index:
+      meta_title: "Mis fideos Ramen"
+      title: "¡Mis fideos Ramen"
+      add_noodle_btn:
+        mobile: "¡Agregar fideos!"
+        desktop: "¡Agregar fideos!"
+      my_noodles_btn:
+        mobile: "Mis fideos"
+        desktop: "Mis fideos"
