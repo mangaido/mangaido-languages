@@ -1,0 +1,10 @@
+es:
+  conversations:
+    show:
+      meta_title: "%{subject} - Página de conversación"
+      title: "%{subject} - Conversación"
+      chatting_with: "Conversando con"
+      message:
+        info: "%{sender_name} Envió este mensaje hace %{time_ago}"
+        textarea_placeholder: "Responder..."
+        submit_btn: "Enviar mensaje"
