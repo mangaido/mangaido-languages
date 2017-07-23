@@ -1,0 +1,4 @@
+es:
+  messages:
+    create:
+      success: "¡Tu mensaje se envió!"
