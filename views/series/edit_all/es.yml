@@ -1,0 +1,13 @@
+es:
+  series:
+    edit_all:
+      meta_title: "Editar todos mis comics"
+      title: "Editar todos mis comics"
+      toolbar:
+        add_new_series_btn:
+          mobile: "Agregar comic"
+          desktop: "Agregar comic"
+        show_all_series_btn:
+          mobile: "Ver todos mis comics"
+          desktop: "Ver todos mis comics"
+      series_list_title: "Todos mis comics:"
