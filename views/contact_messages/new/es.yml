@@ -1,0 +1,9 @@
+es:
+  contact_messages:
+    new:
+      meta_title: "Página de contacto"
+      title: "¡Contactanos!"
+      name_label: "Nombre"
+      email_label: "E-mail"
+      content_label: "Mensaje"
+      submit_btn: "Enviar"
