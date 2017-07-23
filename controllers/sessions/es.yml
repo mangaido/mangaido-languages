@@ -1,0 +1,5 @@
+es:
+  sessions:
+    create:
+      not_activated_warning: "¡Tu cuenta no esta activada! Revisa tu e-mail para activarla."
+      error: "Tu e-mail/contraseña está incorrecto."
