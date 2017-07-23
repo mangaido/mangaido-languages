@@ -1,0 +1,67 @@
+es:
+  breadcrumbs:
+    root: "Inicio"
+    artbook_images:
+      index: "Artworks"
+      edit: "Editar: %{title}"
+      new: "Nuevos artworks"
+    artbooks:
+      edit_all: "Editar artbooks"
+      edit: "Editar: %{title}"
+      new: "Agregar Artbook"
+      show: "%{title}"
+    chapter_images:
+      new: "Agregar imágenes de capítulo"
+    chapters:
+      edit: "Editar capítulo"
+      new: "Agregar capítulo"
+    conversations:
+      index: "Buzón"
+      show: "Conversación"
+    episodes:
+      new: "Agregar episodio"
+      edit: "Editar episodio"
+    messages:
+      new: "Nueva conversación"
+    noodles:
+      edit: "Editar fideo"
+      index: "Tazón de Ramen"
+      my_index: "Mis fideos"
+      new: "Agregar nuevo fideo"
+    novels:
+      index: "Novelas"
+      new: "Agregar novela"
+      edit: "Editar novela"
+      edit_all: "Editar mi novela"
+      user_novels: "Novela de artista"
+    users:
+      artbooks: "Artworks de usuario"
+      authors: "autores"
+      dashboard: "Tablero"
+      edit: "Editar perfil de %{user_name}'"
+      index: "Usuarios"
+      series: "Comic de usuario"
+    payments:
+      index: "Pagos"
+      new: "Comprar monedas"
+    series:
+      edit: "Editar comic"
+      edit_all: "Editar todos mis comics"
+      for_adults: "Para adultos"
+      index: "Comics"
+      new: "Agregar comic"
+    static_pages:
+      earn_money_with_us: "¡Gana dinero con nosotros!"
+      privacy_policy: "Políticas de privacidad"
+      search: "Resultados de busqueda"
+      terms_of_service: "Términos de servicio"
+      translate_mangaido_to_your_language: "¡Traduce Mangaido a tu idioma!"
+    transactions:
+      chapter_purchases: "Comprar capítulo"
+      chapter_sales: "Venta de capítulo"
+      donations_sent: "Donaciones enviadas"
+      donations_received: "Donaciones recibidas"
+    translations:
+      edit: "Editar traducción en: %{language_name}"
+    withdrawals:
+      index: "Retiradas"
