@@ -1,0 +1,4 @@
+es:
+  withdrawals:
+    create:
+      no_access_error: "¡Ups! No se pudo retirar."
