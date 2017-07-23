@@ -1,0 +1,7 @@
+es:
+  payments:
+    new:
+      meta_title: "Comprar monedas"
+      coin_packages_title: "Seleccionar el pack de monedas a comprar:"
+      calculation_label: "Equivalencia:"
+      buy_btn: "Comprar"
