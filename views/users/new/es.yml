@@ -1,0 +1,14 @@
+es:
+  users:
+    new_form:
+      name_label: "Nombre"
+      email_label: "Dirección E-mail"
+      password_label: "Contraseña"
+      password_confirmation_label: "Confirmar contraseña"
+      register_btn: "Crear mi cuenta"
+      log_in_link: "¡Iniciar sesión!"
+      log_in_text_html: "¿Ya tienes una cuenta? %{log_in_link_html}"
+      terms_of_service_link: "Términos de Servicio"
+      privacy_policy_link: "Políticas de Privacidad"
+      disclaimer_html: >
+        al registrarte, estas aceptando nuestros %{terms_of_service_link_html} y %{privacy_policy_link_html}.
