@@ -1,0 +1,10 @@
+es:
+  artbook_images:
+    form:
+      title: "Título (Opcional)"
+      description: "Descripción (Opcional)"
+      tags: "Etiquetas (Opcional)"
+      tags_hint: >
+        Etiquetas deben ser separadas con coma (",").
+        ¡Esto ayudará a otros a encontrar tus imagenes!.
+      save_btn: "Guardar"
