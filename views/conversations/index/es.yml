@@ -1,0 +1,14 @@
+es:
+  conversations:
+    index:
+      meta_title: "Buzón"
+      title: "Buzón"
+      subtitle: "¡No seas un extraño!"
+      new_message_btn: "Iniciar conversación"
+      menu:
+        inbox_btn: "Bandeja de entrada"
+        sent_btn: "Enviado"
+        trash_btn: "Papelera"
+      empty_trash_btn: "Vaciar papelera"
+      empty_trash_btn_confirm: "¿Estás seguro?"
+      
