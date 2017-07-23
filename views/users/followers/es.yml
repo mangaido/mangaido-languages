@@ -1,0 +1,5 @@
+es:
+  users:
+    followers:
+      meta_title: "Usuarios que siguen a %{user_name}"
+      title: "Usuarios que siguen a %{user_name}"
