@@ -1,0 +1,5 @@
+es:
+  account_activations:
+    edit:
+      success: "¡Tu cuenta ha sido activada!"
+      error: "Enlace de activación inválido"
