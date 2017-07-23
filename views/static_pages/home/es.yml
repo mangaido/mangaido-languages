@@ -1,0 +1,16 @@
+es:
+  static_pages:
+    home:
+      meta_title: "Inicio"
+      translations_section_title: "Traducciones recientes"
+      translations_section_more_btn: "Más traducciones"
+      comic_series_section_title: "Comics"
+      comic_series_section_more_btn: "Más comics"
+      comic_series_for_adults_btn: "Comics para adutos"
+      translators_section_title: "Ranking de traductores"
+      translators_section_more_btn: "Todos los traductores"
+      novels_section_title: "Novelas recientes"
+      novels_section_more_btn: "Más novelas"
+      ginza_title: "Ginza (Calentito!)"
+      shibuya_title: "Shibuya (Recientemente agregado)"
+      akihabara_title: "Akihabara (Aleatorio)"
