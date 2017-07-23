@@ -1,0 +1,7 @@
+es:
+  likes:
+    unlike:
+      tooltip: "¡Deshacer Me gusta!"
+      likes:
+        one: "Deshacer Me gusta"
+        other: "Deshacer Me gusta"
