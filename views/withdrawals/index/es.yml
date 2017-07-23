@@ -1,0 +1,21 @@
+es:
+  withdrawals:
+    index:
+      meta_title: "Retiros"
+      current_balance_label: "Balance actual:"
+      current_balance_coins:
+        one: "%{count} moneda"
+        other: "%{count} monedas"
+      money_to_be_paid_label: "Retiro en progreso:"
+      form_label: "Formulario de retiro:"
+      cant_withdraw_msg: "Para retirar dinero necesitas tener al menos %{min_coins} monedas"
+      list_label: "Retiros:"
+      list:
+        id: "ID"
+        amount_of_coins: "Número de monedas"
+        amount_of_money: "Cantidad de dinero"
+        created_at: "Creado en"
+        is_paid: "¿Completado?"
+        is_paid_yes: "Si"
+        is_paid_no: "No"
+        paid_at: "Pagado en"
