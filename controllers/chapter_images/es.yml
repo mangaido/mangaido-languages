@@ -1,0 +1,4 @@
+es:
+  chapter_images:
+    destroy:
+      success: "¡La imágen se eliminó!"
