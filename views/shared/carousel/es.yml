@@ -1,0 +1,25 @@
+es:
+  shared:
+    carousel:
+      about_mangaido:
+        title: "¿Qué es Mangaido?"
+        text: >
+          ¡Conozcámonos los unos a los otros! Dale un vistazo al video de introducción de Karolina, Bartek, y Michal.
+        action_btn: "Mira el video en Youtube"
+      translate_mangaido:
+        title: "Mangaido en tu idioma"
+        text: >
+         Si deseas ayudar a esta comunidad y que tu país tambien la conozca, puedes colaborar traduciendo Mangaido a tu idioma.
+        action_btn: "Cómo traducir"
+      publish_series:
+        title: "Publica tus comics"
+        text: >
+          ¡Aquí las personas hablan cientos de idiomas! Inspira a tus lectores a traducir tu comic para que muchos otros puedan disfrutarlo tambien.
+        action_btn: "Comenzar a publicar"
+        side_btn: "Artista: %{user_name}"
+      publish_artworks:
+        title: "Deja que el mundo vea tus creaciones"
+        text: >
+          Construimos juntos este lugar para subir y compartir obras de arte entre todos lo mas fácil y rápido posible, discutir sobre cosas que nos gustan y sumergirnos en el mundo del manga.
+        action_btn: "¡Sube todas tus obras!"
+        side_btn: "Artista: %{user_name}"
