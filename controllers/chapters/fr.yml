@@ -10,4 +10,4 @@ fr:
     destroy:
       success: "Le chapitre a été correctement effacé."
     # sort_chapter_images_by_filenames:
-    #   success: "Chapter images was successfully sorted!"
+    #   success: "Les images du chapitre ont été correctement réorganisées!"
