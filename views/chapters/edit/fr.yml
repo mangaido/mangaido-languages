@@ -15,26 +15,26 @@ fr:
           desktop: "Effacer"
         delete_btn_confir: "Etes-vous sûr?"
       chapter_images_title: "Images du chapitre:"
-      # sort_chapter_images_by_filenames_btn: "Sort chapter images by filenames"
-      # sort_chapter_images_by_filenames_help_html: >
-      #   When uploading images they are automatically sorted in natural/human way of ordering by filenames (not necessarily in alphabetical order).<br />
-      #   <br />
+      sort_chapter_images_by_filenames_btn: "Ordonner les images par nom"
+      sort_chapter_images_by_filenames_help_html: >
+      Lorsque vous téléchargez les images, ils sont automatiquement ordonné par ordre de fichiers (pas obligatoirement par ordre alphabétique).<br />
+      <br />
 
-      #   For example files with such filenames will be ordered in this way:
-      #   <ol>
-      #     <li>
-      #       "file_1.jpg"
-      #     </li>
-      #     <li>
-      #       "file_2.jpg"
-      #     </li>
-      #     <li>
-      #       "file_3.jpg"
-      #     </li>
-      #     <li>
-      #       "file_10.jpg"
-      #     </li>
-      #     <li>
-      #       "file_11.jpg"
-      #     </li>
-      #   </ol>
+      Par exemple des fichiers avec ces noms seront affichés comme ça:
+      <ol>
+      <li>
+      "fichier_1.jpg"
+      </li>
+      <li>
+      "fichier_2.jpg"
+      </li>
+      <li>
+      "fichier_3.jpg"
+      </li>
+      <li>
+      "fichier_10.jpg"
+      </li>
+      <li>
+      "fichier_11.jpg"
+      </li>
+      </ol>
