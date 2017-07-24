@@ -24,8 +24,8 @@ fr:
           position: "Ambassadeur des japonais"
         kokko:
           position: "Ambassadeur des japonais"
-        # polaczarlin:
-        #   position: "Team Support Specialist"
+        polaczarlin:
+          position: "Spécialiste de l'équipe de support"
       menu:
         earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"
