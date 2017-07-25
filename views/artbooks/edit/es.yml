@@ -4,7 +4,7 @@ es:
       meta_title: "Editar Artbook"
       title: "Editar Artbook:"
       new_artbook_image_btn:
-        mobile: "Agregar Imágenes"
+        mobile: "Agregar"
         desktop: "Agregar imágenes"
       show_this_artbook_btn:
         mobile: "Ver Artbook"
