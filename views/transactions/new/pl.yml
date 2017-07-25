@@ -1,15 +1,15 @@
 pl:
   transactions:
     new:
-      meta_title: "Potwierdzenie tranzakcji"
-      title: "Czy potwierdzasz tę tranzakcję?"
+      meta_title: "Potwierdzenie transakcji"
+      title: "Czy potwierdzasz tę transakcję?"
       chapter_price: "Cena:"
       donation_title_html: "Dotacja dla: %{user_link}"
       donation_price_title_html: "Podaj jak wiele <b>setek</b> żetonów chcesz wysłać temu użytkownikowi."
       donation_summary_text_html: >
         Wyślesz <b>%giver_send%</b> żetonów.<br />
         Posiadasz obecnie %giver_balance% żetonów.<br />
-        Użytkownik otrzyma %receiver_receive% żetonów po %percent_fee%% opłacie tranzakcyjnej.
-      doantion_summary_loading_text: "Ładowanie podsumowania tranzakcji..."
+        Użytkownik otrzyma %receiver_receive% żetonów po %percent_fee%% opłacie transakcyjnej.
+      doantion_summary_loading_text: "Ładowanie podsumowania transakcji..."
       confirm_btn: "Potwierdź"
       cancel_btn: "Anuluj"

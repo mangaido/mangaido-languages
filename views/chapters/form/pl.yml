@@ -16,7 +16,7 @@ pl:
         Tutaj możesz ustawić cenę jaką Twoi czytelnicy będą musieli zapłacić żeby uzyskać dostęp do odcinka.<br />
         Jeśli wybierzeć "0 żetonów" dostęp do odcinka będzie darmowy.<br />
         Cenę możesz zmienić w każdej chwili.<br />
-        Pamiętaj że od każdej tranzakcji Mangaido pobiera %{percent_fee}% opłatę.
+        Pamiętaj że od każdej transakcji Mangaido pobiera %{percent_fee}% opłatę.
       amount_of_coins_select:
         one: "%{count} żeton"
         few: "%{count} żetony"

@@ -2,6 +2,7 @@ fr:
   transactions:
     new:
       error: "Vous ne pouvez pas créer cette transaction!"
+      no_enough_coins_error: "Vous devez acheter des pièces pour compléter cette transaction."
     create:
       no_enough_coins_error: "Vous devez acheter des pièces pour compléter cette transaction."
       success: "Transaction réalisée avec succès!"

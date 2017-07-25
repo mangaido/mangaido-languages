@@ -27,7 +27,7 @@ pl:
         status_update:
           image_too_big: "Obrazek posta powinien być mniejszy niż: %{size}"
         transaction:
-          general_error: "Wystąpił problem z tranzakcją. Spróbuj ponowinie"
+          general_error: "Wystąpił problem z transakcją. Spróbuj ponowinie"
           not_enough_coins: "Niewystarczająca ilość żetonów!"
         user:
           avatar_too_big: "Awatar powinien być mniejszy niż: %{size}"
