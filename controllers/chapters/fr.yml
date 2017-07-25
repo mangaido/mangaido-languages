@@ -9,5 +9,5 @@ fr:
       erorr: "Un problème est survenu dans la mise à jour de ce chapitre! Essayez de nouveau."
     destroy:
       success: "Le chapitre a été correctement effacé."
-    # sort_chapter_images_by_filenames:
-    #   success: "Les images du chapitre ont été correctement réorganisées!"
+    sort_chapter_images_by_filenames:
+      success: "Les images du chapitre ont été correctement réorganisées!"
