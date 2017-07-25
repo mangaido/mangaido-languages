@@ -1,0 +1,23 @@
+es:
+  static_pages:
+    translate_mangaido_to_your_language:
+      meta_title: "Traduce Mangaido a tu idioma"
+      translation_website_link: "Sitio web de Traducción"
+      text_html: >
+        <h1>Traduce Mangaido a tu idioma</h1>
+        <p>
+          Si usted ve que Mangaido no tiene versión de idioma que usted sabe o que la versión está incompleta, usted puede fácilmente convertirse en traductor de este sitio web.
+        </p>
+        <p>
+          Para ello creamos un sitio web separado donde puede editar archivos de traducción sobre los que se construye nuestro sitio web. Allí encontrarás todo lo que necesitas para empezar a traducir.<br />
+           ¡Es super fácil y divertido!
+        </p>
+        <p>
+          Navegue a esta página con el enlace de abajo. Desplácese hacia abajo un poco donde están las instrucciones. Allí encontrarás también videos de YouTube donde mostramos todo lo que necesitas saber para completar la versión completa de Mangaido.
+        </p>
+        <p>
+          %{translation_website_link_html}
+        </p>
+        <p>
+          Todos los que ayuden a construir la comunidad internacional de Mangaido ayudando en las traducciones serán listados en nuestra página de inicio como traductor y colaborador oficial. Además, nosotros (Karolina, Bartek y Michal) estamos planeando distinguir a esas personas de otras maneras, tanto como podamos.
+        </p>

@@ -1,0 +1,21 @@
+es:
+  series:
+    form:
+      title_label: "Título"
+      description_label: "Descripción (Opcional)"
+      is_published_label: "¿Está publicado?"
+      is_published_yes_label: "Publicado"
+      is_published_no_label: "En borrador"
+      is_for_adults_label: "¿Tiene contenido para adultos?"
+      is_for_adults_yes_label: "Sólo para adultos"
+      is_for_adults_no_label: "Es seguro para niños"
+      language_label: "Idioma"
+      cover_label: "Portada (Opcional)"
+      remove_cover_yes_label: "Remover esta portada"
+      remove_cover_no_label: "Dejar postada como está"
+      cover_help_text: "Para mejores resultados, sube una imágen de dimensiones 1600x800 pixeles (JPG or PNG)"
+      wide_cover_label: "Portada ancha (Opcional)"
+      remove_wide_cover_yes_label: "Remover esta portada"
+      remove_wide_cover_no_label: "Dejar la portada como está"
+      wide_cover_help_text: "Para mejores resultados, sube una imágen de dimensiones 1920x320 px (JPG or PNG)"
+      submit_btn: "Subir"

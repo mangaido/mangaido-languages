@@ -1,0 +1,16 @@
+es:
+  users:
+    dashboard:
+      meta_title: "Tablero"
+      current_balance_label: "Balance actual"
+      current_balance_amount_of_coins:
+        one: "%{count} moneda"
+        other: "%{count} monedas"
+      buy_coins_btn: "Comprar monedas"
+      withdrawals_money_label: "Retiro en progreso"
+      withdrawals_btn: "Retiros"
+      chapter_purchases_btn: "Acceso a capítulo comprado"
+      donations_sent_btn: "Donaciones enviadas"
+      chapter_sales_btn: "Acceso a capítulo vendido"
+      donations_received_btn: "Donaciones recibidas"
+      payments_btn: "Pagos"

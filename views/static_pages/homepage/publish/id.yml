@@ -1,1 +1,14 @@
 id:
+  static_pages:
+    homepage:
+      publish:
+        artworks:
+          upload_btn: "Unggah karya"
+          title: "Publikasikan karya dalam buku"
+          description: >
+            Mempublikasikan karya-karya yang tak termasuk dalam cerita. Kau bisa menyusun karyamu menjadi satu bagian dalam artbooks.
+        comic_series:
+          create_btn: "Menciptakan serial komik"
+          title: "Publikasikan serial komik"
+          description: >
+            Mempublikasikan seri komik total! membangun cerita, mengembangkan karakter, meriliskan chapter dan membuat para pembaca tak sabar untuk menantikan kelanjutannya!

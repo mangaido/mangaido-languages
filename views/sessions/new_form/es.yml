@@ -1,0 +1,10 @@
+es:
+  sessions:
+    new_form:
+      email_label: "E-mail"
+      password_label: "Contraseña"
+      forgot_password_link: "(Olvidé mi contraseña)"
+      remember_me_checkbox: "Recordar mi cuenta en esta computadora"
+      log_in_btn: "Iniciar sesión"
+      sign_up_link_html: "¡Registrate ahora!"
+      sign_up_text_html: "¿Nuevo en Mangaido? %{sign_up_link_html}"

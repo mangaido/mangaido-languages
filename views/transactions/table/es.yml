@@ -1,0 +1,6 @@
+es:
+  transactions:
+    table:
+      link_label: "Enlace"
+      amount_of_coins_label: "Número de monedas"
+      date_label: "Datos"

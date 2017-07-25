@@ -1,0 +1,5 @@
+es:
+  status_updates:
+    form:
+      content_placeholder: "¿Qué tienes en mente?..."
+      image_hint: "Agregar imágen (Opcional) La imágen no debe ser mayor de %{max_size_in_mb}MB."

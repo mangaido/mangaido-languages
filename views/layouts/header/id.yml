@@ -1,1 +1,13 @@
 id:
+  layouts:
+    header:
+      toggle_navigation_text: "Tombol Navigasi"
+      upload: "Unggah"
+      status_updates: "Status terbaru"
+      feed: "Berita"
+      artworks: "Karya"
+      series: "serial Komik"
+      novels: "Novel"
+      ramen: "Ramen"
+      log_in: "Masuk"
+      search_btn: "Pencarian"

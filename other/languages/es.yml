@@ -1,0 +1,140 @@
+es:
+  languages:
+    af:
+      name: "Africano"
+    sq:
+      name: "Albanés"
+    ar:
+      name: "Árabe"
+    hy:
+      name: "Armenio"
+    cy_az:
+      name: "Azerí (Cirílico)"
+    lt_az:
+      name: "Azerí (latín)"
+    eu:
+      name: "Vasco"
+    be:
+      name: "Bielorruso"
+    bg:
+      name: "Búlgaro"
+    ca:
+      name: "Catalan"
+    zh_CHS:
+      name: "Chino (Simplificado)"
+    zh_CHT:
+      name: "Chino (Tradicional)"
+    hr:
+      name: "Croata"
+    cs:
+      name: "Checo"
+    da:
+      name: "Danés"
+    div:
+      name: "Dhivehi"
+    nl:
+      name: "Holandés"
+    en_US:
+      name: "Inglés"
+    et:
+      name: "Estonio"
+    fo:
+      name: "Feroés"
+    fi:
+      name: "Finlandés"
+    fr:
+      name: "Francés"
+    gl:
+      name: "Gallego"
+    ka:
+      name: "Georgiano"
+    de:
+      name: "Alemán"
+    el:
+      name: "Griego"
+    gu:
+      name: "Gujarati"
+    he:
+      name: "Hebrep"
+    hi:
+      name: "Hindú"
+    hu:
+      name: "Húngaro"
+    is:
+      name: "Islandés"
+    id:
+      name: "Indonesio"
+    it:
+      name: "Italiano"
+    ja:
+      name: "Japonés"
+    kn:
+      name: "Cananés"
+    kk:
+      name: "Kazajo"
+    kok:
+      name: "Konkani"
+    ko:
+      name: "Coreano"
+    ky:
+      name: "Kirguís"
+    lv:
+      name: "Latvio"
+    lt:
+      name: "Lituano"
+    mk:
+      name: "Macedonio"
+    ms:
+      name: "Malayo"
+    mr:
+      name: "Maratí"
+    mn:
+      name: "Mongol"
+    nb_NO:
+      name: "Noruego (Bokmål)"
+    nn_NO:
+      name: "Noruego (Nynorsk)"
+    pl_PL:
+      name: "Polaco"
+    pt:
+      name: "Portugués"
+    pa:
+      name: "Punjabí"
+    ro:
+      name: "Rumano"
+    ru:
+      name: "Ruso"
+    sa:
+      name: "Sánscrito"
+    cy_sr:
+      name: "Serbio (Cirílico)"
+    lt_sr:
+      name: "Serbio (Latín)"
+    sk:
+      name: "Eslovaco"
+    sl:
+      name: "Esloveno"
+    es:
+      name: "Español"
+    syr:
+      name: "Sirio"
+    ta:
+      name: "Tamil"
+    tt:
+      name: "Tartar"
+    te:
+      name: "Telugu"
+    th:
+      name: "Tailandés"
+    tr:
+      name: "Turco"
+    uk:
+      name: "Ucraniano"
+    ur:
+      name: "Urdu"
+    cy_uz:
+      name: "Uzbeko (Cirílico)"
+    lt_uz:
+      name: "Uzbeko (Latín)"
+    vi:
+      name: "Vietnamita"

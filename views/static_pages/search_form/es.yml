@@ -1,0 +1,19 @@
+es:
+  static_pages:
+    search_form:
+      search_field_placeholder: "Buscar..."
+      found_results:
+        one: "Se encontó %{count} resultado"
+        other: "Se encontraron %{count} resultados"
+      page_x_of_y: "Página: %{x} de %{y}"
+      menu:
+        all_btn: "Todo"
+        artbook_images_btn: "Imágenes del Artbook"
+        series_btn: "Comic"
+        users_btn: "Usuarios"
+        novels_btn: "Novelas"
+        noodles_btn: "Fideos"
+      adult_filter:
+        safe_for_children_label: "Seguro para niños"
+        for_adults_label: "Para adultos"
+        all_label: "Todo"

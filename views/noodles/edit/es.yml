@@ -1,0 +1,6 @@
+es:
+  noodles:
+    edit:
+      meta_title: "%{title} - Editar fideo"
+      title: "%{title} - Editar fideo"
+      cancel_btn: "Cancelar"

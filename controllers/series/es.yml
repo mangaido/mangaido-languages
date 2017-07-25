@@ -1,0 +1,13 @@
+es:
+  series:
+    show:
+      not_published_error: "¡Este comic aún no fue publicado!"
+      not_published_info: "Este comic aún no fue publicado."
+    create:
+      success: "¡Comic creado!"
+      error: "¡Ups! Hubo un problema agregando este comic!"
+    update:
+      success: "¡Comic actualizado!"
+      error: "¡Ups! Hubo un problema actualizando este comic, vuelve a intentarlo."
+    destroy:
+      success: "¡Comic eliminado!"

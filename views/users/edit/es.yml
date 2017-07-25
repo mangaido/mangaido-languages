@@ -1,0 +1,5 @@
+es:
+  users:
+    edit:
+      meta_title: "Editar perfil de %{user_name}"
+      title: "Editar perfil de %{user_name}"

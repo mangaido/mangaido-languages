@@ -1,1 +1,17 @@
 id:
+  notifications:
+    notification:
+      ArtbookImage: "koleksi gambar"
+      Artbook: "koleksi"
+      StatusUpdate: "Perbarui status"
+      Series: "Serial"
+      Chapter: "chapter"
+      Episode: "episode"
+      Novel: "novel"
+      User: "profil"
+      Noodle: "Mie"
+      code:
+        LIKE_html: "%{who} menyukai %{what}"
+        COMMENT_html: "%{who} Mengomentari %{what}"
+        FOLLOW_html: "%{who} Sekarang mengikutimu"
+      time_ago: "%{time_ago} yang lalu"

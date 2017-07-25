@@ -1,0 +1,15 @@
+es:
+  noodles:
+    index:
+      meta_title: "Tazón de Ramen"
+      logo_img_alt: "Logo de Ramen"
+      title: "Tazón de Ramen"
+      subtitle_html: >
+        Prueba nuestros<br />
+         mejores ramen!
+      new_noodle_btn:
+        mobile: "¡Agregar fideo!"
+        desktop: "¡Agregar fideo!"
+      my_noodles_btn:
+        mobile: "Mis fideos"
+        desktop: "Mis fideos"

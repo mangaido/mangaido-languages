@@ -1,0 +1,4 @@
+es:
+  translations:
+    series_list_item:
+      time_ago: Hace "%{time_ago}"

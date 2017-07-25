@@ -1,0 +1,12 @@
+es:
+  novels:
+    edit_all:
+      meta_title: "Editar todas mis novelas"
+      title: "Editar todas mis novelas"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Agregar novela"
+          desktop: "Agregar novela"
+        my_novels_btn:
+          mobile: "Mis novelas"
+          desktop: "Mis novelas"

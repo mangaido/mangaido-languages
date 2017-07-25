@@ -1,0 +1,8 @@
+es:
+  password_resets:
+    edit:
+      meta_title: "Restablecer contraseña"
+      title: "Restablecer contraseña"
+      password_label: "Contraseña (mín. 6 carácteres)"
+      password_confirmation_label: "Confirmar contraseña"
+      submit_btn: "Actualizar contraseña"

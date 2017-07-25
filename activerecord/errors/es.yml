@@ -1,0 +1,37 @@
+es:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Error de validación: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "No se puede eliminar el registro porque un %{record} está pendiente"
+          has_many: "No se puede eliminar el registro porque %{record} está pendiente"
+      models:
+        artbook_image:
+          image_too_big: "La imágen del Artbook debe ser inferior a %{size}"
+        chapter:
+          image_too_big: "La imágen del capítulo debe ser inferior a %{size}"
+          too_many_authorized_users: "Este capítulo tiene demaciados usuarios autorizados"
+        chapter_image:
+          image_too_big: "La imágen del capitulo debe ser inferior a %{size}"
+        noodle:
+          image_too_big: "La imágen de fideos debe ser inferior a %{size}"
+        novel:
+          image_too_big: "La portada de la novela debe ser inferior a %{size}"
+        password_reset:
+          password:
+            cant_be_empty: "Inserta una contraseña"
+        series:
+          cover_too_big: "La portada del comic debe ser inferior a %{size}"
+          wide_cover_too_big: "La portada del comic debe ser inferior a %{size}"
+        status_update:
+          image_too_big: "La imágen de estado debe ser inferior a %{size}"
+        transaction:
+          general_error: "¡Hubo un problema con la transacción! Por favor, vuelve a intentarlo."
+          not_enough_coins: "Número de monedas insuficiente."
+        user:
+          avatar_too_big: "El avatar debe ser inferior a %{size}"
+          cover_too_big: "La portada debe ser inferior a %{size}"
+        withdrawal:
+          not_enough_coins: "Número de monedas insuficiente!"
+          

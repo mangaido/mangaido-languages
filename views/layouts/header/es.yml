@@ -1,0 +1,13 @@
+es:
+  layouts:
+    header:
+      toggle_navigation_text: "Cambiar navegación"
+      upload: "Subir"
+      status_updates: "Feed"
+      feed: "Feed"
+      artworks: "Artworks"
+      series: "Comics"
+      novels: "Novelas"
+      ramen: "Ramen"
+      log_in: "Iniciar sesión"
+      search_btn: "Buscar"

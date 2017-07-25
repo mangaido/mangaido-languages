@@ -1,0 +1,38 @@
+es:
+  series:
+    show:
+      meta_title: "%{title} - Ver comic"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "Mi comic"
+          desktop: "Mi comic"
+        edit_btn:
+          mobile: "Editar comic"
+          desktop: "Editar comic"
+      chapters_list:
+        title: "Capítulos:"
+        not_published_message: "Aún no está publicado."
+        chapter:
+          free_icon: "Capítulo gratis"
+          bought_icon: "Capítulo comprado"
+          unlocked_icon: "Acceso autorizado"
+          locked_icon: "Debes comprar este capítulo para leerlo"
+          views:
+            one: "%{count} visualización"
+            other: "%{count} visualizaciones"
+          translations_btn:
+            one: "%{count} traducción"
+            other: "%{count} traducciones"
+          edit_btn: "Editar"
+      description_title: "Descripción:"
+      informations:
+        title: "Informacion:"
+        views:
+          one: "%{count} visualización"
+          other: "%{count} visualizaciones"
+        for_adults: "Para adultos"
+        safe_for_children: "Es seguro para niños"
+        language: "Idioma: %{language_name}"
+        translations: "Traducciones:"
+        translation_language: "%{language_name} (%{count})"
+      comments_title: "Comentarios:"

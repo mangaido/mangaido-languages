@@ -1,0 +1,10 @@
+es:
+  withdrawals:
+    form:
+      amount_of_coins_label: "¿Cuantas monedas retirará?"
+      summary_loading_text: "Cargando resumen..."
+      summary_text: >
+        <b>%amount_of_coins%</b> monedas = %coins_to_money%USD<br />
+        Cuota de retiro: %percent_fee%%<br />
+        Retirarás <b>%amount_of_money%USD<b/>
+      withdraw_btn: "¡Retirar monedas!"

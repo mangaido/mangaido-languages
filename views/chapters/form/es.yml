@@ -1,0 +1,33 @@
+es:
+  chapters:
+    form:
+      title_label: "Título"
+      is_published_label: "¿Está publicado?"
+      is_published_yes_label: "Publicado"
+      is_published_no_label: "en borrador"
+      cover_label: "Portada (Opcional)"
+      remove_cover_yes_label: "Remover portada"
+      remove_cover_no_label: "Dejar portada como está"
+      cover_hint_text: >
+        Recomendacion: tener dimensiones 640x260 pixeles (JPG o PNG)
+      amount_of_coins_label: "Número de monedas:"
+      amount_of_coins_help_btn: "Más información"
+      amount_of_coins_help_text_html: >
+       Aqui podrás seleccionar el precio que deberán pagar tus lectores para acceder a este capítulo.<br />
+        Recuerda que, por cada transacción, Mangaido estará obteniendo un %{percent_fee}% .
+      amount_of_coins_select:
+        one: "%{count} moneda"
+        other:  "%{count} monedas"
+      authorized_users_label: "Usuario autorizado:"
+      authorized_users_help_btn: "Más información"
+      authorized_users_help_text_html: >
+        Aquí podrás seleccionar a los lectores que tendrán acceso gratuito al capítulo.<br />
+        Esta funcion es eficiente para ocaciones en las que quiera otorgar acceso a traductores.<br />
+        Los usuarios traductores sólo podrán leer el capítulo y crear tradicciones basadas en él. No podrán editarlo.<br />
+        Sólo debes enviarles el enlace al capítulo.<br />
+        Puedes agregar y/o eliminar usuarios autorizados en todo momento.<br />
+        El número máximo de usuarios autorizados a leer el capítulo es de %{max_users}.
+      authorized_users_field_placeholder: "Buscar usuario..."
+      too_many_users_error: "¡Demaciados usuarios autorizados!"
+      submit_btn: "Subir"
+      

@@ -1,0 +1,11 @@
+es:
+  layouts:
+    header_profile_dropdown:
+      profile: "Perfil"
+      my_artbooks: "Mis Artbooks"
+      my_comic_series: "Mis comics"
+      my_translations: "Mis traducciones"
+      my_novels: "Mis novelas"
+      mailbox: "Buzón"
+      settings: "Configuraciones"
+      log_out: "Cerrar sesión"

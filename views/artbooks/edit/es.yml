@@ -1,0 +1,13 @@
+es:
+  artbooks:
+    edit:
+      meta_title: "Editar página de Artbook"
+      title: "Editar Artbook:"
+      new_artbook_image_btn:
+        mobile: "Agregar Imágenes"
+        desktop: "Agregar imágenes"
+      show_this_artbook_btn:
+        mobile: "Ver Artbook"
+        desktop: "Ver Artbook"
+      delete_btn: "Eliminar"
+      

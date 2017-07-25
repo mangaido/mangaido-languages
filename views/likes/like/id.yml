@@ -1,1 +1,6 @@
 id:
+  likes:
+    like:
+      tooltip: "Suka!"
+      likes:
+        other: "Suka"

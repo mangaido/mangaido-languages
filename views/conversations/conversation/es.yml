@@ -1,0 +1,8 @@
+es:
+  conversations:
+    conversation:
+      restore_btn: "Restaurar"
+      move_to_trash_btn: "Mover a la papelera"
+      move_to_trash_btn_confirm: "¿Estás seguro?"
+      mark_as_read_btn: "Marcar como leído"
+      sent_ago: "Enviado hace %{time}"

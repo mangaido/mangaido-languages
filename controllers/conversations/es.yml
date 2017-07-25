@@ -1,0 +1,12 @@
+es:
+  conversations:
+    reply:
+      success: "¡Respuesta enviada!"
+    destroy:
+      success: "La conversación de movió a la papelera."
+    restore:
+      success: "¡La conversación fue restaurada!"
+    empty_trash:
+      success: "¡Tu papelera fue limpiada!"
+    mark_as_read:
+      success: "La conversación fue marcada como leída."
