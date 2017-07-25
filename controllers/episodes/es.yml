@@ -5,8 +5,8 @@ es:
       novel_not_published_error: "¡Esta novela aún no está publicada!"
       episode_not_published_info: "Esta novela aún no está publicada."
     create:
-      success: "¡Tu episodio fue creado!"
+      success: "¡Episodio creado!"
     update:
-      success: "¡tu episodio se actualizó!"
+      success: "¡Episodio actualizado!"
     destroy:
-      success: "¡Tu episodio se eliminó!"
+      success: "¡Episodio eliminado!"
