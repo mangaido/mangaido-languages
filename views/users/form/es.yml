@@ -8,11 +8,11 @@ es:
       paypal_email_label: "E-mail de PayPal"
       paypal_email_help_btn: "Más información"
       paypal_email_help_text_html: >
-      Inserta tu direccion e-mail de PayPal para que sepamos a dónde enviarte tu dinero.
+        Inserta tu direccion e-mail de PayPal para que sepamos a dónde enviarte tu dinero.
       about_label: "Sobre mí (Opcional)"
       remove_avatar_label: "¿Quieres eliminar este avatar?"
       avatar_hint_text: >
-       Para tener mejores resultados, sube la impagen con dimensiones 800x800 pixeles (JPG o PNG). Si no tienes un avatar subido, buscaremos uno en tu cuenta Gravatar.com
+        Para tener mejores resultados, sube la impagen con dimensiones 800x800 pixeles (JPG o PNG). Si no tienes un avatar subido, buscaremos uno en tu cuenta Gravatar.com
       cover_label: "Portada"
       remove_cover_label: "¿Quieres eliminar esta portada?"
       cover_hint_text: >

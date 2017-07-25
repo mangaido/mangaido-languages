@@ -1,4 +1,4 @@
 es:
   series:
     list_item:
-      time_ago: Hace "%{time_ago}"
+      time_ago: "Hace %{time_ago}"

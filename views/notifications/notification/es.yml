@@ -14,4 +14,4 @@ es:
         LIKE_html: "%{who} le gusta tu %{what}"
         COMMENT_html: "%{who} comentó tu %{what}"
         FOLLOW_html: "%{who} te sigue"
-      time_ago: hace "%{time_ago}"
+      time_ago: "hace %{time_ago}"
