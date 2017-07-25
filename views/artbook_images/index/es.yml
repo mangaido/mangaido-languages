@@ -3,14 +3,14 @@ es:
     index:
       meta_title: "Últimos Artworks"
       title: "Últimos Artworks"
-      subtitle: "Creatividad desencadenada"
+      subtitle: "¡Libera tu creatividad!"
       toolbar:
         add_new_artworks:
-          mobile: "Agregar Artworks"
+          mobile: "Agregar"
           desktop: "Agregar Artworks"
         my_artbooks:
-          mobile: "Mi Artbooks"
+          mobile: "Mis Artbooks"
           desktop: "Mis Artbooks"
         edit_my_artbooks:
-          mobile: "Editar mis Artbooks"
+          mobile: "Editar"
           desktop: "Editar mis Artbooks"
