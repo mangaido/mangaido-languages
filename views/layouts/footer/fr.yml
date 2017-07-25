@@ -26,6 +26,10 @@ fr:
           position: "Ambassadeur des japonais"
         polaczarlin:
           position: "Spécialiste de l'équipe de support"
+        # pusproject:
+        #   position: "Ambassador of Indonesian Users"
+        # uedahana:
+        #   position: "Ambassador of Spanish-speaking Users"
       menu:
         earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"

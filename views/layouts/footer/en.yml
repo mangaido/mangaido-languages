@@ -21,11 +21,15 @@ en:
         choux:
           position: "Ambassador of French-speaking Users"
         makkusu:
-          position: "Ambassador of Japanese-speaking Users"
+          position: "Ambassador of Japanese Users"
         kokko:
-          position: "Ambassador of Japanese-speaking Users"
+          position: "Ambassador of Japanese Users"
         polaczarlin:
           position: "Team Support Specialist"
+        pusproject:
+          position: "Ambassador of Indonesian Users"
+        uedahana:
+          position: "Ambassador of Spanish-speaking Users"
       menu:
         earn_money_with_us_btn: "Earn money with us!"
         terms_of_service_btn: "Terms of service"
