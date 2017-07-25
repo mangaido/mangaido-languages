@@ -1,7 +1,7 @@
 es:
   artbooks:
     edit:
-      meta_title: "Editar página de Artbook"
+      meta_title: "Editar Artbook"
       title: "Editar Artbook:"
       new_artbook_image_btn:
         mobile: "Agregar Imágenes"
