@@ -1,1 +1,40 @@
 id:
+  chapters:
+    edit:
+      meta_title: "%{series_title} - %{chapter_title} - edit halaman chapter"
+      title: "Edit chapter: %{title}"
+      toolbar:
+        add_new_images_btn:
+          desktop: "Tambahkan gambar"
+          mobile: "Tambah"
+        read_chapter_btn:
+          desktop: "Baca Chapter"
+          mobile: "Baca"
+        delete_btn:
+          mobile: ""
+          desktop: "Hapus"
+        delete_btn_confir: "ingin dihapus?"
+      chapter_images_title: "Gambar chapter:"
+      sort_chapter_images_by_filenames_btn: "Urutkan berdasarkan nama"
+      sort_chapter_images_by_filenames_help_html: >
+        saat proses pengunggahan berlangsung, file secara otomatis akan terurut berdasarkan nama (tidak harus dalam urutan abjad).<br />
+        <br />
+
+        di bawah ini adalah contoh dari urutan nama:
+        <ol>
+          <li>
+            "file_1.jpg"
+          </li>
+          <li>
+            "file_2.jpg"
+          </li>
+          <li>
+            "file_3.jpg"
+          </li>
+          <li>
+            "file_10.jpg"
+          </li>
+          <li>
+            "file_11.jpg"
+          </li>
+        </ol>
