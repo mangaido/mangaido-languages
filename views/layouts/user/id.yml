@@ -1,1 +1,49 @@
-id:
+id: 
+layouts:
+    user:
+      edit_profile: "Edit profil"
+      send_message: "Kirim Pesan"
+      stats:
+        following:
+          one: "Mengikuti"
+          other: "Mengikuti"
+        followers:
+          one: "Pengikut"
+          other: "Pengikut"
+        posts:
+          one: "Posting"
+          other: "Posting"
+        artwork_views:
+          one: "Tampilan Karya"
+          other: "Tampilan karya"
+        series_views:
+          one: "Tampilan serial"
+          other: "Tampilan serial"
+        translation_views:
+          one: "Tampilan terjemahan"
+          other: "Tampilan terjemahan"
+        novel_views:
+          one: "Tampilan novel"
+          other: "Tampilan novel"
+      menu:
+        donate: "Donasikan"
+        artbooks:
+          one: "%{count} Buku gambar "
+          other: "%{count} Buku gambar "
+        comic_series:
+          one: "%{count} Seial komik"
+          other: "%{count} Serial komik"
+        translations:
+          one: "%{count} terjemahan"
+          other: "%{count} terjemahan"
+        novels:
+          one: "%{count} novel"
+          other: "%{count} novel"
+        following:
+          one: "%{count} mengikuti"
+          other: "%{count} mengikuti"
+        followers:
+          one: "%{count} pengikut"
+          other: "%{count} pengikut"
+      q_and_a:
+        country: "Negara?"
