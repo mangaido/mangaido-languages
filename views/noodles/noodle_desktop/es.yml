@@ -2,4 +2,4 @@ es:
   noodles:
     noodle_mobile:
       source_html: "Fuente: %{link_html}"
-      time_ago: Hace "%{time_ago}"
+      time_ago: "Hace %{time_ago}"
