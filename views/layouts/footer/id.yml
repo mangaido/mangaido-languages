@@ -1,1 +1,37 @@
 id:
+  layouts:
+    footer:
+      instagram_btn: "@mangaidocom"
+      facebook_btn: "Mangaido di Facebook"
+      snapchat_btn: "@mangaido"
+      twitter_btn: "@mangaido"
+      mangaido_logo: "Mangaido"
+      youtube_btn: "Mangaido di YouTube"
+      tumblr_btn: "Mangaido di Tumblr"
+      crew_title: "Crew:"
+      crew:
+        mangaido:
+          position: "Profil Resmi"
+        karolina:
+          position: "Co-founder"
+        bartek:
+          position: "Co-founder"
+        michal:
+          position: "Co-founder"
+        choux:
+          position: "Duta Bicara-Bahasa Perancis"
+        makkusu:
+          position: "Duta dari jepang"
+        kokko:
+          position: "Duta dari jepang"
+        polaczarlin:
+          position: "Team Support Specialist"
+        pusproject:
+          position: "Duta dari Indonesia"
+        uedahana:
+          position: "Duta Bicara-Bahasa Spanyol"
+      menu:
+        earn_money_with_us_btn: "Dapatkan Keuntungan bersama!"
+        terms_of_service_btn: "Kebijakan Pelayanan"
+        privacy_btn: "Privasi"
+        contact_us_btn: "Kontak kami!"
