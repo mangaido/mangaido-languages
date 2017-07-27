@@ -1,1 +1,7 @@
 id:
+  comments:
+    create:
+      success: "Komentar ditambahkan."
+      error: "Ada masalah saat menambahkan komentar. harap coba lagi."
+    destroy:
+      success: "Komentar dihapus."
