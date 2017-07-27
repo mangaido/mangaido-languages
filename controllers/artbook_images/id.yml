@@ -1,1 +1,6 @@
 id:
+  artbook_images:
+    update:
+      success: "Buku gambar berhasil diupdate."
+    destroy:
+      success: "Gambar telah dihapus."
