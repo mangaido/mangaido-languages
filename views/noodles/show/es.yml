@@ -2,7 +2,7 @@ es:
   noodles:
     show:
       meta_title: "%{title} - Fideos del Ramen"
-      info_html: Hace "%{time_ago} por %{user_link_html}"
+      info_html: "Hace %{time_ago} por %{user_link_html}"
       edit_btn: "Editar"
       delete_btn: "Eliminar"
       delete_btn_confirm: "¿Estás seguro?"
