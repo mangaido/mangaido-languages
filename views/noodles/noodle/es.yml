@@ -1,7 +1,7 @@
 es:
   noodles:
     noodle_desktop:
-      time_ago: Hace "%{time_ago},"
+      time_ago: "Hace %{time_ago},"
       comments_count:
         one: "%{count} comentario"
         other: "%{count} comentarios"
