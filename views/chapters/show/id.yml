@@ -1,1 +1,21 @@
 id:
+  chapters:
+    show:
+      meta_title: >
+        %{series_title} - %{chapter_title} - halaman serial komik
+      translation_meta_title: >
+        %{series_title} - %{chapter_title} - %{language_name} - halaman terjemahan serial komik
+      translations_btn: "Terjemahan"
+      top_menu:
+        series_btn: "Semua chapter"
+      bottom_menu:
+        previous_chapter_btn: "Chapter sebelumnya"
+        next_chapter_btn: "Chapter selanjutnya"
+      settings:
+        edit_chapter: "Edit chapter"
+        edit_series: "Edit serial komik"
+        edit_all_series: "Edit Semuanya"
+      author_label: "Pengarang:"
+      translator_label: "Penerjemah:"
+      series_label: "Seri:"
+      gallery_item_title: "Ch. %{chapter_nr}"
