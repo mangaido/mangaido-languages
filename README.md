@@ -27,6 +27,7 @@ We're currently supporting:
 - Bahasa Indonesia (id)
 - Filipino (tl)
 - Español (es)
+- Русский (ru)
 
 if you know any other language and you want to help, let us know via email: contact@mangaido.com and we will add support to your language so that you will be able to start your translation journey here.
 
