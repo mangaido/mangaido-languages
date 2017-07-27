@@ -78,19 +78,19 @@ es:
         other: hace mas de %{count} años
       x_days:
         one: hace 1 día
-        other: hace "%{count} días"
+        other: "hace %{count} días"
       x_minutes:
         one: hace 1 minuto
-        other: hace "%{count} minutos"
+        other: "hace %{count} minutos"
       x_months:
         one: hace 1 mes
-        other: hace "%{count} meses"
+        other: "hace %{count} meses"
       x_years:
         one: hace 1 año
-        other: hace "%{count} años"
+        other: "hace %{count} años"
       x_seconds:
         one: hace 1 segundo
-        other: hace "%{count} segundos"
+        other: "hace %{count} segundos"
     prompts:
       day: Día
       hour: Hora
