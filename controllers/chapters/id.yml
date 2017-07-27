@@ -5,9 +5,9 @@ id:
     create:
       success: "Chapter berhasil dibuat!"
     update:
-      success: "Chapter berhasil diperbarui."
+      success: "Chapter berhasil diupdate."
       erorr: "Ada masalah saat proses update! Coba lagi."
     destroy:
-      success: "Chapter berhasil dihapus."
+      success: "Chapter telah dihapus."
     sort_chapter_images_by_filenames:
       success: "Gambar chapter berhasil diurut!"
