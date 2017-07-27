@@ -1,1 +1,13 @@
 id:
+  chapters:
+    show:
+      no_access_error: "Kamu tidak punya akses!"
+    create:
+      success: "Chapter berhasil dibuat!"
+    update:
+      success: "Chapter berhasil diperbarui."
+      erorr: "Ada masalah saat proses update! Coba lagi."
+    destroy:
+      success: "Chapter berhasil dihapus."
+    sort_chapter_images_by_filenames:
+      success: "Gambar chapter berhasil diurut!"
