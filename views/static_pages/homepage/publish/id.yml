@@ -4,11 +4,11 @@ id:
       publish:
         artworks:
           upload_btn: "Unggah karya"
-          title: "Publikasikan karya dalam buku"
+          title: "Terbitkan karya dalam buku"
           description: >
-            Mempublikasikan karya-karya yang tak termasuk dalam cerita. Kau bisa menyusun karyamu menjadi satu bagian dalam artbooks.
+            Mempublikasikan karya-karya yang sejenis. Kamu bisa menyusun karyamu menjadi satu bagian dalam buku gambar.
         comic_series:
-          create_btn: "Menciptakan serial komik"
+          create_btn: "Buat serial komik"
           title: "Publikasikan serial komik"
           description: >
-            Mempublikasikan seri komik total! membangun cerita, mengembangkan karakter, meriliskan chapter dan membuat para pembaca tak sabar untuk menantikan kelanjutannya!
+            Terbitkan komik seri dalam skala besar! Buatlah Ceritamu, kembangkan karakter, riliskan chapter dan buatlah para pembaca tak sabar untuk menantikan kelanjutannya!
