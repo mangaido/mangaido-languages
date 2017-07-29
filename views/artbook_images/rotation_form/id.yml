@@ -1,1 +1,5 @@
 id:
+  artbook_images:
+    rotation_form:
+      rotate_left_btn: "Putar ke kiri"
+      rotate_right_btn: "Putar ke kanan"
