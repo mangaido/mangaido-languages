@@ -1,1 +1,12 @@
 id:
+  artbooks:
+    edit_all:
+      meta_title: "Edit buku gambarku"
+      title: "Edit buku gambarku"
+      new_artbook_btn:
+        mobile: "Tambah"
+        desktop: "Tambahkan buku gambar"
+      show_my_artbooks_btn:
+        mobile: "Lihat"
+        desktop: "Lihat buku gambarku"
+      
