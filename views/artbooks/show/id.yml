@@ -1,1 +1,13 @@
 id:
+  artbooks:
+    show:
+      meta_title: "%{title} - Buku gambar"
+      new_artworks_btn:
+        mobile: "Tambah"
+        desktop: "Tambahkan karya"
+      my_artbooks_btn:
+        mobile: "Buku"
+        desktop: "Buku gambarku"
+      edit_this_artbook:
+        mobile: "Edit"
+        desktop: "Edit Karya"
