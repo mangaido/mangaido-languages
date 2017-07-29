@@ -1,1 +1,12 @@
 id:
+  episodes:
+    list:
+      title: "%{nr}). %{title}"
+      updated_ago: "Diupdate %{time} yang lalu"
+      views:
+        one: "%{count} dilihat"
+        other: "%{count} dilihat"
+      comments:
+        one: "%{count} komentar"
+        other: "%{count} komentar"
+      not_published_message: "Belum diterbitkan"
