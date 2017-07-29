@@ -1,1 +1,10 @@
 id:
+  episodes:
+    form:
+      title_label: "Judul"
+      description_label: "Deskripsi (Opsional)"
+      text_label: "Teks"
+      is_published_label: "Terbitkan"
+      is_published_yes_label: "Terbitkan"
+      is_published_no_label: "Draf"
+      submit_btn: "Kirim"
