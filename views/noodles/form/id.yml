@@ -1,1 +1,8 @@
 id:
+  noodles:
+    form:
+      title_label: "Judul"
+      link_label: "Link"
+      content_label: "Konten"
+      image_label: "Tambah gambar"
+      submit_btn: "Simpan noodle"
