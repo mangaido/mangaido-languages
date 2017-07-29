@@ -1,1 +1,7 @@
 id:
+  noodles:
+    noodle_desktop:
+      time_ago: "%{time_ago} yang lalu,"
+      comments_count:
+        one: "%{count} komentar"
+        other: "%{count} komentar"
