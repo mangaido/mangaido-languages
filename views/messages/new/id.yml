@@ -1,1 +1,12 @@
 id:
+  messages:
+    new:
+      meta_title: "Percakapan baru"
+      title: "Percakapan baru"
+      subtitle: "Sapalah seseorang"
+      subject_label: "Subjek"
+      body_label: "Pesan"
+      recipients_label: "Pilih penerima"
+      recipients_no_results_text: "Tak ada hasil"
+      recipients_placeholder: "Pilih pengguna"
+      submit_btn: "Kirim"
