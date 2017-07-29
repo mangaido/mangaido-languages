@@ -1,1 +1,5 @@
 id:
+  sessions:
+    create:
+      not_activated_warning: "Akun belum diaktifkan. Periksa email untuk mengaktifkanya."
+      error: "kesalahan dalam memasukan email/password"
