@@ -1,1 +1,6 @@
 id:
+  status_updates:
+    create:
+      success: "Status telah dibuat!"
+    destroy:
+      success: "Status telah dihapus"
