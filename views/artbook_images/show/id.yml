@@ -3,7 +3,7 @@ id:
     show:
       meta_title: "Buku gambar"
       previous_btn: "Sebelum"
-      nr_of_pages: "%{page_nr} of %{pages}"
+      nr_of_pages: "%{page_nr} dari %{pages}"
       next_btn: "Lanjut"
       edit_this_image_option: "Edit gambar"
       edit_this_artbook_option: "Edit Buku"
