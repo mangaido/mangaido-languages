@@ -1,1 +1,14 @@
 id:
+  artbook_images:
+    edit:
+      meta_title: "Edit karya"
+      title: "Edit karya:"
+      previous_btn: "Sebelum"
+      back_to_artbook:
+        mobile: "Kembali"
+        desktop: "Kembali ke buku gambar"
+      show_artwork:
+        mobile: "Lihat"
+        desktop: "Lihat karya"
+      next_btn: "Lanjut"
+      delete_btn: "Hapus"
