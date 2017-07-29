@@ -1,1 +1,7 @@
 id:
+  likes:
+    guest_like:
+      tooltip: "Suka!"
+      likes:
+        one: "Suka"
+        other: "Suka"
