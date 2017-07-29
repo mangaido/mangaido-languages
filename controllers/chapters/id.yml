@@ -1,7 +1,7 @@
 id:
   chapters:
     show:
-      no_access_error: "Kamu tidak punya akses!"
+      no_access_error: "tidak ada akses untuk chapter ini!"
     create:
       success: "Chapter berhasil dibuat!"
     update:
