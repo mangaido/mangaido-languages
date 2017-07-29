@@ -1,1 +1,10 @@
 id:
+  artbook_images:
+    form:
+      title: "Judul (Opsional)"
+      description: "Deskripsi (Opsional)"
+      tags: "Tagar (Opsional)"
+      tags_hint: >
+        Pisahkan tagar dengan koma (",").
+        Agar orang lain bisa menemukan karyamu.
+      save_btn: "Simpan"
