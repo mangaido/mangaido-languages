@@ -1,1 +1,10 @@
 id:
+  noodles:
+    update:
+      success: "Noodle berhasil diupdate."
+      error: "Ada masalah saat proses berlangsung! Coba lagi."
+    create:
+      success: "Noodle telah dibuat!"
+      error: "Noodle tidak disimpan."
+    destroy:
+      success: "Noodle telah dihapus"
