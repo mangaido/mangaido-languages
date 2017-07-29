@@ -1,1 +1,4 @@
 id:
+  chapter_images:
+    my_gallery_item:
+      delete_btn_confirm: "Ingin dihapus?"
