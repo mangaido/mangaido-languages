@@ -1,1 +1,26 @@
 id:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "Lihat ini!"
+        message: >
+          Pemberitahuan baru!
+          Hai %{user_name},
+          %{text}
+          Lihat selengkapnya: %{notification_link}
+        message_html: >
+          <h1>
+            Pemberitahuan baru!
+          </h1>
+
+          <p>
+            Hai %{user_name},
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{notification_link_html}
+          </p>
