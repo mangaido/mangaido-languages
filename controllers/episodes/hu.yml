@@ -1,0 +1,12 @@
+en:
+  episodes:
+    show:
+      episode_not_published_error: "Ez a fejezet még nincs közzétéve."
+      novel_not_published_error: "Ez a történet még nem lett közzétéve."
+      episode_not_published_info: "Ez a történet még nem lett közzétéve."
+    create:
+      success: "A fejezet sikeresen hozzáadva!"
+    update:
+      success: "A fejezet frissítve lett."
+    destroy:
+      success: "A fejezetet törölted."
