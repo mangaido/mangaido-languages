@@ -1,0 +1,11 @@
+en:
+  novels:
+    show:
+      not_published_error: "Ez a történet még nincs közzétéve."
+      not_published_info: "Ez a történet még nincs közzétéve."
+    create:
+      success: "A történeted sikeresen hozzáadva!"
+    update:
+      success: "A történeted frissítve lett."
+    destroy:
+      success: "A történeted törölted."
