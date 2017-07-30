@@ -1,0 +1,12 @@
+hu:
+  conversations:
+    reply:
+      success: "Válasz elküldve."
+    destroy:
+      success: "A beszélgetés át lett helyezve a kukába."
+    restore:
+      success: "A beszélgetést sikeresen visszaállítottad."
+    empty_trash:
+      success: "Kuka kiürítve!"
+    mark_as_read:
+      success: "A beszélgetést megjelölted olvasottként."
