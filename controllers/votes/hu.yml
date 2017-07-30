@@ -1,0 +1,4 @@
+en:
+  votes:
+    create:
+      error: "A szavazás sikertelen volt. :("
