@@ -1,0 +1,36 @@
+hu:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Érvényesítés sikertelen: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Cannot delete record because a dependent %{record} exists"
+          has_many: "Cannot delete record because dependent %{record} exist"
+      models:
+        artbook_image:
+          image_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
+        chapter:
+          image_too_big: "A borítóképnek kisebbnek kell lennie, mint %{size}"
+          too_many_authorized_users: "Ennek a fejezetnek túl sok felhatalmazott felhasználója van!"
+        chapter_image:
+          image_too_big: "A fejezet borítójának kisebbnek kell lennie, mint %{size}"
+        noodle:
+          image_too_big: "A cikk képének kisebbnek kell lennie, mint %{size}"
+        novel:
+          image_too_big: "A történet borítójának kisebbnek kell lennie, mint %{size}"
+        password_reset:
+          password:
+            cant_be_empty: "A jelszó mező nem maradhat üres!"
+        series:
+          cover_too_big: "A képregénysorozat borítójának kisebbnek kell lennie, mint %{size}"
+          wide_cover_too_big: "A fejlécborítónak kisebbnek kell lennie, mint %{size}"
+        status_update:
+          image_too_big: "Az állapotfrissítésben szereplő képnek kisebbnek kell lennie, mint %{size}"
+        transaction:
+          general_error: "Problémák merültek fel a tranzakció közben. Próbálkozz újra később."
+          not_enough_coins: "Nincs elég érméd."
+        user:
+          avatar_too_big: "A profilképnek kisebbnek kell lennie, mint %{size}"
+          cover_too_big: "A fejlécképnek kisebbnek kell lennie, mint %{size}"
+        withdrawal:
+          not_enough_coins: "Nincs elég érméd."
