@@ -1,0 +1,140 @@
+hu:
+  languages:
+    af:
+      name: "Afrikaans"
+    sq:
+      name: "Albán"
+    ar:
+      name: "Arab"
+    hy:
+      name: "Örmény"
+    cy_az:
+      name: "Azeri (Cirill)"
+    lt_az:
+      name: "Azeri (Latin)"
+    eu:
+      name: "Baszk"
+    be:
+      name: "Belorusz"
+    bg:
+      name: "Bolgár"
+    ca:
+      name: "Katalán"
+    zh_CHS:
+      name: "Kínai (Egyszerüsített)"
+    zh_CHT:
+      name: "Kínai (Tradícionális)"
+    hr:
+      name: "Horvát"
+    cs:
+      name: "Cseh"
+    da:
+      name: "Dán"
+    div:
+      name: "Maldív"
+    nl:
+      name: "Holland"
+    en_US:
+      name: "Angol"
+    et:
+      name: "Észt"
+    fo:
+      name: "Feröeri"
+    fi:
+      name: "Finn"
+    fr:
+      name: "Francia"
+    gl:
+      name: "Galíciai"
+    ka:
+      name: "Grúz"
+    de:
+      name: "Német"
+    el:
+      name: "Görög"
+    gu:
+      name: "Gudzsaráti"
+    he:
+      name: "Héber"
+    hi:
+      name: "Hindi"
+    hu:
+      name: "Magyar"
+    is:
+      name: "Izlandi"
+    id:
+      name: "Indonéz"
+    it:
+      name: "Olasz"
+    ja:
+      name: "Japán"
+    kn:
+      name: "Kannada"
+    kk:
+      name: "Kazah"
+    kok:
+      name: "Konkani"
+    ko:
+      name: "Koreai"
+    ky:
+      name: "Kyrgyz"
+    lv:
+      name: "Lett"
+    lt:
+      name: "Litván"
+    mk:
+      name: "Macedóniai"
+    ms:
+      name: "Maláj"
+    mr:
+      name: "Marathi"
+    mn:
+      name: "Mongol"
+    nb_NO:
+      name: "Norvég (Bokmål)"
+    nn_NO:
+      name: "Norvég (Nynorsk)"
+    pl_PL:
+      name: "Lengyel"
+    pt:
+      name: "Portugál"
+    pa:
+      name: "Punjabi"
+    ro:
+      name: "Román"
+    ru:
+      name: "Orosz"
+    sa:
+      name: "Szanszkrit"
+    cy_sr:
+      name: "Szerb (Cirill)"
+    lt_sr:
+      name: "Szerb (Latin)"
+    sk:
+      name: "Szlovák"
+    sl:
+      name: "Szlovén"
+    es:
+      name: "Spanyol"
+    syr:
+      name: "Szír"
+    ta:
+      name: "Tamil"
+    tt:
+      name: "Tatar"
+    te:
+      name: "Telugu"
+    th:
+      name: "Thai"
+    tr:
+      name: "Török"
+    uk:
+      name: "Ukrán"
+    ur:
+      name: "Urdu"
+    cy_uz:
+      name: "Üzbég (Cirill)"
+    lt_uz:
+      name: "Üzbék (Latin)"
+    vi:
+      name: "Vietnami"
