@@ -1,0 +1,4 @@
+hu:
+  likes:
+    create:
+      error: "Probléma merült fel. Próbálkozz később. :("
