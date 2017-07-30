@@ -1,0 +1,15 @@
+hu:
+  translations:
+    show:
+      no_access_error: "Nincs hozzáférésed ehhez a fordításhoz."
+    edit:
+      no_access_error: "Nem szerkesztheted ezt a fordítást."
+    create:
+      no_access_error: "A fordítást nem sikerült létrehozni. Próbáld meg később."
+      success: "A fordítás sikeresen létrehoztad!"
+      error: "Probléma merült fel a fordítás létrehozása közben. Kérjük, próbálkozz újra."
+    update:
+      success: "A fordítást sikeresen frissítetted!"
+      error: "Probléma merült fel a fordítás frissítése közben."
+    destroy:
+      success: "Törölted a fordításod."
