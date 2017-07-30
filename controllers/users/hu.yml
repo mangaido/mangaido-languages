@@ -1,0 +1,6 @@
+hu:
+  users:
+    create:
+      not_activated_info: "A fiókod még nincs aktiválva. Keresd az aktivációs linket az általad megadott E-mail címen."
+    update:
+      success: "A profilod frissítve lett."
