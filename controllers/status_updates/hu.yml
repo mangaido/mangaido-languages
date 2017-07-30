@@ -1,0 +1,6 @@
+en:
+  status_updates:
+    create:
+      success: "Frissítetted az állapotod."
+    destroy:
+      success: "Állapotfrissítés törölve."
