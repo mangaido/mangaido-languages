@@ -1,0 +1,67 @@
+en:
+  breadcrumbs:
+    root: "Főoldal"
+    artbook_images:
+      index: "Galéria"
+      edit: "Edit: %{title}"
+      new: "Friss alkotások"
+    artbooks:
+      edit_all: "Galéria szerkesztése"
+      edit: "Edit: %{title}"
+      new: "Új galéria hozzáadása"
+      show: "%{title} artbook"
+    chapter_images:
+      new: "Új fejezetborító hozzáadása"
+    chapters:
+      edit: "Fejezet szerkesztése"
+      new: "Fejezet hozzáadása"
+    conversations:
+      index: "Postaláda"
+      show: "Beszélgetés"
+    episodes:
+      new: "Új fejezet hozzáadása"
+      edit: "Fejezet szerkesztése"
+    messages:
+      new: "Új beszélgetés"
+    noodles:
+      edit: "Cikk szerkesztése"
+      index: "Érdekességek"
+      my_index: "Cikkeim"
+      new: "Új cikk hozzáadása"
+    novels:
+      index: "Történetek"
+      new: "Új történet hozzáadása"
+      edit: "Történet szerkesztése"
+      edit_all: "Történeteim szerkesztése"
+      user_novels: "Artist's novels"
+    users:
+      artbooks: "User alkotásai"
+      authors: "Szerzők"
+      dashboard: "Dashboard"
+      edit: "Edit %{user_name}'s profile"
+      index: "Felhasználók"
+      series: "User képregényei"
+    payments:
+      index: "Tranzakciók"
+      new: "Érmék beszerzése"
+    series:
+      edit: "Képregény szerkesztése"
+      edit_all: "Az összes képregény szerkesztése"
+      for_adults: "Felnőtt tartalom"
+      index: "Képregények"
+      new: "Új képregény hozzáadása."
+    static_pages:
+      earn_money_with_us: "Keress pénzt velünk!"
+      privacy_policy: "Adatvédelmi irányelvek"
+      search: "Keresési találatok"
+      terms_of_service: "Felhasználási feltételek"
+      translate_mangaido_to_your_language: "Fordítsd le a Mangaido-t a saját nyelvedre!"
+    transactions:
+      chapter_purchases: "Fejezet vásárlások"
+      chapter_sales: "Fejezet eladások"
+      donations_sent: "Adomány elküldve"
+      donations_received: "Adomány kézbesítve"
+    translations:
+      edit: "Edit: %{language_name} fordítás"
+    withdrawals:
+      index: "Withdrawals"
