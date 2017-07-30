@@ -1,0 +1,42 @@
+hu:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Kép"
+        other: "Képek"
+      artbook:
+        one: "Galéria"
+        other: "Galéria"
+      chapter_image:
+        one: "Fejezetborító"
+        other: "Fejezetborítók"
+      chapter:
+        one: "Fejezet"
+        other: "Fejezetek"
+      comment:
+        one: "Hozzászólás"
+        other: "Hozzászólások"
+      episode:
+        one: "Fejezet"
+        other: "Fejezetek"
+      noodle:
+        one: "Cikk"
+        other: "Cikkek"
+      novel:
+        one: "Történet"
+        other: "Történetek"
+      series:
+        one: "Képregény"
+        other: "Képregények"
+      status_update:
+        one: "Állapotfrissítés"
+        other: "Állapotfrissítések"
+      translation_balloon:
+        one: "Translation balloon"
+        other: "Translation balloons"
+      translation:
+        one: "Fordítás"
+        other: "Fordítások"
+      user:
+        one: "Felhasználó"
+        other: "Felhasználók"
