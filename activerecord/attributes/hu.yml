@@ -1,0 +1,57 @@
+hu:
+  activerecord:
+    attributes:
+      artbook_image:
+        image: "Képfájl"
+        title: "Cím"
+        description: "Leírás"
+      artbook:
+        title: "Cím"
+      chapter_image:
+        image: "Képfájl"
+      chapter:
+        title: "Cím"
+        cover: "Borítókép"
+        is_published: "Közzétéve"
+        amount_of_coins: "Érmék mennyisége"
+      comment:
+        content: "Tartalom"
+      episode:
+        title: "Cím"
+        description: "Leírás"
+        text: "Szöveg"
+        is_published: "Közzétéve"
+      noodle:
+        title: "Cím"
+        content: "Tartalom"
+        link: "Link"
+        image: "Képfájl"
+      novel:
+        title: "Cím"
+        description: "Leírás"
+        cover: "Borítókép"
+        is_published: "Közzétéve"
+      series:
+        title: "Cím"
+        cover: "Borítókép"
+        wide_cover: "Fejlécborító"
+        is_published: "Közzétéve"
+        description: "Leírás"
+        language: "Nyelv"
+        is_for_adults: "Felnőtt tartalom"
+      status_update:
+        content: "Tartalom"
+        image: "Képfájl"
+      translation_balloon:
+        text: "Szöveg"
+      translation:
+        is_published: "Közzétéve"
+        language: "Nyelv"
+      user:
+        name: "Név"
+        email: "Email"
+        about: "Magamról"
+        cover: "Fejléc"
+        avatar: "Profilkép"
+        default_language: "Alapértelmezett nyelv"
+        paypal_email: "PayPal email"
