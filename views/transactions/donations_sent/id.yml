@@ -1,1 +1,5 @@
 id:
+  transactions:
+    donations_sent:
+      meta_title: "Pengiriman donasi"
+      title: "Pengiriman donasi:"
