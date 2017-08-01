@@ -1,1 +1,16 @@
 id:
+  users:
+    dashboard:
+      meta_title: "Dasbor"
+      current_balance_label: "Neraca arus"
+      current_balance_amount_of_coins:
+        one: "%{count} koin"
+        other: "%{count} koin"
+      buy_coins_btn: "Beli koin"
+      withdrawals_money_label: "Penarikan sedang diProses"
+      withdrawals_btn: "Penarikan"
+      chapter_purchases_btn: "Akses pembelian chapter"
+      donations_sent_btn: "Kirim donasi"
+      chapter_sales_btn: "Chapter terjual"
+      donations_received_btn: "Penerimaan donasi"
+      payments_btn: "Pembayaran"
