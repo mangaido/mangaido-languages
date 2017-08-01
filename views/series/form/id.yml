@@ -8,7 +8,7 @@ id:
       is_published_no_label: "Dalam draf"
       is_for_adults_label: "Untuk dewasa?"
       is_for_adults_yes_label: "Hanya untuk dewasa"
-      is_for_adults_no_label: "Aman untuk anak-anak"
+      is_for_adults_no_label: "Aman untuk dibaca"
       language_label: "Bahasa"
       cover_label: "Cover (Opsional)"
       remove_cover_yes_label: "Hapus cover"
