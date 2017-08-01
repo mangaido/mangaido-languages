@@ -1,1 +1,16 @@
 id:
+  novels:
+    edit:
+      meta_title: "Edit novel"
+      title: "Edit novel:"
+      toolbar:
+        add_new_episode_btn:
+          mobile: "Tambah"
+          desktop: "Tambah episode"
+        show_btn:
+          mobile: "Lihat"
+          desktop: "Lihat novel"
+        delete_confirm: "Ingin dihapus?"
+        delete_btn:
+          mobile: "Hapus"
+          desktop: "Hapus novel"
