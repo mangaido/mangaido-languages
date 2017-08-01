@@ -1,1 +1,6 @@
 id:
+  users:
+    novels:
+      meta_title: "Novel %{user_name}"
+      title: "Novel %{user_name}"
+      edit_novels_btn: "Edit semua novel"
