@@ -1,1 +1,10 @@
 id:
+  withdrawals:
+    form:
+      amount_of_coins_label: "Jumlah koin yang ingin ditarik:"
+      summary_loading_text: "Rekapitulasi..."
+      summary_text: >
+        <b>%amount_of_coins%</b> koin = %coins_to_money%USD<br />
+        Biaya penarikan: %percent_fee%%<br />
+        Akan ditarik sebesar <b>%amount_of_money%USD<b/>
+      withdraw_btn: "Tarik koin!"
