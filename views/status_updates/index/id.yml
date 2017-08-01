@@ -1,1 +1,5 @@
 id:
+  status_updates:
+    index:
+      meta_title: "Status terbaru"
+      title: "Status terbaru"
