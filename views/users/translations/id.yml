@@ -1,1 +1,5 @@
 id:
+  users:
+    translations:
+      meta_title: "Terjemahan %{user_name}"
+      title: "Terjemahan %{user_name}:"
