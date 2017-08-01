@@ -1,1 +1,5 @@
 id:
+  status_updates:
+    form:
+      content_placeholder: "Apa yang sedang kamu pikirkan?..."
+      image_hint: "Tambah gambar (Optional) Gambar tidak boleh melebihi %{max_size_in_mb}MB."
