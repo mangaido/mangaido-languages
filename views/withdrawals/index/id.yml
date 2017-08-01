@@ -1,1 +1,21 @@
 id:
+  withdrawals:
+    index:
+      meta_title: "Penarikan"
+      current_balance_label: "Neraca arus:"
+      current_balance_coins:
+        one: "%{count} koin"
+        other: "%{count} koin"
+      money_to_be_paid_label: "Proses penarikan:"
+      form_label: "Penarikan:"
+      cant_withdraw_msg: "Jika ingin menarik, sekurang-kurangnya koin yang harus dimiliki ialah %{min_coins} koin"
+      list_label: "Penarikan:"
+      list:
+        id: "ID"
+        amount_of_coins: "Jumlah koin"
+        amount_of_money: "Besaran biaya"
+        created_at: "Buat"
+        is_paid: "Sudah lengkap?"
+        is_paid_yes: "Ya"
+        is_paid_no: "Tidak"
+        paid_at: "Bayar"
