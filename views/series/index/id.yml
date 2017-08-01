@@ -1,1 +1,18 @@
 id:
+  series:
+    index:
+      meta_title: "Serial komik"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Tambah"
+          desktop: "Tambah serial komik"
+        my_comic_series_btn:
+          mobile: "Komik"
+          desktop: "Serial komik"
+        edit_my_comic_series_btn:
+          mobile: "Edit"
+          desktop: "Edit Serial komik"
+        for_adults_btn:
+          mobile: "+18"
+          desktop: "Untuk dewasa"
+      translations_title: "Terjemahan"
