@@ -1,1 +1,13 @@
 id:
+  series:
+    edit_all:
+      meta_title: "Edit semua serial komik"
+      title: "Edit semua serial komik"
+      toolbar:
+        add_new_series_btn:
+          mobile: "Tambah"
+          desktop: "Tambah serial"
+        show_all_series_btn:
+          mobile: "Lihat"
+          desktop: "Lihat semua serial"
+      series_list_title: "Semua serial komik:"
