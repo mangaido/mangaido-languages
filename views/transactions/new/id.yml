@@ -1,1 +1,15 @@
 id:
+  transactions:
+    new:
+      meta_title: "Konfirmasi transaksi"
+      title: "Ingin mengkonfirmasi transaksi?"
+      chapter_price: "Harga:"
+      donation_title_html: "Berikan kepada: %{user_link}"
+      donation_price_title_html: "Masukan jumlah <b>hundreds</b> koin yang ingin dikirimkan"
+      donation_summary_text_html: >
+        Akan terkirim <b>%giver_send%</b> koin.<br />
+        Koinmu saat ini %giver_balance% koin.<br />
+        Pengguna akan menerima %receiver_receive% koin setelah %percent_fee%% Biaya transaksi.
+      doantion_summary_loading_text: "Donasi sedang diproses..."
+      confirm_btn: "konfirm"
+      cancel_btn: "Batal"
