@@ -1,1 +1,6 @@
 id:
+  users:
+    series:
+      meta_title: "Serial komik %{user_name}"
+      title: "Komik %{user_name} :"
+      edit_btn: "Edit Serial komik"
