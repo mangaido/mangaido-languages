@@ -1,1 +1,6 @@
 id:
+  users:
+    artbooks:
+      meta_title: "Buku gambar %{user_name}"
+      title: "Buku gambar %{user_name}:"
+      edit_artbooks_btn: "Edit Buku"
