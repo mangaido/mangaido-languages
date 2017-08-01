@@ -1,1 +1,4 @@
 id:
+  status_updates:
+    show:
+      meta_title: "Postingan"
