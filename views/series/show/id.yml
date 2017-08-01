@@ -31,7 +31,7 @@ id:
           one: "%{count} dilihat"
           other: "%{count} dilihat"
         for_adults: "For adults"
-        safe_for_children: "Aman untuk anak-anak"
+        safe_for_children: "Aman untuk dibaca"
         language: "Bahasa: %{language_name}"
         translations: "Terjemahan:"
         translation_language: "%{language_name} (%{count})"
