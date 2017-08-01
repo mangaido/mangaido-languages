@@ -1,1 +1,7 @@
 id:
+  status_updates:
+    feed:
+      meta_title: "Berita"
+      menu:
+        feed_btn: "Semua"
+        feed_following_btn: "Mengikuti"
