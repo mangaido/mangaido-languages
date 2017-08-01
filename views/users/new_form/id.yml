@@ -1,1 +1,14 @@
 id:
+  users:
+    new_form:
+      name_label: "Nama tampilan"
+      email_label: "Email"
+      password_label: "Password"
+      password_confirmation_label: "konfirmasi password"
+      register_btn: "Buat akun"
+      log_in_link: "Masuk!"
+      log_in_text_html: "Sudah punya akun? %{log_in_link_html}"
+      terms_of_service_link: "Layanan kebijakan"
+      privacy_policy_link: "Privasi layanan"
+      disclaimer_html: >
+        Dengan mendaftar, anda telah menyutujui %{terms_of_service_link_html} dan %{privacy_policy_link_html}.
