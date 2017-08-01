@@ -1,1 +1,14 @@
 id:
+  novels:
+    gallery_item:
+      author: "oleh @%{user_name}"
+      time_ago: "%{time_ago} yang lalu"
+      nr_of_episodes:
+        one: "%{count} episode"
+        other: "%{count} episode"
+      likes:
+        one: "%{count} suka"
+        other: "%{count} suka"
+      views:
+        one: "%{count} dilihat"
+        other: "%{count} dilihat"
