@@ -1,1 +1,16 @@
 id:
+  novels:
+    form:
+      title_label: "Judul"
+      description_label: "Deskripsi (Opsional)"
+      is_published_label: "Terbitkan?"
+      is_published_yes_label: "Terbitkan"
+      is_published_no_label: " draf"
+      cover_label: "Cover (Opsional)"
+      remove_cover_yes_label: "Hapus cover"
+      remove_cover_no_label: "Tinggalkan cover"
+      cover_hint_text: >
+        Untuk hasil yang optimal disarankan gambar
+        yang berukuran dimensi %{width}x%{height}px (JPG atau PNG).
+        Gambar tidak boleh lebih dari %{max_size_in_mb}MB
+      submit_btn: "Kirim"
