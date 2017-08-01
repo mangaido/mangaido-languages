@@ -1,1 +1,22 @@
 id:
+  users:
+    form:
+      name_label: "Nama"
+      email_label: "Email"
+      password_label: "Password (min. 6 karakter)"
+      password_confirmation_label: "Konfirmasi password"
+      paypal_email_label: "PayPal email"
+      paypal_email_help_btn: "Info lebih lanjut"
+      paypal_email_help_text_html: >
+        Atur email PayPal agar kami memudahkan Anda dalam bertransaksi.
+      about_label: "Tentang saya (Opsional)"
+      remove_avatar_label: "Hapus avatar?"
+      avatar_hint_text: >
+        Untuk hasil yang optimal unggah gambar berukuran 800x800 px (JPG atau PNG). Jika avatar belum muncul, bisa lihat di Gravatar.com
+      cover_label: "Cover"
+      remove_cover_label: "Hapus cover?"
+      cover_hint_text: >
+        Untuk hasil yang optimal unggah gambar berukuran 1920x320 px (JPG atau PNG)
+      default_language_label: "Bahasa default (digunakan dalam email)"
+      country_label: "Negara asal"
+      submit_btn: "Simpan"
