@@ -1,1 +1,4 @@
 id:
+  users:
+    index:
+      meta_title: "Halaman pengguna"
