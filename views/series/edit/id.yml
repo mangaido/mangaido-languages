@@ -1,1 +1,16 @@
 id:
+  series:
+    edit:
+      meta_title: "%{title} - edit serial komik"
+      title: "%{title} - edit serial komik"
+      add_new_btn:
+        mobile: "Tambah"
+        desktop: "Tambah chapter"
+      show_btn:
+        mobile: "Lihat"
+        desktop: "Lihat serial"
+      delete_btn:
+        mobile: ""
+        desktop: "Hapus"
+      chapters_title: "Chapter:"
+
