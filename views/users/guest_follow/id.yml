@@ -1,1 +1,4 @@
 id:
+  users:
+    guest_follow:
+      follow_btn: "Ikuti"
