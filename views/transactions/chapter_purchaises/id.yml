@@ -1,1 +1,5 @@
 id:
+  transactions:
+    chapter_purchases:
+      meta_title: "Pembelian chapter"
+      title: "Pembelian chapter:"
