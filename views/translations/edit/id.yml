@@ -1,1 +1,18 @@
 id:
+  translations:
+    edit:
+      meta_title: >
+        %{series_title} - %{chapter_title} - %{language_name} - edit terjemahan  
+      title: "Edit %{language_name} terjemahan"
+      toolbar:
+        show_btn:
+          mobile: "Lihat"
+          desktop: "Lihat terjemahan"
+        my_translations_btn:
+          mobile: "Terjemahan"
+          desktop: "Terjemahanku"
+        delete_btn_confirm: >
+          Ingin dihapus?
+        delete_btn: 
+          mobile: "Hapus"
+          desktop: "Hapus terjemahan ini"
