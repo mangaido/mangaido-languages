@@ -1,0 +1,6 @@
+de:
+  users:
+    password_form:
+      password_label: "Passwort (min. 6 Zeichen)"
+      password_confirmation_label: "Passwort nochmals eingeben"
+      submit_btn: "Speichern"

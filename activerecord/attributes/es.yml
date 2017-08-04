@@ -2,16 +2,16 @@ es:
   activerecord:
     attributes:
       artbook_image:
-        image: "Imagen"
+        image: "Imágen"
         title: "Título"
         description: "Descripción"
       artbook:
         title: "Título"
       chapter_image:
-        image: "Imagen"
+        image: "Imágen"
       chapter:
         title: "Título"
-        cover: "Imagen de portada"
+        cover: "Imágen de portada"
         is_published: "Fue publicado"
         amount_of_coins: "Cantidad de monedas"
       comment:
@@ -25,23 +25,23 @@ es:
         title: "Título"
         content: "Contenido"
         link: "Enlace"
-        image: "Imagen"
+        image: "Imágen"
       novel:
         title: "Título"
         description: "Descripción"
-        cover: "Imagen de portada"
+        cover: "Imágen de portada"
         is_published: "Fue publicado"
       series:
         title: "Título"
-        cover: "Imagen de portada"
-        wide_cover: "Ampliar imagen de portada"
+        cover: "Imágen de portada"
+        wide_cover: "Ampliar imágen de portada"
         is_published: "Fue publicado"
         description: "Descripción"
         language: "Idioma"
         is_for_adults: "Para adultos"
       status_update:
         content: "Contenido"
-        image: "Imagen"
+        image: "Imágen"
       translation_balloon:
         text: "Texto"
       translation:
@@ -49,9 +49,9 @@ es:
         language: "Idioma"
       user:
         name: "Nombre"
-        email: "Dirección E-mail"
-        about: "Sobre mí"
+        email: "Email"
+        about: "Bio texto"
         cover: "Imágen de portada"
         avatar: "Avatar"
         default_language: "Idioma predeterminado"
-        paypal_email: "E-mail de Paypal"
+        paypal_email: "PayPal E-mail"

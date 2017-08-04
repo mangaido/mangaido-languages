@@ -37,6 +37,7 @@ es:
     users:
       artbooks: "Artworks de usuario"
       authors: "autores"
+      # change_password: "Change password"
       dashboard: "Tablero"
       edit: "Editar perfil de %{user_name}'"
       index: "Usuarios"

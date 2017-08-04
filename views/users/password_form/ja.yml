@@ -1,0 +1,6 @@
+ja:
+  users:
+    password_form:
+      password_label: "パスワード (6文字以上)"
+      password_confirmation_label: "確認用パスワード"
+      submit_btn: "保存"
