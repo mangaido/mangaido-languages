@@ -1,1 +1,9 @@
 id:
+  transactions:
+    new:
+      error: "Tidak dapat membuat transaksi!"
+      no_enough_coins_error: "Tidak dapat bertransaksi karena koin belum cukup"
+    create:
+      no_enough_coins_error: "Tidak dapat bertransaksi karena koin belum cukup"
+      success: "Transaksi berhasil"
+      error: "Ada yang salah!"

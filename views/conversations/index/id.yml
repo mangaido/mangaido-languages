@@ -1,1 +1,14 @@
 id:
+  conversations:
+    index:
+      meta_title: "Kotak Surat"
+      title: "Kotak Surat"
+      subtitle: "Tak kenal maka tak sayang!"
+      new_message_btn: "Mulai percakapan"
+      menu:
+        inbox_btn: "Kotak masuk"
+        sent_btn: "Terkirim"
+        trash_btn: "Sampah"
+      empty_trash_btn: "Kosongkan Sampah"
+      empty_trash_btn_confirm: "Ingin mengosongkan?"
+      

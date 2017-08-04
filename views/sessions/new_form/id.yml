@@ -1,1 +1,10 @@
 id:
+  sessions:
+    new_form:
+      email_label: "Email"
+      password_label: "Password"
+      forgot_password_link: "(lupa password)"
+      remember_me_checkbox: "simpan informasi akun?"
+      log_in_btn: "Masuk"
+      sign_up_link_html: "Daftar sekarang!"
+      sign_up_text_html: "Pengguna baru? %{sign_up_link_html}"

@@ -1,1 +1,5 @@
 id:
+  artbooks:
+    form:
+      title_label: "Judul"
+      submit_btn: "Kirim"

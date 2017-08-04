@@ -1,0 +1,7 @@
+hu:
+  comments:
+    create:
+      success: "Hozzászólás elküldve."
+      error: "Probléma merült fel a hozzászólás elküldéve közben. Kérjük, próbálkozz újra."
+    destroy:
+      success: "Hozzászólás törölve."

@@ -1,0 +1,6 @@
+en:
+  users:
+    password_form:
+      password_label: "Password (min. 6 characters)"
+      password_confirmation_label: "Confirm password"
+      submit_btn: "Save"

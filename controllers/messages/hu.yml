@@ -1,0 +1,4 @@
+hu:
+  messages:
+    create:
+      success: "Üzenet elküldve!"

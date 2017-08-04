@@ -1,1 +1,7 @@
 id:
+  layouts:
+    header_notifications_dropdown:
+      notifications_title: "Pemberitahuan"
+      mark_all_as_read_btn: "Tandai semua"
+      loader: "Menunggu..."
+      show_all_btn: "Tampilkan semua"

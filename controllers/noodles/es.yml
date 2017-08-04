@@ -1,7 +1,7 @@
 es:
   noodles:
     update:
-      success: "¡El fideo se actualizó!"
+      success: "¡Fideo actualizado!"
       error: "¡Ups! Hubo un problema actualizando el fideo, vuelve a intentarlo"
     create:
       success: "¡Fideo creado!"

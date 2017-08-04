@@ -1,1 +1,8 @@
 id:
+  chapters:
+    translation_list:
+      translation_link_hint: "Baca"
+      author_link_hint: "Tampilkan pengarang"
+      translation_edit_btn_hint: "Edit"
+      buy_link_hint: "Beli chapter"
+      no_translations_msg: "Chapter masih belum diterjemahkan"

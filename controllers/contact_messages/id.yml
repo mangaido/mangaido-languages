@@ -1,1 +1,6 @@
 id:
+  contact_messgaes:
+    create:
+      success: "Pesan telah terkirim."
+      error: "Terjadi kesalahan saat mengirim pesan."
+      

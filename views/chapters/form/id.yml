@@ -1,1 +1,34 @@
 id:
+  chapters:
+    form:
+      title_label: "Judul"
+      is_published_label: "Terbitkan?"
+      is_published_yes_label: "Terbitkan"
+      is_published_no_label: "Dalam draft"
+      cover_label: "Cover (Optional)"
+      remove_cover_yes_label: "Hapus cover"
+      remove_cover_no_label: "Biarkan cover"
+      cover_hint_text: >
+        Disarankan ukuran 640x260 px untuk hasil yang optimal (JPG atau PNG)
+      amount_of_coins_label: "Jumlah koin:"
+      amount_of_coins_help_btn: "Info lebih lanjut"
+      amount_of_coins_help_text_html: >
+        Disini kamu juga bisa memilih harga koin untuk serial komik kreasimu sehingga pembaca harus membayar dengan jumlah yang ditentukan.<br />
+        Jika kamu memilih "0 koin" maka komikmu akan dibaca secara gratis.<br />
+        kamu juga bisa memilih jumlah sesuai dengan keinginanmu kapanpun.<br />
+        Perlu diingat bahwa setiap bertransaksi di mangaido akan berkurang sesuai dengan biaya yang ditentukan %{percent_fee}% .
+      amount_of_coins_select:
+        one: "%{count} koin"
+        other:  "%{count} koin"
+      authorized_users_label: "Authorisasi pengguna:"
+      authorized_users_help_btn: "Info lebih lanjut"
+      authorized_users_help_text_html: >
+        Disini kamu dapat memilih pengguna yang mengakses komikmu tanpa membayarnya ataupun saat chapter yang masih dalam penerbitan.<br />
+        Fitur ini dikhususkan saat kamu ingin memberikan komikmu kepada penerjemah agar mereka dapat mengakses chaptermu.<br />
+        Pengguna yang terauthorisasi hanya dapat membaca dan menerjemahkanya. Mereka tidak dapat menyuntingnya.<br />
+        Kirimkan saja link chaptermu kepada mereka.<br />
+        Maksimal pengguna yang harus di authorisasikan ialah %{max_users}.
+      authorized_users_field_placeholder: "Sedang mencari pengguna..."
+      too_many_users_error: "Terlalu banyak Pengguna!"
+      submit_btn: "Kirim"
+      

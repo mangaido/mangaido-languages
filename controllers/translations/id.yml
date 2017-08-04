@@ -1,1 +1,15 @@
 id:
+  translations:
+    show:
+      no_access_error: "Tidak punya akses untuk menerjemahkan!"
+    edit:
+      no_access_error: "Tidak bisa mengedit terjemahan!"
+    create:
+      no_access_error: "Tidak dapat membuat terjemahan. coba lagi nanti."
+      success: "Terjemahan berhasil dibuat!"
+      error: "Ada kesalahan saat proses berlangsung! Coba lagi."
+    update:
+      success: "Terjemahan berhasil diupdate."
+      error: "Ada masalah dalam mengupdate terjemahan."
+    destroy:
+      success: "Terjemahan telah dihapus."

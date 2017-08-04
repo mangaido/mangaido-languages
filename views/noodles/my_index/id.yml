@@ -1,1 +1,11 @@
 id:
+  noodles:
+    my_index:
+      meta_title: "Rramen noodlesku"
+      title: "Ramen noodlesku"
+      add_noodle_btn:
+        mobile: "Tambah noodle!"
+        desktop: "Tambah noodle!"
+      my_noodles_btn:
+        mobile: "Noodle-ku"
+        desktop: "Noodle-ku"

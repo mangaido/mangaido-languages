@@ -1,1 +1,6 @@
-id:
+id:en:
+  users:
+    create:
+      not_activated_info: "Mohon periksa email untuk mengaktifkan akun."
+    update:
+      success: "Profil telah diupdate"

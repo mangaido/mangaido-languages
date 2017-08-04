@@ -1,1 +1,4 @@
 id:
+  messages:
+    create:
+      success: "Pesan terkirim!"

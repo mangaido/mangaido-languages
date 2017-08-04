@@ -1,1 +1,10 @@
 id:
+  conversations:
+    show:
+      meta_title: "%{subject} - percakapan"
+      title: "%{subject} - percakapan"
+      chatting_with: "mengobrol dengan..."
+      message:
+        info: "%{sender_name} Mengirim pesan %{time_ago} yang lalu"
+        textarea_placeholder: "Balas..."
+        submit_btn: "Kirim Pesan"

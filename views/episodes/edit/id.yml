@@ -1,1 +1,17 @@
 id:
+  episodes:
+    edit:
+      meta_title: "%{title} - edit episode"
+      title: "%{title} - edit episode"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "Kembali"
+          desktop: "Kembali ke novel"
+        show_btn:
+          mobile: "Lihat"
+          desktop: "Lihat episode ini"
+        delete_confirm: >
+          Ingin menghapus episode?
+        delete_btn:
+          mobile: "Hapus"
+          desktop: "Hapus episode ini"

@@ -5,8 +5,8 @@ es:
     destroy:
       success: "La conversación de movió a la papelera."
     restore:
-      success: "¡La conversación fue restaurada!"
+      success: "¡Conversación restaurada!"
     empty_trash:
-      success: "¡Tu papelera fue limpiada!"
+      success: "¡Papelera limpiada!"
     mark_as_read:
       success: "La conversación fue marcada como leída."

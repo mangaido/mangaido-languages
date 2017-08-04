@@ -1,1 +1,5 @@
 id:
+  transactions:
+    chapter_sales:
+      meta_title: "Penjualan chapter"
+      title: "Penjualan chapter:"

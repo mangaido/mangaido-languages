@@ -37,6 +37,7 @@ ja:
     users:
       artbooks: "ユーザのアートブック"
       authors: "作成者"
+      # change_password: "Change password"
       dashboard: "ダッシュボード"
       edit: "%{user_name}さんのプロフィールを編集"
       index: "ユーザ"

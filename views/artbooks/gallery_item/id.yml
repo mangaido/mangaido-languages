@@ -1,1 +1,6 @@
 id:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "%{count} karya"
+        other: "%{count} karya"

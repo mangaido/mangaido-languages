@@ -1,0 +1,5 @@
+en:
+  users:
+    change_password:
+      meta_title: "Change password page"
+      title: "Change password"

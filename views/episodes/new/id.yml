@@ -1,1 +1,5 @@
 id:
+  episodes:
+    new:
+      meta_title: "Tambahkan episode"
+      title: "Tambahkan episode"

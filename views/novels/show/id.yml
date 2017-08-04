@@ -1,1 +1,21 @@
 id:
+  novels:
+    show:
+      meta_title: "Novel"
+      toolbar:
+        my_novels_btn:
+          mobile: "Novel"
+          desktop: "Novelku"
+        edit_btn:
+          mobile: "Edit"
+          desktop: "Edit this novel"
+      by_author:
+        html: "oleh %{author}"
+      views_btn:
+        one: "%{count} dilihat"
+        other: "%{count} dilihat"
+      comments_btn:
+        one: "%{count} komentar"
+        other: "%{count} komentar"
+      episodes_label: "Episode:"
+      comments_label: "Komentar:"
