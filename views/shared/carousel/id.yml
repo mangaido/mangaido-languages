@@ -1,1 +1,25 @@
 id:
+  shared:
+    carousel:
+      about_mangaido:
+        title: "Tentang Mangaido"
+        text: >
+          Mari berkenalan! cek cuplikan video perkenalan dari kami , yaitu Karolina, Bartek dan Michal..
+        action_btn: "YouTube video"
+      translate_mangaido:
+        title: "Mangaido dalam bahasamu"
+        text: >
+          Jika kamu ingin membantu kami dan bersedia untuk mengundang teman-teman dari negaramu, maka kamu bisa menjadi penerjemah kedalam bahasamu di mangaido.
+        action_btn: "Ingin tahu caranya"
+      publish_series:
+        title: "Terbitkan komikmu"
+        text: >
+          Orang-orang disini berbicara dalam berbagai bahasa didunia (beneran lho!). ciptakan inspirasi kepada pembaca dengan menerjemahkan serialmu, sehingga mereka yang berasal dari Berbagai negara juga dapat merasakan keseruanya.
+        action_btn: "Mulai terbitkan"
+        side_btn: "Artist: %{user_name}"
+      publish_artworks:
+        title: "Kreasimu akan dilihat ke seluruh dunia"
+        text: >
+          Bersama kita membangun tempat ini untuk saling berbagi karyacipta dengan mudah dan cepat kepada para sahabat kita. Diskusikan hal yang menarik dan terjunlah kedalam dunia manga.
+        action_btn: "Kirimlah sesuatu!"
+        side_btn: "Artist: %{user_name}"

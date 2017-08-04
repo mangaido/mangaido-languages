@@ -1,1 +1,6 @@
 id:
+  translations:
+    form:
+      language_label: "Bahasa"
+      is_published_label: "Diterbitkan?"
+      submit_btn: "Simpan"

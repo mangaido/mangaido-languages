@@ -1,1 +1,31 @@
 id:
+  user_mailer:
+    password_reset:
+      subject: "Mangaido password reset"
+      reset_link: "Reset password"
+      message: >
+        Reset password pada akun Mangaido
+        Hai %{user_name},
+        Harap tekan link yang dituju untuk mereset password: %{reset_link}
+        Link tersebut hanya berlaku selama dua jam.
+        Jika password tidak ingin diubah, abaikan saja pesan ini.
+      message_html: >
+        <h1>
+          Mangaido password reset
+        </h1>
+
+        <p>
+          Hai %{user_name},
+        </p>
+
+        <p>
+          Harap tekan link yang dituju untuk mereset password: %{reset_link_html}.
+        </p>
+
+        <p>
+          Link tersebut hanya berlaku selama dua jam.
+        </p>
+
+        <p>
+          Jika password tidak ingin diubah, abaikan saja pesan ini.
+        </p>

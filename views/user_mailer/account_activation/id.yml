@@ -1,1 +1,20 @@
 id:
+  user_mailer:
+    account_activation:
+      subject: "Aktivasi akun Mangaido"
+      activation_link: "Aktivasi akun"
+      message: >
+        Hai %{user_name},
+        Selamat datang di Mangaido! Klik pada link berikut untuk mengaktivasi akun: %{activation_link}
+      message_html: >
+        <h1>
+          Aktivasi akun Mangaido
+        </h1>
+
+        <p>
+          Hai %{user_name},
+        </p>
+
+        <p>
+          Selamat datang di Mangaido! Klik pada link berikut untuk mengaktivasi akun: %{activation_link_html}.
+        </p>

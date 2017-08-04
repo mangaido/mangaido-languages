@@ -1,1 +1,42 @@
 id:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Karya"
+        other: "Karya"
+      artbook:
+        one: "Buku gambar"
+        other: "Buku gambar"
+      chapter_image:
+        one: "Gambar chapter"
+        other: "Gambar chapter"
+      chapter:
+        one: "Chapter"
+        other: "Chapter"
+      comment:
+        one: "Komentar"
+        other: "Komentar"
+      episode:
+        one: "Novel episode"
+        other: "Novel episode"
+      noodle:
+        one: "Mie ramen"
+        other: "Mie ramen"
+      novel:
+        one: "Novel"
+        other: "Novel"
+      series:
+        one: "Serial komik"
+        other: "Serial komik"
+      status_update:
+        one: "posting"
+        other: "posting"
+      translation_balloon:
+        one: "Balon terjemahan"
+        other: "Balon terjemahan"
+      translation:
+        one: "Terjemahan"
+        other: "Terjemahan"
+      user:
+        one: "Pengguna"
+        other: "Pengguna"

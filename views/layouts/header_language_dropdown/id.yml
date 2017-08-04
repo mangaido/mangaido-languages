@@ -1,1 +1,5 @@
 id:
+  layouts:
+    header_language_dropdown:
+      languages_btn: "Bahasa"
+      translate_mangaido_btn: "Bahasa lain"

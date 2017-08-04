@@ -1,1 +1,15 @@
 id:
+  noodles:
+    index:
+      meta_title: "Mangkuk Ramen"
+      logo_img_alt: "Ramen logo"
+      title: "Mangkuk Ramen"
+      subtitle_html: >
+        Lihat yang terbaik disini<br />
+        ramen noodles!
+      new_noodle_btn:
+        mobile: "Tambah noodle!"
+        desktop: "Tambah noodle!"
+      my_noodles_btn:
+        mobile: "Noodle-ku"
+        desktop: "Noodle-ku"

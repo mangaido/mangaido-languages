@@ -1,1 +1,17 @@
 id:
+  chapter_images:
+    new:
+      meta_title: "Tambahkan gambar chapter"
+      title: "Tambahkan gambar chapter"
+      chapter_images_hint_text: >
+        Gambar akan disesuaikan menjadi ukuran 720x5000px petak. Ukuran gambar tidak boleh lebih dari 15MB setiapnya.
+      step_1: "Langkah #1"
+      step_1_subtitle: "Pilih gambar:"
+      step_2: "Langkah #2"
+      step_2_subtitle: "Unggah:"
+      step_2_select_files_to_upload: "Mohon pilih file untuk diunggah"
+      upload_btn: "Unggah!"
+      file_dropzone_label: "Tarik berkas disini, atau pilih berkas yang akan diunggah."
+      files_label: "Gambar yang diunggah:"
+      edit_chapter_btn: "Edit chapter"
+      show_chapter_btn: "Lihat chapter"

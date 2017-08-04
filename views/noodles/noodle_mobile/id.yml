@@ -1,1 +1,5 @@
 id:
+  noodles:
+    noodle_mobile:
+      source_html: "Sumber: %{link_html}"
+      time_ago: "%{time_ago} yang lalu"

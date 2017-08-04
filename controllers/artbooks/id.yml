@@ -1,1 +1,11 @@
 id:
+  artbooks:
+    new:
+      default_title: "Buku gambar %{user_name}"
+    create:
+      success: "Buku gambar telah dibuat!"
+    update:
+      success: "Buku gambar berhasil dupdate."
+      error: "Ada masalah saat proses berlangsung! Coba lagi."
+    destroy:
+      success: "Buku gambar telah dihapus!"

@@ -1,0 +1,10 @@
+hu:
+  noodles:
+    update:
+      success: "Cikk frissítve."
+      error: "Probléma merült fel a cikk hozzáadása közben. Kérjük, próbálkozz újra."
+    create:
+      success: "A cikk sikeresen hozzáadva!"
+      error: "A cikk nincs elmentve."
+    destroy:
+      success: "Cikk törölve."

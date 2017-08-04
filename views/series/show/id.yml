@@ -1,1 +1,38 @@
 id:
+  series:
+    show:
+      meta_title: "%{title} - Lihat serial komik"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "komik"
+          desktop: "Serial komik"
+        edit_btn:
+          mobile: "Edit"
+          desktop: "Edit serial komik"
+      chapters_list:
+        title: "Chapter:"
+        not_published_message: "Belum diterbitkan"
+        chapter:
+          free_icon: "Gratis"
+          bought_icon: "Harus beli"
+          unlocked_icon: "Akses autorisasi"
+          locked_icon: "Kamu harus beli chapter ini"
+          views:
+            one: "%{count} dilihat"
+            other: "%{count} dilihat"
+          translations_btn:
+            one: "%{count} terjemahan"
+            other: "%{count} terjemahan"
+          edit_btn: "Edit"
+      description_title: "Deskripsi:"
+      informations:
+        title: "Informasi:"
+        views:
+          one: "%{count} dilihat"
+          other: "%{count} dilihat"
+        for_adults: "For adults"
+        safe_for_children: "Aman untuk dibaca"
+        language: "Bahasa: %{language_name}"
+        translations: "Terjemahan:"
+        translation_language: "%{language_name} (%{count})"
+      comments_title: "Komentar:"

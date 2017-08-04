@@ -1,1 +1,9 @@
 id:
+  noodles:
+    show:
+      meta_title: "%{title} - Ramen noodle"
+      info_html: "%{time_ago} yang lalu oleh by %{user_link_html}"
+      edit_btn: "Edit"
+      delete_btn: "Hapus"
+      delete_btn_confirm: "Ingin dihapus?"
+      delete_btn_hint: "Hapus noodle"

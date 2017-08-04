@@ -1,1 +1,12 @@
 id:
+  novels:
+    edit_all:
+      meta_title: "Edit semua novel"
+      title: "Edit novel"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Tambah"
+          desktop: "Tambah novel"
+        my_novels_btn:
+          mobile: "novel"
+          desktop: "Novelku"

@@ -1,1 +1,5 @@
 id:
+  novels:
+    new:
+      meta_title: "Tambah novel baru"
+      title: "Tambah novel baru"

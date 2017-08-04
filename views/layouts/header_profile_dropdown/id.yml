@@ -1,1 +1,11 @@
 id:
+  layouts:
+    header_profile_dropdown:
+      profile: "Profil"
+      my_artbooks: "Buku gambarku"
+      my_comic_series: "Serial komiku"
+      my_translations: "Terjemahanku"
+      my_novels: "Novelku"
+      mailbox: "Kotak surat"
+      settings: "Pengaturan"
+      log_out: "Keluar"

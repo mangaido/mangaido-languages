@@ -1,1 +1,5 @@
 id:
+  account_activations:
+    edit:
+      success: "Akun diaktifkan!"
+      error: "Link tidak sah"

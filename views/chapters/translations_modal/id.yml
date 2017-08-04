@@ -1,1 +1,8 @@
 id:
+  chapters:
+    translations_modal:
+      close_btn: "Tutup"
+      title: "Terjemahan"
+      close_translation_btn: "Tutup terjemahan"
+      new_form_title: "Tambahkan terjemahan"
+      my_translations_btn: "Terjemahanku"

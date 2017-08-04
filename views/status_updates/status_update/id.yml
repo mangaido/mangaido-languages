@@ -1,1 +1,7 @@
 id:
+  status_updates:
+    status_update:
+      delete_btn: "Hapus post"
+      delete_btn_confirm: "Ingin dihapus?"
+      posted_time_ago: "Diposting %{time_ago} yang lalu."
+      show_comments_btn: "Lihat komentar"

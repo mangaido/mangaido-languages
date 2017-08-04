@@ -1,1 +1,12 @@
 id:
+  artbook_images:
+    show:
+      meta_title: "Buku gambar"
+      previous_btn: "Sebelum"
+      nr_of_pages: "%{page_nr} dari %{pages}"
+      next_btn: "Lanjut"
+      edit_this_image_option: "Edit gambar"
+      edit_this_artbook_option: "Edit Buku"
+      edit_all_my_artbooks_option: "Edit semua"
+      author_label: "Pembuat:"
+      artbook_label: "Buku:"

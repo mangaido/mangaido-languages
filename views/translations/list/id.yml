@@ -1,1 +1,5 @@
 id:
+  translations:
+    list:
+      edit_btn: "Edit"
+      no_translations_msg: "Belum diterjemahkan."

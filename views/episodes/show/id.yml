@@ -1,1 +1,36 @@
 id:
+  episodes:
+    show:
+      meta_title: "%{title} - episode"
+      toolbar:
+        my_novels_btn:
+          mobile: "Novel"
+          desktop: "Novelku"
+        edit_btn:
+          mobile: "Edit"
+          desktop: "Edit episode"
+      by_author:
+        html: "oleh %{author_link}"
+      novel_btns:
+        views:
+          one: "%{count} dilihat"
+          other: "%{count} dilihat"
+        comments:
+          one: "%{count} komentar"
+          other: "%{count} komentar"
+      updated_ago: "Episode diupdate %{time} yang lalu"
+      episode_btns:
+        views:
+          one: "%{count} dilihat"
+          other: "%{count} dilihat"
+        comments:
+          one: "%{count} komentar"
+          other: "%{count} komentar"
+      description_label: "Info dari pengarang:"
+      prev_btn:
+        mobile: "Sebelum"
+        desktop: "Episode sebelumnya"
+      next_btn:
+        mobile: "Lanjut"
+        desktop: "Episode selanjutnya"
+      comments_label: "Komentar:"

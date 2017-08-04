@@ -1,1 +1,9 @@
 id:
+  contact_messages:
+    new:
+      meta_title: "Halaman kontak kami"
+      title: "Kontak kami!"
+      name_label: "Nama"
+      email_label: "Email"
+      content_label: "Pesan"
+      submit_btn: "Kirim"

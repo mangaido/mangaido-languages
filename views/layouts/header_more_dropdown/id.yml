@@ -1,1 +1,9 @@
 id:
+  layouts:
+    header_more_dropdown:
+      more_btn: "Selebihnya"
+      all_users: "Semua Pengguna"
+      artwork_creators: "Kreator"
+      comic_authors: "Komikus"
+      translators: "Penerjemah"
+      writers: "Penulis"

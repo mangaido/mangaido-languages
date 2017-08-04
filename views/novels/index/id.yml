@@ -1,1 +1,13 @@
 id:
+  novels:
+    index:
+      meta_title: "Novel"
+      title: "Novel baru"
+      subtitle: "Kreatifitas diluncurkan"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Tambah"
+          desktop: "Tambah novel"
+        my_novels_btn:
+          mobile: "Novel"
+          desktop: "Novelku"

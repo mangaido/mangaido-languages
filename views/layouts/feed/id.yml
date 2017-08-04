@@ -1,1 +1,14 @@
 id:
+  layouts:
+    feed:
+      edit_profile_btn: "Edit profil"
+      artbooks_btn: "Buku gambar"
+      artbooks_edit_link: "Edit"
+      comic_series_btn: "Serial komiku"
+      comic_series_edit_link: "Edit"
+      translations_btn: "Terjemahanku"
+      novels_btn: "Novelku"
+      novels_edit_link: "Edit"
+      following_btn: "Mengikuti"
+      followers_btn: "Pengikut"
+      mailbox_btn: "Kotak surat"

@@ -1,1 +1,16 @@
 id:
+  artbook_images:
+    index:
+      meta_title: "Karya terbaru"
+      title: "Karya terbaru"
+      subtitle: "Kreatifitas diluncurkan"
+      toolbar:
+        add_new_artworks:
+          mobile: "Tambah"
+          desktop: "Tambahkan karya"
+        my_artbooks:
+          mobile: "Miliku"
+          desktop: "Buku gambarku"
+        edit_my_artbooks:
+          mobile: "Edit"
+          desktop: "Edit Buku gambar"

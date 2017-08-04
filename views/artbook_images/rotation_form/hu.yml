@@ -1,0 +1,5 @@
+hu:
+  artbook_images:
+    rotation_form:
+      rotate_left_btn: "Elforgatás balra"
+      rotate_right_btn: "Elforgatás jobbra"

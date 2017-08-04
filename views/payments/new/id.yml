@@ -1,1 +1,7 @@
 id:
+  payments:
+    new:
+      meta_title: "Beli koin"
+      coin_packages_title: "Pilih paket koin:"
+      calculation_label: "Kalkulasi cepat:"
+      buy_btn: "Beli"

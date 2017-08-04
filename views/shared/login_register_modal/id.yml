@@ -1,1 +1,10 @@
 id:
+  shared:
+    login_register_modal:
+      form_title_hint: "Masuk"
+      close_btn_hint: "Tutup"
+      log_in_btn: "Masuk"
+      register_btn: "Pengguna baru? Daftar dong :)"
+      log_in_form_title: "Mauk"
+      register_form_title: "Daftar"
+      close_btn: "Tutup"

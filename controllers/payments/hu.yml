@@ -1,0 +1,6 @@
+hu:
+  payments:
+    success:
+      success: "A tranzakció sikeres volt!"
+    cancel:
+      error: "A tranzakció törölve."

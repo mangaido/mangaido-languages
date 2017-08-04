@@ -1,1 +1,9 @@
 id:
+  password_resets:
+    create:
+      success: "Permintaan penghapusan password telah terkirim"
+      email_not_found_error: "Alamat Email tidak ditemukan"
+    update:
+      success: "Password telah dihapus."
+    check_expiration:
+      error: "Penghapusan password tidak berlaku lagi."

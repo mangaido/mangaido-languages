@@ -1,1 +1,5 @@
 id:
+  artbooks:
+    new:
+      meta_title: "Tambahkan format buku"
+      title: "Tambahkan format buku:"

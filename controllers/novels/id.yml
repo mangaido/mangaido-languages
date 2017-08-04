@@ -1,1 +1,11 @@
 id:
+  novels:
+    show:
+      not_published_error: "Novel belum diterbitkan."
+      not_published_info: "Novel belum diterbitkan."
+    create:
+      success: "Novel berhasil dibuat!"
+    update:
+      success: "Novel berhasil diupdate."
+    destroy:
+      success: "Novel telah dihapus!"
