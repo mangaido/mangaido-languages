@@ -3,8 +3,7 @@ ja:
     form:
       name_label: "名前"
       email_label: "Email"
-      password_label: "パスワード (6文字以上)"
-      password_confirmation_label: "確認用パスワード"
+      # change_password_btn: "Change password"
       paypal_email_label: "PayPal email"
       paypal_email_help_btn: "さらに表示"
       paypal_email_help_text_html: >
@@ -19,4 +18,5 @@ ja:
         推奨サイズ:1920x320 px (JPG or PNG)
       default_language_label: "設定言語(メール送信用)"
       country_label: "国籍"
+      # country_placeholder: "Select your country"
       submit_btn: "保存"

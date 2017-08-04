@@ -37,6 +37,7 @@ pl:
     users:
       artbooks: "Ilustracje użytkownika"
       authors: "Autorzy"
+      change_password: "Zmień hasło"
       dashboard: "Panel zarządzania"
       edit: "Edytuj profil"
       index: "Użytkownicy"

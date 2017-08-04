@@ -8,14 +8,14 @@ es:
           has_many: "No se puede eliminar el registro porque %{record} está pendiente"
       models:
         artbook_image:
-          image_too_big: "La imágen del Artbook debe ser inferior a %{size}"
+          image_too_big: "La imagen del Artbook debe ser inferior a %{size}"
         chapter:
-          image_too_big: "La imágen del capítulo debe ser inferior a %{size}"
-          too_many_authorized_users: "Este capítulo tiene demaciados usuarios autorizados"
+          image_too_big: "La imagen del capítulo debe ser inferior a %{size}"
+          too_many_authorized_users: "Este capítulo tiene demaciados usuarios autorizados a leerlo"
         chapter_image:
-          image_too_big: "La imágen del capitulo debe ser inferior a %{size}"
+          image_too_big: "La imagen del capitulo debe ser inferior a %{size}"
         noodle:
-          image_too_big: "La imágen de fideos debe ser inferior a %{size}"
+          image_too_big: "La imagen de fideos debe ser inferior a %{size}"
         novel:
           image_too_big: "La portada de la novela debe ser inferior a %{size}"
         password_reset:
@@ -25,7 +25,7 @@ es:
           cover_too_big: "La portada del comic debe ser inferior a %{size}"
           wide_cover_too_big: "La portada del comic debe ser inferior a %{size}"
         status_update:
-          image_too_big: "La imágen de estado debe ser inferior a %{size}"
+          image_too_big: "La imagen de estado debe ser inferior a %{size}"
         transaction:
           general_error: "¡Hubo un problema con la transacción! Por favor, vuelve a intentarlo."
           not_enough_coins: "Número de monedas insuficiente."

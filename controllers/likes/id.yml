@@ -1,1 +1,5 @@
 id:
+  likes:
+    create:
+      error: "Ada kesalahan :("
+    

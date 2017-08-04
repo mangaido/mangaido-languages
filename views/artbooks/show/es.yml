@@ -1,13 +1,13 @@
 es:
   artbooks:
     show:
-      meta_title: "%{title} - Página de Artbook"
+      meta_title: "%{title}"
       new_artworks_btn:
-        mobile: "Agregar Artworks"
+        mobile: "Agregar"
         desktop: "Agregar Artworks"
       my_artbooks_btn:
         mobile: "Mis Artbooks"
         desktop: "Mis Artbooks"
       edit_this_artbook:
-        mobile: "Editar Artbook"
+        mobile: "Editar"
         desktop: "Editar Artbook"

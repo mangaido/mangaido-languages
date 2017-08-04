@@ -1,0 +1,6 @@
+fr:
+  users:
+    password_form:
+      password_label: "Mot de passe (6 caractères min.)"
+      password_confirmation_label: "Confirmer le mot de passe"
+      submit_btn: "Sauvegarder"

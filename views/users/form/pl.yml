@@ -3,8 +3,7 @@ pl:
     form:
       name_label: "Nazwa użytkownika"
       email_label: "Adres email"
-      password_label: "Hasło (min. 6 znaków)"
-      password_confirmation_label: "Potwierdź hasło"
+      change_password_btn: "Zmień hasło"
       paypal_email_label: "Adres email konta PayPal"
       paypal_email_help_btn: "Więcej informacji"
       paypal_email_help_text_html: >
@@ -20,4 +19,5 @@ pl:
         Dla użyskania najlepszych rezultatów wyślij obrazek o wymiarach 1920x320 pikseli (JPG lub PNG).
       default_language_label: "Domyślny język (używany obecnie do wysyłania emaili)"
       country_label: "Twój kraj"
+      country_placeholder: "Wybierz swój kraj"
       submit_btn: "Zapisz"

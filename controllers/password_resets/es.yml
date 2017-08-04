@@ -4,6 +4,6 @@ es:
       success: "Se envió a tu dirección e-mail las instrucciones para recuperar tu contraseña."
       email_not_found_error: "¡No se encontró tu dirección e-mail!"
     update:
-      success: "¡La contraseña se restableció!"
+      success: "¡Contraseña restablecida!"
     check_expiration:
       error: "El período para restablecer tu contraseña expiró."

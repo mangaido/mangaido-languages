@@ -1,0 +1,5 @@
+pl:
+  users:
+    change_password:
+      meta_title: "Zmień hasło"
+      title: "Zmień hasło"
