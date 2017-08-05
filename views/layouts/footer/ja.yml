@@ -26,10 +26,10 @@ ja:
           position: "日本語担当者"
         polaczarlin:
           position: "チームサポートスペシャリスト"
-         pusproject:
-           position: "インドネシア語担当者"
-         uedahana:
-           position: "スペイン語担当者"
+        pusproject:
+          position: "インドネシア語担当者"
+        uedahana:
+          position: "スペイン語担当者"
       menu:
         earn_money_with_us_btn: "報酬を得よう!"
         terms_of_service_btn: "利用規約"

@@ -27,6 +27,7 @@ We're currently supporting:
 - Bahasa Indonesia (id)
 - Filipino (tl)
 - Español (es)
+- Magyar (hu)
 
 if you know any other language and you want to help, let us know via email: contact@mangaido.com and we will add support to your language so that you will be able to start your translation journey here.
 
@@ -158,21 +159,27 @@ pl:
 
 ### Pluralization rules
 
-**English:**
+**English, German, Spanish:**
 - 1 -> "one" key
 - any other numbers -> "other" key
 
-**French:**
+**French, Filipino:**
 - 0, 1 -> "one" key
 - any other numbers -> "other" key
 
-**Japanese, Chinese, Korean:**
+**Japanese, Chinese, Korean, Hungarian, Indonesian:**
 - use only "other" key
 
 **Polish:** (hard to explain - write 4 forms based on this simple examples)
 - 1 -> "one" key
 - 2, 3, 4 -> "few" key
 - 0, 5, 6, 7 -> "many" key
+- 3.5, 2.7, 0.16 (all the fractions) -> "other" key
+
+**Russian:** (hard to explain - write 4 forms based on this simple examples)
+- 1 -> "one" key
+- 2, 3, 4 -> "few" key
+- 5, 10 -> "many" key
 - 3.5, 2.7, 0.16 (all the fractions) -> "other" key
 
 ### HTML tags
