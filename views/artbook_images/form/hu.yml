@@ -1,1 +1,10 @@
-hu:
+en:
+  artbook_images:
+    form:
+      title: "A kép címe ( nem kötelező )"
+      description: "Leírás ( nem kötelező )"
+      tags: "Kulcsszavak ( nem kötelező )"
+      tags_hint: >
+        A kulcsszavakat vesszővel kell elválasztani egymástól.(",").
+        Ezek segítségével az emberek könnyebben rátalálnak a képeidre. 
+      save_btn: "Mentés"
