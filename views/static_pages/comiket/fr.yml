@@ -1,1 +1,45 @@
 fr:
+  static_pages:
+    comiket:
+      meta_title: "Bienvenue aux artistes de Comiket ! "
+      title: "Bienvenue aux artistes de Comiket !"
+      text_html: "
+        <p>
+          <b>
+            Salut!
+          </b>
+        </p>
+
+        <p>
+          Si vous êtes là, vous nous avez probablement rencontrer au Comiket. Nous avons voyagé à travers le monde à partir de l'Europe pour vous montrer notre site de mangas et pour vous encourager à publier vos dessins ici. Nous espérons que notre site vous aidera à atteindre des lecteurs du monde entier grâce à nos traductions et notre communauté internationale.
+        </p>
+
+        <p>
+          Nous aimerions que vous essayiez notre site. Si vous vous inscrivez en utilisant ce code spécial, vous recevrez un unique \"Comiket badge\" que tous les autres utilisateurs pourront voir.
+        </p>
+      "
+      code_label: "Code promo :"
+      sign_up_link: "Inscrivez-vous !"
+      about_text_html: "
+        <p>
+          <b>
+            A propos de Mangaido:
+          </b>
+        </p>
+
+        <p>
+          Mangaido est une plate-forme en ligne dont le but est de publier et vendre des manges et dessins. Les lecteurs peuvent aider en traduisant dans leur langue natale. Celà aidera vos créations à atteindre d'autres parties de la planète et permettra à plus de personnes d'apprécier vos créations. Mangaido possède aussi des fonctions sociales comme les commentaires, les publications de statut, la possibilité de mettre des J'aime, ou d'envoyer des messages privés afin de rester en contact avec vos lecteurs et de créer une réel communauté de fans.
+        </p>
+
+        <p>
+          Vous pouvez décider de faire payer l'accès à vos chapitres aux lecteurs. Mangaido s'occupe de la partie technique du paiement et des retraits, vous laissant ainsi vous concentrerconcentrer sur le côté créatif.
+        </p>
+
+        <p>
+          Nous adorons les manges, et aimons faire aux auteurs de la publicité sur Mangaido. Comme nous sommes aussi des fans, nous aimons parler aux auteurs et suivre les manges, alors sentez-vous libre de nous contacter pour n'importe quelles suggestions que vous aimeriez voir. Nous faisons généralement en sorte qu'ils se réalisent. :) 
+        </p>
+
+        <p>
+          Restez créatifs!
+        </p>
+      "
