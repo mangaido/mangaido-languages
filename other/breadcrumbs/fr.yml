@@ -37,7 +37,7 @@ fr:
     users:
       artbooks: "Dessins de l'utilisateur"
       authors: "Auteurs"
-      # change_password: "Change password"
+      change_password: "Changer le mot de passe"
       dashboard: "Tableau de bord"
       edit: "Modifier le profil de %{user_name}"
       index: "Utilisateurs"
@@ -52,7 +52,7 @@ fr:
       index: "Mangas"
       new: "Ajouter un nouveau manga"
     static_pages:
-      # comiket: "Comiket"
+      comiket: "Comiket"
       earn_money_with_us: "Gagnez de l'argent avec nous!"
       privacy_policy: "Politique de confidentialité"
       search: "Résultats de la recherche"
