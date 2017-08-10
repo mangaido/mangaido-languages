@@ -1,1 +1,39 @@
 ru:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Запрос не выполнен: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Невозможно удалить запись, т.к. существует %{record} зависимая"
+          has_many: "Невозможно удалить запись, т.к. существует %{record} зависимых"
+      models:
+        artbook_image:
+          image_too_big: "Размер изображения должен быть меньше, чем %{size}"
+        badge:
+          icon_too_big: "Размер иконки должен быть меньше, чем %{size}"
+        chapter:
+          image_too_big: "Размер изображения должен быть меньше, чем %{size}"
+          too_many_authorized_users: "Глава имеет слишком много авторизированных пользователей."
+        chapter_image:
+          image_too_big: "Размер изображения должен быть меньше, чем %{size}"
+        noodle:
+          image_too_big: "Размер изображения должен быть меньше, чем %{size}"
+        novel:
+          image_too_big: "Размер обложки новеллы должен быть меньше, чем %{size}"
+        password_reset:
+          password:
+            cant_be_empty: "Поле пароля не должно быть пустым"
+        series:
+          cover_too_big: "Размер обложки комикса должен быть меньше, чем %{size}"
+          wide_cover_too_big: "Размер широкой обложки комикса должен быть меньше, чем %{size}"
+        status_update:
+          image_too_big: "Размер изображения должен быть меньше, чем %{size}"
+        transaction:
+          general_error: "Проблемы с транзакцией. Попробуйте снова."
+          not_enough_coins: "На вашем счете недостаточно монет."
+        user:
+          avatar_too_big: "Размер аватарки должен быть меньше, чем %{size}"
+          cover_too_big: "Размер обложки должен быть меньше, чем %{size}"
+          promo_code_invalid: "Этот промокод не действует."
+        withdrawal:
+          not_enough_coins: "На вашем счете недостаточно монет!"
