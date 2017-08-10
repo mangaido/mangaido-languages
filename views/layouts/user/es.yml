@@ -25,6 +25,7 @@ es:
         novel_views:
           one: "Sisualización de novela"
           other: "Visualizaciones de novela"
+        # badges: "Badges"
       menu:
         donate: "Donación de usuario"
         artbooks:

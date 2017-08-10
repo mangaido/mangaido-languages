@@ -9,6 +9,8 @@ ja:
       models:
         artbook_image:
           image_too_big: "アートブックイメージのサイズは、%{size}以下にしてください。"
+        # badge:
+        #   icon_too_big: "Icon should be less than %{size}"
         chapter:
           image_too_big: "イメージのサイズは、%{size}以下にしてください。"
           too_many_authorized_users: "このチャプターは、すでに他のユーザに所有されています。"
@@ -32,5 +34,6 @@ ja:
         user:
           avatar_too_big: "アバターイメージのサイズは、%{size}以下にしてください。"
           cover_too_big: "カバーイメージのサイズは、%{size}以下にしてください。"
+          # promo_code_invalid: "This promo code is invalid."
         withdrawal:
           not_enough_coins: "コインが足りません。"

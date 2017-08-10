@@ -5,6 +5,7 @@ pl:
       email_label: "Adres email"
       password_label: "Hasło (min. 6 znaków)"
       password_confirmation_label: "Potwierdź hasło"
+      promo_code_label: "Kod promocyjny (Opcjonalnie)"
       register_btn: "Utwórz konto"
       log_in_link: "Zaloguj się!"
       log_in_text_html: "Masz już konto? %{log_in_link_html}"

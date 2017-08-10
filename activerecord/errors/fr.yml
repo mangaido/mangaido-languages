@@ -9,6 +9,8 @@ fr:
       models:
         artbook_image:
           image_too_big: "L'image de l'artbook doit être inférieur à %{size}"
+        # badge:
+        #   icon_too_big: "Icon should be less than %{size}"
         chapter:
           image_too_big: "L'image du chapitre doit être inférieur à %{size}"
           too_many_authorized_users: "Ce chapitre a déjà trop d'utilisateurs autorisés"
@@ -32,5 +34,6 @@ fr:
         user:
           avatar_too_big: "L'avatar doit être inférieur à %{size}"
           cover_too_big: "La couverture doit être inférieur à %{size}"
+          # promo_code_invalid: "This promo code is invalid."
         withdrawal:
           not_enough_coins: "Pas assez de pièces!"

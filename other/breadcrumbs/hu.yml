@@ -51,6 +51,7 @@ hu:
       index: "Képregények"
       new: "Új képregény hozzáadása."
     static_pages:
+      # comiket: "Comiket"
       earn_money_with_us: "Keress pénzt velünk!"
       privacy_policy: "Adatvédelmi irányelvek"
       search: "Keresési találatok"

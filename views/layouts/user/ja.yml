@@ -25,6 +25,7 @@ ja:
         novel_views:
           one: "小説閲覧数"
           other: "小説閲覧数"
+        # badges: "Badges"
       menu:
         donate: "寄付ユーザ"
         artbooks:

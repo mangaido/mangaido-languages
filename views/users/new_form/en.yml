@@ -3,8 +3,9 @@ en:
     new_form:
       name_label: "Display name"
       email_label: "Email"
-      password_label: "Password"
+      password_label: "Password (min. 6 characters)"
       password_confirmation_label: "Confirm password"
+      promo_code_label: "Promo code (Optional)"
       register_btn: "Create my account"
       log_in_link: "Log in!"
       log_in_text_html: "Already have an account? %{log_in_link_html}"

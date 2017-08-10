@@ -9,6 +9,8 @@ en:
       models:
         artbook_image:
           image_too_big: "Artbook image should be less than %{size}"
+        badge:
+          icon_too_big: "Icon should be less than %{size}"
         chapter:
           image_too_big: "Chapter image should be less than %{size}"
           too_many_authorized_users: "This chapter have too many authorized users"
@@ -32,6 +34,7 @@ en:
         user:
           avatar_too_big: "Avatar should be less than %{size}"
           cover_too_big: "Cover should be less than %{size}"
+          promo_code_invalid: "This promo code is invalid."
         withdrawal:
           not_enough_coins: "Insufficient number of coins!"
           

@@ -25,6 +25,7 @@ en:
         novel_views:
           one: "Novel view"
           other: "Novel views"
+        badges: "Badges"
       menu:
         donate: "Donate user"
         artbooks:

@@ -9,6 +9,8 @@ pl:
       models:
         artbook_image:
           image_too_big: "Ilustracja powinna być mniejsza niż: %{size}"
+        badge:
+          icon_too_big: "Ikona powinna być mniejsza niż %{size}"
         chapter:
           image_too_big: "Okładka odcinka powinien być mniejszy niż: %{size}"
           too_many_authorized_users: "Ten odcinek ma zbyt wielu autoryzowanych użytkowników"
@@ -32,6 +34,7 @@ pl:
         user:
           avatar_too_big: "Awatar powinien być mniejszy niż: %{size}"
           cover_too_big: "Okładka powinna być mniejsza niż: %{size}"
+          promo_code_invalid: "Ten kod promocyjny jest nieprawidłowy."
         withdrawal:
           not_enough_coins: "Niewystarczająca ilość żetonów!"
           

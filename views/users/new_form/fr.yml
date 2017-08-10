@@ -5,6 +5,7 @@ fr:
       email_label: "Email"
       password_label: "Mot de passe"
       password_confirmation_label: "Confirmer le mot de passe"
+      # promo_code_label: "Promotional code (Optional)"
       register_btn: "Créer mon compte"
       log_in_link: "Connection!"
       log_in_text_html: "Vous avez déjà un compte? %{log_in_link_html}"

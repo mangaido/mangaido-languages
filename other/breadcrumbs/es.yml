@@ -52,6 +52,7 @@ es:
       index: "Comics"
       new: "Agregar comic"
     static_pages:
+      # comiket: "Comiket"
       earn_money_with_us: "¡Gana dinero con nosotros!"
       privacy_policy: "Políticas de privacidad"
       search: "Resultados de la busqueda"

@@ -25,6 +25,7 @@ layouts:
         novel_views:
           one: "Tampilan novel"
           other: "Tampilan novel"
+        # badges: "Badges"
       menu:
         donate: "Donasikan"
         artbooks:

@@ -39,6 +39,7 @@ pl:
           few: "Wyświetlenia nowel"
           many: "Wyświetleń nowel"
           other: "Wyświetlenia nowel"
+        badges: "Przypinki"
       menu:
         donate: "Wesprzyj użytkownika"
         artbooks:

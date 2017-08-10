@@ -52,6 +52,7 @@ ja:
       index: "マンガシリーズ"
       new: "新しいマンガシリーズを追加"
     static_pages:
+      # comiket: "Comiket"
       earn_money_with_us: "お金を稼ごう！！"
       privacy_policy: "プライバシーポリシー"
       search: "結果を検索"

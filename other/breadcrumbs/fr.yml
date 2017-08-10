@@ -52,6 +52,7 @@ fr:
       index: "Mangas"
       new: "Ajouter un nouveau manga"
     static_pages:
+      # comiket: "Comiket"
       earn_money_with_us: "Gagnez de l'argent avec nous!"
       privacy_policy: "Politique de confidentialité"
       search: "Résultats de la recherche"

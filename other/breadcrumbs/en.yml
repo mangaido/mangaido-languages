@@ -52,6 +52,7 @@ en:
       index: "Comic series"
       new: "Add new series"
     static_pages:
+      comiket: "Comiket"
       earn_money_with_us: "Earn money with us!"
       privacy_policy: "Privacy Policy"
       search: "Search results"

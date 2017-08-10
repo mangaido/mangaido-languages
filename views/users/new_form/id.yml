@@ -5,6 +5,7 @@ id:
       email_label: "Email"
       password_label: "Password"
       password_confirmation_label: "konfirmasi password"
+      # promo_code_label: "Promotional code (Optional)"
       register_btn: "Buat akun"
       log_in_link: "Masuk!"
       log_in_text_html: "Sudah punya akun? %{log_in_link_html}"

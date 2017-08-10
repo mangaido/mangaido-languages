@@ -5,6 +5,7 @@ es:
       email_label: "Dirección E-mail"
       password_label: "Contraseña"
       password_confirmation_label: "Confirmar contraseña"
+      # promo_code_label: "Promotional code (Optional)"
       register_btn: "Crear una cuenta"
       log_in_link: "¡Iniciar sesión!"
       log_in_text_html: "¿Ya tienes una cuenta? %{log_in_link_html}"

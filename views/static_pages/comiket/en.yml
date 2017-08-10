@@ -1,0 +1,45 @@
+en:
+  static_pages:
+    comiket:
+      meta_title: "Welcome Comiket Artist page"
+      title: "Welcome Comiket Artist!"
+      text_html: "
+        <p>
+          <b>
+            Hi!
+          </b>
+        </p>
+
+        <p>
+          If you're here, you probably met us on Comiket. We traveled all over the world from Europe to show you our manga website and encourage you to publish your artworks here. We hope our website will help you reach new audience from every part of the world thanks to our translations and international community.
+        </p>
+
+        <p>
+          We would like you to try our website. If you'll register account now using this special code, you'll receive unique \"Comiket badge\" that other users can see.
+        </p>
+      "
+      code_label: "Promo code:"
+      sign_up_link: "Sign up!"
+      about_text_html: "
+        <p>
+          <b>
+            About Mangaido:
+          </b>
+        </p>
+
+        <p>
+          Mangaido is an online platform for publishing and selling comics and artworks. Readers can help artists by translating things they enjoy to their native language. That will help your creations reach other parts of the world and enable more people to enjoy your content. Mangaido also features rich social functions such as commenting, status updates, giving likes, or private massages to stay in touch with your readers and build real fan community. 
+        </p>
+
+        <p>
+          You can decide to charge readers for access to your episodes. Mangaido will handle the technical side of payments and withdrawals and let you concentrate on the creative side. 
+        </p>
+
+        <p>
+          We love good comics, and enjoy giving authors publicity on Mangaido. Since we are fans too, we enjoy talking to authors and fellow comics readers, so feel free to contact us with any suggestions you would like to see. We usually make those things happen. :) 
+        </p>
+
+        <p>
+          Stay creative!
+        </p>
+      "
