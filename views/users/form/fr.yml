@@ -3,7 +3,7 @@ fr:
     form:
       name_label: "Nom"
       email_label: "Email"
-      # change_password_btn: "Change password"
+      change_password_btn: "Changer de mot de passe"
       paypal_email_label: "Email de PayPal"
       paypal_email_help_btn: "Plus d'info"
       paypal_email_help_text_html: >
@@ -18,5 +18,5 @@ fr:
         Pour un meilleur rendu, télécharger l'image avec les dimensions 1920x320 px (JPG ou PNG)
       default_language_label: "Language par défault (utilisé pour envoyer des emails)"
       country_label: "Votre pays"
-      # country_placeholder: "Select your country"
+      country_placeholder: "Selectioner votre pays"
       submit_btn: "Sauvegarder"
