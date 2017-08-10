@@ -25,7 +25,7 @@ fr:
         novel_views:
           one: "Fiction vue"
           other: "Fictions vues"
-        # badges: "Badges"
+          badges: "Badges"
       menu:
         donate: "Faire un don"
         artbooks:
