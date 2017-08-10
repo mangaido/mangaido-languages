@@ -1,1 +1,57 @@
 ru:
+  activerecord:
+    attributes:
+      artbook_image:
+        image: "Изображение"
+        title: "Название"
+        description: "Описание"
+      artbook:
+        title: "Название"
+      chapter_image:
+        image: "Изображение"
+      chapter:
+        title: "Название"
+        cover: "Обложка"
+        is_published: "Опубликовано"
+        amount_of_coins: "Количество монет"
+      comment:
+        content: "Содержание"
+      episode:
+        title: "Название"
+        description: "Описание"
+        text: "Текст"
+        is_published: "Опубликовано"
+      noodle:
+        title: "Название"
+        content: "Содержание"
+        link: "Ссылка"
+        image: "Изображение"
+      novel:
+        title: "Название"
+        description: "Описание"
+        cover: "Обложка"
+        is_published: "Опубликовано"
+      series:
+        title: "Название"
+        cover: "Обложка"
+        wide_cover: "Широкая обложка"
+        is_published: "Опубликовано"
+        description: "Описание"
+        language: "Язык"
+        is_for_adults: "Для взрослых"
+      status_update:
+        content: "Содержание"
+        image: "Изображение"
+      translation_balloon:
+        text: "Текст"
+      translation:
+        is_published: "Опубликовано"
+        language: "Язык"
+      user:
+        name: "Имя"
+        email: "Email"
+        about: "О себе"
+        cover: "Обложка"
+        avatar: "Аватар"
+        default_language: "Основной язык"
+        paypal_email: "PayPal"
