@@ -1,1 +1,11 @@
 ru:
+  artbooks:
+    edit_all:
+      meta_title: "Редактировать артбуки"
+      title: "Редактировать артбуки"
+      new_artbook_btn:
+        mobile: "Создать"
+        desktop: "Создать новый артбук"
+      show_my_artbooks_btn:
+        mobile: "К артбукам"
+        desktop: "Показать все артбуки"
