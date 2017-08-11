@@ -1,1 +1,16 @@
 ru:
+  artbook_images:
+    index:
+      meta_title: "Новые иллюстрации"
+      title: "Новые иллюстрации"
+      subtitle: "Творчество без ограничений!"
+      toolbar:
+        add_new_artworks:
+          mobile: "Добавить"
+          desktop: "Добавить новую работу"
+        my_artbooks:
+          mobile: "Артбуки"
+          desktop: "Мои артбуки"
+        edit_my_artbooks:
+          mobile: "Редактировать"
+          desktop: "Редактировать мои артбуки"
