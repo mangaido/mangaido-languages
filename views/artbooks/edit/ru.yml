@@ -1,1 +1,12 @@
 ru:
+  artbooks:
+    edit:
+      meta_title: "Редактировать артбук"
+      title: "Редактировать артбук:"
+      new_artbook_image_btn:
+        mobile: "Добавить"
+        desktop: "Добавить новые работы"
+      show_this_artbook_btn:
+        mobile: "К артбуку"
+        desktop: "Показать артбук"
+      delete_btn: "Удалить"
