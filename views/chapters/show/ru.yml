@@ -1,1 +1,21 @@
 ru:
+  chapters:
+    show:
+      meta_title: >
+        %{series_title} - %{chapter_title} - комикс
+      translation_meta_title: >
+        %{series_title} - %{chapter_title} - %{language_name} - перевод комикса
+      translations_btn: "Переводы"
+      top_menu:
+        series_btn: "Все главы"
+      bottom_menu:
+        previous_chapter_btn: "Предыдущая глава"
+        next_chapter_btn: "Следующая глава"
+      settings:
+        edit_chapter: "Редактировать главу"
+        edit_series: "Редактировать комикс"
+        edit_all_series: "Редактировать все комиксы"
+      author_label: "Автор:"
+      translator_label: "Переводчик:"
+      series_label: "Комикс:"
+      gallery_item_title: "Глава %{chapter_nr}"
