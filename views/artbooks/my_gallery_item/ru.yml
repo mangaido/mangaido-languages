@@ -1,1 +1,4 @@
 ru:
+  artbooks:
+    my_gallery_item:
+      delete_btn_confirm: "Вы уверены?"
