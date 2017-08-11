@@ -1,1 +1,8 @@
 ru:
+  chapters:
+    translations_modal:
+      close_btn: "Закрыть"
+      title: "Переводы"
+      close_translation_btn: "Закрыть"
+      new_form_title: "Добавить новый перевод"
+      my_translations_btn: "Мои переводы"
