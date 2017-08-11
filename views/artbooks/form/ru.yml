@@ -2,4 +2,4 @@ ru:
   artbooks:
     form:
       title_label: "Название"
-      submit_btn: "Создать"
+      submit_btn: "Сохранить"
