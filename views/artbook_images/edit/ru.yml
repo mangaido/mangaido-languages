@@ -1,1 +1,14 @@
 ru:
+  artbook_images:
+    edit:
+      meta_title: "Редактировать изображение"
+      title: "Редактировать изображение:"
+      previous_btn: "Предыдущая"
+      back_to_artbook:
+        mobile: "К артбуку"
+        desktop: "Вернуться к артбуку"
+      show_artwork:
+        mobile: "Изображение"
+        desktop: "Показать изображение"
+      next_btn: "Следующая"
+      delete_btn: "Удалить"
