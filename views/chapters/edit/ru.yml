@@ -1,1 +1,40 @@
 ru:
+  chapters:
+    edit:
+      meta_title: "%{series_title} - %{chapter_title} - редактирование"
+      title: "Редактировать главу: %{title}"
+      toolbar:
+        add_new_images_btn:
+          desktop: "Добавить новые страницы"
+          mobile: "Добавить"
+        read_chapter_btn:
+          desktop: "Показать главу"
+          mobile: "Показать"
+        delete_btn:
+          mobile: ""
+          desktop: "Удалить"
+        delete_btn_confir: "Вы уверены?"
+      chapter_images_title: "Страницы:"
+      sort_chapter_images_by_filenames_btn: "Сортировать страницы по названию"
+      sort_chapter_images_by_filenames_help_html: >
+        При загрузке файлы автоматически сортируются по имени (не в алфавитном порядке).<br />
+        <br />
+
+        Например, файлы с такими именами будут упорядочены следующим образом:
+        <ol>
+          <li>
+            "file_1.jpg"
+          </li>
+          <li>
+            "file_2.jpg"
+          </li>
+          <li>
+            "file_3.jpg"
+          </li>
+          <li>
+            "file_10.jpg"
+          </li>
+          <li>
+            "file_11.jpg"
+          </li>
+        </ol>
