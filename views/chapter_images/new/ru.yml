@@ -1,1 +1,17 @@
 ru:
+  chapter_images:
+    new:
+      meta_title: "Добавить новые страницы"
+      title: "Добавить новые страницы"
+      chapter_images_hint_text: >
+        Изображения будут масштабироваться 720x5000px. Файл не должен весить больше 15MB.
+      step_1: "Шаг #1"
+      step_1_subtitle: "Выберите страницы:"
+      step_2: "Шаг #2"
+      step_2_subtitle: "Загрузите:"
+      step_2_select_files_to_upload: "Пожалуйста, добавьте страницы, чтобы загрузить"
+      upload_btn: "Загрузить!"
+      file_dropzone_label: "Перетащите сюда файлы или кликните, чтобы выбрать и загрузить изображения."
+      files_label: "Страницы:"
+      edit_chapter_btn: "Редактировать главу"
+      show_chapter_btn: "Показать главу"
