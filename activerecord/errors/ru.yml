@@ -13,7 +13,7 @@ ru:
           icon_too_big: "Размер иконки должен быть меньше, чем %{size}"
         chapter:
           image_too_big: "Размер изображения должен быть меньше, чем %{size}"
-          too_many_authorized_users: "Глава имеет слишком много авторизированных пользователей."
+          too_many_authorized_users: "Слишком много авторизованных пользователей."
         chapter_image:
           image_too_big: "Размер изображения должен быть меньше, чем %{size}"
         noodle:
