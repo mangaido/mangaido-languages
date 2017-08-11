@@ -1,1 +1,8 @@
 ru:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "%{count} работа"
+        few: "%{count} работы"
+        many: "%{count} работ"
+        other: "%{count} работы"
