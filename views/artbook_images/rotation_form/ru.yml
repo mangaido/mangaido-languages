@@ -1,1 +1,5 @@
 ru:
+  artbook_images:
+    rotation_form:
+      rotate_left_btn: "Повернуть влево"
+      rotate_right_btn: "Повернуть вправо"
