@@ -1,0 +1,10 @@
+pt:
+  noodles:
+    update:
+      success: "¡Macarrão atualizado!"
+      error: "¡Ups! Houve um erro atualizando o macarrão, tente novamente."
+    create:
+      success: "¡Macarrão criado!"
+      error: "¡O macarrão não salvo!"
+    destroy:
+      success: "¡Macarrão removido!"
