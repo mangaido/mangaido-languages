@@ -1,1 +1,5 @@
 ru:
+  layouts:
+    header_language_dropdown:
+      languages_btn: "Языки"
+      translate_mangaido_btn: "Другие языки"
