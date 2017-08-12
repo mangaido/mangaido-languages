@@ -10,7 +10,7 @@ es:
         artbook_image:
           image_too_big: "La imagen del Artbook debe ser inferior a %{size}"
         # badge:
-        #   icon_too_big: "Icon should be less than %{size}"
+        #   icon_too_big: "El icono debe ser inferior a %{size}"
         chapter:
           image_too_big: "La imagen del capítulo debe ser inferior a %{size}"
           too_many_authorized_users: "Este capítulo tiene demaciados usuarios autorizados a leerlo"
@@ -34,7 +34,7 @@ es:
         user:
           avatar_too_big: "El avatar debe ser inferior a %{size}"
           cover_too_big: "La portada debe ser inferior a %{size}"
-          # promo_code_invalid: "This promo code is invalid."
+          # promo_code_invalid: "Código de promoción invalido."
         withdrawal:
           not_enough_coins: "Número de monedas insuficiente!"
           
