@@ -1,0 +1,4 @@
+pt:
+  application:
+    logged_in_user:
+      error: "Por favor, entre"
