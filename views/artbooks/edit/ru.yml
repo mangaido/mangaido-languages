@@ -7,6 +7,6 @@ ru:
         mobile: "Добавить"
         desktop: "Добавить новые работы"
       show_this_artbook_btn:
-        mobile: "К артбуку"
+        mobile: "Показать"
         desktop: "Показать артбук"
       delete_btn: "Удалить"
