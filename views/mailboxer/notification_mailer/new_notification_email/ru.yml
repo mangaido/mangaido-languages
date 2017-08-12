@@ -1,1 +1,26 @@
 ru:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "Загляни на Mangaido!"
+        message: >
+          Новое уведомление!
+          Привет, %{user_name},
+          %{text}
+          Посмотреть уведомление на Mangaido: %{notification_link}
+        message_html: >
+          <h1>
+            Новое уведомление!
+          </h1>
+
+          <p>
+            Привет, %{user_name},
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{notification_link_html}
+          </p>
