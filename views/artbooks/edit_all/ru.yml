@@ -5,7 +5,7 @@ ru:
       title: "Редактировать артбуки"
       new_artbook_btn:
         mobile: "Создать"
-        desktop: "Создать новый артбук"
+        desktop: "Создать новый"
       show_my_artbooks_btn:
-        mobile: "К артбукам"
+        mobile: "Показать"
         desktop: "Показать все артбуки"
