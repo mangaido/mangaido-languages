@@ -1,0 +1,5 @@
+pt:
+  sessions:
+    create:
+      not_activated_warning: "¡Seu conta ainda não foi ativada! Verifique seu e-mail para ativar."
+      error: "Seu e-mail/senha está incorreta."
