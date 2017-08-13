@@ -1,7 +1,7 @@
 es:
   chapters:
     edit:
-      meta_title: "%{series_title} - %{chapter_title} - Editar página del Capítulo"
+      meta_title: "%{series_title} - %{chapter_title} - Editar Capítulo"
       title: "Editar capítulo: %{title}"
       toolbar:
         add_new_images_btn:
@@ -11,7 +11,7 @@ es:
           desktop: "Leer capítulo"
           mobile: "Leer Capítulo"
         delete_btn:
-          mobile: ""
+          mobile: "Eliminar"
           desktop: "Eliminar"
         delete_btn_confir: "¿Estás seguro?"
       chapter_images_title: "Imágenes del capítulo:"
