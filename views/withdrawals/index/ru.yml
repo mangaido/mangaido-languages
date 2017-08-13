@@ -8,7 +8,7 @@ ru:
         few: "%{count} монеты"
         many: "%{count} монет"
         other: "%{count} монеты"
-      money_to_be_paid_label: "Остаток:"
+      money_to_be_paid_label: "Снятая сумма:"
       form_label: "Вывод средств со счета:"
       cant_withdraw_msg: "Минимальная сумма для вывода - %{min_coins} монет(-ы)"
       list_label: "Операции:"
