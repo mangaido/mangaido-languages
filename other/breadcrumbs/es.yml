@@ -36,8 +36,8 @@ es:
       user_novels: "Novela de artista"
     users:
       artbooks: "Artworks de usuario"
-      authors: "autores"
-      # change_password: "Change password"
+      authors: "Autores"
+      # change_password: "Cambiar contraseña"
       dashboard: "Tablero"
       edit: "Editar perfil de %{user_name}'"
       index: "Usuarios"
