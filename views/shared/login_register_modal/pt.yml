@@ -1,0 +1,10 @@
+es:
+  shared:
+    login_register_modal:
+      form_title_hint: "Formulario de login"
+      close_btn_hint: "Fechar"
+      log_in_btn: "Entrar"
+      register_btn: "¿Novo en Mangaido? Registre-se :)"
+      log_in_form_title: "Entrar"
+      register_form_title: "Registre-se"
+      close_btn: "Fechar"
