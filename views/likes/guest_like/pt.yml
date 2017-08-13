@@ -1,0 +1,7 @@
+pt:
+  likes:
+    guest_like:
+      tooltip: "¡Like!"
+      likes:
+        one: "Like"
+        other: "Likes"
