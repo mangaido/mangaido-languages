@@ -3,7 +3,7 @@ es:
     index:
       meta_title: "Novelas"
       title: "Últimas novelas"
-      subtitle: "Creatividad desencadenada"
+      subtitle: "¡Desencadena tu creatividad!"
       toolbar:
         add_new_novel_btn:
           mobile: "Agregar novela"
