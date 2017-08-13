@@ -1,0 +1,15 @@
+pt:
+  novels:
+    form:
+      title_label: "Título"
+      description_label: "Descrição (Opcional)"
+      is_published_label: "¿Está publicado?"
+      is_published_yes_label: "Publicado"
+      is_published_no_label: "Em rascunho"
+      cover_label: "Imagem do frente (Opcional)"
+      remove_cover_yes_label: "Remover esta imagem do frente"
+      remove_cover_no_label: "Dejar a imagem do frente como está"
+      cover_hint_text: >
+        Para melhores resultados, subir a imagem com dimensões %{width}x%{height}pixeles (JPG or PNG).
+        A imagem não deve exceder %{max_size_in_mb}MB
+      submit_btn: "Subir"
