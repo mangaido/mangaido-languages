@@ -1,1 +1,18 @@
 ru:
+  users:
+    dashboard:
+      meta_title: "Управление счетом"
+      current_balance_label: "Текущий баланс"
+      current_balance_amount_of_coins:
+        one: "%{count} монеты"
+        few: "%{count} монеты"
+        many: "%{count} монет"
+        other: "%{count} монеты"
+      buy_coins_btn: "Купить монеты"
+      withdrawals_money_label: "Доступно к снятию"
+      withdrawals_btn: "Вывести"
+      chapter_purchases_btn: "Купленные главы"
+      donations_sent_btn: "Перечисленные средства"
+      chapter_sales_btn: "Проданные главы"
+      donations_received_btn: "Полученные средства"
+      payments_btn: "Платежи"
