@@ -1,1 +1,5 @@
 ru:
+  users:
+    translations:
+      meta_title: "Переводы пользователя %{user_name}"
+      title: "Переводы пользователя %{user_name}:"
