@@ -1,1 +1,20 @@
 ru:
+  user_mailer:
+    account_activation:
+      subject: "Mangaido: активация профиля"
+      activation_link: "Активировать профиль"
+      message: >
+        Привет, %{user_name},
+        Добро пожаловать на Mangaido! Перейдите по этой ссылке, чтобы активировать профиль: %{activation_link}
+      message_html: >
+        <h1>
+          Mangaido: активация профиля
+        </h1>
+
+        <p>
+          Привет, %{user_name},
+        </p>
+
+        <p>
+          Добро пожаловать на Mangaido! Перейдите по этой ссылке, чтобы активировать профиль: %{activation_link_html}.
+        </p>
