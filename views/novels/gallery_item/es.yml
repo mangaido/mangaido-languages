@@ -1,8 +1,8 @@
 es:
   novels:
     gallery_item:
-      author: "por @%{user_name}"
-      time_ago: "hace %{time_ago}"
+      author: "Por @%{user_name}"
+      time_ago: "Hace %{time_ago}"
       nr_of_episodes:
         one: "%{count} episodio"
         other: "%{count} episodios"
