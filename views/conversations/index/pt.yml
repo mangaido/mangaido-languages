@@ -1,0 +1,14 @@
+pt:
+  conversations:
+    index:
+      meta_title: "Caixa de correios"
+      title: "Caixa de correios"
+      subtitle: "¡Todos seus correios aqui!"
+      new_message_btn: "Começar conversa"
+      menu:
+        inbox_btn: "Mangaido E-mail"
+        sent_btn: "Enviado"
+        trash_btn: "Lixo"
+      empty_trash_btn: "Limpiar lixo"
+      empty_trash_btn_confirm: "¿Esta seguro?"
+      
