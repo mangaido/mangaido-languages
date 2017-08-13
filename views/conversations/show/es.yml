@@ -1,7 +1,7 @@
 es:
   conversations:
     show:
-      meta_title: "%{subject} - Página de conversación"
+      meta_title: "%{subject} - Conversación"
       title: "%{subject} - Conversación"
       chatting_with: "Conversando con"
       message:
