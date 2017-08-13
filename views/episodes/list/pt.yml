@@ -1,0 +1,12 @@
+pt:
+  episodes:
+    list:
+      title: "%{nr}). %{title}"
+      updated_ago: "Atualizado faz %{time}"
+      views:
+        one: "%{count} visualização"
+        other: "%{count} visualizações"
+      comments:
+        one: "%{count} comentario"
+        other: "%{count} comentarios"
+      not_published_message: "Ainda não foi publicado."
