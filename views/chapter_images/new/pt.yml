@@ -1,0 +1,17 @@
+pt:
+  chapter_images:
+    new:
+      meta_title: "Adicionar imagens ao capítulo"
+      title: "Adicionar imagens ao capítulo"
+      chapter_images_hint_text: >
+        As imagens devem ser com 720x5000 pixeles aprox. Tampouco devem ter mais de 15MB cada uma.
+      step_1: "Fase #1"
+      step_1_subtitle: "Seleciona imagens:"
+      step_2: "Fase #2"
+      step_2_subtitle: "Subir:"
+      step_2_select_files_to_upload: "Por favor, seleciona ficheiros."
+      upload_btn: "¡Subido!"
+      file_dropzone_label: "Arraste seus ficheiros aqui, o clique aqui para selecionar as imagens para subir."
+      files_label: "Imagens para subir:"
+      edit_chapter_btn: "Editar capítulo"
+      show_chapter_btn: "Ver capítulo"
