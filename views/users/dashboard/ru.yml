@@ -9,7 +9,7 @@ ru:
         many: "%{count} монет"
         other: "%{count} монеты"
       buy_coins_btn: "Купить монеты"
-      withdrawals_money_label: "Доступно к снятию"
+      withdrawals_money_label: "Снятая сумма"
       withdrawals_btn: "Вывести"
       chapter_purchases_btn: "Купленные главы"
       donations_sent_btn: "Перечисленные средства"
