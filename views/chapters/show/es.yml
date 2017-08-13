@@ -13,7 +13,7 @@ es:
         next_chapter_btn: "Siguiente capítulo"
       settings:
         edit_chapter: "Editar capítulo"
-        edit_series: "Edit this comic series"
+        edit_series: "Editar este comic"
         edit_all_series: "Editar todos los comics"
       author_label: "Autor:"
       translator_label: "Traductor:"
