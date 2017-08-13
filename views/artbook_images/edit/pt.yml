@@ -1,0 +1,14 @@
+pt:
+  artbook_images:
+    edit:
+      meta_title: "Editar Artwork"
+      title: "Editar Artwork:"
+      previous_btn: "Anterior"
+      back_to_artbook:
+        mobile: "Voltar"
+        desktop: "Voltar ao Artbook"
+      show_artwork:
+        mobile: "Ver Artwork"
+        desktop: "Ver Artwork"
+      next_btn: "Seguinte"
+      delete_btn: "Remover"
