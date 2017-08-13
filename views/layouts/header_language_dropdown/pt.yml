@@ -1,0 +1,5 @@
+pt:
+  layouts:
+    header_language_dropdown:
+      languages_btn: "Linguas"
+      translate_mangaido_btn: "Outras linguas"
