@@ -1,1 +1,10 @@
 ru:
+  shared:
+    login_register_modal:
+      form_title_hint: "Войти"
+      close_btn_hint: "Закрыть"
+      log_in_btn: "Войти"
+      register_btn: "Новичок? Зарегистрироваться :)"
+      log_in_form_title: "Войти"
+      register_form_title: "Регистрация"
+      close_btn: "Закрыть"
