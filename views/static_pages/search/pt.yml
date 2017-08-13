@@ -1,0 +1,10 @@
+pt:
+  static_pages:
+    search:
+      meta_title: "Resultados da pesquisa"
+      type_names:
+        artbook_image: "Imagem do Artbook"
+        series: "Comic"
+        user: "Usuario"
+        novel: "Novela"
+        noodle: "Macarrão de Ramen"
