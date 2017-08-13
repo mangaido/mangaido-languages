@@ -2,9 +2,9 @@ es:
   chapters:
     show:
       meta_title: >
-        %{series_title} - %{chapter_title} - Página de comic
+        %{series_title} - %{chapter_title} - Comic
       translation_meta_title: >
-        %{series_title} - %{chapter_title} - %{language_name} - Página de traducción del comic
+        %{series_title} - %{chapter_title} - %{language_name} - Traducción del comic
       translations_btn: "Traducciones"
       top_menu:
         series_btn: "Todos los capítulos"
