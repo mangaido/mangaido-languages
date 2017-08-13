@@ -1,1 +1,8 @@
 ru:
+  password_resets:
+    edit:
+      meta_title: "Сбросить пароль"
+      title: "Сбросить пароль"
+      password_label: "Новый пароль (минимум 6 символов)"
+      password_confirmation_label: "Повторите пароль"
+      submit_btn: "Сохранить новый пароль"
