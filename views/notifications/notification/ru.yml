@@ -1,1 +1,17 @@
 ru:
+  notifications:
+    notification:
+      ArtbookImage: "изображение"
+      Artbook: "артбук"
+      StatusUpdate: "запись"
+      Series: "комикс"
+      Chapter: "глава(-у)"
+      Episode: "эпизод"
+      Novel: "новелла(-у)"
+      User: "профиль"
+      Noodle: "макаронина(-у)"
+      code:
+        LIKE_html: "%{who} нравится %{what}"
+        COMMENT_html: "%{who} прокомментировал %{what}"
+        FOLLOW_html: "%{who} подписался на вас"
+      time_ago: "%{time_ago} назад"
