@@ -1,0 +1,9 @@
+pt:
+  noodles:
+    show:
+      meta_title: "%{title} - Macarrão do Ramen"
+      info_html: "Faz %{time_ago} por %{user_link_html}"
+      edit_btn: "Editar"
+      delete_btn: "Remover"
+      delete_btn_confirm: "¿Esta seguro?"
+      delete_btn_hint: "Remover macarrão"
