@@ -1,0 +1,37 @@
+pt:
+  layouts:
+    footer:
+      instagram_btn: "@mangaidocom"
+      facebook_btn: "Mangaido em Facebook"
+      snapchat_btn: "@mangaido"
+      twitter_btn: "@mangaido"
+      mangaido_logo: "Mangaido"
+      youtube_btn: "Mangaido em YouTube"
+      tumblr_btn: "Mangaido em Tumblr"
+      crew_title: "Crew:"
+      crew:
+        mangaido:
+          position: "Official profile"
+        karolina:
+          position: "Co-fundadora"
+        bartek:
+          position: "Co-fundador"
+        michal:
+          position: "Co-fundador"
+        choux:
+          position: "Embaixador francês"
+        makkusu:
+          position: "Embaixador do Japão"
+        kokko:
+          position: "Embaixador do Japão"
+        polaczarlin:
+          position: "Suporte Especialista"
+        # pusproject:
+        #   position: "Embaixador Indonésia"
+        # uedahana:
+        #   position: "Embaixadora espanhola e portuguesa"
+      menu:
+        earn_money_with_us_btn: "¡Ganhar dinheiro com nós!"
+        terms_of_service_btn: "Termos de Serviço"
+        privacy_btn: "Privacidade"
+        contact_us_btn: "¡Entre em contato!"
