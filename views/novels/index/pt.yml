@@ -1,0 +1,13 @@
+pt:
+  novels:
+    index:
+      meta_title: "Novelas"
+      title: "Últimas novelas"
+      subtitle: "¡Liberta sua creatividade"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Adicionar novela"
+          desktop: "Adicionar novela"
+        my_novels_btn:
+          mobile: "Minhas novelas"
+          desktop: "Minhas novelas"
