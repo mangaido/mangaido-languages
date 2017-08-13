@@ -1,0 +1,4 @@
+pt:
+  series:
+    list_item:
+      time_ago: "Faz %{time_ago}"
