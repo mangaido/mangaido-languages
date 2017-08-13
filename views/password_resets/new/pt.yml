@@ -1,0 +1,7 @@
+pt:
+  password_resets:
+    new:
+      meta_title: "Restabelecer senha"
+      title: "Restabelecer senha"
+      subtitle: "¡E recupera sua conta!"
+      
