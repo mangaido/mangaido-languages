@@ -1,0 +1,36 @@
+pt:
+  episodes:
+    show:
+      meta_title: "%{title} - Episodio
+      toolbar:
+        my_novels_btn:
+          mobile: "Meus novelas"
+          desktop: "Meus novelas"
+        edit_btn:
+          mobile: "Editar episodio"
+          desktop: "Editar episodio"
+      by_author:
+        html: "Por %{author_link}"
+      novel_btns:
+        views:
+          one: "%{count} visualização"
+          other: "%{count} visualizações"
+        comments:
+          one: "%{count} comentario"
+          other: "%{count} comentarios"
+      updated_ago: "Atualizado faz %{time}"
+      episode_btns:
+        views:
+          one: "%{count} visualização"
+          other: "%{count} visualizações"
+        comments:
+          one: "%{count} comentario"
+          other: "%{count} comentarios"
+      description_label: "Sobre o autor:"
+      prev_btn:
+        mobile: "Anterior"
+        desktop: "Episodio anterior"
+      next_btn:
+        mobile: "Seguinte"
+        desktop: "Seguinte episodio"
+      comments_label: "Comentarios:"
