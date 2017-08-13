@@ -1,0 +1,15 @@
+pt:
+  translations:
+    show:
+      no_access_error: "¡Você não pode acessar esta tradução!"
+    edit:
+      no_access_error: "¡Você não pode editar esta tradução!"
+    create:
+      no_access_error: "¡Ups! Houve um erro nesta tradução, tente novamente."
+      success: "¡Tradução criada!"
+      error: "¡Ups! Houve um erro criando a tradução, tente novamente."
+    update:
+      success: "¡Tradução atualizada!"
+      error: "¡Ups! Houve um erro atualizando a tradução, tente novamente."
+    destroy:
+      success: "¡Tradução removida!"
