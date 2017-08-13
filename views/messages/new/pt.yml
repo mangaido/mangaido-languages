@@ -1,0 +1,12 @@
+pt:
+  messages:
+    new:
+      meta_title: "Nova conversa"
+      title: "Nova conversa"
+      subtitle: "¡Ilumine o dia!"
+      subject_label: "Assunto"
+      body_label: "Mensaguem"
+      recipients_label: "Escolhar destinatarios"
+      recipients_no_results_text: "Sim resultados"
+      recipients_placeholder: "Selecionar usuario"
+      submit_btn: "Enviar"
