@@ -1,0 +1,39 @@
+pt:
+  chapters:
+    edit:
+      meta_title: "%{series_title} - %{chapter_title} - Editar Capítulo"
+      title: "Editar capítulo: %{title}"
+      toolbar:
+        add_new_images_btn:
+          desktop: "Adicionar imagens"
+          mobile: "Adicionar imagens"
+        read_chapter_btn:
+          desktop: "Ler capítulo"
+          mobile: "Ler Capítulo"
+        delete_btn:
+          mobile: "Remover"
+          desktop: "Remover"
+        delete_btn_confir: "¿Esta seguro?"
+      chapter_images_title: "Imagens do capítulo:"
+      sort_chapter_images_by_filenames_btn: "Arrumar imagens do capítulo por seu nome"
+      sort_chapter_images_by_filenames_help_html: >
+        Quando as imagens são subidas são automaticamente classificadas pelo nome do ficheiro (não necessariamente em ordem alfabético).<br />
+        <br />
+        Por exemplo, ficheiros com certos nomes são classificadas da seguinte maneira:
+        <ol>
+          <li>
+            "ficheiro_1.jpg"
+          </li>
+          <li>
+            "ficheiro_2.jpg"
+          </li>
+          <li>
+            "ficheiro_3.jpg"
+          </li>
+          <li>
+            "ficheiro_10.jpg"
+          </li>
+          <li>
+            "ficheiro_11.jpg"
+          </li>
+        </ol>
