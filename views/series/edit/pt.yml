@@ -1,0 +1,15 @@
+pt:
+  series:
+    edit:
+      meta_title: "%{title} - Editar comic"
+      title: "%{title} - Editar comic"
+      add_new_btn:
+        mobile: "Adicionar capítulo"
+        desktop: "Adicionar capítulo"
+      show_btn:
+        mobile: "Ver comic"
+        desktop: "Ver comic"
+      delete_btn:
+        mobile: "Remover"
+        desktop: "Remover"
+      chapters_title: "Capítulos:"
