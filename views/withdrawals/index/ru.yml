@@ -1,1 +1,23 @@
 ru:
+  withdrawals:
+    index:
+      meta_title: "Вывод монет со счета"
+      current_balance_label: "Текущий баланс:"
+      current_balance_coins:
+        one: "%{count} монета"
+        few: "%{count} монеты"
+        many: "%{count} монет"
+        other: "%{count} монеты"
+      money_to_be_paid_label: "Остаток:"
+      form_label: "Вывод средств со счета:"
+      cant_withdraw_msg: "Минимальная сумма для вывода - %{min_coins} монет(-ы)"
+      list_label: "Операции:"
+      list:
+        id: "ID"
+        amount_of_coins: "Число монет"
+        amount_of_money: "Сумма денег"
+        created_at: "Дата запроса"
+        is_paid: "Завершено?"
+        is_paid_yes: "Да"
+        is_paid_no: "Нет"
+        paid_at: "Дата платежа"
