@@ -1,0 +1,6 @@
+pt:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "%{count} Artwork"
+        other: "%{count} Artworks"
