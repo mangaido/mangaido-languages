@@ -1,0 +1,9 @@
+pt:
+  password_resets:
+    new_form:
+      email_label: "E-mail"
+      submit_btn: "Restabelecer senha"
+      login_btn: "Entrar"
+      back_to_login_html: "¿Voltar ao Inicio? %{login_btn_html}"
+      signup_btn: "¡Registrem-se!"
+      new_user_html: "¿Novo em Mangaido? %{signup_btn_html}"
