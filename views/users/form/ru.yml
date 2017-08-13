@@ -1,1 +1,22 @@
 ru:
+  users:
+    form:
+      name_label: "Имя"
+      email_label: "Email"
+      change_password_btn: "Изменить пароль"
+      paypal_email_label: "PayPal"
+      paypal_email_help_btn: "Инфо"
+      paypal_email_help_text_html: >
+        Введите счет PayPal, чтобы мы смогли перечислять вам средства, которые вы заработаете на сайте.
+      about_label: "О себе (Необязательно)"
+      remove_avatar_label: "Удалить аватар?"
+      avatar_hint_text: >
+        Для наилучшего результата, загрузите изображение 800x800 px (JPG oили PNG). Если аватар не загружен, будет отображаться стандартный с Gravatar.com
+      cover_label: "Обложка профиля"
+      remove_cover_label: "Удалить обложку?"
+      cover_hint_text: >
+        Для наилучшего результата, загрузите изображение 1920x320 px (JPG или PNG)
+      default_language_label: "Основной язык (используется для отправки писем на Email)"
+      country_label: "Страна"
+      country_placeholder: "Выберите страну"
+      submit_btn: "Сохранить"
