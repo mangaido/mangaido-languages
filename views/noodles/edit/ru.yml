@@ -1,1 +1,7 @@
 ru:
+  noodles:
+    edit:
+      meta_title: "%{title} - редактировать макаронину"
+      title: "%{title} - редактировать макаронину"
+      cancel_btn: "Отмена"
+      
