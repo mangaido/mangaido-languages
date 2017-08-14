@@ -1,1 +1,6 @@
 ru:
+  translations:
+    form:
+      language_label: "Язык"
+      is_published_label: "Опубликовать?"
+      submit_btn: "Сохранить"
