@@ -1,1 +1,4 @@
 ru:
+  noodles:
+    noodle:
+      delete_btn_confirm: "Вы уверены?"
