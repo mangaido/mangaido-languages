@@ -1,1 +1,9 @@
 ru:
+  noodles:
+    noodle_desktop:
+      time_ago: "%{time_ago} назад,"
+      comments_count:
+        one: "%{count} комментарий"
+        few: "%{count} комментария"
+        many: "%{count} комментариев"
+        other: "%{count} комментария"
