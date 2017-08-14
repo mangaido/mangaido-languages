@@ -1,1 +1,7 @@
 ru:
+  payments:
+    new:
+      meta_title: "Купить монеты"
+      coin_packages_title: "Выберите пакет монет, который хотите купить:"
+      calculation_label: "Быстрый калькулятор:"
+      buy_btn: "Купить"
