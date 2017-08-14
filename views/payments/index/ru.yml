@@ -1,1 +1,12 @@
 ru:
+  payments:
+    index:
+      meta_title: "Платежи"
+      payments_label: "Платежи:"
+      table:
+        amount_of_coins: "Количество монет"
+        amount_of_money: "Сумма денег"
+        completed: "Выполнено?"
+        completed_yes: "Да"
+        completed_no: "Нет"
+        date: "Дата"
