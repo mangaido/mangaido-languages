@@ -1,1 +1,5 @@
 ru:
+  noodles:
+    noodle_mobile:
+      source_html: "Ссылка: %{link_html}"
+      time_ago: "%{time_ago} назад"
