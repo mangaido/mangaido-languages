@@ -1,0 +1,29 @@
+pt:
+  user_mailer:
+    password_reset:
+      subject: "Restabelecer senha de Mangaido"
+      reset_link: "Restabelecer senha"
+      message: >
+        Restabelecer a senha de sua conta de Mangaido
+        Oi %{user_name},
+        Para restabelecer sua senha faz clique neste link: %{reset_link}
+        O link vai expirar em 2 (dois) horas ¡Apresse-se!
+        Se você não solicitou a redefinição da senha, ignorar este mensagem e sua senha permanecerá como é.
+      message_html: >
+        <h1>
+          Restabelecer seha de Mangaido
+        </h1>
+        <p>
+          Oi %{user_name},
+        </p>
+        <p>
+            Para restabelecer sua senha faz clique neste link: %{reset_link_html}.
+        </p>
+
+        <p>
+          O link vai expirar em 2 (dois) horas ¡Apresse-se!
+        </p>
+
+        <p>
+          Se você não solicitou a redefinição da senha, ignorar este mensagem e sua senha permanecerá como é.
+        </p>
