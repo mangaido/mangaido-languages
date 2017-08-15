@@ -9,7 +9,7 @@ fr:
       models:
         artbook_image:
           image_too_big: "L'image de l'artbook doit être inférieur à %{size}"
-       badge:
+        badge:
           icon_too_big: "L'icon doit être inférieur à %{size}"
         chapter:
           image_too_big: "L'image du chapitre doit être inférieur à %{size}"
