@@ -1,0 +1,5 @@
+pt:
+  users:
+    following:
+      meta_title: "Usuarios seguidos por %{user_name}"
+      title: "Usuarios seguidos por %{user_name}"
