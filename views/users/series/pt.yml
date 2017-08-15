@@ -1,0 +1,6 @@
+pt:
+  users:
+    series:
+      meta_title: "Comics de %{user_name}"
+      title: "Comics de %{user_name}:"
+      edit_btn: "Editar comics"
