@@ -37,7 +37,7 @@ es:
     users:
       artbooks: "Artworks de usuario"
       authors: "autores"
-      # change_password: "Cambiar contraseña"
+      change_password: "Cambiar contraseña"
       dashboard: "Tablero"
       edit: "Editar perfil de %{user_name}'"
       index: "Usuarios"
@@ -52,7 +52,7 @@ es:
       index: "Comics"
       new: "Agregar comic"
     static_pages:
-      # comiket: "Comiket"
+      comiket: "Comiket"
       earn_money_with_us: "¡Gana dinero con nosotros!"
       privacy_policy: "Políticas de privacidad"
       search: "Resultados de la busqueda"
