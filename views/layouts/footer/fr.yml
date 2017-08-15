@@ -29,7 +29,9 @@ fr:
         # pusproject:
         #   position: "Ambassador of Indonesian Users"
         # uedahana:
-        #   position: "Ambassador of Spanish-speaking Users"
+        #   position: "Ambassador of Spanish and Portuguese-speaking Users"
+        # supertrivialperson:
+        #   position: "Ambassador of Russian-speaking Users"
       menu:
         earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"

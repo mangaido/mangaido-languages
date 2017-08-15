@@ -28,8 +28,10 @@ id:
           position: "Team Support Specialist"
         pusproject:
           position: "Duta dari Indonesia"
-        uedahana:
-          position: "Duta Bicara-Bahasa Spanyol"
+        # uedahana:
+        #   position: "Ambassador of Spanish and Portuguese-speaking Users"
+        # supertrivialperson:
+        #   position: "Ambassador of Russian-speaking Users"
       menu:
         earn_money_with_us_btn: "Dapatkan Keuntungan bersama!"
         terms_of_service_btn: "Kebijakan Pelayanan"

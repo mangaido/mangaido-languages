@@ -30,6 +30,8 @@ es:
           position: "Embajador Indonesio"
         uedahana:
           position: "Embajadora española y portuguesa"
+        # supertrivialperson:
+        #   position: "Ambassador of Russian-speaking Users"
       menu:
         earn_money_with_us_btn: "¡Gana dinero con nosotros!"
         terms_of_service_btn: "Términos de servicio"

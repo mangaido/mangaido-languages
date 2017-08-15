@@ -30,6 +30,8 @@ ru:
           position: "Представитель пользователей, говорящих на индонезийском языке"
         uedahana:
           position: "Представитель пользователей, говорящих на испанском языке"
+        # supertrivialperson:
+        #   position: "Ambassador of Russian-speaking Users"
       menu:
         earn_money_with_us_btn: "Зарабатывайте деньги с нами!"
         terms_of_service_btn: "Условия"

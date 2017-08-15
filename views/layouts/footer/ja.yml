@@ -28,8 +28,10 @@ ja:
           position: "チームサポートスペシャリスト"
         pusproject:
           position: "インドネシア語担当者"
-        uedahana:
-          position: "スペイン語担当者"
+        # uedahana:
+        #   position: "Ambassador of Spanish and Portuguese-speaking Users"
+        # supertrivialperson:
+        #   position: "Ambassador of Russian-speaking Users"
       menu:
         earn_money_with_us_btn: "報酬を得よう!"
         terms_of_service_btn: "利用規約"
