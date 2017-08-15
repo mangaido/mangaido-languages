@@ -25,7 +25,7 @@ es:
         novel_views:
           one: "Visualização de novela"
           other: "Visualizações de novelas"
-        # badges: "Emblemas"
+        badges: "Emblemas"
       menu:
         donate: "Doe"
         artbooks:
