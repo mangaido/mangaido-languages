@@ -1,1 +1,76 @@
 ru:
+  layouts:
+    user:
+      edit_profile: "Редактировать профиль"
+      send_message: "Отправить сообщение"
+      stats:
+        following:
+          one: "Подписка"
+          few: "Подписки"
+          many: "Подписок"
+          other: "Подписки"
+        followers:
+          one: "Подписчик"
+          few: "Подписчика"
+          many: "Подписчиков"
+          other: "Подписчика"
+        posts:
+          one: "Запись"
+          few: "Записи"
+          many: "Записей"
+          other: "Записи"
+        artwork_views:
+          one: "Просмотр работ"
+          few: "Просмотра работ"
+          many: "Просмотров работ"
+          other: "Просмотра работ"
+        series_views:
+          one: "Просмотр комиксов"
+          few: "Просмотра комиксов"
+          many: "Просмотров комиксов"
+          other: "Просмотра комиксов"
+        translation_views:
+          one: "Просмотр переводов"
+          few: "Просмотра переводов"
+          many: "Просмотров переводов"
+          other: "Просмотра переводов"
+        novel_views:
+          one: "Просмотр новелл"
+          few: "Просмотра новелл"
+          many: "Просмотров новелл"
+          other: "Просмотра новелл"
+        badges: "Значки"
+      menu:
+        donate: "Поддержавшие пользователи"
+        artbooks:
+          one: "%{count} артбук"
+          few: "%{count} артбука"
+          many: "%{count} артбуков"
+          other: "%{count} артбука"
+        comic_series:
+          one: "%{count} комикс"
+          few: "%{count} комикса"
+          many: "%{count} комиксов"
+          other: "%{count} комикса"
+        translations:
+          one: "%{count} перевод"
+          few: "%{count} перевода"
+          many: "%{count} переводов"
+          other: "%{count} перевода"
+        novels:
+          one: "%{count} новелла"
+          few: "%{count} новеллы"
+          many: "%{count} новелл"
+          other: "%{count} новеллы"
+        following:
+          one: "%{count} подписка"
+          few: "%{count} подписки"
+          many: "%{count} подписок"
+          other: "%{count} подписки"
+        followers:
+          one: "%{count} подписчик"
+          few: "%{count} подписчика"
+          many: "%{count} подписчиков"
+          other: "%{count} подписчика"
+      q_and_a:
+        country: "Страна:"

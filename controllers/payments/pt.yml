@@ -1,0 +1,6 @@
+pt:
+  payments:
+    success:
+      success: "¡Pagamento concluído!"
+    cancel:
+      error: "¡Pagamento cancelado!"

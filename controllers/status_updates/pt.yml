@@ -1,0 +1,6 @@
+pt:
+  status_updates:
+    create:
+      success: "¡Estado atualizado!"
+    destroy:
+      success: "!Estado atualizado!"

@@ -1,0 +1,5 @@
+pt:
+  account_activations:
+    edit:
+      success: "¡Sua conta foi criada!"
+      error: "Link de activação inválido."

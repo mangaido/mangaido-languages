@@ -1,1 +1,10 @@
 ru:
+  conversations:
+    show:
+      meta_title: "%{subject} - беседа"
+      title: "%{subject} - беседа"
+      chatting_with: "Переписка с "
+      message:
+        info: "%{sender_name} отправил сообщение %{time_ago} назад"
+        textarea_placeholder: "Ответить..."
+        submit_btn: "Отправить сообщение"

@@ -1,1 +1,12 @@
 ru:
+  messages:
+    new:
+      meta_title: "Новая беседа"
+      title: "Новая беседа"
+      subtitle: "сделайте чей-то день"
+      subject_label: "Тема"
+      body_label: "Сообщение"
+      recipients_label: "Выберете получателей"
+      recipients_no_results_text: "Не найден"
+      recipients_placeholder: "Введите имя"
+      submit_btn: "Отправить"

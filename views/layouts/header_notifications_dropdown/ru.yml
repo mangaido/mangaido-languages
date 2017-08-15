@@ -1,1 +1,7 @@
 ru:
+  layouts:
+    header_notifications_dropdown:
+      notifications_title: "Уведомления"
+      mark_all_as_read_btn: "Отметить все как прочитанные"
+      loader: "Загрузка..."
+      show_all_btn: "Показать все"

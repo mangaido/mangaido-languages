@@ -1,1 +1,6 @@
 ru:
+  users:
+    artbooks:
+      meta_title: "Артбуки пользователя %{user_name}"
+      title: "Артбуки пользователя %{user_name}:"
+      edit_artbooks_btn: "Редактировать артубки"
