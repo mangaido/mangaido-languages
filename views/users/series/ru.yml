@@ -1,1 +1,6 @@
 ru:
+  users:
+    series:
+      meta_title: "Комиксы - %{user_name}"
+      title: "Комиксы пользователя %{user_name}:"
+      edit_btn: "Редактировать комиксы"

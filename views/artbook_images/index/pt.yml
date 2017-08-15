@@ -1,0 +1,16 @@
+pt:
+  artbook_images:
+    index:
+      meta_title: "Últimos Artworks"
+      title: "Últimos Artworks"
+      subtitle: "¡Liberta essa creatividade!"
+      toolbar:
+        add_new_artworks:
+          mobile: "Adicionar"
+          desktop: "Adicionar Artworks"
+        my_artbooks:
+          mobile: "Meus Artbooks"
+          desktop: "Meus Artbooks"
+        edit_my_artbooks:
+          mobile: "Editar"
+          desktop: "Editar meus Artbooks"

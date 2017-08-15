@@ -1,0 +1,12 @@
+pt:
+  conversations:
+    reply:
+      success: "¡Resposta enviada!"
+    destroy:
+      success: "A conversa mudou-se para o lixo."
+    restore:
+      success: "¡Conversa restaurado!"
+    empty_trash:
+      success: "¡Lixo limpo!"
+    mark_as_read:
+      success: "A conversa foi marcada."

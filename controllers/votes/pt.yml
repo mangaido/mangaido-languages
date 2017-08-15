@@ -1,0 +1,4 @@
+pt:
+  votes:
+    create:
+      error: "¡Ups! Não podia votar :("

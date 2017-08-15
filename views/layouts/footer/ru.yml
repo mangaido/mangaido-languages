@@ -1,1 +1,37 @@
 ru:
+  layouts:
+    footer:
+      instagram_btn: "@mangaidocom"
+      facebook_btn: "Mangaido on Facebook"
+      snapchat_btn: "@mangaido"
+      twitter_btn: "@mangaido"
+      mangaido_logo: "Mangaido"
+      youtube_btn: "Mangaido on YouTube"
+      tumblr_btn: "Mangaido on Tumblr"
+      crew_title: "Команда:"
+      crew:
+        mangaido:
+          position: "Официальная страница"
+        karolina:
+          position: "Сооснователь"
+        bartek:
+          position: "Сооснователь"
+        michal:
+          position: "Сооснователь"
+        choux:
+          position: "Представитель пользователей, говорящих на французском языке"
+        makkusu:
+          position: "Представитель пользователей, говорящих на японском языке"
+        kokko:
+          position: "Представитель пользователей, говорящих на японском языке"
+        polaczarlin:
+          position: "Техническая поддержка"
+        pusproject:
+          position: "Представитель пользователей, говорящих на индонезийском языке"
+        uedahana:
+          position: "Представитель пользователей, говорящих на испанском языке"
+      menu:
+        earn_money_with_us_btn: "Зарабатывайте деньги с нами!"
+        terms_of_service_btn: "Условия"
+        privacy_btn: "Конфиденциальность"
+        contact_us_btn: "Напишите нам!"

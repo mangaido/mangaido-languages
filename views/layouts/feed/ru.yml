@@ -1,1 +1,14 @@
 ru:
+  layouts:
+    feed:
+      edit_profile_btn: "Редактировать профиль"
+      artbooks_btn: "Мои артбуки"
+      artbooks_edit_link: "Редактировать"
+      comic_series_btn: "Мои комиксы"
+      comic_series_edit_link: "Редактировать"
+      translations_btn: "Мои переводы"
+      novels_btn: "Мои новеллы"
+      novels_edit_link: "Редактировать"
+      following_btn: "Подписки"
+      followers_btn: "Подписчики"
+      mailbox_btn: "Сообщения"

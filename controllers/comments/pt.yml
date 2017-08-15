@@ -1,0 +1,7 @@
+pt:
+  comments:
+    create:
+      success: "¡Comentário criado!"
+      error: "¡Ups! Houve um erro adicionando seu comentário, tente novamente."
+    destroy:
+      success: "¡Comentário removido!"

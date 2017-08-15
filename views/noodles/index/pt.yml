@@ -1,0 +1,15 @@
+pt:
+  noodles:
+    index:
+      meta_title: "Tigela de Ramen"
+      logo_img_alt: "Logo de Ramen"
+      title: "Tigela de Ramen"
+      subtitle_html: >
+        Prove nós<br />
+        melhores ramen!
+      new_noodle_btn:
+        mobile: "¡Adicionar macarrão!"
+        desktop: "¡Adicionar macarrão!"
+      my_noodles_btn:
+        mobile: "Meus macarrão"
+        desktop: "Meus macarrão"

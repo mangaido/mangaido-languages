@@ -1,0 +1,7 @@
+pt:
+  likes:
+    unlike:
+      tooltip: "¡Remover like!"
+      likes:
+        one: "Remover like"
+        other: "Remover likes"

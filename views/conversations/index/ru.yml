@@ -1,1 +1,13 @@
 ru:
+  conversations:
+    index:
+      meta_title: "Сообщения"
+      title: "Сообщения"
+      subtitle: "начать общение на Mangaido!"
+      new_message_btn: "Написать сообщение"
+      menu:
+        inbox_btn: "Входящие"
+        sent_btn: "Отправленные"
+        trash_btn: "Корзина"
+      empty_trash_btn: "Очистить корзину"
+      empty_trash_btn_confirm: "Вы уверены?"

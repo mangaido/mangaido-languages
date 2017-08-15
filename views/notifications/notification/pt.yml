@@ -1,0 +1,17 @@
+pt:
+  notifications:
+    notification:
+      ArtbookImage: "imagem do Artbook"
+      Artbook: "artbook"
+      StatusUpdate: "atualização de estado"
+      Series: "comics"
+      Chapter: "capítulo"
+      Episode: "episodio"
+      Novel: "novela"
+      User: "perfil"
+      Noodle: "macarrão"
+      code:
+        LIKE_html: "%{who} gosta de seu %{what}"
+        COMMENT_html: "%{who} comentou a %{what}"
+        FOLLOW_html: "%{who} está seguindo agora"
+      time_ago: "faz %{time_ago}"

@@ -1,0 +1,69 @@
+pt:
+  breadcrumbs:
+    root: "Começar"
+    artbook_images:
+      index: "Artworks"
+      edit: "Editar: %{title}"
+      new: "Novos artworks"
+    artbooks:
+      edit_all: "Editar artbooks"
+      edit: "Editar: %{title}"
+      new: "Adicionar Artbook"
+      show: "%{title}"
+    chapter_images:
+      new: "Adicionar imagens do capítulo"
+    chapters:
+      edit: "Editar capítulo"
+      new: "Adicionar capítulo"
+    conversations:
+      index: "Caixa de correio"
+      show: "Conversa"
+    episodes:
+      new: "Adicionar episodio"
+      edit: "Editar episodio"
+    messages:
+      new: "Nova conversa"
+    noodles:
+      edit: "Editar macarrão"
+      index: "Tigela do Ramen"
+      my_index: "Meus macarrão"
+      new: "Adicionar novo macarrão"
+    novels:
+      index: "Novelas"
+      new: "Adicionar novela"
+      edit: "Editar novela"
+      edit_all: "Editar minha novela"
+      user_novels: "Novela do artista"
+    users:
+      artbooks: "Artworks do usuario"
+      authors: "Autores"
+      # change_password: "Trocar senha"
+      dashboard: "Tabuleiro"
+      edit: "Editar perfil: %{user_name}'"
+      index: "Usuarios"
+      series: "Comic do usuario"
+    payments:
+      index: "Pagamento"
+      new: "Comprar moedas"
+    series:
+      edit: "Editar comic"
+      edit_all: "Editar todos meus comics"
+      for_adults: "Para adultos"
+      index: "Comics"
+      new: "Adicionar comic"
+    static_pages:
+      # comiket: "Comiket"
+      earn_money_with_us: "¡Pode ganhar dinheiro com nós!"
+      privacy_policy: "Política de privacidade"
+      search: "Resultados da pesquisa"
+      terms_of_service: "Termos de Serviço"
+      translate_mangaido_to_your_language: "¡Traduza Mangaido para sua lingua!"
+    transactions:
+      chapter_purchases: "Comprar capítulo"
+      chapter_sales: "Venta de capítulo"
+      donations_sent: "Doações enviadas"
+      donations_received: "Doações recebidas"
+    translations:
+      edit: "Editar tradução: %{language_name}"
+    withdrawals:
+      index: "Coletar"

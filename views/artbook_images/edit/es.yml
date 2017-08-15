@@ -1,7 +1,7 @@
 es:
   artbook_images:
     edit:
-      meta_title: "Editar pagina de Artwork"
+      meta_title: "Editar Artwork"
       title: "Editar artwork:"
       previous_btn: "Anterior"
       back_to_artbook:
