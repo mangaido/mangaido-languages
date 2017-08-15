@@ -1,0 +1,14 @@
+pt:
+  users:
+    new_form:
+      name_label: "Nome"
+      email_label: "E-mail"
+      password_label: "Senha"
+      password_confirmation_label: "Confirmar senha"
+      register_btn: "Criar uma conta"
+      log_in_link: "¡Entrar!"
+      log_in_text_html: "¿Você já tem uma conta? %{log_in_link_html}"
+      terms_of_service_link: "Termos de Serviço"
+      privacy_policy_link: "Política de Privacidade"
+      disclaimer_html: >
+        Registrando, você concorda com nossos %{terms_of_service_link_html} e %{privacy_policy_link_html}.
