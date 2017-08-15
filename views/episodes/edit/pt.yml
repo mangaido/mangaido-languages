@@ -1,0 +1,17 @@
+pt:
+  episodes:
+    edit:
+      meta_title: "%{title} - Editar episodio"
+      title: "%{title} - Editar episodio"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "Voltar à novela"
+          desktop: "Voltar à novela"
+        show_btn:
+          mobile: "Ver o episodio"
+          desktop: "Ver o episodio"
+        delete_confirm: >
+          ¿Esta seguro de remover o episodio?
+        delete_btn:
+          mobile: "Remover episodio"
+          desktop: "Remover episodio"

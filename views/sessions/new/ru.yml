@@ -1,1 +1,6 @@
 ru:
+  sessions:
+    new:
+      meta_title: "Вход"
+      title: "Войти"
+      subtitle: "И погрузиться в мир манги"

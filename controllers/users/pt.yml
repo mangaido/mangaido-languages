@@ -1,0 +1,6 @@
+pt:
+  users:
+    create:
+      not_activated_info: "Por favor, Verifique seu E-mail para ativar sua conta."
+    update:
+      success: "¡Perfil atualizado!"

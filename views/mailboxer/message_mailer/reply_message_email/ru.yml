@@ -1,1 +1,32 @@
 ru:
+  mailboxer:
+    message_mailer:
+      reply_message_email:
+        conversation_link: "Ответить на Mangaido"
+        message: >
+          %{subject}
+
+          Привет, %{user_name}!
+          %{sender_name} ответил:
+
+          %{text}
+
+          Ответить на Mangaido:
+          %{conversation_link}
+        message_html: >
+          <h1>
+            %{subject}
+          </h1>
+
+          <p>
+            Привет, %{user_name}!<br />
+            %{sender_name} ответил:
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{conversation_link_html}
+          </p>

@@ -21,13 +21,13 @@ es:
           other: "Comics vistos"
         translation_views:
           one: "Visualización de traducción"
-          other: "visualizaciones de traducción"
+          other: "Visualizaciones de traducción"
         novel_views:
-          one: "Sisualización de novela"
+          one: "Visualización de novela"
           other: "Visualizaciones de novela"
-        # badges: "Badges"
+        badges: "Insignias"
       menu:
-        donate: "Donación de usuario"
+        donate: "Donar a este usuario"
         artbooks:
           one: "%{count} artbook"
           other: "%{count} artbooks"
@@ -47,4 +47,4 @@ es:
           one: "%{count} seguidor"
           other: "%{count} seguidores"
       q_and_a:
-        country: "¿País?"
+        country: "País"

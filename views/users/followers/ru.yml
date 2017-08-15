@@ -1,1 +1,5 @@
 ru:
+  users:
+    followers:
+      meta_title: "Подписчики %{user_name}"
+      title: "Подписчики"

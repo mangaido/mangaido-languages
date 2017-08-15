@@ -1,1 +1,4 @@
 ru:
+  users:
+    follow:
+      follow_btn: "Подписаться"

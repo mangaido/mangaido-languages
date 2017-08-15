@@ -1,0 +1,5 @@
+pt:
+  will_paginate:
+    previous_label: "&#8592; Anterior"
+    next_label: "Seguinte &#8594;"
+    page_gap: "&hellip;"

@@ -1,1 +1,9 @@
 ru:
+  layouts:
+    header_more_dropdown:
+      more_btn: "Люди"
+      all_users: "Все пользователи"
+      artwork_creators: "Художники"
+      comic_authors: "Комиксисты"
+      translators: "Переводчики"
+      writers: "Писатели"

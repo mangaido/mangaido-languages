@@ -1,1 +1,5 @@
 ru:
+  users:
+    change_password:
+      meta_title: "Изменить пароль"
+      title: "Изменить пароль"

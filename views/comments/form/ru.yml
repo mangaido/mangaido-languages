@@ -1,1 +1,5 @@
 ru:
+  comments:
+    form:
+      content_placeholder: "Написать комментарий..."
+      log_in_message: "Войдите, чтобы оставить комментарий!"

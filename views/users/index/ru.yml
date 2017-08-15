@@ -1,1 +1,4 @@
 ru:
+  users:
+    index:
+      meta_title: "Пользователи"

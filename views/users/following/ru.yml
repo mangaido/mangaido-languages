@@ -1,1 +1,5 @@
 ru:
+  users:
+    following:
+      meta_title: "Подписки - %{user_name}"
+      title: "Подписки"

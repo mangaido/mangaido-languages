@@ -1,7 +1,7 @@
 es:
   chapter_images:
     new:
-      meta_title: "Agregar página de imágenes de capítulo"
+      meta_title: "Agregar imágenes de capítulo"
       title: "Agregar imágenes de capítulo"
       chapter_images_hint_text: >
         Las imágenes deben ser de 720x5000 pixeles aprox. Tampoco deben tener mas de 15MB cada una.

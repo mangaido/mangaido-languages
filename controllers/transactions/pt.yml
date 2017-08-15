@@ -1,0 +1,8 @@
+pt:
+  transactions:
+    new:
+      error: "¡Não foi possível realizar esta operação!"
+    create:
+      no_enough_coins_error: "Você precisa de mais moedas para completar esta operação."
+      success: "¡Operação bem sucedida!"
+      error: "¡Ups! Parece uma coisa deu errado :("

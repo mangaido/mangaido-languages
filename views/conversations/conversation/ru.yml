@@ -1,1 +1,8 @@
 ru:
+  conversations:
+    conversation:
+      restore_btn: "Восстановить"
+      move_to_trash_btn: "Переместить в корзину"
+      move_to_trash_btn_confirm: "Вы уверены?"
+      mark_as_read_btn: "Отметить как прочитанное"
+      sent_ago: "Отправлено %{time} назад"

@@ -1,1 +1,13 @@
 ru:
+  layouts:
+    header:
+      toggle_navigation_text: "Панель навигации"
+      upload: "Загрузить"
+      status_updates: "Новости"
+      feed: "Новости"
+      artworks: "Галерея"
+      series: "Комиксы"
+      novels: "Новеллы"
+      ramen: "Раменная"
+      log_in: "Войти"
+      search_btn: "Поиск"

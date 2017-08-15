@@ -1,1 +1,10 @@
 ru:
+  withdrawals:
+    form:
+      amount_of_coins_label: "Сколько монет вы хотите вывести:"
+      summary_loading_text: "Загрузка..."
+      summary_text: >
+        <b>%amount_of_coins%</b> монет(-а) = %coins_to_money%USD<br />
+        Комиссия: %percent_fee%%<br />
+        Вы получите <b>%amount_of_money%USD<b/>
+      withdraw_btn: "Получить деньги!"

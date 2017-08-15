@@ -1,1 +1,9 @@
 ru:
+  contact_messages:
+    new:
+      meta_title: "Написать Mangaido"
+      title: "Напишите нам!"
+      name_label: "Имя"
+      email_label: "Email"
+      content_label: "Сообщение"
+      submit_btn: "Отправить"

@@ -1,1 +1,15 @@
 ru:
+  users:
+    new_form:
+      name_label: "Имя профиля"
+      email_label: "Email"
+      password_label: "Пароль (минимум 6 символов)"
+      password_confirmation_label: "Введите еще раз пароль"
+      promo_code_label: "Промокод (Необязательно)"
+      register_btn: "Создать профиль"
+      log_in_link: "Войти!"
+      log_in_text_html: "Уже зарегистрированы на Mangaido? %{log_in_link_html}"
+      terms_of_service_link: "Условия"
+      privacy_policy_link: "Конфиденциальность"
+      disclaimer_html: >
+        Регистрируясь, вы соглашаетесь со следующими документами: %{terms_of_service_link_html} и %{privacy_policy_link_html}.
