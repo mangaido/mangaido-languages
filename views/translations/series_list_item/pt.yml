@@ -1,0 +1,4 @@
+pt:
+  translations:
+    series_list_item:
+      time_ago: "Faz %{time_ago}"
