@@ -1,1 +1,9 @@
 ru:
+  noodles:
+    show:
+      meta_title: "%{title} - макаронина"
+      info_html: "%{time_ago} назад, %{user_link_html}"
+      edit_btn: "Редактировать"
+      delete_btn: "Удалить"
+      delete_btn_confirm: "Вы уверены?"
+      delete_btn_hint: "Удалить макаронину"

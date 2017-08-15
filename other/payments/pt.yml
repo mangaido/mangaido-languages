@@ -1,0 +1,11 @@
+pt:
+  payments:
+    paypal:
+      description: "Compra da medas Mangaido"
+      item:
+        name:
+          one: "%{count} moeda"
+          other: "%{count} moedas"
+        description:
+          one: "%{count} moeda"
+          other: "%{count} moedas"

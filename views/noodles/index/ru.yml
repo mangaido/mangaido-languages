@@ -1,1 +1,15 @@
 ru:
+  noodles:
+    index:
+      meta_title: "Раменная"
+      logo_img_alt: "Ramen logo"
+      title: "Миска рамена"
+      subtitle_html: >
+        Попробуй наш лучший<br />
+        рамен!
+      new_noodle_btn:
+        mobile: "Добавить макаронину!"
+        desktop: "Добавить еще одну макаронину!"
+      my_noodles_btn:
+        mobile: "Моя лапша"
+        desktop: "Моя лапша"

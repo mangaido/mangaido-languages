@@ -1,1 +1,6 @@
 ru:
+  users:
+    password_form:
+      password_label: "Пароль (минимум 6 символов)"
+      password_confirmation_label: "Введите еще раз пароль"
+      submit_btn: "Сохранить"

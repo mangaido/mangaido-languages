@@ -1,1 +1,7 @@
 ru:
+  status_updates:
+    feed:
+      meta_title: "Новости"
+      menu:
+        feed_btn: "Все"
+        feed_following_btn: "Подписки"

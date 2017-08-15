@@ -1,0 +1,6 @@
+pt:
+  notifications:
+    index:
+      meta_title: "Notificações"
+      title: "Notificações:"
+      mark_all_as_read_btn: "Marcar todos como lidos"

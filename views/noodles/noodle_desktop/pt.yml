@@ -1,0 +1,5 @@
+pt:
+  noodles:
+    noodle_mobile:
+      source_html: "Origem: %{link_html}"
+      time_ago: "Faz %{time_ago}"

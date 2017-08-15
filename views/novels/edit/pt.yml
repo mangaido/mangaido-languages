@@ -1,0 +1,16 @@
+pt:
+  novels:
+    edit:
+      meta_title: "Editar novela"
+      title: "Editar novela:"
+      toolbar:
+        add_new_episode_btn:
+          mobile: "Adicionar"
+          desktop: "Adicionar episodio"
+        show_btn:
+          mobile: "Ver"
+          desktop: "Ver novela"
+        delete_confirm: "¿Deseja remover esta novela?"
+        delete_btn:
+          mobile: "Remover"
+          desktop: "Remover novela"

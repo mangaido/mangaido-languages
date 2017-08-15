@@ -1,0 +1,23 @@
+pt:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "¡Olhe isto!"
+        message: >
+          Nova notificação!
+          Oi %{user_name},
+          %{text}
+          Olhe isto: %{notification_link}
+        message_html: >
+          <h1>
+            Nova notificação!
+          </h1>
+          <p>
+            Oi %{user_name},
+          </p>
+          <p>
+            %{text}
+          </p>
+          <p>
+            %{notification_link_html}
+          </p>

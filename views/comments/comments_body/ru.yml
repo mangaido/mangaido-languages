@@ -1,1 +1,7 @@
 ru:
+  comments:
+    comments_body:
+      no_comments_message: "Добавьте первый комментарий"
+      delete_btn: "Удалить"
+      delete_btn_confirm: "Уверены, что хотите удалить?"
+      time_ago: "%{time_ago} назад"

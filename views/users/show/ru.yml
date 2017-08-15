@@ -1,1 +1,5 @@
 ru:
+  users:
+    show:
+      meta_title: "%{user_name} - записи"
+      artists_posts: "Записи пользователя %{user_name}:"

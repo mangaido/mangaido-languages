@@ -1,1 +1,18 @@
 ru:
+  translations:
+    edit:
+      meta_title: >
+        %{series_title} - %{chapter_title} - %{language_name} - редактировать перевод
+      title: "Редактировать %{language_name} перевод"
+      toolbar:
+        show_btn:
+          mobile: "Показать перевод"
+          desktop: "Показать перевод"
+        my_translations_btn:
+          mobile: "Мои переводы"
+          desktop: "Мои переводы"
+        delete_btn_confirm: >
+          Вы уверены, что хотите удалить этот перевод?
+        delete_btn: 
+          mobile: "Удалить"
+          desktop: "Удалить этот перевод"

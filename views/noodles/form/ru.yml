@@ -1,1 +1,8 @@
 ru:
+  noodles:
+    form:
+      title_label: "Название"
+      link_label: "Ссылка"
+      content_label: "Текст"
+      image_label: "Загрузить изображение"
+      submit_btn: "Сохранить макаронину"

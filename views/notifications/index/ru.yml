@@ -1,1 +1,6 @@
 ru:
+  notifications:
+    index:
+      meta_title: "Уведомления"
+      title: "Уведомления:"
+      mark_all_as_read_btn: "Отметить все как прочитанные"

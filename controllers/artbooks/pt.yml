@@ -1,0 +1,11 @@
+pt:
+  artbooks:
+    new:
+      default_title: "Artbook de %{user_name}"
+    create:
+      success: "¡Artbook criado!"
+    update:
+      success: "¡Artbook atualizado!"
+      error: "¡Ups! Houve um erro atualizando seu Artbook, tente novamente."
+    destroy:
+      success: "¡Artbook removido!"

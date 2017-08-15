@@ -1,1 +1,6 @@
 ru:
+  users:
+    novels:
+      meta_title: "Новеллы - %{user_name}"
+      title: "Новеллы пользователя %{user_name}"
+      edit_novels_btn: "Редактировать мои новеллы"

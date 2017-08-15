@@ -1,1 +1,4 @@
 ru:
+  status_updates:
+    show:
+      meta_title: "Записи"

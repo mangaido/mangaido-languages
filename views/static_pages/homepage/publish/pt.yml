@@ -1,0 +1,14 @@
+pt:
+  static_pages:
+    homepage:
+      publish:
+        artworks:
+          upload_btn: "Subir Artworks"
+          title: "Publicar um Artbook"
+          description: >
+            Publica suas obras. Você pode organizar em artbooks.
+        comic_series:
+          create_btn: "Criar um comic"
+          title: "Publica um comic"
+          description: >
+            ¡Publica um comic em grande escala! ¡construa a historia, personagens, capítulos e manter avidamente seus leitores!

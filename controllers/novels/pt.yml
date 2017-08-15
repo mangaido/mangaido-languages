@@ -1,0 +1,11 @@
+pt:
+  novels:
+    show:
+      not_published_error: "¡A novela ainda não foi publicada!"
+      not_published_info: "A novela ainda não foi publicada."
+    create:
+      success: "¡Novela criada!"
+    update:
+      success: "¡Novela publicada!"
+    destroy:
+      success: "¡Novela removida!"

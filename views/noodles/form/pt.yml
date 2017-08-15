@@ -1,0 +1,8 @@
+pt:
+  noodles:
+    form:
+      title_label: "Título"
+      link_label: "Link"
+      content_label: "Conteúdo"
+      image_label: "Adicionar imagem"
+      submit_btn: "Salvar macarrão"

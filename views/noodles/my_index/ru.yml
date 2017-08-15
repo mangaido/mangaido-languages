@@ -1,1 +1,11 @@
 ru:
+  noodles:
+    my_index:
+      meta_title: "Моя лапша"
+      title: "Моя лапша"
+      add_noodle_btn:
+        mobile: "Добавить макаронину!"
+        desktop: "Добавить еще одну макаронину!"
+      my_noodles_btn:
+        mobile: "Моя лапша"
+        desktop: "Моя лапша"

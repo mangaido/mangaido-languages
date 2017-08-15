@@ -1,0 +1,9 @@
+pt:
+  password_resets:
+    create:
+      success: "As instruções para recuperar sua senha foram enviadas para seu e-mail."
+      email_not_found_error: "¡E-mail inválido!"
+    update:
+      success: "¡Senha restaurada!"
+    check_expiration:
+      error: "O período para a restauração da senha expirou."

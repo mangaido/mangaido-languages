@@ -1,1 +1,11 @@
 ru:
+  layouts:
+    header_profile_dropdown:
+      profile: "Профиль"
+      my_artbooks: "Мои артбуки"
+      my_comic_series: "Мои комиксы"
+      my_translations: "Мои переводы"
+      my_novels: "Мои новеллы"
+      mailbox: "Сообщения"
+      settings: "Настройки"
+      log_out: "Выйти"

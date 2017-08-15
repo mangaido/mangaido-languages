@@ -9,7 +9,7 @@ ru:
           mobile: "Добавить"
           desktop: "Добавить новую работу"
         my_artbooks:
-          mobile: "Артбуки"
+          mobile: "Мои артбуки"
           desktop: "Мои артбуки"
         edit_my_artbooks:
           mobile: "Редактировать"

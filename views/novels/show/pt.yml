@@ -1,0 +1,21 @@
+pt:
+  novels:
+    show:
+      meta_title: "Novela"
+      toolbar:
+        my_novels_btn:
+          mobile: "Minhas novelas"
+          desktop: "Minhas novelas"
+        edit_btn:
+          mobile: "Editar novela"
+          desktop: "Editar novela"
+      by_author:
+        html: "Por %{author}"
+      views_btn:
+        one: "%{count} visualização"
+        other: "%{count} visualizações"
+      comments_btn:
+        one: "%{count} comentario"
+        other: "%{count} comentarios"
+      episodes_label: "Episodios:"
+      comments_label: "Comentarios:"

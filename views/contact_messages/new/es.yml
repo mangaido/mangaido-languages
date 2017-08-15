@@ -1,7 +1,7 @@
 es:
   contact_messages:
     new:
-      meta_title: "Página de contacto"
+      meta_title: "¡Contactanos!"
       title: "¡Contactanos!"
       name_label: "Nombre"
       email_label: "E-mail"

@@ -1,0 +1,4 @@
+pt:
+  chapter_images:
+    destroy:
+      success: "¡Imagem removida!"

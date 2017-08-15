@@ -1,1 +1,5 @@
 ru:
+  translations:
+    list:
+      edit_btn: "Редактировать"
+      no_translations_msg: "Нет переводов."

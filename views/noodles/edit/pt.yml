@@ -1,0 +1,6 @@
+pt:
+  noodles:
+    edit:
+      meta_title: "%{title} - Editar macarrão"
+      title: "%{title} - Editar macarrão"
+      cancel_btn: "Cancelar"

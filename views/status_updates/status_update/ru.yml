@@ -1,1 +1,7 @@
 ru:
+  status_updates:
+    status_update:
+      delete_btn: "Удалить запись"
+      delete_btn_confirm: "Вы уверены, что хотите удалить запись?"
+      posted_time_ago: "Опубликовано %{time_ago} назад."
+      show_comments_btn: "Показать комментарии"
