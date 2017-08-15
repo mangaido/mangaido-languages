@@ -1,0 +1,10 @@
+pt:
+  withdrawals:
+    form:
+      amount_of_coins_label: "¿Quantas moedas vai coletar?"
+      summary_loading_text: "Carregando resumo..."
+      summary_text: >
+        <b>%amount_of_coins%</b> moedas = %coins_to_money%USD<br />
+        Taxa de coleta: %percent_fee%%<br />
+        Você vai coletar <b>%amount_of_money%USD<b/>
+      withdraw_btn: "¡coletar moedas!"
