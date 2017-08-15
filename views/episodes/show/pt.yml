@@ -1,7 +1,7 @@
 pt:
   episodes:
     show:
-      meta_title: "%{title} - Episodio
+      meta_title: "%{title} - Episodio"
       toolbar:
         my_novels_btn:
           mobile: "Meus novelas"
