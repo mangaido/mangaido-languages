@@ -26,10 +26,10 @@ es:
           position: "Embajador japonés"
         polaczarlin:
           position: "Especialista de soporte del equipo"
-        # pusproject:
-        #   position: "Embajador Indonesio"
-        # uedahana:
-        #   position: "Embajadora española y portuguesa"
+        pusproject:
+          position: "Embajador Indonesio"
+        uedahana:
+          position: "Embajadora española y portuguesa"
       menu:
         earn_money_with_us_btn: "¡Gana dinero con nosotros!"
         terms_of_service_btn: "Términos de servicio"
