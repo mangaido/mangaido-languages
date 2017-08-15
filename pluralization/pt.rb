@@ -10,7 +10,7 @@ key = lambda do |n|
   end
 end
 
-{ :es => {
+{ :pt => {
     :'i18n' => {
       :plural => {
         :keys => [:one, :other],
