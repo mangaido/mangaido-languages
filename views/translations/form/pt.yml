@@ -1,0 +1,6 @@
+pt:
+  translations:
+    form:
+      language_label: "Lingua"
+      is_published_label: "¿Está publicado?"
+      submit_btn: "Salvar"
