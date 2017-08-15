@@ -1,0 +1,21 @@
+pt:
+  withdrawals:
+    index:
+      meta_title: "coletas"
+      current_balance_label: "Saldo atual:"
+      current_balance_coins:
+        one: "%{count} moeda"
+        other: "%{count} moedas"
+      money_to_be_paid_label: "Coleta em processo:"
+      form_label: "Formulario da coleta:"
+      cant_withdraw_msg: "Para coletar o dinheiro precisa de pelo menos %{min_coins} moedas"
+      list_label: "coletas:"
+      list:
+        id: "ID"
+        amount_of_coins: "Número de moedas"
+        amount_of_money: "quantidade de dinheiro"
+        created_at: "Criado em"
+        is_paid: "¿Completo?"
+        is_paid_yes: "Sim"
+        is_paid_no: "Não"
+        paid_at: "Pagamento em"
