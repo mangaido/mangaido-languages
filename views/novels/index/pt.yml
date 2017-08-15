@@ -3,7 +3,7 @@ pt:
     index:
       meta_title: "Novelas"
       title: "Últimas novelas"
-      subtitle: "¡liberta sua creatividade"
+      subtitle: "¡Liberta sua creatividade"
       toolbar:
         add_new_novel_btn:
           mobile: "Adicionar novela"
