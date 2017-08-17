@@ -1,1 +1,5 @@
 ru:
+  transactions:
+    chapter_sales:
+      meta_title: "Проданные главы"
+      title: "Проданные главы:"
