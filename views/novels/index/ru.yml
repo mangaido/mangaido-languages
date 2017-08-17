@@ -1,1 +1,13 @@
 ru:
+  novels:
+    index:
+      meta_title: "Новеллы"
+      title: "Последние обновления новелл"
+      subtitle: "Творчество свободно"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Создать новую"
+          desktop: "Создать новую новеллу"
+        my_novels_btn:
+          mobile: "Мои новеллы"
+          desktop: "Мои новеллы"
