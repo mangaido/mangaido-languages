@@ -1,1 +1,20 @@
 ru:
+  novels:
+    gallery_item:
+      author: "@%{user_name}"
+      time_ago: "%{time_ago} назад"
+      nr_of_episodes:
+        one: "%{count} эпизод"
+        few: "%{count} эпизода"
+        many: "%{count} эпизодов"
+        other: "%{count} эпизода"
+      likes:
+        one: "%{count} человеку нравится"
+        few: "%{count} людям нравится"
+        many: "%{count} людям нравится"
+        other: "%{count} людям нравится"
+      views:
+        one: "%{count} просмотр"
+        few: "%{count} просмотра"
+        many: "%{count} просмотров"
+        other: "%{count} просмотра"
