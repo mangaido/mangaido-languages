@@ -1,1 +1,12 @@
 ru:
+  novels:
+    edit_all:
+      meta_title: "Редактировать мои новеллы"
+      title: "Редактировать мои новеллы"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Создать новую"
+          desktop: "Создать новую"
+        my_novels_btn:
+          mobile: "Мои новеллы"
+          desktop: "Мои новеллы"
