@@ -1,1 +1,6 @@
 ru:
+  transactions:
+    table:
+      link_label: "Ссылка"
+      amount_of_coins_label: "Количество монет"
+      date_label: "Дата"
