@@ -1,1 +1,6 @@
 ru:
+  users:
+    create:
+      not_activated_info: "Пожалуйста, проверьте ваш email для активации профиля."
+    update:
+      success: "Профиль обновлен"
