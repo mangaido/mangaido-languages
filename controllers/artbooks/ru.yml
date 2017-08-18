@@ -1,1 +1,11 @@
 ru:
+  artbooks:
+    new:
+      default_title: "Артбук пользователя %{user_name}"
+    create:
+      success: "Новый артбук создан!"
+    update:
+      success: "Артбук успешно обновлен."
+      error: "Возникли проблемы при обновлении артбука! Попробуйте снова."
+    destroy:
+      success: "Артбук удален!"
