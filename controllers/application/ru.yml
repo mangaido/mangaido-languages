@@ -1,1 +1,4 @@
 ru:
+  application:
+    logged_in_user:
+      error: "Пожалуйста, войдите."
