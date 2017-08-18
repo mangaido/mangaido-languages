@@ -1,1 +1,13 @@
 ru:
+  chapters:
+    show:
+      no_access_error: "У вас нет доступа к этой главе!"
+    create:
+      success: "Новая глава создана!"
+    update:
+      success: "Глава успешно обновлена."
+      erorr: "Возникли проблемы при обновлении главы! Попробуйте снова."
+    destroy:
+      success: "Глава удалена."
+    sort_chapter_images_by_filenames:
+      success: "Страницы главы рассортированы."
