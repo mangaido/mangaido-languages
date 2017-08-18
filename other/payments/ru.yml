@@ -1,1 +1,15 @@
 ru:
+  payments:
+    paypal:
+      description: "Mangaido. Покупка монет"
+      item:
+        name:
+          one: "%{count} монета"
+          few: "%{count} монеты"
+          many: "%{count} монет"
+          other: "%{count} монеты"
+        description:
+          one: "%{count} монета"
+          few: "%{count} монеты"
+          many: "%{count} монет"
+          other: "%{count} монеты"
