@@ -1,1 +1,16 @@
 ru:
+  episodes:
+    list:
+      title: "%{nr}). %{title}"
+      updated_ago: "Обновлено %{time} назад"
+      views:
+        one: "%{count} просмотр"
+        few: "%{count} просмотра"
+        many: "%{count} просмотров"
+        other: "%{count} просмотра"
+      comments:
+        one: "%{count} комментарий"
+        few: "%{count} комментария"
+        many: "%{count} комментариев"
+        other: "%{count} комментария"
+      not_published_message: "Еще не опубликовано"
