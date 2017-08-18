@@ -1,1 +1,5 @@
 ru:
+  likes:
+    create:
+      error: "Произошла ошибка :("
+    
