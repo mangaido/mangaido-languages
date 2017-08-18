@@ -1,1 +1,10 @@
 ru:
+  episodes:
+    form:
+      title_label: "Название"
+      description_label: "описание (Необязательно)"
+      text_label: "Текст"
+      is_published_label: "Опубликовать?"
+      is_published_yes_label: "Да"
+      is_published_no_label: "Нет"
+      submit_btn: "Сохранить"
