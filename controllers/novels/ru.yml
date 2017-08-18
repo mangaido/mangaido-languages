@@ -1,1 +1,11 @@
 ru:
+  novels:
+    show:
+      not_published_error: "Новелла еще не опубликована."
+      not_published_info: "Новелла еще не опубликована."
+    create:
+      success: "Новая новелла создана!"
+    update:
+      success: "Новелла успешно обновлена."
+    destroy:
+      success: "Новела удалена!"
