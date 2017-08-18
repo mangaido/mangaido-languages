@@ -1,1 +1,13 @@
 ru:
+  series:
+    edit_all:
+      meta_title: "Редактировать мои комиксы"
+      title: "Редактировать мои комиксы"
+      toolbar:
+        add_new_series_btn:
+          mobile: "Создать новый"
+          desktop: "Создать новый комикс"
+        show_all_series_btn:
+          mobile: "Показать мои комиксы"
+          desktop: "Показать мои комиксы"
+      series_list_title: "Мои комиксы:"
