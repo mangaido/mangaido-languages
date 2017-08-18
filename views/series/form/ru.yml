@@ -1,1 +1,21 @@
 ru:
+  series:
+    form:
+      title_label: "Название"
+      description_label: "Описание (Необязательно)"
+      is_published_label: "Опубликовать?"
+      is_published_yes_label: "Да"
+      is_published_no_label: "Нет"
+      is_for_adults_label: "Только для взрослых?"
+      is_for_adults_yes_label: "Да"
+      is_for_adults_no_label: "Нет"
+      language_label: "Язык"
+      cover_label: "Обложка (Необязательно)"
+      remove_cover_yes_label: "Удалить обложку"
+      remove_cover_no_label: "Оставить как есть"
+      cover_help_text: "Для наилучшего результата загрузите изображение 1600x800 px (JPG или PNG)"
+      wide_cover_label: "Широкая обложка (Необязательно)"
+      remove_wide_cover_yes_label: "Удалить обложку"
+      remove_wide_cover_no_label: "Оставить как есть"
+      wide_cover_help_text: "Для наилучшего результата загрузите изображение 1920x320 px (JPG или PNG)"
+      submit_btn: "Сохранить"
