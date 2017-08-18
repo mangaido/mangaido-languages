@@ -1,1 +1,5 @@
 ru:
+  account_activations:
+    edit:
+      success: "Профиль активирован!"
+      error: "Неверная ссылка для активации"
