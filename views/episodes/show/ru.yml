@@ -1,1 +1,44 @@
 ru:
+  episodes:
+    show:
+      meta_title: "%{title} - эпизоды"
+      toolbar:
+        my_novels_btn:
+          mobile: "Мои новеллы"
+          desktop: "Мои новеллы"
+        edit_btn:
+          mobile: "Редактировать эпизод"
+          desktop: "Редактировать эпизод"
+      by_author:
+        html: "%{author_link}"
+      novel_btns:
+        views:
+          one: "%{count} просмотр"
+          few: "%{count} просмотра"
+          many: "%{count} просмотров"
+          other: "%{count} просмотра"
+        comments:
+          one: "%{count} комментарий"
+          few: "%{count} комментария"
+          many: "%{count} комментариев"
+          other: "%{count} комментария"
+      updated_ago: "Эпизод обновлен %{time} назад"
+      episode_btns:
+        views:
+          one: "%{count} просмотр"
+          few: "%{count} просмотра"
+          many: "%{count} просмотров"
+          other: "%{count} просмотра"
+        comments:
+          one: "%{count} комментарий"
+          few: "%{count} комментария"
+          many: "%{count} комментариев"
+          other: "%{count} комментария"
+      description_label: "От автора:"
+      prev_btn:
+        mobile: "Предыдущий эпизод"
+        desktop: "Предыдущий эпизод"
+      next_btn:
+        mobile: "Следующий эпизод"
+        desktop: "Следующий эпизод"
+      comments_label: "Комментарии:"
