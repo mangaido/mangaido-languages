@@ -1,1 +1,44 @@
 ru:
+  series:
+    show:
+      meta_title: "%{title} - комикс"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "Мои комиксы"
+          desktop: "Мои комиксы"
+        edit_btn:
+          mobile: "Редактировать комикс"
+          desktop: "Редактировать комикс"
+      chapters_list:
+        title: "Главы:"
+        not_published_message: "Еще не опубликован"
+        chapter:
+          free_icon: "Бесплатно"
+          bought_icon: "Купленная глава"
+          unlocked_icon: "Авторизованный доступ"
+          locked_icon: "Нужно купить, чтобы прочитать"
+          views:
+            one: "%{count} просмотр"
+            few: "%{count} просмотра"
+            many: "%{count} просмотров"
+            other: "%{count} просмотра"
+          translations_btn:
+            one: "%{count} перевод"
+            few: "%{count} перевода"
+            many: "%{count} переводов"
+            other: "%{count} перевода"
+          edit_btn: "Редактировать"
+      description_title: "Описание:"
+      informations:
+        title: "Информация:"
+        views:
+          one: "%{count} просмотр"
+          few: "%{count} просмотра"
+          many: "%{count} просмотров"
+          other: "%{count} просмотра"
+        for_adults: "Только для взрослых"
+        safe_for_children: "Подойдет для детей"
+        language: "Язык: %{language_name}"
+        translations: "Переводы:"
+        translation_language: "%{language_name} (%{count})"
+      comments_title: "Комментарии:"
