@@ -1,1 +1,17 @@
 ru:
+  episodes:
+    edit:
+      meta_title: "%{title} - редактировать эпизод"
+      title: "%{title} - редактировать эпизод"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "Назад"
+          desktop: "Назад к новелле"
+        show_btn:
+          mobile: "Показать эпизод"
+          desktop: "Показать эпизод"
+        delete_confirm: >
+          Вы уверены, что хотите удалить этот эпизод?
+        delete_btn:
+          mobile: "Удалить"
+          desktop: "Удалить"
