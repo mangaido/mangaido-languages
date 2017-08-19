@@ -1,1 +1,21 @@
 ru:
+  static_pages:
+    search_form:
+      search_field_placeholder: "Поиск..."
+      found_results:
+        one: "Найден %{count} результат"
+        few: "Найдено %{count} результата"
+        many: "Найдено %{count} результатов"
+        other: "найдено %{count} результата"
+      page_x_of_y: "страница: %{x} из %{y}"
+      menu:
+        all_btn: "Все"
+        artbook_images_btn: "Галерея"
+        series_btn: "Комиксы"
+        users_btn: "Пользователи"
+        novels_btn: "Новеллы"
+        noodles_btn: "Лапша"
+      adult_filter:
+        safe_for_children_label: "Подойдет для детей"
+        for_adults_label: "Для взрослых"
+        all_label: "Все"
