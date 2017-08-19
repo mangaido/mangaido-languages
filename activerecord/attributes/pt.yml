@@ -11,7 +11,7 @@ pt:
         image: "Imagem"
       chapter:
         title: "Título"
-        cover: "Imagem do frente"
+        cover: "Imagem da capa"
         is_published: "Foi publicado"
         amount_of_coins: "Quantidade de moedas"
       comment:
@@ -19,7 +19,7 @@ pt:
       episode:
         title: "Título"
         description: "Descrição"
-        text: "Text"
+        text: "Texto"
         is_published: "Foi publicado"
       noodle:
         title: "Título"
@@ -29,12 +29,12 @@ pt:
       novel:
         title: "Título"
         description: "Descrição"
-        cover: "Imagem do frente"
+        cover: "Imagem da capa"
         is_published: "Foi publicado"
       series:
         title: "Título"
-        cover: "Imagem do frente"
-        wide_cover: "Expandir imagem do frente"
+        cover: "Imagem da capa"
+        wide_cover: "Expandir imagem da capa"
         is_published: "Foi publicado"
         description: "Descrição"
         language: "Linguagem"
@@ -49,9 +49,9 @@ pt:
         language: "Linguaguem"
       user:
         name: "Nome"
-        email: "Email"
+        email: "E-mail"
         about: "Bio texto"
-        cover: "Imagem do frente"
+        cover: "Imagem da capa"
         avatar: "Avatar"
         default_language: "lingua padrão"
         paypal_email: "PayPal E-mail"
