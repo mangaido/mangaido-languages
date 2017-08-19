@@ -1,1 +1,10 @@
 ru:
+  static_pages:
+    search:
+      meta_title: "Поиск"
+      type_names:
+        artbook_image: "Галерея"
+        series: "Комиксы"
+        user: "Пользователи"
+        novel: "Новеллы"
+        noodle: "Раменная"
