@@ -1,0 +1,5 @@
+pt:
+  transactions:
+    chapter_sales:
+      meta_title: "Vendas do capítulos"
+      title: "Vendas do capítulo:"

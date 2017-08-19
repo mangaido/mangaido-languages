@@ -1,0 +1,22 @@
+pt:
+  users:
+    form:
+      name_label: "Nome"
+      email_label: "E-mail"
+      change_password_btn: "Trocar senha"
+      paypal_email_label: "E-mail de PayPal"
+      paypal_email_help_btn: "Mais informações"
+      paypal_email_help_text_html: >
+        Inserir seu e-mail de PayPal para nós saber para onde enviar o seu dinheiro.
+      about_label: "Sobre meu (Opcional)"
+      remove_avatar_label: "¿Quer remover este avatar?"
+      avatar_hint_text: >
+         Para melhores resultados, subir a impagen com dimensões 800x800 pixeles (JPG o PNG). Se você não tem um Avatar, encontrar um em sua conta Gravatar.com
+      cover_label: "Imagem do frente"
+      remove_cover_label: "¿Quer remover a imagem do frente?"
+      cover_hint_text: >
+        Para melhores resultados, subir a impagen com dimensões 1920x320 pixeles (JPG o PNG)
+      default_language_label: "Lingua padrão (usado para enviar e-mails você)"
+      country_label: "Seu país"
+      country_placeholder: "Seleciona seu país"
+      submit_btn: "Salvar"

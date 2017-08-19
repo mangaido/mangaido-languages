@@ -1,1 +1,6 @@
 ru:
+  status_updates:
+    create:
+      success: "Запись опубликована!"
+    destroy:
+      success: "Запись удалена"

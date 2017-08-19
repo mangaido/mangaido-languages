@@ -1,1 +1,12 @@
 ru:
+  episodes:
+    show:
+      episode_not_published_error: "Эпизод еще не опубликован."
+      novel_not_published_error: "Новелла еще не опубликована."
+      episode_not_published_info: "Новелла еще не опубликована."
+    create:
+      success: "Новый эпизод создан!"
+    update:
+      success: "Эпизод успешно обновлен."
+    destroy:
+      success: "Эпизод удален!"

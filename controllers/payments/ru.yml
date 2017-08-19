@@ -1,1 +1,6 @@
 ru:
+  payments:
+    success:
+      success: "Платеж совершен!"
+    cancel:
+      error: "Платеж отменен"

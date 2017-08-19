@@ -1,0 +1,4 @@
+pt:
+  users:
+    guest_follow:
+      follow_btn: "Seguir"

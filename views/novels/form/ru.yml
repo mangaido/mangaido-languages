@@ -1,1 +1,16 @@
 ru:
+  novels:
+    form:
+      title_label: "Название"
+      description_label: "Описание (Необязательно)"
+      is_published_label: "Опубликовать?"
+      is_published_yes_label: "Да"
+      is_published_no_label: "Нет"
+      cover_label: "Обложка (Необязательно)"
+      remove_cover_yes_label: "Удалить обложку"
+      remove_cover_no_label: "Оставить обложку как есть"
+      cover_hint_text: >
+        Для лучшего результата загрузить картинку
+        со следующими размерами %{width}x%{height}px (JPG или PNG).
+        Картинка не должна быть больше, чем %{max_size_in_mb}МБ
+      submit_btn: "Сохранить"

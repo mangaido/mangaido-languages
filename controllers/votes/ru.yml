@@ -1,1 +1,4 @@
 ru:
+  votes:
+    create:
+      error: "Произошла ошибка :("

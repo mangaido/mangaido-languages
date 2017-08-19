@@ -1,0 +1,5 @@
+pt:
+  transactions:
+    chapter_purchases:
+      meta_title: "Capítulos comprados"
+      title: "Capítulos comprados:"

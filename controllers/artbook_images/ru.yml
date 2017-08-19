@@ -1,1 +1,6 @@
 ru:
+  artbook_images:
+    update:
+      success: "Изображение успешно обновлено."
+    destroy:
+      success: "Изображение было удалено."

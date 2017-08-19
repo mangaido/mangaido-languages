@@ -1,1 +1,4 @@
 ru:
+  chapter_images:
+    destroy:
+      success: "Изображение удалено."

@@ -1,1 +1,9 @@
 ru:
+  password_resets:
+    create:
+      success: "На ваш email отправлена инструкция по сбросу пароля"
+      email_not_found_error: "Email адрес не найден"
+    update:
+      success: "Пароль сброшен."
+    check_expiration:
+      error: "Запрос на сброс пароля просрочен."

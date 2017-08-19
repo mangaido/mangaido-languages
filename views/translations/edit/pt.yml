@@ -1,0 +1,18 @@
+pt:
+  translations:
+    edit:
+      meta_title: >
+        %{series_title} - %{chapter_title} - %{language_name} - Editar tradução
+      title: "Editar %{language_name} tradução"
+      toolbar:
+        show_btn:
+          mobile: "Ver tradução"
+          desktop: "Ver tradução"
+        my_translations_btn:
+          mobile: "Meus traduções"
+          desktop: "Meus traduções"
+        delete_btn_confirm: >
+          ¿Esta seguro de remover a tradução?
+        delete_btn: 
+          mobile: "Remover a tradução"
+          desktop: "Remover a tradução"

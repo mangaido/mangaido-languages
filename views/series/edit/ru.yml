@@ -1,1 +1,15 @@
 ru:
+  series:
+    edit:
+      meta_title: "%{title} - редактировать комикс"
+      title: "%{title} - редактировать комикс"
+      add_new_btn:
+        mobile: "Создать новую главу"
+        desktop: "Создать новую главу"
+      show_btn:
+        mobile: "Показать комикс"
+        desktop: "Показать комикс"
+      delete_btn:
+        mobile: ""
+        desktop: "Удалить"
+      chapters_title: "Главы:"

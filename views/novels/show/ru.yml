@@ -1,1 +1,25 @@
 ru:
+  novels:
+    show:
+      meta_title: "Новелла"
+      toolbar:
+        my_novels_btn:
+          mobile: "Мои новеллы"
+          desktop: "Мои новеллы"
+        edit_btn:
+          mobile: "Редактировать"
+          desktop: "Редактировать"
+      by_author:
+        html: "%{author}"
+      views_btn:
+        one: "%{count} просмотр"
+        few: "%{count} просмотра"
+        many: "%{count} просмотров"
+        other: "%{count} просмотра"
+      comments_btn:
+        one: "%{count} комментарий"
+        few: "%{count} комментария"
+        many: "%{count} комментариев"
+        other: "%{count} комментария"
+      episodes_label: "Эпизоды:"
+      comments_label: "Комментарии:"

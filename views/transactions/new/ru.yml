@@ -1,1 +1,15 @@
 ru:
+  transactions:
+    new:
+      meta_title: "Подтверждения транзакции"
+      title: "Вы подтверждаете эту транзакцию?"
+      chapter_price: "Цена:"
+      donation_title_html: "Перечислить средства: %{user_link}"
+      donation_price_title_html: "Вставьте ниже, сколько <b>hundreds</b> монет вы хотите перечислить пользователю"
+      donation_summary_text_html: >
+        Вы перечилите <b>%giver_send%</b> монет.<br />
+        Ваш текущий баланс %giver_balance% монет.<br />
+        Пользователь получит %receiver_receive% монет после снятия комиссии в %percent_fee%%.
+      doantion_summary_loading_text: "Загрузка..."
+      confirm_btn: "Подтвердить"
+      cancel_btn: "Отменить"

@@ -1,1 +1,4 @@
 ru:
+  withdrawals:
+    create:
+      no_access_error: "Вывод средств невозможен."

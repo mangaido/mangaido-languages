@@ -1,1 +1,5 @@
 ru:
+  sessions:
+    create:
+      not_activated_warning: "Профиль не активирован. На ваш email отправлено письмо с ссылкой для активации."
+      error: "Неверный email или пароль"

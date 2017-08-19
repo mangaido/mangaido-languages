@@ -1,1 +1,16 @@
 ru:
+  novels:
+    edit:
+      meta_title: "Редактировать новеллу"
+      title: "Редактировать новеллу:"
+      toolbar:
+        add_new_episode_btn:
+          mobile: "Добавить эпизод"
+          desktop: "Добавить новый эпизод"
+        show_btn:
+          mobile: "Показать"
+          desktop: "Показать новеллу"
+        delete_confirm: "Вы уверены, что хотите удалить эту новеллу?"
+        delete_btn:
+          mobile: "Удалить"
+          desktop: "Удалить"

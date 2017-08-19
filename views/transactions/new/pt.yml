@@ -1,0 +1,15 @@
+pt:
+  transactions:
+    new:
+      meta_title: "Confirmar transação"
+      title: "¿Confirma a transação?"
+      chapter_price: "Preço:"
+      donation_title_html: "Doação para: %{user_link}"
+      donation_price_title_html: "Inserir quantas <b>cientos</b> de moedas deseja enviar ao usuario"
+      donation_summary_text_html: >
+        Você vai enviar <b>%giver_send%</b> moedas.<br />
+        Você tem atualmente %giver_balance% moedas.<br />
+        O usuário receberá %receiver_receive% moedas depois de ser cobrados %percent_fee%% pela taxa de transação.
+      doantion_summary_loading_text: "Carregando o resumo da doação..."
+      confirm_btn: "Confirmar"
+      cancel_btn: "Cancelar"

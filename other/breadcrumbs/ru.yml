@@ -1,1 +1,69 @@
 ru:
+  breadcrumbs:
+    root: "Главная страница"
+    artbook_images:
+      index: "Галерея"
+      edit: "Редактировать: %{title}"
+      new: "Новые работы"
+    artbooks:
+      edit_all: "Редактировать артбуки"
+      edit: "Редактировать: %{title}"
+      new: "Создать новый артбук"
+      show: "%{title} артбук"
+    chapter_images:
+      new: "Добавить новое изображение"
+    chapters:
+      edit: "Редактировать главу"
+      new: "Создать новую главу"
+    conversations:
+      index: "Сообщения"
+      show: "Беседа"
+    episodes:
+      new: "Создать новый эпизод"
+      edit: "Редактировать эпизод"
+    messages:
+      new: "Новая беседа"
+    noodles:
+      edit: "Редактировать макаронину"
+      index: "Миска рамена"
+      my_index: "Моя лапша"
+      new: "Создать новую макаронину"
+    novels:
+      index: "Новеллы"
+      new: "Создать новую новеллу"
+      edit: "Редактировать новеллу"
+      edit_all: "Редактировать мои новеллы"
+      user_novels: "Новеллы пользователя"
+    users:
+      artbooks: "Иллюстрации пользователя"
+      authors: "Авторы"
+      change_password: "Изменить пароль"
+      dashboard: "Управление счетом"
+      edit: "Редактировать профиль %{user_name}"
+      index: "Пользователи"
+      series: "Комиксы пользователя"
+    payments:
+      index: "Платежи"
+      new: "Покупка монет"
+    series:
+      edit: "Редактировать комикс"
+      edit_all: "Редактировать мои комиксы"
+      for_adults: "Для взрослых"
+      index: "Комиксы"
+      new: "Создать новый комикс"
+    static_pages:
+      comiket: "Комикет"
+      earn_money_with_us: "Зарабатывайте деньги с нами!"
+      privacy_policy: "Конфиденциальность"
+      search: "Результаты поиска"
+      terms_of_service: "Условия"
+      translate_mangaido_to_your_language: "Перевод Mangaido на ваш язык"
+    transactions:
+      chapter_purchases: "Купленные главы"
+      chapter_sales: "Проданные главы"
+      donations_sent: "Перечисленные средства"
+      donations_received: "Полученные средства"
+    translations:
+      edit: "Редактировать: %{language_name} перевод"
+    withdrawals:
+      index: "Вывод средств"

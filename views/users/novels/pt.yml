@@ -1,0 +1,6 @@
+pt:
+  users:
+    novels:
+      meta_title: "Novelas de %{user_name}"
+      title: "Novelas de %{user_name}"
+      edit_novels_btn: "Editar todas minhas novelas"
