@@ -1,1 +1,16 @@
 ru:
+  static_pages:
+    home:
+      meta_title: "Главная страница"
+      translations_section_title: "Новые переводы"
+      translations_section_more_btn: "Другие переводы"
+      comic_series_section_title: "Комиксы"
+      comic_series_section_more_btn: "Другие комиксы"
+      comic_series_for_adults_btn: "Комиксы для взрослых"
+      translators_section_title: "Топ переводчиков"
+      translators_section_more_btn: "Все переводчики"
+      novels_section_title: "Новеллы"
+      novels_section_more_btn: "Другие новеллы"
+      ginza_title: "Гиндза (популярное)"
+      shibuya_title: "Сибуя (новое)"
+      akihabara_title: "Акихабара (рандом)"
