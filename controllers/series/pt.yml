@@ -8,6 +8,6 @@ pt:
       error: "¡Ups! Houve um erro adicionando o comic!"
     update:
       success: "¡Comic atualizado!"
-      error: "¡Ups! Houve um erro atualizando o comic, tente novamente."
+      error: "¡Opa! Houve um erro atualizando o comic, tente novamente."
     destroy:
       success: "¡Comic removido!"
