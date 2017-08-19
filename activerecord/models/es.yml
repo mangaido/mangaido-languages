@@ -8,7 +8,7 @@ es:
         one: "Artbook"
         other: "Artbooks"
       chapter_image:
-        one: "Imágen del capítulo"
+        one: "Imagen del capítulo"
         other: "Imágenes del capítulo"
       chapter:
         one: "Capítulo"
