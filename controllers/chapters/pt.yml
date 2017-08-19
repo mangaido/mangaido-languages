@@ -1,12 +1,12 @@
 pt:
   chapters:
     show:
-      no_access_error: "¡Você não pode acessar neste capítulo!"
+      no_access_error: "¡Você não pode acessar ao capítulo!"
     create:
       success: "¡Capitulo criado!"
     update:
       success: "¡Capítulo atualizado!"
-      erorr: "¡Ups! Houve um erro atualizando seu capítulo, tente novamente."
+      erorr: "¡Opa! Houve um erro atualizando seu capítulo, tente novamente."
     destroy:
       success: "¡Capítulo removido!"
     sort_chapter_images_by_filenames:
