@@ -26,12 +26,12 @@ es:
           edit_btn: "Editar"
       description_title: "Descripción:"
       informations:
-        title: "Informacion:"
+        title: "Información:"
         views:
           one: "%{count} visualización"
           other: "%{count} visualizaciones"
-        for_adults: "Para adultos"
-        safe_for_children: "Es seguro para niños"
+        for_adults: "Para adultos (+18)"
+        safe_for_children: "Seguro para niños"
         language: "Idioma: %{language_name}"
         translations: "Traducciones:"
         translation_language: "%{language_name} (%{count})"
