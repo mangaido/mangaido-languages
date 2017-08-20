@@ -10,5 +10,5 @@ pt:
         sent_btn: "Enviado"
         trash_btn: "Lixo"
       empty_trash_btn: "Limpiar lixo"
-      empty_trash_btn_confirm: "¿Esta seguro?"
+      empty_trash_btn_confirm: "Tem certeza?"
       
