@@ -2,9 +2,9 @@ pt:
   shared:
     carousel:
       about_mangaido:
-        title: "¿O qué é Mangaido?"
+        title: "O qué é Mangaido?"
         text: >
-          ¡Vamos conhecendo uns aos outros! Olhe o video deintrodução de Karolina, Bartek, e Michal.
+          ¡Vamos conhecendo uns aos outros! Olhe o video de introdução de Karolina, Bartek, e Michal.
         action_btn: "Olhe o video do Youtube"
       translate_mangaido:
         title: "Mangaido em sua lingua"
