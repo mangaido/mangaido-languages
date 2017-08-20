@@ -5,7 +5,7 @@ pt:
         conversation_link: "Responder em Mangaido"
         message: >
           %{subject}
-          Oi! %{user_name}!
+          Oi %{user_name}!
           %{sender_name} escreveu:
 
           %{text}
@@ -17,8 +17,8 @@ pt:
             %{subject}
           </h1>
           <p>
-            hola %{user_name}!<br />
-            %{sender_name} escribió:
+            Oi %{user_name}!<br />
+            %{sender_name} escreveu:
           </p>
 
           <p>
