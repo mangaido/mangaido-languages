@@ -2,6 +2,6 @@ pt:
   layouts:
     header_notifications_dropdown:
       notifications_title: "Notificações"
-      mark_all_as_read_btn: "Marcar como lidos"
+      mark_all_as_read_btn: "Marcar todos como lidos"
       loader: "Carregando..."
       show_all_btn: "Ver todo"
