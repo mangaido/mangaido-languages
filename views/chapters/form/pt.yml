@@ -6,23 +6,23 @@ pt:
       is_published_yes_label: "Publicado"
       is_published_no_label: "Em rascunho"
       cover_label: "Frente (Opcional)"
-      remove_cover_yes_label: "Remover imagem do frente"
-      remove_cover_no_label: "Deixar imagem do frente como esta"
+      remove_cover_yes_label: "Remover imagem da capa"
+      remove_cover_no_label: "Deixar imagem da capa como esta"
       cover_hint_text: >
         Recomendação: A imagem deve ter dimensões 640x260 pixels (JPG o PNG)
       amount_of_coins_label: "Número de moedas:"
       amount_of_coins_help_btn: "Mais informaqáo"
       amount_of_coins_help_text_html: >
-       Aqui você pode selecionar o preço a ser pago por seus leitores para acessar ao capítulo.<br />
+       Aqui você pode selecionar o preço do capítulo.<br />
         Lembre-se que, para cada transação, Mangaido absorve um  %{percent_fee}% .
       amount_of_coins_select:
         one: "%{count} moeda"
         other:  "%{count} moedas"
-      authorized_users_label: "Usuario autorizado:"
+      authorized_users_label: "Usuarios autorizados:"
       authorized_users_help_btn: "Mais informaqáo"
       authorized_users_help_text_html: >
         Aqui você pode selecionar os leitores que têm acesso gratuito ao capítulo.<br />
-        Esta função é eficiente para ocasiões em que você deseja conceder acesso a tradutores.<br />
+        Esta função é eficiente para ocasiões em que você deseja conceder acesso aos tradutores.<br />
         Os usuários tradutores só pode ler o capítulo e criar traduções. Eles não podem editar.<br />
         Você so deve enviar o link para o capítulo ao tradutor.<br />
         Você pode adicionar e/ou remover usuários autorizados em todo momento.<br />
