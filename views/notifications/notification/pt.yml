@@ -3,8 +3,8 @@ pt:
     notification:
       ArtbookImage: "imagem do Artbook"
       Artbook: "artbook"
-      StatusUpdate: "atualização de estado"
-      Series: "comics"
+      StatusUpdate: "estado"
+      Series: "comic"
       Chapter: "capítulo"
       Episode: "episodio"
       Novel: "novela"
@@ -14,4 +14,4 @@ pt:
         LIKE_html: "%{who} gosta de seu %{what}"
         COMMENT_html: "%{who} comentou a %{what}"
         FOLLOW_html: "%{who} está seguindo agora"
-      time_ago: "faz %{time_ago}"
+      time_ago: "Faz %{time_ago}"
