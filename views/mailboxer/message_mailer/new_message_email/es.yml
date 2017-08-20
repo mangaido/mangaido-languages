@@ -17,7 +17,7 @@ es:
             %{subject}
           </h1>
           <p>
-            hola %{user_name}!<br />
+            Hola %{user_name}!<br />
             %{sender_name} escribió:
           </p>
 
