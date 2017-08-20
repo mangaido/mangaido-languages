@@ -2,10 +2,10 @@ pt:
   noodles:
     my_index:
       meta_title: "Meus macarrão de Ramen"
-      title: "¡Meus macarrão de Ramen"
+      title: "Meus macarrão de Ramen!"
       add_noodle_btn:
-        mobile: "¡Adicionar macarrão!"
-        desktop: "¡Adicionar macarrão!"
+        mobile: "Adicionar macarrão!"
+        desktop: "Adicionar macarrão!"
       my_noodles_btn:
         mobile: "Meus macarrão"
         desktop: "Meus macarrão"
