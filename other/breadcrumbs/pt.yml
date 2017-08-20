@@ -1,12 +1,12 @@
 pt:
   breadcrumbs:
-    root: "Começar"
+    root: "Inicio"
     artbook_images:
       index: "Artworks"
       edit: "Editar: %{title}"
-      new: "Novos artworks"
+      new: "Novos Artworks"
     artbooks:
-      edit_all: "Editar artbooks"
+      edit_all: "Editar Artbooks"
       edit: "Editar: %{title}"
       new: "Adicionar Artbook"
       show: "%{title}"
@@ -66,4 +66,4 @@ pt:
     translations:
       edit: "Editar tradução: %{language_name}"
     withdrawals:
-      index: "Coletar"
+      index: "Dinheiro coletado"
