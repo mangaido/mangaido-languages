@@ -10,7 +10,7 @@ pt:
         show_btn:
           mobile: "Ver"
           desktop: "Ver novela"
-        delete_confirm: "¿Deseja remover esta novela?"
+        delete_confirm: "Tem certeza de remover a novela?"
         delete_btn:
           mobile: "Remover"
           desktop: "Remover novela"
