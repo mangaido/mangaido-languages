@@ -1,8 +1,8 @@
 pt:
   novels:
     edit_all:
-      meta_title: "Editar todas minhas novelas"
-      title: "Editar todas minhas novelas"
+      meta_title: "Editar minhas novelas"
+      title: "Editar minhas novelas"
       toolbar:
         add_new_novel_btn:
           mobile: "Adicionar novela"
