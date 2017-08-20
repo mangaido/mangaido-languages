@@ -5,6 +5,6 @@ pt:
       title: "%{subject} - Conversa"
       chatting_with: "Conversando com"
       message:
-        info: "%{sender_name} enviou esta mensagem faz %{time_ago} atrás"
+        info: "%{sender_name} enviou esta mensagem faz %{time_ago}"
         textarea_placeholder: "Responder..."
         submit_btn: "Enviar mensaguem"
