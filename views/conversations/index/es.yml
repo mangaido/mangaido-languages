@@ -3,7 +3,7 @@ es:
     index:
       meta_title: "Buzón"
       title: "Buzón"
-      subtitle: "¡No seas un extraño!"
+      subtitle: "¡Revisalo antes de que se lo lleve un huracán!"
       new_message_btn: "Iniciar conversación"
       menu:
         inbox_btn: "Bandeja de entrada"
