@@ -3,9 +3,9 @@ es:
     form:
       title_label: "Título"
       description_label: "Descripcion (Opcional)"
-      is_published_label: "¿Está publicado?"
+      is_published_label: "¿En qué estado estará?"
       is_published_yes_label: "Publicado"
-      is_published_no_label: "En borrador"
+      is_published_no_label: "Borrador"
       cover_label: "Portada (Opcional)"
       remove_cover_yes_label: "Remover esta portada"
       remove_cover_no_label: "Dejar la portada como está"
