@@ -25,13 +25,13 @@ es:
         kokko:
           position: "Embajador japonés"
         polaczarlin:
-          position: "Especialista de soporte del equipo"
+          position: "Especialista en soporte del equipo"
         pusproject:
-          position: "Embajador Indonesio"
+          position: "Embajador indonesio"
         uedahana:
           position: "Embajadora española y portuguesa"
         # supertrivialperson:
-        #   position: "Ambassador of Russian-speaking Users"
+        #   position: "Embajadora rusa"
       menu:
         earn_money_with_us_btn: "¡Gana dinero con nosotros!"
         terms_of_service_btn: "Términos de servicio"
