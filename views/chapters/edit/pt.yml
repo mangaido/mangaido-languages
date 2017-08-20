@@ -13,7 +13,7 @@ pt:
         delete_btn:
           mobile: "Remover"
           desktop: "Remover"
-        delete_btn_confir: "¿Esta seguro?"
+        delete_btn_confir: "¿Tem certeza?"
       chapter_images_title: "Imagens do capítulo:"
       sort_chapter_images_by_filenames_btn: "Arrumar imagens do capítulo por seu nome"
       sort_chapter_images_by_filenames_help_html: >
