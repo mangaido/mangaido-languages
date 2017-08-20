@@ -8,8 +8,8 @@ pt:
         Prove nós<br />
         melhores ramen!
       new_noodle_btn:
-        mobile: "¡Adicionar macarrão!"
-        desktop: "¡Adicionar macarrão!"
+        mobile: "Adicionar macarrão!"
+        desktop: "Adicionar macarrão!"
       my_noodles_btn:
         mobile: "Meus macarrão"
         desktop: "Meus macarrão"
