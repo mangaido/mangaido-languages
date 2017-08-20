@@ -10,7 +10,7 @@ es:
           mobile: "Editar novela"
           desktop: "Editar novela"
       by_author:
-        html: "por %{author}"
+        html: "Por %{author}"
       views_btn:
         one: "%{count} visualización"
         other: "%{count} visualizaciones"
