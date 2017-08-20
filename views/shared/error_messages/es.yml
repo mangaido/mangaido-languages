@@ -3,4 +3,4 @@ es:
     error_messages:
       nr_of_errors_in_form:
         one: "El formulario tiene %{count} error."
-        other: "el formulario tiene %{count} errores."
+        other: "El formulario tiene %{count} errores."
