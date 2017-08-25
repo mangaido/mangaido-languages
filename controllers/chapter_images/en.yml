@@ -1,4 +1,8 @@
 en:
   chapter_images:
-    destroy:
-      success: "Image was successfully deleted."
+    move_to_trash:
+      success: "Image was successfully moved to trash bin."
+      error: "There was some problems with moving this chapter image to trash bin. Please try again."
+    remove_from_trash:
+      success: "Image was successfully removed from trash."
+      error: "There was some problems with removing this chapter image from trash bin. Please try again."

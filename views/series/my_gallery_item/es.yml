@@ -1,4 +1,4 @@
 es:
   series:
     my_gallery_item:
-      delete_btn_confirm: "¿Estás seguro?"
+      delete_btn_confirm: "¿Estás seguro?" # Are you sure you want to delete this comic series? ALL THE TRANSLATIONS ASSOCIATED TO IT WILL BE LOST FOREVER!!!

@@ -1,4 +1,4 @@
 pl:
   series:
     my_gallery_item:
-      delete_btn_confirm: "Jesteś pewna/y?"
+      delete_btn_confirm: "Jesteś pewna/y, że chcesz usunąć ten komiks? WSZYSTKIE TŁUMACZENIA Z NIM POWIĄZANE ZOSTANĄ UTRACONE NA ZAWSZE!!!"

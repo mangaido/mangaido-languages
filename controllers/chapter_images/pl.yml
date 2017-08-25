@@ -1,4 +1,8 @@
 pl:
   chapter_images:
-    destroy:
-      success: "Obrazek został pomyślnie usunięty."
+    move_to_trash:
+      success: "Obrazek został przeniesiony do kosza z powodzeniem."
+      error: "Wystąpiły pewne problemy z przeniesieniem tego obrazka do kosza. Spróbuj ponownie."
+    remove_from_trash:
+      success: "Obrazek został przywrócony z kosza z powodzeniem."
+      error: "Wystąpiły pewne problemy z przywróceniem tego obrazka z kosza. Spróbuj ponownie."

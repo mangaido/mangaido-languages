@@ -1,4 +1,4 @@
 pl:
   chapter_images:
     my_gallery_item:
-      delete_btn_confirm: "Jesteś pewna/y?"
+      delete_btn_confirm: "Jesteś pewna/y, że chcesz przenieść ten obrazek do kosza? Pamiętaj, że ten obrazek może mieć powiązane z nim tłumaczenia."
