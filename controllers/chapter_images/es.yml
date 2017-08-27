@@ -1,8 +1,8 @@
 es:
   chapter_images:
     # move_to_trash:
-    #   success: "Image was successfully moved to trash bin."
-    #   error: "There was some problems with moving this chapter image to trash bin. Please try again."
+    #   success: "Imagen movida a la papelera."
+    #   error: "¡Ups! Hubo un problema moviendo esta imagen del capitulo a la papelera, intentalo de nuevo."
     # remove_from_trash:
-    #   success: "Image was successfully removed from trash."
-    #   error: "There was some problems with removing this chapter image from trash bin. Please try again."
+    #   success: "Imagen movida a la papelera."
+    #   error: "¡Ups! hubo un problema moviendo esta imagen del capitulo a la papelera, intentalo de nuevo."
