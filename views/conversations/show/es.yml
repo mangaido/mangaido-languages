@@ -3,7 +3,7 @@ es:
     show:
       meta_title: "%{subject} - Conversación"
       title: "%{subject} - Conversación"
-      chatting_with: "Estás conversando con "
+      chatting_with: "Estás conversando con"
       message:
         info: "%{sender_name} envió este mensaje hace %{time_ago}"
         textarea_placeholder: "Dile algo..."
