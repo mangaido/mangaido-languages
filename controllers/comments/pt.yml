@@ -2,6 +2,6 @@ pt:
   comments:
     create:
       success: "¡Comentário criado!"
-      error: "¡Ups! Houve um erro adicionando seu comentário, tente novamente."
+      error: "¡Opa! Houve um erro adicionando seu comentário, tenta novamente."
     destroy:
       success: "¡Comentário removido!"

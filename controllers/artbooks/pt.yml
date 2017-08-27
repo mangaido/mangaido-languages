@@ -6,6 +6,6 @@ pt:
       success: "¡Artbook criado!"
     update:
       success: "¡Artbook atualizado!"
-      error: "¡Ups! Houve um erro atualizando seu Artbook, tente novamente."
+      error: "¡Opa! Houve um erro atualizando seu Artbook, tenta novamente."
     destroy:
       success: "¡Artbook removido!"

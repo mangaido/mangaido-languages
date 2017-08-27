@@ -1,4 +1,4 @@
 pt:
   withdrawals:
     create:
-      no_access_error: "¡Ups! Não pôde ser coletado."
+      no_access_error: "¡Opa! Não pôde ser coletado."

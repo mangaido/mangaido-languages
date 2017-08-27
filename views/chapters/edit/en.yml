@@ -13,7 +13,7 @@ en:
         delete_btn:
           mobile: ""
           desktop: "Delete"
-        delete_btn_confir: "Are you sure?"
+        delete_btn_confirm: "Are you sure you want to delete this chapter? ALL THE TRANSLATIONS FOR THIS CHAPTER WILL BE LOST FOREVER!!!"
       chapter_images_title: "Chapter images:"
       sort_chapter_images_by_filenames_btn: "Sort chapter images by filenames"
       sort_chapter_images_by_filenames_help_html: >
@@ -38,3 +38,4 @@ en:
             "file_11.jpg"
           </li>
         </ol>
+      trashed_chapter_images_title: "Trashed chapter images:"

@@ -13,7 +13,7 @@ ja:
         delete_btn:
           mobile: ""
           desktop: "削除"
-        delete_btn_confir: "本当に削除しますか？"
+        delete_btn_confirm: "本当に削除しますか？" # Are you sure you want to delete this chapter? ALL THE TRANSLATIONS FOR THIS CHAPTER WILL BE LOST FOREVER!!!
       chapter_images_title: "チャプターイメージ:"
       # sort_chapter_images_by_filenames_btn: "Sort chapter images by filenames"
       # sort_chapter_images_by_filenames_help_html: >
@@ -38,3 +38,4 @@ ja:
       #       "file_11.jpg"
       #     </li>
       #   </ol>
+      # trashed_chapter_images_title: "Trashed chapter images:"

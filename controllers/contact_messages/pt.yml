@@ -1,5 +1,5 @@
 pt:
   contact_messgaes:
     create:
-      success: "¡Mensagem enviada!"
-      error: "¡Ups! Houve um erro com seu mensagem."
+      success: "¡Mensagem enviado!"
+      error: "¡Opa! Houve um erro com seu mensagem."
