@@ -17,7 +17,7 @@ es:
         chapter_image:
           image_too_big: "La imagen del capitulo debe ser inferior a %{size}"
         noodle:
-          image_too_big: "La imagen de fideos debe ser inferior a %{size}"
+          image_too_big: "La imagen del fideo debe ser inferior a %{size}"
         novel:
           image_too_big: "La portada de la novela debe ser inferior a %{size}"
         password_reset:

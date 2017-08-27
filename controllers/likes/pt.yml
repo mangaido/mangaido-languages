@@ -1,4 +1,4 @@
 pt:
   likes:
     create:
-      error: "¡Ups! Você pode não gostar :("
+      error: "¡Opa! Você pode não gostar :("

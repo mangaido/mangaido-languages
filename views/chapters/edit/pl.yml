@@ -13,7 +13,7 @@ pl:
         delete_btn:
           mobile: ""
           desktop: "Usuń"
-        delete_btn_confir: "Jesteś pewna/y?"
+        delete_btn_confirm: "Jesteś pewna/y, że chcesz usunąć ten odcinek? WSZYSTKIE TŁUMACZENIA POWIĄZANE Z TYM ODCINKIEM ZOSTANĄ USUNIĘTE NA ZAWSZE!!!"
       chapter_images_title: "Obrazki odcinka:"
       sort_chapter_images_by_filenames_btn: "Posortuj obrazki po nazwie plików"
       sort_chapter_images_by_filenames_help_html: >
@@ -38,3 +38,4 @@ pl:
             "plik_11.jpg"
           </li>
         </ol>
+      trashed_chapter_images_title: "Obrazki w koszu:"

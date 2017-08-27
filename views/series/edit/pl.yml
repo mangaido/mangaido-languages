@@ -12,4 +12,5 @@ pl:
       delete_btn:
         mobile: ""
         desktop: "Usuń"
+      delete_btn_confirm: "Czy jesteś pewna/y, że chcesz usunąć ten komiks? WSZYSTKIE TŁUMACZENIA POWIĄZANE Z TYM KOMIKSEM ZOSTANĄ STRACONE NA ZAWSZE!!!"
       chapters_title: "Odcinki:"

@@ -6,5 +6,5 @@ pt:
       tags: "Tags (Opcional)"
       tags_hint: >
         As Tags devem ser separadas por uma vírgula (",").
-        Isso vai ajudar os outros a descobrir suas imagens!.
+        Isso vai ajudar aos outros a descobrir suas imagens!.
       save_btn: "Salvar"
