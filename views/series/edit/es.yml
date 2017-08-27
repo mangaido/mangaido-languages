@@ -12,5 +12,5 @@ es:
       delete_btn:
         mobile: "Eliminar"
         desktop: "Eliminar"
-      # delete_btn_confirm: "Are you sure you want to delete this comic series? ALL THE TRANSLATIONS ASSOCIATED TO IT WILL BE LOST FOREVER!!!"
+      # delete_btn_confirm: "¿Estás seguro de que quieres eliminar este comic/manga? ¡TODAS LAS TRADUCCIONES ASOCIADAS SERÁN PERDIDAS PARA SIEMPRE!"
       chapters_title: "Capítulos:"
