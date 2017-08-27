@@ -1,8 +1,8 @@
 pt:
   contact_messages:
     new:
-      meta_title: "Entra em contato"
-      title: "¡Entre em contato com nós!"
+      meta_title: "Contato"
+      title: "Entre em contato com nós!"
       name_label: "Nome"
       email_label: "E-mail"
       content_label: "Mensaguem"
