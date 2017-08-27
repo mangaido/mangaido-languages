@@ -16,6 +16,6 @@ pt:
         delete_btn: 
           mobile: "Remover a tradução"
           desktop: "Remover a tradução"
-      # orphaned_translation_balloons_title: "Orphaned translation balloons"
+      # orphaned_translation_balloons_title: "Balões de tradução abandonados"
       # orphaned_translation_balloons_help: >
-      #   Sometimes the author of comic series have to update chapter images and delete some of them. In order to keep somehow translations already created for this images, here you can see orphaned translation balloons. You can copy the old translations and paste them onto new chapter images in order to keep translation up to date with the changes.
+      #   Às vezes, o autor dos comics/mangas tem que atualizar imagens de capítulos e remover algumas. Para manter de alguma forma as traduções já criadas para essas imagens, aqui você pode ver balões de tradução abandonados. Você pode copiar as traduções antigas e colá-las em imagens de novos capítulos para manter a atualização atualizada com as mudanças.
