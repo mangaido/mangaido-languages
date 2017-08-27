@@ -5,7 +5,7 @@ pt:
       title: "Editar Artwork:"
       previous_btn: "Anterior"
       back_to_artbook:
-        mobile: "Voltar"
+        mobile: "Voltar ao Artbook"
         desktop: "Voltar ao Artbook"
       show_artwork:
         mobile: "Ver Artwork"

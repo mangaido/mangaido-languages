@@ -38,5 +38,5 @@ pt:
         one: "Tradução"
         other: "Traduções"
       user:
-        one: "usuário"
-        other: "usuários"
+        one: "Usuário"
+        other: "Usuários"

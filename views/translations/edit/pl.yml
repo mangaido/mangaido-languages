@@ -16,3 +16,6 @@ pl:
         delete_btn: 
           mobile: "Usuń"
           desktop: "Usuń to tłumaczenie"
+      orphaned_translation_balloons_title: "Osierocone okienka tłumaczeniowe"
+      orphaned_translation_balloons_help: >
+        Czasami autor komiksu musi zaktualizować obrazki podmieniając je na nowe. W takiej sytuacji okienka tłumaczeniowe powiązane z wymienionymi obrazkami zostają osierocone. Żeby pomóc tłumaczom w aktualizacji takich odcinków, poniżej jest lista takich osieroconych okienek tłumaczeniowych. Możesz skopiować treść okienka i dodać je na nowym obrazku powyżej.

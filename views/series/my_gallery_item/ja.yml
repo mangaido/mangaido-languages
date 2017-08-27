@@ -1,4 +1,4 @@
 ja:
   series:
     my_gallery_item:
-      delete_btn_confirm: "本当に削除しますか？"
+      delete_btn_confirm: "本当に削除しますか？" # Are you sure you want to delete this comic series? ALL THE TRANSLATIONS ASSOCIATED TO IT WILL BE LOST FOREVER!!!

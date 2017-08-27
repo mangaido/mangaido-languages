@@ -17,7 +17,7 @@ pt:
         chapter_image:
           image_too_big: "A imagem do capitulo deve ser inferior a %{size}"
         noodle:
-          image_too_big: "A imagem dos macarrão deve ser inferior a %{size}"
+          image_too_big: "A imagem do macarrão deve ser inferior a %{size}"
         novel:
           image_too_big: "O frente da novela debe ser inferior a %{size}"
         password_reset:
@@ -29,11 +29,11 @@ pt:
         status_update:
           image_too_big: "A imagem do estado deve ser inferior a %{size}"
         transaction:
-          general_error: "¡Ups! Houve um erro com a transação! Por favor, tente novamente."
+          general_error: "¡Opa! Houve um erro com a transação! Por favor, tente novamente."
           not_enough_coins: "Número insuficiente de moedas"
         user:
           avatar_too_big: "O avatar deve ser inferior a %{size}"
-          cover_too_big: "O frente deve ser inferior a %{size}"
+          cover_too_big: "A imagem da capa deve ser inferior a %{size}"
           promo_code_invalid: "Código de promoção inválido."
         withdrawal:
-          not_enough_coins: "Número insuficiente de moedas"
+          not_enough_coins: "Número de moedas insuficiente"

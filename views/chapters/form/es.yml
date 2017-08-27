@@ -4,7 +4,7 @@ es:
       title_label: "Título"
       is_published_label: "¿Está publicado?"
       is_published_yes_label: "Publicado"
-      is_published_no_label: "en borrador"
+      is_published_no_label: "En borrador"
       cover_label: "Portada (Opcional)"
       remove_cover_yes_label: "Remover portada"
       remove_cover_no_label: "Dejar portada como está"
@@ -18,7 +18,7 @@ es:
       amount_of_coins_select:
         one: "%{count} moneda"
         other:  "%{count} monedas"
-      authorized_users_label: "Usuario autorizado:"
+      authorized_users_label: "Usuarios autorizados:"
       authorized_users_help_btn: "Más información"
       authorized_users_help_text_html: >
         Aquí podrás seleccionar a los lectores que tendrán acceso gratuito al capítulo.<br />

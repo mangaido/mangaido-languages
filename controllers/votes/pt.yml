@@ -1,4 +1,4 @@
 pt:
   votes:
     create:
-      error: "¡Ups! Não podia votar :("
+      error: "¡Opa! Não podia votar :("

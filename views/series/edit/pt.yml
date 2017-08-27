@@ -12,4 +12,5 @@ pt:
       delete_btn:
         mobile: "Remover"
         desktop: "Remover"
+      # delete_btn_confirm: "Are you sure you want to delete this comic series? ALL THE TRANSLATIONS ASSOCIATED TO IT WILL BE LOST FOREVER!!!"
       chapters_title: "Capítulos:"
