@@ -11,7 +11,7 @@ pt:
           mobile: "Ver o episodio"
           desktop: "Ver o episodio"
         delete_confirm: >
-          ¿Esta seguro de remover o episodio?
+          Tem certeza de remover o episodio?
         delete_btn:
           mobile: "Remover episodio"
           desktop: "Remover episodio"

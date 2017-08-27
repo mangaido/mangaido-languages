@@ -5,11 +5,11 @@ pt:
     edit:
       no_access_error: "¡Você não pode editar esta tradução!"
     create:
-      no_access_error: "¡Ups! Houve um erro nesta tradução, tente novamente."
+      no_access_error: "¡Opa! Houve um erro nesta tradução, tenta novamente."
       success: "¡Tradução criada!"
-      error: "¡Ups! Houve um erro criando a tradução, tente novamente."
+      error: "¡Opa! Houve um erro criando a tradução, tenta novamente."
     update:
       success: "¡Tradução atualizada!"
-      error: "¡Ups! Houve um erro atualizando a tradução, tente novamente."
+      error: "¡Opa! Houve um erro atualizando a tradução, tenta novamente."
     destroy:
       success: "¡Tradução removida!"

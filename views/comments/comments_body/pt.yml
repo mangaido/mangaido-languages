@@ -3,5 +3,5 @@ pt:
     comments_body:
       no_comments_message: "Ainda não há nenhum comentario. ¡Seja o primeiro!"
       delete_btn: "Remover"
-      delete_btn_confirm: "¿Esta seguro de remover seu comentario?"
-      time_ago: "%{time_ago} antes"
+      delete_btn_confirm: "¿Tem certeza de remover seu comentario?"
+      time_ago: "Faz %{time_ago}"

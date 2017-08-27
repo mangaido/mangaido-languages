@@ -14,8 +14,8 @@ es:
           one: "Post"
           other: "Posts"
         artwork_views:
-          one: "Visualización de Artwork"
-          other: "visualizaciones de Artworks"
+          one: "Visualização de Artwork"
+          other: "Visualizações de Artworks"
         series_views:
           one: "Comic visto"
           other: "Comics vistos"
@@ -27,7 +27,7 @@ es:
           other: "Visualizações de novelas"
         badges: "Emblemas"
       menu:
-        donate: "Doe"
+        donate: "Doe ao usuario"
         artbooks:
           one: "%{count} artbook"
           other: "%{count} artbooks"

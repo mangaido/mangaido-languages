@@ -1,13 +1,13 @@
 pt:
   series:
     edit_all:
-      meta_title: "Editar todos meus comics"
-      title: "Editar todos meus comics"
+      meta_title: "Editar meus comics"
+      title: "Editar meus comics"
       toolbar:
         add_new_series_btn:
           mobile: "Adicionar comic"
           desktop: "Adicionar comic"
         show_all_series_btn:
-          mobile: "Ver todos meus comics"
-          desktop: "Ver todos meus comics"
-      series_list_title: "Todos meus comics:"
+          mobile: "Ver meus comics"
+          desktop: "Ver meus comics"
+      series_list_title: "Meus comics:"

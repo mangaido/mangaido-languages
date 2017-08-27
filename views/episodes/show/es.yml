@@ -1,7 +1,7 @@
 es:
   episodes:
     show:
-      meta_title: "%{title} - Página de episodio"
+      meta_title: "%{title} - Episodio"
       toolbar:
         my_novels_btn:
           mobile: "Mis novelas"
@@ -10,7 +10,7 @@ es:
           mobile: "Editar episodio"
           desktop: "Editar episodio"
       by_author:
-        html: "por %{author_link}"
+        html: "Por %{author_link}"
       novel_btns:
         views:
           one: "%{count} visualización"

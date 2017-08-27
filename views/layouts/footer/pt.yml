@@ -27,11 +27,11 @@ pt:
         polaczarlin:
           position: "Suporte Especialista"
         pusproject:
-          position: "Embaixador Indonésia"
+          position: "Embaixador indonésia"
         uedahana:
-          position: "Embaixadora espanhola e portuguesa"
+          position: "Embaixatriz espanhola e portuguesa"
         # supertrivialperson:
-        #   position: "Ambassador of Russian-speaking Users"
+        #   position: "Embaixatriz russa"
       menu:
         earn_money_with_us_btn: "¡Ganhar dinheiro com nós!"
         terms_of_service_btn: "Termos de Serviço"

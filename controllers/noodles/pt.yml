@@ -2,9 +2,9 @@ pt:
   noodles:
     update:
       success: "¡Macarrão atualizado!"
-      error: "¡Ups! Houve um erro atualizando o macarrão, tente novamente."
+      error: "¡Opa! Houve um erro atualizando o macarrão, tenta novamente."
     create:
       success: "¡Macarrão criado!"
-      error: "¡O macarrão não salvo!"
+      error: "¡O macarrão não foi salvado!"
     destroy:
       success: "¡Macarrão removido!"

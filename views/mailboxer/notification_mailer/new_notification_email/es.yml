@@ -4,13 +4,13 @@ es:
       new_notification_email:
         notification_link: "¡Mira esto!"
         message: >
-          New notification!
+          ¡Nueva notificación!
           Hola %{user_name},
           %{text}
           Mira esto: %{notification_link}
         message_html: >
           <h1>
-            nueva notificación!
+            ¡Nueva notificación!
           </h1>
           <p>
             Hola %{user_name},
