@@ -19,7 +19,7 @@ es:
         michal:
           position: "Co-fundador"
         choux:
-          position: "Embajador francés"
+          position: "Embajadora francés"
         makkusu:
           position: "Embajador japonés"
         kokko:
@@ -27,9 +27,9 @@ es:
         polaczarlin:
           position: "Especialista en soporte del equipo"
         pusproject:
-          position: "Embajador indonesio"
+          position: "Embajadora indonesio"
         uedahana:
-          position: "Embajadora española y portuguesa"
+          position: "Embajadora hispanohablante y portuguesa"
         # supertrivialperson:
         #   position: "Embajadora rusa"
       menu:
