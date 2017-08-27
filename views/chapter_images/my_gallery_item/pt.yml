@@ -1,4 +1,4 @@
 pt:
   chapter_images:
     my_gallery_item:
-      delete_btn_confirm: "¿Tem certeza?" # Are you sure you want to move this chapter image to trash? Remember that this chapter images could have translations associated to it.
+      delete_btn_confirm: "Tem certeza?" # Tem certeza de mover a imagem do capítulo para o lixo? lembre-se que as imagens do capítulo pode ser associado a traduções.
