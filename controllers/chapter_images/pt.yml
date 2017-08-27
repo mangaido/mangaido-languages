@@ -1,8 +1,8 @@
 pt:
   chapter_images:
     # move_to_trash:
-    #   success: "Image was successfully moved to trash bin."
-    #   error: "There was some problems with moving this chapter image to trash bin. Please try again."
+    #   success: "A imagem foi movida para o lixo."
+    #   error: "Opa! Houve um problema movendo a imagem do capítulo para o lixo."
     # remove_from_trash:
-    #   success: "Image was successfully removed from trash."
-    #   error: "There was some problems with removing this chapter image from trash bin. Please try again."
+    #   success: "A imagem foi movida para o lixo."
+    #   error: "Opa! Houve um problema movendo a imagem do capitulo para o lixo."
