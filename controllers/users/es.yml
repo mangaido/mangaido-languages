@@ -4,4 +4,4 @@ es:
       not_activated_info: "Por favor, revisa tu e-mail para activar tu cuenta."
     update:
       success: "¡Perfil actualizado!"
-      # error: "There was some problems with updating this profile. Try again."
+      # error: "¡Ups! Hubo un problema actualizando tu perfil. Por favor, intentalo de nuevo"
