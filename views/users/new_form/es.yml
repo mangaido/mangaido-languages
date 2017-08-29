@@ -1,7 +1,7 @@
 es:
   users:
     new_form:
-      name_label: "Nombre" # Display name (3 - 50 characters)
+      name_label: "Nombre" # ¿Cómo quieres ser conocido? (3 - 50 caracteres)
       email_label: "Dirección E-mail"
       password_label: "Contraseña"
       password_confirmation_label: "Confirmar contraseña"
@@ -12,4 +12,4 @@ es:
       terms_of_service_link: "Términos de Servicio"
       privacy_policy_link: "Políticas de Privacidad"
       disclaimer_html: >
-       al registrarte, estas aceptando nuestros %{terms_of_service_link_html} y %{privacy_policy_link_html}.
+       Al registrarte, estas aceptando nuestros %{terms_of_service_link_html} y %{privacy_policy_link_html}.
