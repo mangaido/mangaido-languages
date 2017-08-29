@@ -1,7 +1,7 @@
 ja:
   users:
     new_form:
-      name_label: "ユーザ名"
+      name_label: "ユーザ名" # Display name (3 - 50 characters)
       email_label: "Email"
       password_label: "パスワード (6文字以上)"
       password_confirmation_label: "確認用パスワード"

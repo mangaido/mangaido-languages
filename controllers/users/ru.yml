@@ -4,3 +4,4 @@ ru:
       not_activated_info: "Пожалуйста, проверьте ваш email для активации профиля."
     update:
       success: "Профиль обновлен"
+      # error: "There was some problems with updating this profile. Try again."

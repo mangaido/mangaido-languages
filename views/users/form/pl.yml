@@ -1,7 +1,8 @@
 pl:
   users:
     form:
-      name_label: "Nazwa użytkownika"
+      name_label: "Nazwa użytkownika (3 - 50 znaków)"
+      uname_label: "Unikalna nazwa użytkownika (3 - 50 znaków)"
       email_label: "Adres email"
       change_password_btn: "Zmień hasło"
       paypal_email_label: "Adres email konta PayPal"

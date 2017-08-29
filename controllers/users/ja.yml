@@ -4,3 +4,4 @@ ja:
       not_activated_info: "アカウントを許可するため、メールをご確認してください。"
     update:
       success: "プロフィールを更新しました。"
+      # error: "There was some problems with updating this profile. Try again."

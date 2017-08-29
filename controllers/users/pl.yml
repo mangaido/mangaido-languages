@@ -4,3 +4,4 @@ pl:
       not_activated_info: "Aby się zalogować musisz aktywować najpier swoje konto klikając w link aktywacyjny, który został wysłany na Twój adres email. Czasami trzeba poczekać do 1 minuty na otrzymanie email'a. Ewentualnie sprawdź folder ze spamem, gdyby email nie pojawił się w skrzynce."
     update:
       success: "Twój profil został pomyślnie zaktualizowany!"
+      error: "Wystąpiły problemy z aktualizacją tego profilu. Spróbuj ponownie."

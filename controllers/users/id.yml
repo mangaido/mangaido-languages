@@ -4,3 +4,4 @@ id:en:
       not_activated_info: "Mohon periksa email untuk mengaktifkan akun."
     update:
       success: "Profil telah diupdate"
+      # error: "There was some problems with updating this profile. Try again."

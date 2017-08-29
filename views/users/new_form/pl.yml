@@ -1,7 +1,7 @@
 pl:
   users:
     new_form:
-      name_label: "Wyświetlana nazwa użytkownika"
+      name_label: "Wyświetlana nazwa użytkownika (3 - 50 znaków)"
       email_label: "Adres email"
       password_label: "Hasło (min. 6 znaków)"
       password_confirmation_label: "Potwierdź hasło"

@@ -1,7 +1,7 @@
 de:
   users:
     new_form:
-      name_label: "Benutzername"
+      name_label: "Benutzername" #Display name (3 - 50 characters)
       email_label: "E-mail"
       password_label: "Passwort"
       password_confirmation_label: "Passwort wiederholen"

@@ -1,7 +1,8 @@
 en:
   users:
     form:
-      name_label: "Name"
+      name_label: "Display name (3 - 50 characters)"
+      uname_label: "Unique user name (3 - 50 characters)"
       email_label: "Email"
       change_password_btn: "Change password"
       paypal_email_label: "PayPal email"

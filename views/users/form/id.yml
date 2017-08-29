@@ -1,7 +1,8 @@
 id:
   users:
     form:
-      name_label: "Nama"
+      name_label: "Nama" # Display name (3 - 50 characters)
+      # uname_label: "Unique user name (3 - 50 characters)"
       email_label: "Email"
       password_label: "Password (min. 6 karakter)"
       password_confirmation_label: "Konfirmasi password"
