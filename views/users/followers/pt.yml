@@ -1,5 +1,5 @@
 pt:
   users:
     followers:
-      meta_title: "usuários que seguem a %{user_name}"
-      title: "Uusuários que seguem a %{user_name}"
+      meta_title: "Usuários que seguem a %{user_name}"
+      title: "Usuários que seguem a %{user_name}"
