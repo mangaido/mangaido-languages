@@ -4,7 +4,7 @@ pt:
       subject: "Ativando conta de Mangaido"
       activation_link: "Ativar conta"
       message: >
-        Hola %{user_name},
+        Oi %{user_name},
          Bem-vind@! Faz clique no link para ativar sua conta: %{activation_link}
       message_html: >
         <h1>
