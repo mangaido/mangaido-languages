@@ -3,4 +3,4 @@ pt:
     novels:
       meta_title: "Novelas de %{user_name}"
       title: "Novelas de %{user_name}"
-      edit_novels_btn: "Editar todas minhas novelas"
+      edit_novels_btn: "Editar minhas novelas"
