@@ -1,8 +1,8 @@
 ru:
   chapter_images:
-    # move_to_trash:
-    #   success: "Image was successfully moved to trash bin."
-    #   error: "There was some problems with moving this chapter image to trash bin. Please try again."
-    # remove_from_trash:
-    #   success: "Image was successfully removed from trash."
-    #   error: "There was some problems with removing this chapter image from trash bin. Please try again."
+    move_to_trash:
+      success: "Изображение перемещено в корзину."
+      error: "Возникли проблемы при перемещении изображения в корзину. Попробуйте еще раз."
+    remove_from_trash:
+      success: "Изображение удалено из корзины."
+      error: "Возникли проблемы при удалении изображения из корзины. Пожалуйста, попробуйте еще раз."
