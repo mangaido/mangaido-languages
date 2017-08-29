@@ -12,5 +12,5 @@ ru:
       delete_btn:
         mobile: ""
         desktop: "Удалить"
-      # delete_btn_confirm: "Are you sure you want to delete this comic series? ALL THE TRANSLATIONS ASSOCIATED TO IT WILL BE LOST FOREVER!!!"
+      delete_btn_confirm: "Вы уверены, что хотите удалить комикс? ВСЕ ПЕРЕВОДЫ, СВЯЗАННЫЕ С КОМИКСОМ, БУДУТ УДАЛЕНЫ НАВСЕГДА!"
       chapters_title: "Главы:"
