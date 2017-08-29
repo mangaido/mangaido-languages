@@ -1,4 +1,4 @@
 ru:
   chapter_images:
     my_gallery_item:
-      delete_btn_confirm: "Вы уверены?" # Are you sure you want to move this chapter image to trash? Remember that this chapter images could have translations associated to it.
+      delete_btn_confirm: "Вы уверены, что хотите переместить изображение в корзину? Помните, что изображение может иметь связанные с ним переводы."
