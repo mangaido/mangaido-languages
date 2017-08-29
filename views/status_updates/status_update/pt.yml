@@ -2,6 +2,6 @@ pt:
   status_updates:
     status_update:
       delete_btn: "Remover Post"
-      delete_btn_confirm: "¿Esta seguro de remover este post?"
+      delete_btn_confirm: "Tem certeza de remover o post?"
       posted_time_ago: "Subido faz %{time_ago}"
       show_comments_btn: "Ver comentarios"
