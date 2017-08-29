@@ -1,0 +1,15 @@
+pt:
+  users:
+    new_form:
+      name_label: "Nome" # Como você quer ser conhecido? (3 - 50 caracteres)
+      email_label: "E-mail"
+      password_label: "Senha"
+      password_confirmation_label: "Confirmar senha"
+      promo_code_label: "Código promocional (Opcional)"
+      register_btn: "Criar uma conta"
+      log_in_link: "Entra!"
+      log_in_text_html: "Já tem uma conta? %{log_in_link_html}"
+      terms_of_service_link: "Termos de serviço"
+      privacy_policy_link: "Políticas de privacidade"
+      disclaimer_html: >
+       Com o registro, você está aceitando nossoss %{terms_of_service_link_html} y %{privacy_policy_link_html}.
