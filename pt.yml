@@ -109,24 +109,24 @@ pt:
   errors:
     format: "%{attribute} %{message}"
     messages:
-      accepted: tem de ser aceite
+      accepted: deve ser aceite
       blank: não pode estar em branco
       confirmation: não coincide com a confirmação
       empty: não pode estar vazio
-      equal_to: tem de ser igual a %{count}
-      even: tem de ser par
+      equal_to: deve ser igual a %{count}
+      even: deve ser par
       exclusion: é reservado
-      greater_than: tem de ser maior que %{count}
-      greater_than_or_equal_to: tem de ser maior ou igual a %{count}
+      greater_than: deve ser maior que %{count}
+      greater_than_or_equal_to: deve ser maior ou igual a %{count}
       inclusion: não está incluído na lista
       invalid: é inválido
-      less_than: tem de ser menor que %{count}
-      less_than_or_equal_to: tem de ser menor ou igual a %{count}
+      less_than: deve ser menor que %{count}
+      less_than_or_equal_to: deve ser menor ou igual a %{count}
       model_invalid: 'A validação falhou: %{errors}'
       not_a_number: não é um número
-      not_an_integer: tem de ser um inteiro
-      odd: tem de ser ímpar
-      other_than: tem de ser diferente de %{count}
+      not_an_integer: deve ser um inteiro
+      odd: deve ser ímpar
+      other_than: deve ser diferente de %{count}
       present: não pode estar em branco
       required: é obrigatório
       taken: não está disponível
@@ -143,7 +143,7 @@ pt:
       prompt: Por favor seleccione
     submit:
       create: Criar %{model}
-      submit: Gravar %{model}
+      submit: Salvar %{model}
       update: Actualizar %{model}
   number:
     currency:
