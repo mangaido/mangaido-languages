@@ -16,6 +16,6 @@ fr:
         delete_btn: 
           mobile: "Effacer"
           desktop: "Effacer cette traduction"
-      # orphaned_translation_balloons_title: "Orphaned translation balloons"
-      # orphaned_translation_balloons_help: >
-      #   Sometimes the author of comic series have to update chapter images and delete some of them. In order to keep somehow translations already created for this images, here you can see orphaned translation balloons. You can copy the old translations and paste them onto new chapter images in order to keep translation up to date with the changes.
+       orphaned_translation_balloons_title: "Bulles de traduction orphelines"
+       orphaned_translation_balloons_help: >
+         Des fois les auteurs de mangas doivent mettre à jour des images de leur chapitre et en supprimer quelques unes. Afin de garder les traductions déjà faites des images, vous pourrez voir ici les bulles de traductions devenues orphelines. Vous pourez ainsi copier les vieilles traductions et les transférer sur les nouvelles images afin de garder à jour les traductions avec le chapitre.
