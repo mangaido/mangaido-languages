@@ -1,4 +1,4 @@
 fr:
   chapter_images:
     my_gallery_item:
-      delete_btn_confirm: "Etes-vous sûr?" # Are you sure you want to move this chapter image to trash? Remember that this chapter images could have translations associated to it.
+      delete_btn_confirm: "Etes-vous sûr de vouloir mettre ce chapitre à la poubelle? Souvenez-vous juste que ce chapitre peut avoir des traductions qui seront aussi supprimées."
