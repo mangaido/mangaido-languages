@@ -1,4 +1,4 @@
 fr:
-   chapter_images:
-     trashed_list:
-       remove_from_trash_btn: "Enlever de la poubelle."
+  chapter_images:
+    trashed_list:
+      remove_from_trash_btn: "Enlever de la poubelle."
