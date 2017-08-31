@@ -1,4 +1,4 @@
 es:
   chapter_images:
     my_gallery_item:
-      delete_btn_confirm: "¿Estás seguro?" # ¿Seguro que desea mover esta imagen de capítulo a la papelera? Recuerde que las imágenes de este capítulo podrían tener traducciones asociadas.
+      delete_btn_confirm: "¿Seguro que desea mover esta imagen de capítulo a la papelera? Recuerde que las imágenes de este capítulo podrían tener traducciones asociadas."
