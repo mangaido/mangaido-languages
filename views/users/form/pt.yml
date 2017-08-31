@@ -1,8 +1,8 @@
 pt:
   users:
     form:
-      name_label: "Nome" # (Como você quer ser conhecido?) (3 - 50 caracteres)
-      # uname_label: "Nome do URL. Por exemplo, pt/u/hana_ueda (3 - 50 caracteres)"
+      name_label: "Nome. Como você quer ser conhecido? (3 - 50 caracteres)"
+      uname_label: "Nome do URL. Por exemplo, pt/u/hana_ueda (3 - 50 caracteres)"
       email_label: "E-mail"
       change_password_btn: "Trocar senha"
       paypal_email_label: "E-mail de PayPal"
