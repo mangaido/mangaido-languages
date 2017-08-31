@@ -1,4 +1,5 @@
 pt:
   series:
     my_gallery_item:
-      delete_btn_confirm: "Tem certeza?" # Tem certeza de remover o comic/manga? TODAS AS TRADUÇÕES ASSOCIADAS SERÃO PERDIDAS PARA SEMPRE!
+      delete_btn_confirm: "Tem certeza de remover o comic/manga? TODAS AS TRADUÇÕES ASSOCIADAS SERÃO PERDIDAS PARA SEMPRE!"
+      
