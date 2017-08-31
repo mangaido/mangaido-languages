@@ -16,6 +16,6 @@ es:
         delete_btn: 
           mobile: "Eliminar la traducción"
           desktop: "Eliminar la traducción"
-      # orphaned_translation_balloons_title: "Globos de traducción abandonados"
-      # orphaned_translation_balloons_help: >
-      #   A veces el autor de los comics/mangas tienen que actualizar las imágenes de los capítulos y borrar algunos. Con el fin de mantener de alguna manera traducciones ya creadas para estas imágenes, aquí puedes ver globos de traducción abandonados. Puedes copiar las traducciones antiguas y pegarlas en nuevas imágenes de capítulos para mantener la traducción actualizada con los cambios.
+      orphaned_translation_balloons_title: "Globos de traducción abandonados"
+      orphaned_translation_balloons_help: >
+        A veces el autor de los comics/mangas tienen que actualizar las imágenes de los capítulos y borrar algunos. Con el fin de mantener de alguna manera traducciones ya creadas para estas imágenes, aquí puedes ver globos de traducción abandonados. Puedes copiar las traducciones antiguas y pegarlas en nuevas imágenes de capítulos para mantener la traducción actualizada con los cambios.
