@@ -1,4 +1,4 @@
 pt:
-  # chapter_images:
-  #   trashed_list:
-  #     remove_from_trash_btn: "Remover do lixo"
+  chapter_images:
+    trashed_list:
+      remove_from_trash_btn: "Remover do lixo"
