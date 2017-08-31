@@ -13,7 +13,7 @@ pt:
         delete_btn:
           mobile: "Remover"
           desktop: "Remover"
-        delete_btn_confirm: "¿Tem certeza?" # Tem certeza de remover o capítulo? Todas as traduções serão perdidas para sempre.
+        delete_btn_confirm: "Tem certeza de remover o capítulo? Todas as traduções serão perdidas para sempre."
       chapter_images_title: "Imagens do capítulo:"
       sort_chapter_images_by_filenames_btn: "Arrumar imagens do capítulo por seu nome"
       sort_chapter_images_by_filenames_help_html: >
@@ -37,4 +37,4 @@ pt:
             "ficheiro_11.jpg"
           </li>
         </ol>
-      # trashed_chapter_images_title: "Imagens do capítulo no lixo:"
+      trashed_chapter_images_title: "Imagens do capítulo no lixo:"
