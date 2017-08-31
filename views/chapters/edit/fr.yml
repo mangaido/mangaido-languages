@@ -13,7 +13,7 @@ fr:
         delete_btn:
           mobile: ""
           desktop: "Effacer"
-        delete_btn_confirm: "Etes-vous sûr de vouloir supprimer ce chapitre? TOUTES LES TRADUCTIONS DE CE CHAPITRE SERONT PERDUS POUR TOUJOURS!!!
+        delete_btn_confirm: "Etes-vous sûr de vouloir supprimer ce chapitre? TOUTES LES TRADUCTIONS DE CE CHAPITRE SERONT PERDUS POUR TOUJOURS!!!"
       chapter_images_title: "Images du chapitre:"
       sort_chapter_images_by_filenames_btn: "Ordonner les images par nom"
       sort_chapter_images_by_filenames_help_html: >
