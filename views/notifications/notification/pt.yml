@@ -14,4 +14,5 @@ pt:
         LIKE_html: "%{who} gosta de seu %{what}"
         COMMENT_html: "%{who} comentou a %{what}"
         FOLLOW_html: "%{who} está seguindo agora"
+        # MENTION_html: "%{who} mentioned you in a %{what}"
       time_ago: "Faz %{time_ago}"

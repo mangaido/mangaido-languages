@@ -14,4 +14,5 @@ ru:
         LIKE_html: "%{who} нравится %{what}"
         COMMENT_html: "%{who} прокомментировал %{what}"
         FOLLOW_html: "%{who} подписался на вас"
+        # MENTION_html: "%{who} mentioned you in a %{what}"
       time_ago: "%{time_ago} назад"

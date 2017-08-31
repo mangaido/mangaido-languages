@@ -14,4 +14,5 @@ ja:
         LIKE_html: "%{who}さんが%{what}を気に入っています。"
         COMMENT_html: "%{who}さんが%{what}をコミットしました。"
         FOLLOW_html: "%{who}さんがフォローしました。"
+        # MENTION_html: "%{who} mentioned you in a %{what}"
       time_ago: "%{time_ago}前"
