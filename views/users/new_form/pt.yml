@@ -1,9 +1,9 @@
 pt:
   users:
     new_form:
-      name_label: "Nome" # Como você quer ser conhecido? (3 - 50 caracteres)
+      name_label: "Nome. Como você quer ser conhecido? (3 - 50 caracteres)"
       email_label: "E-mail"
-      password_label: "Senha"
+      password_label: "Senha (3 - 50 caracteres)"
       password_confirmation_label: "Confirmar senha"
       promo_code_label: "Código promocional (Opcional)"
       register_btn: "Criar uma conta"
