@@ -1,4 +1,4 @@
 pt:
   chapter_images:
     my_gallery_item:
-      delete_btn_confirm: "Tem certeza?" # Tem certeza de mover a imagem do capítulo para o lixo? lembre-se que as imagens do capítulo pode ser associado a traduções.
+      delete_btn_confirm: "Tem certeza de mover a imagem do capítulo para o lixo? lembre-se que as imagens do capítulo pode ser associado a traduções."
