@@ -13,7 +13,7 @@ es:
         delete_btn:
           mobile: "Eliminar"
           desktop: "Eliminar"
-        delete_btn_confirm: "¿Estás seguro?" # ¿Seguro que desea eliminar este capítulo? ¡TODAS LAS TRADUCCIONES PARA ESTE CAPÍTULO SERÁN PERDIDAS PARA SIEMPRE!
+        delete_btn_confirm: "¿Seguro que desea eliminar este capítulo? ¡TODAS LAS TRADUCCIONES PARA ESTE CAPÍTULO SERÁN PERDIDAS PARA SIEMPRE!"
       chapter_images_title: "Imágenes del capítulo:"
       sort_chapter_images_by_filenames_btn: "Ordenar imágenes del capítulo por nombre"
       sort_chapter_images_by_filenames_help_html: >
@@ -37,4 +37,4 @@ es:
             "archivo_11.jpg"
           </li>
         </ol>
-      # trashed_chapter_images_title: "Imágenes del capítulo en la papelera:"
+      trashed_chapter_images_title: "Imágenes del capítulo en la papelera:"
