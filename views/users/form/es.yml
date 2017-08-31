@@ -1,7 +1,7 @@
 es:
   users:
     form:
-      name_label: "¿Cómo quieres ser conocido? (3 - 50 carácteres)"
+      name_label: "Nombre. ¿Cómo quieres ser conocido? (3 - 50 carácteres)"
       uname_label: " Nombre de tu direccion URL. Por ejemplo, es/u/hana_ueda (3 - 50 carácteres)"
       email_label: "E-mail"
       change_password_btn: "Cambiar contraseña"
