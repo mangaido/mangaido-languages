@@ -11,8 +11,8 @@ es:
       User: "perfil"
       Noodle: "fideo"
       code:
-        LIKE_html: "%{who} le gusta tu %{what}"
+        LIKE_html: "A %{who} le gusta tu %{what}"
         COMMENT_html: "%{who} comentó tu %{what}"
-        FOLLOW_html: "%{who} te sigue"
-        # MENTION_html: "%{who} mentioned you in a %{what}"
+        FOLLOW_html: "Ahora %{who} te sigue"
+        MENTION_html: "%{who} te mencionó en un %{what}"
       time_ago: "Hace %{time_ago}"
