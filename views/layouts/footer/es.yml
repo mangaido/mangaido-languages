@@ -19,19 +19,19 @@ es:
         michal:
           position: "Co-fundador"
         choux:
-          position: "Embajadora francés"
+          position: "Embajadora francesa"
         makkusu:
           position: "Embajador japonés"
         kokko:
           position: "Embajador japonés"
         polaczarlin:
-          position: "Especialista en soporte del equipo"
+          position: "Especialista de soporte"
         pusproject:
-          position: "Embajadora indonesio"
+          position: "Embajadora indonesa"
         uedahana:
           position: "Embajadora hispanohablante y portuguesa"
-        # supertrivialperson:
-        #   position: "Embajadora rusa"
+        supertrivialperson:
+          position: "Embajadora rusa"
       menu:
         earn_money_with_us_btn: "¡Gana dinero con nosotros!"
         terms_of_service_btn: "Términos de servicio"
