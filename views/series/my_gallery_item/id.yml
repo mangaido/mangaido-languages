@@ -1,4 +1,4 @@
 id:
   series:
     my_gallery_item:
-      delete_btn_confirm: "Ingin dihapus?" # Are you sure you want to delete this comic series? ALL THE TRANSLATIONS ASSOCIATED TO IT WILL BE LOST FOREVER!!!
+      delete_btn_confirm: "Ingin menghapus serial komik ini? MAKA SEMUA TERJEMAHAN AKAN HILANG SELAMANYA!!!" 
