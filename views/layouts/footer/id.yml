@@ -8,7 +8,7 @@ id:
       mangaido_logo: "Mangaido"
       youtube_btn: "Mangaido di YouTube"
       tumblr_btn: "Mangaido di Tumblr"
-      crew_title: "Crew:"
+      crew_title: "Kru:"
       crew:
         mangaido:
           position: "Profil Resmi"
@@ -19,19 +19,19 @@ id:
         michal:
           position: "Co-founder"
         choux:
-          position: "Duta Bicara-Bahasa Perancis"
+          position: "Perwakilan Ahli Bicara-Bahasa Perancis"
         makkusu:
-          position: "Duta dari jepang"
+          position: "Perwakilan dari jepang"
         kokko:
-          position: "Duta dari jepang"
+          position: "Perwakilan dari jepang"
         polaczarlin:
           position: "Team Support Specialist"
         pusproject:
-          position: "Duta dari Indonesia"
-        # uedahana:
-        #   position: "Ambassador of Spanish and Portuguese-speaking Users"
-        # supertrivialperson:
-        #   position: "Ambassador of Russian-speaking Users"
+          position: "Perwakilan dari Indonesia"
+        uedahana:
+           position: "Perwakilan Ahli Bicara-Bahasa Spanyol dan Portugis"
+        supertrivialperson:
+           position: "Perwakilan Ahli Bicara-Bahasa Rusia"
       menu:
         earn_money_with_us_btn: "Dapatkan Keuntungan bersama!"
         terms_of_service_btn: "Kebijakan Pelayanan"
