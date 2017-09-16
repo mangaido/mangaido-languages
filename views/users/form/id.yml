@@ -1,12 +1,12 @@
 id:
   users:
     form:
-      name_label: "Nama" # Display name (3 - 50 characters)
-      # uname_label: "Unique user name (3 - 50 characters)"
+      name_label: "Nama tampilan (3- 50 karakter)" 
+      uname_label: "Nama unik pengguna (3 - 50 karakter)"
       email_label: "Email"
       password_label: "Password (min. 6 karakter)"
       password_confirmation_label: "Konfirmasi password"
-      paypal_email_label: "PayPal email"
+      paypal_email_label: "email PayPal"
       paypal_email_help_btn: "Info lebih lanjut"
       paypal_email_help_text_html: >
         Atur email PayPal agar kami memudahkan Anda dalam bertransaksi.
