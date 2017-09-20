@@ -1,1 +1,69 @@
 id:
+  breadcrumbs:
+    root: "Beranda"
+    artbook_images:
+      index: "Karya"
+      edit: "Edit: %{title}"
+      new: "Baru"
+    artbooks:
+      edit_all: "Edit "
+      edit: "Edit: %{title}"
+      new: "Tambah buku"
+      show: "%{title} Buku gambar"
+    chapter_images:
+      new: "Tambah gambar"
+    chapters:
+      edit: "Edit chapter"
+      new: "Tambahkan chapter"
+    conversations:
+      index: "Kotak surat"
+      show: "Percakapan"
+    episodes:
+      new: "Tambahkan episode"
+      edit: "Edit episode"
+    messages:
+      new: "Percakapan baru"
+    noodles:
+      edit: "Edit noodle"
+      index: "Ramen"
+      my_index: "noodleku"
+      new: "Tambah noodle"
+    novels:
+      index: "Novel"
+      new: "Tambahkan novel"
+      edit: "Edit novel"
+      edit_all: "Edit novel"
+      user_novels: "Novelis"
+    users:
+      artbooks: "Kreator"
+      authors: "Pengarang"
+      change_password: "ubah password"
+      dashboard: "Dasbor"
+      edit: "Edit profil %{user_name}"
+      index: "Pengguna"
+      series: "Serial pengguna"
+    payments:
+      index: "Pembayaran"
+      new: "Beli koin"
+    series:
+      edit: "Edit serial"
+      edit_all: "Edit semua serial"
+      for_adults: "Untuk dewasa"
+      index: "Serial komik"
+      new: "Tambah Serial"
+    static_pages:
+      comiket: "Comiket"
+      earn_money_with_us: "Dapatkan keuntungan bersama!"
+      privacy_policy: "Privasi"
+      search: "Cari hasil"
+      terms_of_service: "Kebijakan pelayanan"
+      translate_mangaido_to_your_language: "Terjemahkan mangaido dalam bahasamu"
+    transactions:
+      chapter_purchases: "Pembelian chapter"
+      chapter_sales: "Penjualan chapter"
+      donations_sent: "Pengiriman donasi"
+      donations_received: "Penerimaan donasi"
+    translations:
+      edit: "Edit: terjemahan %{language_name}"
+    withdrawals:
+      index: "Penarikan"

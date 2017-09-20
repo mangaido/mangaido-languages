@@ -12,6 +12,6 @@ id:
       delete_btn:
         mobile: ""
         desktop: "Hapus"
-      # delete_btn_confirm: "Are you sure you want to delete this comic series? ALL THE TRANSLATIONS ASSOCIATED TO IT WILL BE LOST FOREVER!!!"
+      delete_btn_confirm: "Ingin menghapus serial komik ini? MAKA SEMUA TERJEMAHAN AKAN HILANG SELAMANYA!!!"
       chapters_title: "Chapter:"
 

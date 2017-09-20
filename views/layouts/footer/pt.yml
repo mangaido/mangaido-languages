@@ -30,8 +30,8 @@ pt:
           position: "Embaixatriz indonésia"
         uedahana:
           position: "Embaixatriz espanhola e portuguesa"
-        # supertrivialperson:
-        #   position: "Embaixatriz russa"
+        supertrivialperson:
+          position: "Embaixatriz russa"
       menu:
         earn_money_with_us_btn: "¡Ganhar dinheiro com nós!"
         terms_of_service_btn: "Termos de Serviço"
