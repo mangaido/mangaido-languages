@@ -9,7 +9,7 @@ id:
       edit_all: "Edit "
       edit: "Edit: %{title}"
       new: "Tambah buku"
-      show: "%{title} Buku gambar
+      show: "%{title} Buku gambar"
     chapter_images:
       new: "Tambah gambar"
     chapters:
@@ -64,6 +64,6 @@ id:
       donations_sent: "Pengiriman donasi"
       donations_received: "Penerimaan donasi"
     translations:
-      edit: "Edit: terjemahan %{language_name} "
+      edit: "Edit: terjemahan %{language_name}"
     withdrawals:
       index: "Penarikan"
