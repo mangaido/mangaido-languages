@@ -1,4 +1,4 @@
 id:
   chapter_images:
     my_gallery_item:
-      delete_btn_confirm: "Ingin dihapus?" # Are you sure you want to move this chapter image to trash? Remember that this chapter images could have translations associated to it.
+      delete_btn_confirm: "Ingin Menghapus gambar chapter? Perlu diingat  bahwa terjemahan pada gambar chapter tersebut juga akan terhapus" 

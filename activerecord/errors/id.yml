@@ -9,8 +9,8 @@ id:
       models:
         artbook_image:
           image_too_big: "Gambar Artbook harus berukuran kurang dari %{size}"
-         badge:
-           icon_too_big: "Ukuran ikon harus kurang dari %{size}"
+        badge:
+          icon_too_big: "Ukuran ikon harus kurang dari %{size}"
         chapter:
           image_too_big: "Gambar episode harus berukuran kurang dari %{size}"
           too_many_authorized_users: "Episode ini memiliki terlalu banyak pengguna yang terhubung"

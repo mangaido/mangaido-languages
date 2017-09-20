@@ -12,7 +12,7 @@ pt:
       Noodle: "macarrão"
       code:
         LIKE_html: "%{who} gosta de seu %{what}"
-        COMMENT_html: "%{who} comentou a %{what}"
-        FOLLOW_html: "%{who} está seguindo agora"
-        # MENTION_html: "%{who} mentioned you in a %{what}"
+        COMMENT_html: "%{who} comentou seu %{what}"
+        FOLLOW_html: "Agora %{who} está seguindo você"
+        MENTION_html: "%{who} menciono você em %{what}"
       time_ago: "Faz %{time_ago}"
