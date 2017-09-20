@@ -12,7 +12,4 @@ fr:
         edit_my_comic_series_btn:
           mobile: "Modifier"
           desktop: "Modifier mes mangas"
-        for_adults_btn:
-          mobile: "+18"
-          desktop: "Pour adultes"
       translations_title: "Traductions"

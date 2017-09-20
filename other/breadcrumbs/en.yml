@@ -49,6 +49,7 @@ en:
       edit: "Edit series"
       edit_all: "Edit my all series"
       for_adults: "For adults"
+      home: "Comic series"
       index: "Comic series"
       new: "Add new series"
     static_pages:
@@ -64,6 +65,7 @@ en:
       donations_sent: "Donations sent"
       donations_received: "Donations received"
     translations:
+      index: "Translations"
       edit: "Edit: %{language_name} translation"
     withdrawals:
       index: "Withdrawals"

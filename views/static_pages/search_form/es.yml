@@ -13,7 +13,4 @@ es:
         users_btn: "Usuarios"
         novels_btn: "Novelas"
         noodles_btn: "Fideos"
-      adult_filter:
-        safe_for_children_label: "Seguro para niños"
-        for_adults_label: "Para adultos"
-        all_label: "Todo"
+      for_adults_btn: "Para adultos"

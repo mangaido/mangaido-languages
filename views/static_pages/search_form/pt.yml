@@ -13,7 +13,4 @@ pt:
         users_btn: "Usuarios"
         novels_btn: "Novelas"
         noodles_btn: "Macarrão"
-      adult_filter:
-        safe_for_children_label: "Seguro para crianças"
-        for_adults_label: "Para adultos"
-        all_label: "Todo"
+      for_adults_btn: "Para adultos"

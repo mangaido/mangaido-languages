@@ -2,6 +2,7 @@ ja:
   static_pages:
     home:
       meta_title: "ホーム画面"
+      # slogan: "BEST COMIC SERIES & NOVELS from all over the world!"
       translations_section_title: "最近の翻訳"
       translations_section_more_btn: "翻訳について"
       comic_series_section_title: "マンガシリーズ"

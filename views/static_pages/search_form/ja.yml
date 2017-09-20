@@ -13,7 +13,4 @@ ja:
         users_btn: "ユーザ"
         novels_btn: "小説"
         noodles_btn: "ラーメン"
-      adult_filter:
-        safe_for_children_label: "全年齢対象"
-        for_adults_label: "18禁"
-        all_label: "全て"
+      for_adults_btn: "18禁"

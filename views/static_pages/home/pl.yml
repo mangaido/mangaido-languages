@@ -2,6 +2,7 @@ pl:
   static_pages:
     home:
       meta_title: "Strona Główna"
+      slogan: "NAJLEPSZE KOMIKSY I NOWELE z całego świata!"
       translations_section_title: "Ostatnie Tłumaczenia"
       translations_section_more_btn: "Więcej tłumaczeń"
       comic_series_section_title: "Komiksy"

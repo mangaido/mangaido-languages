@@ -15,7 +15,4 @@ ru:
         users_btn: "Пользователи"
         novels_btn: "Новеллы"
         noodles_btn: "Лапша"
-      adult_filter:
-        safe_for_children_label: "Подойдет для детей"
-        for_adults_label: "Для взрослых"
-        all_label: "Все"
+      for_adults_btn: "Для взрослых"

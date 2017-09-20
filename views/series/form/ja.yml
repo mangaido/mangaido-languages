@@ -10,6 +10,7 @@ ja:
       is_for_adults_yes_label: "18禁"
       is_for_adults_no_label: "全年齢対象"
       language_label: "言語"
+      # genres_label: "Genres"
       cover_label: "カバー (任意)"
       remove_cover_yes_label: "表紙を外す"
       remove_cover_no_label: "表紙を戻す"

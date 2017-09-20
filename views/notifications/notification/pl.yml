@@ -14,5 +14,5 @@ pl:
         LIKE_html: "Użytkownik %{who} polubił %{what}"
         COMMENT_html: "Użytkownik %{who} skomentował %{what}"
         FOLLOW_html: "Użytkownik %{who} zasubskrybował twój profil"
-        MENTION_html: "%Użytkownik {who} wspomniał Cię w: %{what}"
+        MENTION_html: "Użytkownik %{who} wspomniał Cię w: %{what}"
       time_ago: "%{time_ago} temu"

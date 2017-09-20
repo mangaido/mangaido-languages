@@ -12,7 +12,4 @@ pt:
         edit_my_comic_series_btn:
           mobile: "Editar meus comics"
           desktop: "Editar meus comics"
-        for_adults_btn:
-          mobile: "+18"
-          desktop: "Para adultos (+18)"
       translations_title: "Traduções"

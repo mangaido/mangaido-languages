@@ -49,6 +49,7 @@ ja:
       edit: "マンガシリーズを編集"
       edit_all: "全マンガシリーズを編集"
       for_adults: "18禁"
+      home: "マンガシリーズ"
       index: "マンガシリーズ"
       new: "新しいマンガシリーズを追加"
     static_pages:
@@ -64,6 +65,7 @@ ja:
       donations_sent: "寄付の贈与"
       donations_received: "寄付の受け取り"
     translations:
+      # index: "Translations"
       edit: "編集: %{language_name}"
     withdrawals:
       index: "出金"

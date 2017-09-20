@@ -12,7 +12,4 @@ pl:
         edit_my_comic_series_btn:
           mobile: "Zarządzaj"
           desktop: "Zarządzaj komiksami"
-        for_adults_btn:
-          mobile: "+18"
-          desktop: "Dla dorosłych"
       translations_title: "Tłumaczenia"

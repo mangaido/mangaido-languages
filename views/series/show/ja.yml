@@ -30,9 +30,14 @@ ja:
         views:
           one: "閲覧%{count}回数"
           other: "閲覧%{count}回数"
+        # genres: "Genres:"
         for_adults: "18禁"
         safe_for_children: "全年齢対象"
-        language: "Language: %{language_name}"
+        language: "Language:"
         translations: "翻訳:"
         translation_language: "%{language_name} (%{count})"
+      # chart:
+      #   title_label: "Views in past 6 weeks"
+      #   x_axis_label: "Weeks ago"
+      #   y_axis_label: "Views"
       comments_title: "コメント:"

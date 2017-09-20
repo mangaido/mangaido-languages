@@ -12,7 +12,4 @@ ja:
         edit_my_comic_series_btn:
           mobile: "編集"
           desktop: "マンガシリーズを編集"
-        for_adults_btn:
-          mobile: "+18"
-          desktop: "18禁"
       translations_title: "翻訳"

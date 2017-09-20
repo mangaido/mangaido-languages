@@ -30,9 +30,14 @@ pt:
         views:
           one: "%{count} visualização"
           other: "%{count} visualizações"
+        # genres: "Genres:"
         for_adults: "Para adultos (+18)"
         safe_for_children: "Seguro para crianças"
-        language: "Lingua: %{language_name}"
+        language: "Lingua:"
         translations: "Descrição:"
         translation_language: "%{language_name} (%{count})"
+      # chart:
+      #   title_label: "Views in past 6 weeks"
+      #   x_axis_label: "Weeks ago"
+      #   y_axis_label: "Views"
       comments_title: "Comentarios:"

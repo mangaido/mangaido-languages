@@ -30,9 +30,14 @@ id:
         views:
           one: "%{count} dilihat"
           other: "%{count} dilihat"
+        # genres: "Genres:"
         for_adults: "For adults"
         safe_for_children: "Aman untuk dibaca"
-        language: "Bahasa: %{language_name}"
+        language: "Bahasa:"
         translations: "Terjemahan:"
         translation_language: "%{language_name} (%{count})"
+      # chart:
+      #   title_label: "Views in past 6 weeks"
+      #   x_axis_label: "Weeks ago"
+      #   y_axis_label: "Views"
       comments_title: "Komentar:"

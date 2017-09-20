@@ -30,9 +30,14 @@ en:
         views:
           one: "%{count} view"
           other: "%{count} views"
+        genres: "Genres:"
         for_adults: "For adults"
         safe_for_children: "Safe for children"
-        language: "Language: %{language_name}"
+        language: "Language:"
         translations: "Translations:"
         translation_language: "%{language_name} (%{count})"
+      chart:
+        title_label: "Views in past 6 weeks"
+        x_axis_label: "Weeks ago"
+        y_axis_label: "Views"
       comments_title: "Comments:"

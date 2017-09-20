@@ -48,6 +48,7 @@ hu:
       edit: "Képregény szerkesztése"
       edit_all: "Az összes képregény szerkesztése"
       for_adults: "Felnőtt tartalom"
+      home: "Képregények"
       index: "Képregények"
       new: "Új képregény hozzáadása."
     static_pages:
@@ -63,6 +64,7 @@ hu:
       donations_sent: "Adomány elküldve"
       donations_received: "Adomány kézbesítve"
     translations:
+      # index: "Translations"
       edit: "Edit: %{language_name} fordítás"
     withdrawals:
       index: "Withdrawals"

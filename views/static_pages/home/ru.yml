@@ -2,6 +2,7 @@ ru:
   static_pages:
     home:
       meta_title: "Главная страница"
+      # slogan: "BEST COMIC SERIES & NOVELS from all over the world!"
       translations_section_title: "Новые переводы"
       translations_section_more_btn: "Другие переводы"
       comic_series_section_title: "Комиксы"

@@ -12,7 +12,4 @@ ru:
         edit_my_comic_series_btn:
           mobile: "Редактировать мои комиксы"
           desktop: "Редактировать мои комиксы"
-        for_adults_btn:
-          mobile: "+18"
-          desktop: "Для взрослых"
       translations_title: "Переводы"

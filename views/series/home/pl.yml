@@ -1,0 +1,24 @@
+pl:
+  series:
+    home:
+      meta_title: "Komiksy"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Dodaj"
+          desktop: "Dodaj nowy komiks"
+        my_comic_series_btn:
+          mobile: "Moje"
+          desktop: "Moje komiksy"
+        edit_my_comic_series_btn:
+          mobile: "Zarządzaj"
+          desktop: "Zarządzaj komiksami"
+      translations_title: "Tłumaczenia"
+      translations_more_btn: "Więcej tłumaczeń"
+      recently_popular_title: "Ostatnio popularne"
+      recently_popular_more_btn: "Więcej ostatnio popularnych"
+      most_popular_title: "Najbardziej popularne"
+      most_popular_more_btn: "Więcej najbardziej popularnych"
+      recently_updated_title: "Ostatnio aktualizowane"
+      recently_updated_more_btn: "Więcej osatnio aktualizowanych"
+      new_title: "Nowe"
+      new_more_btn: "Więcej nowych"

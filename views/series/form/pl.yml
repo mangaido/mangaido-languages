@@ -10,6 +10,7 @@ pl:
       is_for_adults_yes_label: "Tylko dla dorosłych"
       is_for_adults_no_label: "Bezpieczny dla dzieci"
       language_label: "Język"
+      genres_label: "Gatunki"
       cover_label: "Okładka (Opcjonalnie)"
       remove_cover_yes_label: "Usuń tę okładkę"
       remove_cover_no_label: "Zostaw tę okładkę"

@@ -1,0 +1,24 @@
+es:
+  series:
+    home:
+      meta_title: "Comics"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Agregar comic"
+          desktop: "Agregar comic"
+        my_comic_series_btn:
+          mobile: "Mis comics"
+          desktop: "Mis comics"
+        edit_my_comic_series_btn:
+          mobile: "Editar mis comics"
+          desktop: "Editar mis comics"
+      translations_title: "Traducciones"
+      # translations_more_btn: "More translations"
+      # recently_popular_title: "Recently popular"
+      # recently_popular_more_btn: "More recently popular"
+      # most_popular_title: "Most popular"
+      # most_popular_more_btn: "More most popular"
+      # recently_updated_title: "Recently updated"
+      # recently_updated_more_btn: "More recently updated"
+      # new_title: "New"
+      # new_more_btn: "More new"

@@ -1,0 +1,24 @@
+ru:
+  series:
+    home:
+      meta_title: "Комиксы"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Создать новый"
+          desktop: "Создать новый комикс"
+        my_comic_series_btn:
+          mobile: "Мои комиксы"
+          desktop: "Мои комиксы"
+        edit_my_comic_series_btn:
+          mobile: "Редактировать мои комиксы"
+          desktop: "Редактировать мои комиксы"
+      translations_title: "Переводы"
+      # translations_more_btn: "More translations"
+      # recently_popular_title: "Recently popular"
+      # recently_popular_more_btn: "More recently popular"
+      # most_popular_title: "Most popular"
+      # most_popular_more_btn: "More most popular"
+      # recently_updated_title: "Recently updated"
+      # recently_updated_more_btn: "More recently updated"
+      # new_title: "New"
+      # new_more_btn: "More new"

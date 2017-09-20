@@ -49,6 +49,7 @@ pl:
       edit: "Edytuj"
       edit_all: "Edytuj wszystkie"
       for_adults: "Dla dorosłych"
+      home: "Komiksy"
       index: "Komiksy"
       new: "Dodaj nowy"
     static_pages:
@@ -64,6 +65,7 @@ pl:
       donations_sent: "Wysłane dotacje"
       donations_received: "Dotacje otrzymane"
     translations:
+      index: "Tłumaczenia"
       edit: "Edycja: %{language_name}"
     withdrawals:
       index: "Wypłaty"

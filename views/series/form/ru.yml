@@ -10,6 +10,7 @@ ru:
       is_for_adults_yes_label: "Да"
       is_for_adults_no_label: "Нет"
       language_label: "Язык"
+      # genres_label: "Genres"
       cover_label: "Обложка (Необязательно)"
       remove_cover_yes_label: "Удалить обложку"
       remove_cover_no_label: "Оставить как есть"

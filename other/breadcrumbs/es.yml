@@ -49,6 +49,7 @@ es:
       edit: "Editar comic"
       edit_all: "Editar todos mis comics"
       for_adults: "Para adultos"
+      home: "Comics"
       index: "Comics"
       new: "Agregar comic"
     static_pages:
@@ -64,6 +65,7 @@ es:
       donations_sent: "Donaciones enviadas"
       donations_received: "Donaciones recibidas"
     translations:
+      # index: "Translations"
       edit: "Editar traducción en: %{language_name}"
     withdrawals:
       index: "Retiradas"

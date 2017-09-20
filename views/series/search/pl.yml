@@ -1,0 +1,17 @@
+pl:
+  series:
+    search:
+      adult_filter:
+        safe_for_children_label: "Bezpieczne dla dzieci"
+        for_adults_label: "Dla dorosłych"
+        all_label: "Wszystko"
+      order_by_filter:
+        choose_order_placeholder: "Wybierz kolejność"
+        recently_popular_label: "Ostatnio popularne"
+        most_popular_label: "Najbardziej popularne"
+        recently_updated_label: "Ostatnio aktualizowane"
+        new_label: "Nowe"
+      genres_filter:
+        choose_genres_placeholder: "Wybierz gatunek"
+      language_filter:
+        choose_language_placeholder: "Wybierz język"

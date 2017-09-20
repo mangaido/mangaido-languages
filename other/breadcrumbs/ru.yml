@@ -49,6 +49,7 @@ ru:
       edit: "Редактировать комикс"
       edit_all: "Редактировать мои комиксы"
       for_adults: "Для взрослых"
+      home: "Комиксы"
       index: "Комиксы"
       new: "Создать новый комикс"
     static_pages:
@@ -64,6 +65,7 @@ ru:
       donations_sent: "Перечисленные средства"
       donations_received: "Полученные средства"
     translations:
+      # index: "Translations"
       edit: "Редактировать: %{language_name} перевод"
     withdrawals:
       index: "Вывод средств"

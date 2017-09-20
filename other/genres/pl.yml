@@ -1,0 +1,16 @@
+pl:
+  genres:
+    none: "Żaden"
+    action:
+      name: "Akcja"
+    bl:
+      name: "BL"
+    fantasy_sci_fi:
+      name: "Fantasy/Sci-Fi"
+    gl:
+      name: "GL"
+    romance:
+      name: "Romans"
+    thriller:
+      name: "Thriller"
+

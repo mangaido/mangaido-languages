@@ -2,6 +2,7 @@ pt:
   static_pages:
     home:
       meta_title: "Inicio"
+      # slogan: "BEST COMIC SERIES & NOVELS from all over the world!"
       translations_section_title: "Traduções recentes"
       translations_section_more_btn: "Mais traduções"
       comic_series_section_title: "Comics"

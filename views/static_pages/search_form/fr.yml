@@ -13,7 +13,4 @@ fr:
         users_btn: "Utilisateurs"
         novels_btn: "Fictions"
         noodles_btn: "Noodles"
-      adult_filter:
-        safe_for_children_label: "Pour tous"
-        for_adults_label: "Pour adultes"
-        all_label: "Tout"
+      for_adults_btn: "Pour adultes"

@@ -13,7 +13,4 @@ en:
         users_btn: "Users"
         novels_btn: "Novels"
         noodles_btn: "Noodles"
-      adult_filter:
-        safe_for_children_label: "Safe for children"
-        for_adults_label: "For adults"
-        all_label: "All"
+      for_adults_btn: "For adults"

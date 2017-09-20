@@ -10,6 +10,7 @@ es:
       is_for_adults_yes_label: "Para adultos (+18)"
       is_for_adults_no_label: "Seguro para niños"
       language_label: "Idioma"
+      # genres_label: "Genres"
       cover_label: "Portada (Opcional)"
       remove_cover_yes_label: "Remover esta portada"
       remove_cover_no_label: "Dejar postada como está"

@@ -49,6 +49,7 @@ fr:
       edit: "Modifier les mangas"
       edit_all: "Modifier tous mes mangas"
       for_adults: "Pour les adultes"
+      home: "Mangas"
       index: "Mangas"
       new: "Ajouter un nouveau manga"
     static_pages:
@@ -64,6 +65,7 @@ fr:
       donations_sent: "Donation donnée"
       donations_received: "Donation reçue"
     translations:
+      # index: "Translations"
       edit: "Modifier: la traduction en %{language_name}"
     withdrawals:
       index: "Retraits"

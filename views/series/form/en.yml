@@ -10,6 +10,7 @@ en:
       is_for_adults_yes_label: "Only for adults"
       is_for_adults_no_label: "Safe for children"
       language_label: "Language"
+      genres_label: "Genres"
       cover_label: "Cover (Optional)"
       remove_cover_yes_label: "Remove this cover"
       remove_cover_no_label: "Leave cover as it is"

@@ -1,0 +1,16 @@
+en:
+  genres:
+    none: "None"
+    action:
+      name: "Action"
+    bl:
+      name: "BL"
+    fantasy_sci_fi:
+      name: "Fantasy/Sci-Fi"
+    gl:
+      name: "GL"
+    romance:
+      name: "Romance"
+    thriller:
+      name: "Thriller"
+
