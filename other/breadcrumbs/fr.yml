@@ -65,7 +65,7 @@ fr:
       donations_sent: "Donation donnée"
       donations_received: "Donation reçue"
     translations:
-      # index: "Translations"
+      index: "Traductions"
       edit: "Modifier: la traduction en %{language_name}"
     withdrawals:
       index: "Retraits"
