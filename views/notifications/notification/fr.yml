@@ -14,5 +14,5 @@ fr:
         LIKE_html: "%{who} aime votre %{what}"
         COMMENT_html: "%{who} a commenté votre %{what}"
         FOLLOW_html: "%{who} est maintenant fan de vous!"
-        # MENTION_html: "%{who} mentioned you in a %{what}"
+        MENTION_html: "%{who} vous a mentionné dans %{what}"
       time_ago: "il y a %{time_ago}"
