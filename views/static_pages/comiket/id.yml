@@ -1,1 +1,45 @@
 id:
+  static_pages:
+    comiket:
+      meta_title: "Selamat Datang para Seniman Comiket"
+      title: "Selamat Datang para Seniman Comiket"
+      text_html: "
+        <p>
+          <b>
+            Hi!
+          </b>
+        </p>
+
+        <p>
+          Jika kalian berada disini, berarti kalian menemukan kami di Comiket. kami menjelajah ke seluruh dunia dari Eropa untuk menunjukan website manga kami dan mendorong untuk menunjukan hasil karyamu disini. kami harap website kami dapat membantumu meraih para anggota yang berada disetiap bagian dari seluruh dunia yang berterimakasih kepada penerjemah kami dan komunitas internasional.
+        </p>
+
+        <p>
+          kami mengharapkan kalian untuk mencoba website kami. jika kamu mendaftar sekarang dengan menggunakan kode spesial ini, maka kamu akan mendapatkan \"Comiket badge\" yang mana pengguna lain dapat melihat.
+        </p>
+      "
+      code_label: "Kode Promo:"
+      sign_up_link: "Mendaftar!"
+      about_text_html: "
+        <p>
+          <b>
+            Tentang Mangaido:
+          </b>
+        </p>
+
+        <p>
+          Mangaido merupakan perangkat online untuk menerbitkan dan juga menjual komik maupun hasil karya. Pembaca dapat membantu para kreator dengan menerjemahkan sesuatu yang mereka nikmati ke bahasa asli mereka.
+        </p>
+
+        <p>
+          Kalian juga bisa membuat para pembaca mengeluarkan biaya untuk dapat mengakses episod. Mangaido akan menangani sisi teknis pembayaran dan penarikan serta membiarkan anda berkonsentrasi di bagian kreatifitas.
+        </p>
+
+        <p>
+          Kami menyukai komik yang bagus, dan senang memberi publisitas penulis pada Mangaido. Karena kami merupakan penggemar juga, kami senang berbicara dengan penulis dan pembaca komik lainnya, jadi jangan ragu untuk menghubungi kami dengan saran yang ingin anda lihat. Kami biasanya membuat hal itu terjadi. :)
+        </p>
+
+        <p>
+          Stay creative!
+        </p>
+      "
