@@ -1,1 +1,16 @@
 id:
+  static_pages:
+    search_form:
+      search_field_placeholder: "mencari..."
+      found_results:
+        one: "Menemukan %{count} hasil"
+        other: "Menemukan %{count} hasil"
+      page_x_of_y: "Halaman: %{x} of %{y}"
+      menu:
+        all_btn: "Semua"
+        artbook_images_btn: "Buku gambar"
+        series_btn: "Seri Komik"
+        users_btn: "Pengguna"
+        novels_btn: "Novel"
+        noodles_btn: "Noodles"
+      for_adults_btn: "Khusus Dewasa"
