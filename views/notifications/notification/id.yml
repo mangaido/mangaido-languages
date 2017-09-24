@@ -14,5 +14,5 @@ id:
         LIKE_html: "%{who} menyukai %{what}"
         COMMENT_html: "%{who} Mengomentari %{what}"
         FOLLOW_html: "%{who} Sekarang mengikutimu"
-        # MENTION_html: "%{who} mentioned you in a %{what}"
+        MENTION_html: "%{who} menyebut namamu di %{what}"
       time_ago: "%{time_ago} yang lalu"
