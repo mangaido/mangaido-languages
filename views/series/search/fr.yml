@@ -5,13 +5,13 @@ fr:
         safe_for_children_label: "Pour tous"
         for_adults_label: "Pour adultes"
         all_label: "Tout"
-      # order_by_filter:
-      #   choose_order_placeholder: "Choose order"
-      #   recently_popular_label: "Recently popular"
-      #   most_popular_label: "Most popular"
-      #   recently_updated_label: "Recently updated"
-      #   new_label: "New"
-      # genres_filter:
-      #   choose_genres_placeholder: "Choose genres"
-      # language_filter:
-      #   choose_language_placeholder: "Choose language"
+      order_by_filter:
+        choose_order_placeholder: "Choisir l'ordre"
+        recently_popular_label: "Populaires récemment"
+        most_popular_label: "Tops"
+        recently_updated_label: "Récemment mise à jour"
+        new_label: "Nouveaux"
+      genres_filter:
+        choose_genres_placeholder: "Choisir le genre"
+      language_filter:
+        choose_language_placeholder: "Choisir la langue"
