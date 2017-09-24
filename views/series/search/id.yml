@@ -1,1 +1,17 @@
 id:
+  series:
+    search:
+      adult_filter:
+        safe_for_children_label: "Untuk umum (default)"
+        for_adults_label: "Untuk dewasa"
+        all_label: "Semua"
+      order_by_filter:
+        choose_order_placeholder: "Pilih urutan"
+        recently_popular_label: "Populer baru-baru ini"
+        most_popular_label: "Terpopuler"
+        recently_updated_label: "Baru di update"
+        new_label: "Baru"
+      genres_filter:
+        choose_genres_placeholder: "Pilih genre"
+      language_filter:
+        choose_language_placeholder: "Pilih bahasa"
