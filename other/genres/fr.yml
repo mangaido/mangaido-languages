@@ -1,1 +1,15 @@
 fr:
+  genres:
+    none: "Aucun"
+    action:
+      name: "Action"
+    bl:
+      name: "Yaoi"
+    fantasy_sci_fi:
+      name: "Fantastique/Sci-Fi"
+    gl:
+      name: "Yuri"
+    romance:
+      name: "Romance"
+    thriller:
+      name: "Thriller"
