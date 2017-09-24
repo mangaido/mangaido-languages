@@ -10,7 +10,7 @@ fr:
       is_for_adults_yes_label: "Pour adultes"
       is_for_adults_no_label: "Pour tous"
       language_label: "Langue"
-      # genres_label: "Genres"
+      genres_label: "Genres"
       cover_label: "Couverture (Optionnelle)"
       remove_cover_yes_label: "Enlever la couverture"
       remove_cover_no_label: "Laisser la couverture comme ça"
