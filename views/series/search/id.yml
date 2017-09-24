@@ -2,7 +2,7 @@ id:
   series:
     search:
       adult_filter:
-        safe_for_children_label: "Untuk umum (default)"
+        safe_for_children_label: "Aman untuk dibaca (default)"
         for_adults_label: "Untuk dewasa"
         all_label: "Semua"
       order_by_filter:
