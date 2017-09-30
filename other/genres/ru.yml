@@ -1,6 +1,6 @@
 ru:
   genres:
-    none: "Нет"
+    none: ""
     action:
       name: "Экшен"
     bl:
