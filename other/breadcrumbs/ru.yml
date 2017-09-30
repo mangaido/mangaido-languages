@@ -65,7 +65,7 @@ ru:
       donations_sent: "Перечисленные средства"
       donations_received: "Полученные средства"
     translations:
-      # index: "Translations"
+      index: "Переводы"
       edit: "Редактировать: %{language_name} перевод"
     withdrawals:
       index: "Вывод средств"
