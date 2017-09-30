@@ -5,13 +5,13 @@ ru:
         safe_for_children_label: "Подойдет для детей"
         for_adults_label: "Для взрослых"
         all_label: "Все"
-      # order_by_filter:
-      #   choose_order_placeholder: "Choose order"
-      #   recently_popular_label: "Recently popular"
-      #   most_popular_label: "Most popular"
-      #   recently_updated_label: "Recently updated"
-      #   new_label: "New"
-      # genres_filter:
-      #   choose_genres_placeholder: "Choose genres"
-      # language_filter:
-      #   choose_language_placeholder: "Choose language"
+      order_by_filter:
+        choose_order_placeholder: "Выбрать категорию"
+        recently_popular_label: "Популярные сейчас"
+        most_popular_label: "Самые популярные"
+        recently_updated_label: "Недавно обновленные"
+        new_label: "Новые"
+      genres_filter:
+        choose_genres_placeholder: "Выбрать жанры"
+      language_filter:
+        choose_language_placeholder: "Выбрать язык"
