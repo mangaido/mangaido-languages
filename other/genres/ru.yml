@@ -1,1 +1,15 @@
 ru:
+  genres:
+    none: "Нет"
+    action:
+      name: "Экшен"
+    bl:
+      name: "Яой"
+    fantasy_sci_fi:
+      name: "Фэнтези/Фантастика"
+    gl:
+      name: "Юри"
+    romance:
+      name: "Романтика"
+    thriller:
+      name: "Триллер"
