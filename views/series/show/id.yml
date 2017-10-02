@@ -30,7 +30,7 @@ id:
         views:
           one: "%{count} dilihat"
           other: "%{count} dilihat"
-        genres: "Genre :"
+        genres: "Genre:"
         for_adults: "Untuk dewasa"
         safe_for_children: "Aman untuk dibaca"
         language: "Bahasa:"
