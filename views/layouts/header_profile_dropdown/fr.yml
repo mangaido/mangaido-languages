@@ -8,4 +8,5 @@ fr:
       my_novels: "Mes fictions"
       mailbox: "Boite mail"
       settings: "Paramètres"
+      # payments: "Payments"
       log_out: "Deconnection"

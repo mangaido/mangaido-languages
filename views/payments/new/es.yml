@@ -3,5 +3,15 @@ es:
     new:
       meta_title: "Comprar monedas"
       coin_packages_title: "Seleccionar el pack de monedas a comprar:"
-      calculation_label: "Equivalencia:"
       buy_btn: "Comprar"
+      # information_title: "Some info:"
+      # information_html: >
+      #   <p>
+      #     Each chapter on Mangaido can cost from %{chapter_min_cost} to %{chapter_max_cost} coins. The price of each chapter is set by the comics author.
+      #   </p>
+      #   <p>
+      #     After paying for coins you will automatically receive them on your Mangaido profile and you will be able to spend them on your favourite series.
+      #   </p>
+      #   <p>
+      #     You can also, if you want, make donations to send coins directly to your favourite artists without any fees.
+      #   </p>

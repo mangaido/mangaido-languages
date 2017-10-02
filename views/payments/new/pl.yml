@@ -3,5 +3,15 @@ pl:
     new:
       meta_title: "Zakup żetonów"
       coin_packages_title: "Wybierz paczkę żetonów:"
-      calculation_label: "Szybka kalkulacja:"
       buy_btn: "Kup"
+      information_title: "Dodatkowe informacje:"
+      information_html: >
+        <p>
+          Każdy odcinek na Mangaido może kosztować od %{chapter_min_cost} do %{chapter_max_cost} żetonów. Cenę każdego odcinka ustala jego autor.
+        </p>
+        <p>
+          Zakupione żetony zostaną automatycznie przelane na konto profilu zaraz po zakończeniu płatności na PayPal i będzie można ich użyć do zakupu swoich ulubionych komiksów.
+        </p>
+        <p>
+          Jeśli tylko chcesz, możesz też wspomóc dowolną sumą żetonów swoich ulubionych autorów bez żadnych kosztów przelewu.
+        </p>

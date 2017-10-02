@@ -1,0 +1,30 @@
+en:
+  coin_packages:
+    small: 
+      name: "XXS"
+    basic: 
+      name: "Basic"
+    standard: 
+      name: "Standard"
+    big: 
+      name: "Big"
+    super: 
+      name: "Super otaku"
+    100_coins: 
+      name: "Exactly 100"
+    200_coins: 
+      name: "Exactly 200"
+    300_coins: 
+      name: "Exactly 300"
+    400_coins: 
+      name: "Exactly 400"
+    500_coins: 
+      name: "Exactly 500"
+    600_coins: 
+      name: "Exactly 600"
+    700_coins: 
+      name: "Exactly 700"
+    800_coins: 
+      name: "Exactly 800"
+    900_coins: 
+      name: "Exactly 900"

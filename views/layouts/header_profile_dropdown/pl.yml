@@ -8,4 +8,5 @@ pl:
       my_novels: "Moje nowele"
       mailbox: "Skrzynka odbiorcza"
       settings: "Ustawienia"
+      # payments: "Payments"
       log_out: "Wyloguj się"

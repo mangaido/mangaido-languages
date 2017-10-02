@@ -1,0 +1,8 @@
+en:
+  payments:
+    coin_package:
+      price_label: "Price:"
+      calculation_label: "Quick calculation:"
+      you_can_buy_for_it_label:
+        one: "You can buy for it up to %{count} chapter"
+        other: "You can buy for it up to %{count} chapters"

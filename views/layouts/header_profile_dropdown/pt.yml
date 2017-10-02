@@ -8,4 +8,5 @@ pt:
       my_novels: "Minhas novelas"
       mailbox: "Caixa de correios"
       settings: "Configuração"
+      # payments: "Payments"
       log_out: "Sair"

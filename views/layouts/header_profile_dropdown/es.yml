@@ -8,4 +8,5 @@ es:
       my_novels: "Mis novelas"
       mailbox: "Buzón"
       settings: "Configuracion"
+      # payments: "Payments"
       log_out: "Cerrar sesión"
