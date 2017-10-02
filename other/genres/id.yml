@@ -1,1 +1,15 @@
 id:
+  genres:
+    none: "None"
+    action:
+      name: "Aksi"
+    bl:
+      name: "BL"
+    fantasy_sci_fi:
+      name: "Fantasi/Sci-Fi"
+    gl:
+      name: "GL"
+    romance:
+      name: "Romansa"
+    thriller:
+      name: "Thriller"
