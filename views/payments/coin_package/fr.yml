@@ -1,1 +1,8 @@
 fr:
+  payments:
+    coin_package:
+      price_label: "Prix:"
+      calculation_label: "Calcul rapide:"
+      you_can_buy_for_it_label:
+        one: "Vous pouvez acheter jusqu'à %{count} chapitre"
+        other: "Vous pouvez acheter jusqu'à %{count} chapitres"
