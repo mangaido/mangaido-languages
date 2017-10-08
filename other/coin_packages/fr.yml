@@ -1,1 +1,30 @@
 fr:
+  coin_packages:
+    small: 
+      name: "Mini pack"
+    basic: 
+      name: "Pack des débutants"
+    standard: 
+      name: "Pack des apprentis"
+    big: 
+      name: "Pack des confirmés"
+    super: 
+      name: "Pack de l'otaku ultime"
+    100_coins: 
+      name: "Exactement 100"
+    200_coins: 
+      name: "Exactement 200"
+    300_coins: 
+      name: "Exactement 300"
+    400_coins: 
+      name: "Exactement 400"
+    500_coins: 
+      name: "Exactement 500"
+    600_coins: 
+      name: "Exactement 600"
+    700_coins: 
+      name: "Exactement 700"
+    800_coins: 
+      name: "Exactement 800"
+    900_coins: 
+      name: "Exactement 900"
