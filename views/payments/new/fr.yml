@@ -4,14 +4,14 @@ fr:
       meta_title: "Acheter des pièces"
       coin_packages_title: "Sélectionner le pack de pièce:"
       buy_btn: "Acheter"
-      # information_title: "Some info:"
-      # information_html: >
-      #   <p>
-      #     Each chapter on Mangaido can cost from %{chapter_min_cost} to %{chapter_max_cost} coins. The price of each chapter is set by the comics author.
-      #   </p>
-      #   <p>
-      #     After paying for coins you will automatically receive them on your Mangaido profile and you will be able to spend them on your favourite series.
-      #   </p>
-      #   <p>
-      #     You can also, if you want, make donations to send coins directly to your favourite artists without any fees.
-      #   </p>
+      information_title: "Plus d'infos:"
+      information_html: >
+        <p>
+          Chaque chapitre sur Mangaido peuvent coûter entre %{chapter_min_cost} à %{chapter_max_cost} pièces. Le prix des chapitres est établi par l'auteur lui-même.
+        </p>
+        <p>
+          Après avoir acheté des pièces vous les recevrais automatiquement sur votre profil Mangaido et serez capable de les dépenser dans vos mangas préférés.
+        </p>
+        <p>
+          Vous pouvez aussi, si vous le voulez, faire des donations en envoyant des pièces directement à vos artistes préférés sans aucun frais.
+        </p>

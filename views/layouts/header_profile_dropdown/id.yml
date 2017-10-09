@@ -8,5 +8,5 @@ id:
       my_novels: "Novelku"
       mailbox: "Kotak surat"
       settings: "Pengaturan"
-      # payments: "Payments"
+      payments: "Pembayaran"
       log_out: "Keluar"
