@@ -5,12 +5,11 @@ en:
         %{series_title} - %{chapter_title} - comic series page
       translation_meta_title: >
         %{series_title} - %{chapter_title} - %{language_name} - comic series translation page
-      translations_btn: "Translations"
-      top_menu:
-        series_btn: "All chapters"
-      bottom_menu:
-        previous_chapter_btn: "Previous chapter"
+      menu:
+        prev_chapter_btn: "Previous chapter"
         next_chapter_btn: "Next chapter"
+        translations_btn: "Translations"
+      donate_btn: "Donate"
       settings:
         edit_chapter: "Edit this chapter"
         edit_series: "Edit this comic series"
@@ -18,4 +17,5 @@ en:
       author_label: "Author:"
       translator_label: "Translator:"
       series_label: "Series:"
-      gallery_item_title: "Ch. %{chapter_nr}"
+      gallery_title: "Chapters:"
+      related_series_title: "Related series:"

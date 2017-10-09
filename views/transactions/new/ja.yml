@@ -5,7 +5,7 @@ ja:
       title: "送金しますか?"
       chapter_price: "値段:"
       donation_title_html: "相手先: %{user_link}"
-      donation_price_title_html: "<b>百</b>コイン単位で送金額、送金相手を決めてください。"
+      donation_price_title_html: "<b>百</b>コイン単位で送金額、送金相手を決めてください。" # Insert below how many coins do you want to send to this user
       donation_summary_text_html: >
         <b>%giver_send%</b>コイン送金します。<br />
         %giver_balance%コイン所持<br />

@@ -5,7 +5,7 @@ ru:
       title: "Вы подтверждаете эту транзакцию?"
       chapter_price: "Цена:"
       donation_title_html: "Перечислить средства: %{user_link}"
-      donation_price_title_html: "Вставьте ниже, сколько <b>hundreds</b> монет вы хотите перечислить пользователю"
+      donation_price_title_html: "Вставьте ниже, сколько <b>hundreds</b> монет вы хотите перечислить пользователю" # Insert below how many coins do you want to send to this user
       donation_summary_text_html: >
         Вы перечилите <b>%giver_send%</b> монет.<br />
         Ваш текущий баланс %giver_balance% монет.<br />

@@ -5,12 +5,11 @@ pl:
         %{series_title} - %{chapter_title} - komiks
       translation_meta_title: >
         %{series_title} - %{chapter_title} - %{language_name} - tłumaczenie komiksu
-      translations_btn: "Tłumaczenia"
-      top_menu:
-        series_btn: "Wszystkie odcinki"
-      bottom_menu:
-        previous_chapter_btn: "Poprzedni odcinek"
+      menu:
+        prev_chapter_btn: "Poprzedni odcinek"
         next_chapter_btn: "Następny odcinek"
+        translations_btn: "Tłumaczenia"
+      donate_btn: "Wesprzyj"
       settings:
         edit_chapter: "Edytuj ten odcinek"
         edit_series: "Edytuj ten komiks"
@@ -18,4 +17,5 @@ pl:
       author_label: "Autor:"
       translator_label: "Tłumacz:"
       series_label: "Komiks:"
-      gallery_item_title: "Odc. %{chapter_nr}"
+      gallery_title: "Odcinki:"
+      related_series_title: "Powiązane serie:"

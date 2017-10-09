@@ -5,7 +5,7 @@ fr:
       title: "Confirmez-vous cette transaction?"
       chapter_price: "Prix:"
       donation_title_html: "Don à: %{user_link}"
-      donation_price_title_html: "Entrez ici combien <b>de centaines</b> de pièces vous voulez envoyé à l'utilisateur"
+      donation_price_title_html: "Entrez ici combien <b>de centaines</b> de pièces vous voulez envoyé à l'utilisateur" # Insert below how many coins do you want to send to this user
       donation_summary_text_html: >
         Vous allez envoyé <b>%giver_send%</b> pièces.<br />
         Vous avez envoyé %giver_balance% pièces.<br />

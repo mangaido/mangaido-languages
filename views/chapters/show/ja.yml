@@ -5,12 +5,11 @@ ja:
         %{series_title} - %{chapter_title} - マンガシリーズページ
       translation_meta_title: >
         %{series_title} - %{chapter_title} - %{language_name} - マンガシリーズ翻訳ページ
-      translations_btn: "翻訳"
-      top_menu:
-        series_btn: "全チャプター"
-      bottom_menu:
-        previous_chapter_btn: "前チャプター"
+      menu:
+        prev_chapter_btn: "前チャプター"
         next_chapter_btn: "次チャプター"
+        translations_btn: "翻訳"
+      # donate_btn: "Donate"
       settings:
         edit_chapter: "チャプターを編集"
         edit_series: "マンガシリーズを編集"
@@ -18,4 +17,5 @@ ja:
       author_label: "作者:"
       translator_label: "翻訳者:"
       series_label: "マンガシリーズ:"
-      gallery_item_title: "Ch. %{chapter_nr}"
+      # gallery_title: "Chapters:"
+      # related_series_title: "Related series:"

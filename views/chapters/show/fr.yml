@@ -5,12 +5,11 @@ fr:
         %{series_title} - %{chapter_title} - Page des mangas
       translation_meta_title: >
         %{series_title} - %{chapter_title} - %{language_name} - Pages des traductions
-      translations_btn: "Traductions"
-      top_menu:
-        series_btn: "Tous les chapitres"
-      bottom_menu:
-        previous_chapter_btn: "Chapitre précédent"
+      menu:
+        prev_chapter_btn: "Chapitre précédent"
         next_chapter_btn: "Chapitre suivant"
+        translations_btn: "Traductions"
+      # donate_btn: "Donate"
       settings:
         edit_chapter: "Modifier ce chapitre"
         edit_series: "Modifier ce manga"
@@ -18,4 +17,5 @@ fr:
       author_label: "Auteur:"
       translator_label: "Traducteur:"
       series_label: "Manga:"
-      gallery_item_title: "Ch. %{chapter_nr}"
+      # gallery_title: "Chapters:"
+      # related_series_title: "Related series:"

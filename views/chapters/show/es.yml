@@ -5,12 +5,11 @@ es:
         %{series_title} - %{chapter_title} - Comic
       translation_meta_title: >
         %{series_title} - %{chapter_title} - %{language_name} - Traducción del comic
-      translations_btn: "Traducciones"
-      top_menu:
-        series_btn: "Todos los capítulos"
-      bottom_menu:
-        previous_chapter_btn: "Capítulo anterior"
+      menu:
+        prev_chapter_btn: "Capítulo anterior"
         next_chapter_btn: "Siguiente capítulo"
+        translations_btn: "Traducciones"
+      # donate_btn: "Donate"
       settings:
         edit_chapter: "Editar capítulo"
         edit_series: "Editar este comic"
@@ -18,4 +17,5 @@ es:
       author_label: "Autor:"
       translator_label: "Traductor:"
       series_label: "Comics:"
-      gallery_item_title: "Cap. %{chapter_nr}"
+      # gallery_title: "Chapters:"
+      # related_series_title: "Related series:"
