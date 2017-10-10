@@ -8,5 +8,5 @@ ru:
       my_novels: "Мои новеллы"
       mailbox: "Сообщения"
       settings: "Настройки"
-      # payments: "Payments"
+      payments: "Платежи"
       log_out: "Выйти"
