@@ -14,7 +14,7 @@ id:
       cover_label: "Cover (Opsional)"
       remove_cover_yes_label: "Hapus cover"
       remove_cover_no_label: "Tinggalkan cover"
-      cover_help_text: "Untuk hasil yang optimal disarankan ukuran 1600x800 px (JPG atau PNG)"
+      cover_help_text: "Untuk hasil yang optimal disarankan ukuran 1600x800 px (JPG atau PNG)" # Please use SAFE FOR CHILDREN series cover, because it will be shown to all readers! For best results upload image with dimensions 1600x800 px (JPG or PNG)
       wide_cover_label: "Lebarkan cover (Opsional)"
       remove_wide_cover_yes_label: "Hapus cover"
       remove_wide_cover_no_label: "Tinggalkan cover"

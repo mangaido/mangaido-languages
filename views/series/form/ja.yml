@@ -14,7 +14,7 @@ ja:
       cover_label: "カバー (任意)"
       remove_cover_yes_label: "表紙を外す"
       remove_cover_no_label: "表紙を戻す"
-      cover_help_text: "推奨サイズ:1600x800 px (JPG or PNG)"
+      cover_help_text: "推奨サイズ:1600x800 px (JPG or PNG)" # Please use SAFE FOR CHILDREN series cover, because it will be shown to all readers! For best results upload image with dimensions 1600x800 px (JPG or PNG)
       wide_cover_label: "広い表紙 (任意)"
       remove_wide_cover_yes_label: "表紙を外す"
       remove_wide_cover_no_label: "表紙を戻す"

@@ -6,7 +6,6 @@ pl:
       my_comic_series: "Moje komiksy"
       my_translations: "Moje tłumaczenia"
       my_novels: "Moje nowele"
-      mailbox: "Skrzynka odbiorcza"
       settings: "Ustawienia"
-      # payments: "Payments"
+      payments: "Płatności"
       log_out: "Wyloguj się"

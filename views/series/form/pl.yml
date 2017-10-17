@@ -14,7 +14,7 @@ pl:
       cover_label: "Okładka (Opcjonalnie)"
       remove_cover_yes_label: "Usuń tę okładkę"
       remove_cover_no_label: "Zostaw tę okładkę"
-      cover_help_text: "W celu uzyskania najlepszych rezultatów wyślij obrazek o wymiarach 1600x800 pikseli (JPG lub PNG)"
+      cover_help_text: "Proszę, użyj obrazka okładki, który będzie BEZPIECZNY DLA MŁODSZEJ WIDOWNI, ponieważ ta okładka będzie widoczna dla wszystkich czytelników! W celu uzyskania najlepszych rezultatów wyślij obrazek o wymiarach 1600x800 pikseli (JPG lub PNG)"
       wide_cover_label: "Szeroka okładka (Opcjonalnie)"
       remove_wide_cover_yes_label: "Usuń tę okładkę"
       remove_wide_cover_no_label: "Zostaw tę okładkę"

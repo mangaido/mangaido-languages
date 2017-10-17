@@ -2,7 +2,7 @@ en:
   series:
     search:
       adult_filter:
-        safe_for_children_label: "Safe for children (default)"
+        safe_for_children_label: "Safe for children"
         for_adults_label: "For adults"
         all_label: "All"
       order_by_filter:
