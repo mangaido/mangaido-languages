@@ -1,1 +1,10 @@
 ru:
+  payments:
+    coin_package:
+      price_label: "Цена:"
+      calculation_label: "Быстрый подсчет:"
+      you_can_buy_for_it_label:
+        one: "Вы сможете купить максимум %{count} главу"
+        few: "Вы сможете купить максимум %{count} главы"
+        many: "Вы сможете купить максимум %{count} глав"
+        other: "Вы сможете купить максимум %{count} главы"
