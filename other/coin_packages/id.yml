@@ -1,1 +1,30 @@
 id:
+  coin_packages:
+    small: 
+      name: "XXS"
+    basic: 
+      name: "Basis"
+    standard: 
+      name: "Standar"
+    big: 
+      name: "Banyak"
+    super:
+      name: "Super otaku"
+    100_coins: 
+      name: "Sekitar 100"
+    200_coins: 
+      name: "Sekitar 200"
+    300_coins: 
+      name: "Sekitar 300"
+    400_coins: 
+      name: "Sekitar 400"
+    500_coins: 
+      name: "Sekitar 500"
+    600_coins: 
+      name: "Sekitar 600"
+    700_coins: 
+      name: "Sekitar 700"
+    800_coins: 
+      name: "Sekitar 800"
+    900_coins: 
+      name: "Sekitar 900"
