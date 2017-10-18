@@ -26,12 +26,12 @@ fr:
           position: "Ambassadeur des japonais"
         polaczarlin:
           position: "Spécialiste de l'équipe de support"
-        # pusproject:
-        #   position: "Ambassador of Indonesian Users"
-        # uedahana:
-        #   position: "Ambassador of Spanish and Portuguese-speaking Users"
-        # supertrivialperson:
-        #   position: "Ambassador of Russian-speaking Users"
+        pusproject:
+          position: "Ambassadeur des indonésiens"
+        uedahana:
+          position: "Ambassadrice des espagnols et portugais"
+        supertrivialperson:
+          position: "Ambassadeur des russes"
       menu:
         earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"
