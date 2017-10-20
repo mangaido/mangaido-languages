@@ -1,1 +1,11 @@
 hu:
+  payments:
+    paypal:
+      description: "Mangaido érme vásárlása"
+      item:
+        name:
+          one: "%{count} érme"
+          other: "%{count} érmék"
+        description:
+          one: "%{count} érme"
+          other: "%{count} érmék"
