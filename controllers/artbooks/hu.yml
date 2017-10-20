@@ -1,1 +1,11 @@
 hu:
+  artbooks:
+    new:
+      default_title: "%{user_name} galériája"
+    create:
+      success: "Galéria sikeresen létrehozva!"
+    update:
+      success: "Galériád sikeresen frissítetted."
+      error: "Probléma adódott frissítés közben! Próbáld újra."
+    destroy:
+      success: "Galériád sikeresen törölted!"
