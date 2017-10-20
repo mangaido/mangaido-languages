@@ -6,6 +6,6 @@ hu:
       success: "Galéria sikeresen létrehozva!"
     update:
       success: "Galériád sikeresen frissítetted."
-      error: "Probléma adódott frissítés közben! Próbáld újra."
+      error: "Probléma adódott a galéria frissítése közben! Próbáld újra."
     destroy:
       success: "Galériád sikeresen törölted!"
