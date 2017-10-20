@@ -1,1 +1,14 @@
 hu:
+  artbook_images:
+    edit:
+      meta_title: "Rajz szerkesztése"
+      title: "Rajz szerkesztése:"
+      previous_btn: "Előző"
+      back_to_artbook:
+        mobile: "Vissza"
+        desktop: "Vissza a galériához"
+      show_artwork:
+        mobile: "Megtekintés"
+        desktop: "Rajz megtekintése"
+      next_btn: "Következő"
+      delete_btn: "Törlés"
