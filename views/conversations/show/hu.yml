@@ -1,1 +1,10 @@
 hu:
+  conversations:
+    show:
+      meta_title: "%{subject} - conversation page"
+      title: "%{subject} - Beszélgetés"
+      chatting_with: "Vele beszélgetsz:"
+      message:
+        info: "%{sender_name} %{time_ago} küldte ezt az üzenetet"
+        textarea_placeholder: "Válasz írása..."
+        submit_btn: "Üzenet küldése"
