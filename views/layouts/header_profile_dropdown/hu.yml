@@ -1,1 +1,11 @@
 hu:
+  layouts:
+    header_profile_dropdown:
+      profile: "Profil"
+      my_artbooks: "Galériáim"
+      my_comic_series: "Képregényeim"
+      my_translations: "Fordításaim"
+      my_novels: "Regényeim"
+      settings: "Beállítások"
+      payments: "Fizetések"
+      log_out: "Kijelentkezés"
