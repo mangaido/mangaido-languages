@@ -5,23 +5,11 @@ id:
       name: "Aksi"
     bl:
       name: "BL"
-    # comedy:
-    #   name: "Comedy"
-    # drama:
-    #   name: "Drama"
     fantasy_sci_fi:
       name: "Fantasi/Sci-Fi"
     gl:
       name: "GL"
-    # horror:
-    #   name: "Horror"
-    # mystery:
-    #   name: "Mystery"
     romance:
       name: "Romansa"
-    # school_life:
-    #   name: "School Life"
-    # slice_of_life:
-    #   name: "Slice of Life"
     thriller:
       name: "Thriller"

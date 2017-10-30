@@ -18,11 +18,4 @@ pl:
       translator_label: "Tłumacz:"
       series_label: "Komiks:"
       gallery_title: "Odcinki:"
-      description_title: "Opis:"
-      translation_statistics:
-        title: "Statystyki tłumaczenia:"
-        words: "Słowa:"
-        characters: "Znaki:"
-        balloons: "Okienka:"
-        views: "Wyświetlenia:"
       related_series_title: "Powiązane serie:"

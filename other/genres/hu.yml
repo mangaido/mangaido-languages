@@ -1,1 +1,15 @@
 hu:
+  genres:
+    none: "Nincs"
+    action:
+      name: "Akció"
+    bl:
+      name: "BL"
+    fantasy_sci_fi:
+      name: "Fantasy/Sci-Fi"
+    gl:
+      name: "GL"
+    romance:
+      name: "Romantikus"
+    thriller:
+      name: "Thriller"
