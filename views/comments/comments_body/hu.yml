@@ -1,1 +1,7 @@
 hu:
+  comments:
+    comments_body:
+      no_comments_message: "Még nem szólt hozzá senki, legyél te az első!"
+      delete_btn: "Törlés"
+      delete_btn_confirm: "Biztos vagy benne, hogy törlöd a hozzászólást?"
+      time_ago: "%{time_ago}"
