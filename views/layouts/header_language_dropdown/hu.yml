@@ -1,1 +1,5 @@
 hu:
+  layouts:
+    header_language_dropdown:
+      languages_btn: "Nyelvek"
+      translate_mangaido_btn: "Más nyelvek"
