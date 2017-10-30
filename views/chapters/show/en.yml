@@ -18,4 +18,11 @@ en:
       translator_label: "Translator:"
       series_label: "Series:"
       gallery_title: "Chapters:"
+      description_title: "Description:"
+      translation_statistics:
+        title: "Translation statistics:"
+        words: "Words:"
+        characters: "Characters:"
+        balloons: "Balloons:"
+        views: "Views:"
       related_series_title: "Related series:"
