@@ -1,9 +1,1 @@
 hu:
-  layouts:
-    header_more_dropdown:
-      more_btn: "Több"
-      all_users: "Összes felhasználó"
-      artwork_creators: "Rajzolók"
-      comic_authors: "Képregény készítők"
-      translators: "Fordítók"
-      writers: "Írók"

@@ -12,4 +12,4 @@ fr:
       log_in: "Connection"
       search_btn: "Recherche"
       mailbox: "Boite mail"
-      coins: "Pièces"
+      # coins: "Coins"

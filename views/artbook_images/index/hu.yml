@@ -1,16 +1,1 @@
 hu:
-  artbook_images:
-    index:
-      meta_title: "Legújabb rajzok"
-      title: "Legújabb rajzok"
-      subtitle: "Creativity unleashed"
-      toolbar:
-        add_new_artworks:
-          mobile: "Hozzáadás"
-          desktop: "Új rajz hozzáadása"
-        my_artbooks:
-          mobile: "Saját"
-          desktop: "Galériák"
-        edit_my_artbooks:
-          mobile: "Szerkesztés"
-          desktop: "Galéria szerkesztése"

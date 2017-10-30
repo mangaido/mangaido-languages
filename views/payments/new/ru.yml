@@ -4,14 +4,14 @@ ru:
       meta_title: "Купить монеты"
       coin_packages_title: "Выберите пакет монет, который хотите купить:"
       buy_btn: "Купить"
-      information_title: "Информация:"
-      information_html: >
-        <p>
-          Любая глава на Mangaido может стоить от %{chapter_min_cost} до %{chapter_max_cost} монет. Цена на главу устанавливается ее автором.
-        </p>
-        <p>
-          После покупки монет, они автоматически зачисляться на ваш счет на сайте Mangaido, и вы сможете потратить их на свою любимую серию комиксов.
-        </p>
-        <p>
-          Вы также можете, если захотите, отправить монеты вашим любимым художникам просто так.
-        </p>
+      # information_title: "Some info:"
+      # information_html: >
+      #   <p>
+      #     Each chapter on Mangaido can cost from %{chapter_min_cost} to %{chapter_max_cost} coins. The price of each chapter is set by the comics author.
+      #   </p>
+      #   <p>
+      #     After paying for coins you will automatically receive them on your Mangaido profile and you will be able to spend them on your favourite series.
+      #   </p>
+      #   <p>
+      #     You can also, if you want, make donations to send coins directly to your favourite artists without any fees.
+      #   </p>

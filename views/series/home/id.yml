@@ -14,6 +14,7 @@ id:
           desktop: "Edit Serial komik"
       translations_title: "Terjemahan"
       translations_more_btn: "terjemahan yang lain"
+      # translation_video_tutorial_link: "How to translate comic series?"
       recently_popular_title: "Baru terpopuler"
       recently_popular_more_btn: "Yang baru ini terpopuler"
       most_popular_title: "terpopuler"

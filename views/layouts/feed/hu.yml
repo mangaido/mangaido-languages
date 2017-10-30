@@ -1,14 +1,1 @@
 hu:
-  layouts:
-    feed:
-      edit_profile_btn: "Profil szerkesztése"
-      artbooks_btn: "Galériáim"
-      artbooks_edit_link: "Szerkesztés"
-      comic_series_btn: "Képregényeim"
-      comic_series_edit_link: "Szerkesztés"
-      translations_btn: "Fordításaim"
-      novels_btn: "Regényeim"
-      novels_edit_link: "Szerkesztés"
-      following_btn: "Követed"
-      followers_btn: "Követők"
-      mailbox_btn: "Postaláda"

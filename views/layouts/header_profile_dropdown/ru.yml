@@ -7,5 +7,5 @@ ru:
       my_translations: "Мои переводы"
       my_novels: "Мои новеллы"
       settings: "Настройки"
-      payments: "Платежи"
+      # payments: "Payments"
       log_out: "Выйти"

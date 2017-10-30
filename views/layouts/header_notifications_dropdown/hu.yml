@@ -1,7 +1,1 @@
 hu:
-  layouts:
-    header_notifications_dropdown:
-      notifications_title: "Értesítések"
-      mark_all_as_read_btn: "Az összes megjelölése olvasottként"
-      loader: "Betöltés..."
-      show_all_btn: "Összes"

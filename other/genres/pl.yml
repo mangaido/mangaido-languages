@@ -5,12 +5,24 @@ pl:
       name: "Akcja"
     bl:
       name: "BL"
+    comedy:
+      name: "Komedia"
+    drama:
+      name: "Dramat"
     fantasy_sci_fi:
       name: "Fantasy/Sci-Fi"
     gl:
       name: "GL"
+    horror:
+      name: "Horror"
+    mystery:
+      name: "Tajemnica"
     romance:
       name: "Romans"
+    school_life:
+      name: "Szkolne Życie"
+    slice_of_life:
+      name: "Fragmenty z Życia"
     thriller:
       name: "Thriller"
 
