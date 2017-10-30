@@ -5,7 +5,7 @@ es:
       coin_packages_title: "Seleccionar el pack de monedas a comprar:"
       buy_btn: "Comprar"
       information_title: "Información extra:"
-       information_html: >
+      information_html: >
         <p>
          Cada capítulo en Mangaido puede costar de % {chapter_min_cost} a % {chapter_max_cost} monedas. El precio de cada capítulo es establecido por el autor del cómic.
         </p>

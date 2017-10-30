@@ -1,13 +1,13 @@
 hu:
   chapters:
     show:
-      no_access_error: "Nincs hozzáférésed ehhez a fejezethez!"
+      no_access_error: "Nincs hozzáférésed ehhez a fejezethez!"
     create:
       success: "Fejezet sikeresen létrehozva!"
     update:
       success: "A fejezetet sikeresen frissítetted."
-      erorr: "Probléma adódott a fejezet frissítése közben! Próbáld újra!"
+      erorr: "Probléma adódott a fejezet frissítése közben! Próbáld újra!"
     destroy:
       success: "A fejezetet sikeresen törölted."
     sort_chapter_images_by_filenames:
-      success: "A képeket sikeresen elrendezted!"
+      success: "A képeket sikeresen elrendezted!"
