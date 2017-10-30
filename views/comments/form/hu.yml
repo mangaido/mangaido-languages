@@ -1,1 +1,5 @@
 hu:
+  comments:
+    form:
+      content_placeholder: "Írj hozzászólást..."
+      log_in_message: "Jelentkezz be a hozzászóláshoz!"
