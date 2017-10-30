@@ -1,1 +1,13 @@
 hu:
+  conversations:
+    index:
+      meta_title: "Postaláda"
+      title: "Postaláda"
+      subtitle: "Ne légy idegen!"
+      new_message_btn: "Beszélgetés kezdése"
+      menu:
+        inbox_btn: "Bejövő"
+        sent_btn: "Elküldve"
+        trash_btn: "Kuka"
+      empty_trash_btn: "Üres"
+      empty_trash_btn_confirm: "Biztos vagy benne?"
