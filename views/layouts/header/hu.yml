@@ -1,1 +1,15 @@
 hu:
+  layouts:
+    header:
+      toggle_navigation_text: "Toggle navigation"
+      upload: "Feltöltés"
+      status_updates: "Hírek"
+      feed: "Hírek"
+      artworks: "Rajzok"
+      series: "Képregények"
+      novels: "Regények"
+      ramen: "Rámen"
+      log_in: "Bejelentkezés"
+      search_btn: "Keresés"
+      mailbox: "Postaláda"
+      coins: "Érmék"
