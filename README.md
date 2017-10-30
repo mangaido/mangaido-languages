@@ -159,7 +159,7 @@ pl:
 
 ### Pluralization rules
 
-**English, German, Spanish:**
+**English, German, Spanish, Hungarian:**
 - 1 -> "one" key
 - any other numbers -> "other" key
 
@@ -167,7 +167,7 @@ pl:
 - 0, 1 -> "one" key
 - any other numbers -> "other" key
 
-**Japanese, Chinese, Korean, Hungarian, Indonesian:**
+**Japanese, Chinese, Korean, Indonesian:**
 - use only "other" key
 
 **Polish:** (hard to explain - write 4 forms based on this simple examples)

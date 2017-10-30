@@ -5,33 +5,46 @@ hu:
       send_message: "Üzenet küldése"
       stats:
         following:
+          one: "Követve"
           other: "Követve"
         followers:
+          one: "Követő"
           other: "Követő"
         posts:
+          one: "Poszt"
           other: "Poszt"
         artwork_views:
+          one: "Rajz megtekintés"
           other: "Rajz megtekintés"
         series_views:
+          one: "Képregény megtekintés"
           other: "Képregény megtekintés"
         translation_views:
+          one: "Fordítás megtekintés"
           other: "Fordítás megtekintés"
         novel_views:
+          one: "Regény megtekintés"
           other: "Regény megtekintés"
         badges: "Jelvények"
       menu:
         donate: "Felhasználó támogatása"
         artbooks:
+          one: "%{count} Galéria"
           other: "%{count} Galéria"
         comic_series:
+          one: "%{count} Képregény"
           other: "%{count} Képregény"
         translations:
+          one: "%{count} Fordítás"
           other: "%{count} Fordítás"
         novels:
+          one: "%{count} Regény"
           other: "%{count} Regény"
         following:
+          one: "%{count} követve"
           other: "%{count} követve"
         followers:
+          one: "%{count} követő"
           other: "%{count} követő"
       q_and_a:
         country: "Ország?"

@@ -32,6 +32,8 @@ fr:
           position: "Ambassadrice des espagnols et portugais"
         supertrivialperson:
           position: "Ambassadeur des russes"
+        # katsumiee:
+        #   position: "Ambassador of Hungarian Users"
       menu:
         earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"

@@ -32,6 +32,8 @@ ja:
           position: "スペイン語・ポルトガル語担当者"
         supertrivialperson:
           position: "ロシア語担当者"
+        # katsumiee:
+        #   position: "Ambassador of Hungarian Users"
       menu:
         earn_money_with_us_btn: "報酬を得よう!"
         terms_of_service_btn: "利用規約"

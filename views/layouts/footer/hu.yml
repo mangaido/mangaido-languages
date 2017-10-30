@@ -32,6 +32,8 @@ hu:
           position: "A spanyol felhasználók képviselője"
         supertrivialperson:
           position: "Az orosz felhasználók képviselője"
+        # katsumiee:
+        #   position: "Ambassador of Hungarian Users"
       menu:
         earn_money_with_us_btn: "Keress pénzt velünk!"
         terms_of_service_btn: "Szolgáltatási feltételek"
