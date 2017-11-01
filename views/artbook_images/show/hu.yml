@@ -1,1 +1,12 @@
 hu:
+  artbook_images:
+    show:
+      meta_title: "Galéria"
+      previous_btn: "Előző"
+      nr_of_pages: "%{page_nr} / %{pages}"
+      next_btn: "Tovább"
+      edit_this_image_option: "Kép szerkesztése"
+      edit_this_artbook_option: "Galéria szerkesztése"
+      edit_all_my_artbooks_option: "Összes galériám szerkesztése"
+      author_label: "Szerző:"
+      artbook_label: "Galéria:"
