@@ -1,1 +1,4 @@
 hu:
+  chapter_images:
+    my_gallery_item:
+      delete_btn_confirm: "Biztos vagy benne, hogy a kukába helyezed ezt az oldalt? Ne feledd, lehet, hogy mások már lefordították."
