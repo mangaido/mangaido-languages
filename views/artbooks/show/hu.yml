@@ -1,7 +1,7 @@
 hu:
   artbooks:
     show:
-      meta_title: "%{title} - galériája"
+      meta_title: "%{title} - galéria"
       new_artworks_btn:
         mobile: "Hozzáadás"
         desktop: "Új rajz hozzáadása"
