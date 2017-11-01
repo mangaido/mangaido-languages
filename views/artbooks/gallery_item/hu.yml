@@ -1,1 +1,6 @@
 hu:
+  artbooks:
+    gallery_item:
+      artworks:
+        one: "%{count} rajz"
+        other: "%{count} rajz"
