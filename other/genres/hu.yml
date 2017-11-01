@@ -1,15 +1,29 @@
 hu:
+en:
   genres:
     none: "Nincs"
     action:
       name: "Akció"
     bl:
       name: "BL"
+    comedy:
+      name: "Vígjáték"
+    drama:
+      name: "Dráma"
     fantasy_sci_fi:
       name: "Fantasy/Sci-Fi"
     gl:
       name: "GL"
+    horror:
+      name: "Horror"
+    mystery:
+      name: "Misztikus"
     romance:
       name: "Romantikus"
+    school_life:
+      name: "Iskolai élet"
+    slice_of_life:
+      name: "Mindennapi élet"
     thriller:
       name: "Thriller"
+  
