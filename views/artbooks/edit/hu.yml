@@ -1,1 +1,12 @@
 hu:
+  artbooks:
+    edit:
+      meta_title: "Galéria szerkesztése"
+      title: "Galéria szerkesztése:"
+      new_artbook_image_btn:
+        mobile: "Hozzáadás"
+        desktop: "Új kép hozzáadása"
+      show_this_artbook_btn:
+        mobile: "Megtekintés"
+        desktop: "Galéria megtekintése"
+      delete_btn: "Törlés"
