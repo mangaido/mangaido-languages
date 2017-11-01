@@ -1,1 +1,13 @@
 hu:
+  artbooks:
+    show:
+      meta_title: "%{title} - galériája"
+      new_artworks_btn:
+        mobile: "Hozzáadás"
+        desktop: "Új rajz hozzáadása"
+      my_artbooks_btn:
+        mobile: "Saját"
+        desktop: "Galériáim"
+      edit_this_artbook:
+        mobile: "Szerkesztés"
+        desktop: "Galéria szerkesztése"
