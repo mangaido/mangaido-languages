@@ -23,8 +23,8 @@ hu:
           one: "Fordítás megtekintés"
           other: "Fordítás megtekintés"
         novel_views:
-          one: "Regény megtekintés"
-          other: "Regény megtekintés"
+          one: "Történet megtekintés"
+          other: "Történet megtekintés"
         badges: "Jelvények"
       menu:
         donate: "Felhasználó támogatása"
@@ -38,8 +38,8 @@ hu:
           one: "%{count} Fordítás"
           other: "%{count} Fordítás"
         novels:
-          one: "%{count} Regény"
-          other: "%{count} Regény"
+          one: "%{count} Történet"
+          other: "%{count} Történet"
         following:
           one: "%{count} követve"
           other: "%{count} követve"
