@@ -6,7 +6,7 @@ hu:
       no_access_error: "Nem szerkesztheted ezt a fordítást."
     create:
       no_access_error: "A fordítást nem sikerült létrehozni. Próbáld meg később."
-      success: "A fordítás sikeresen létrehoztad!"
+      success: "A fordítást sikeresen létrehoztad!"
       error: "Probléma merült fel a fordítás létrehozása közben. Kérjük, próbálkozz újra."
     update:
       success: "A fordítást sikeresen frissítetted!"
