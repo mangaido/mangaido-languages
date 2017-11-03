@@ -4,4 +4,4 @@ hu:
       not_activated_info: "A fiókod még nincs aktiválva. Keresd az aktivációs linket az általad megadott E-mail címen."
     update:
       success: "A profilod frissítve lett."
-      # error: "Probléma merült fel a profilod frissítése közben. Kérjük, próbálkozz újra."
+      error: "Probléma merült fel a profilod frissítése közben. Kérjük, próbálkozz újra."
