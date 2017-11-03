@@ -1,1 +1,57 @@
 tl:
+  activerecord:
+    attributes:
+      artbook_image:
+        image: "Larawan"
+        title: "Pamagat"
+        description: "Salaysay"
+      artbook:
+        title: "Pamagat"
+      chapter_image:
+        image: "Larawan"
+      chapter:
+        title: "Pamagat"
+        cover: "Larawang Pabalat"
+        is_published: "Nailathala"
+        amount_of_coins: "Dami ng coins"
+      comment:
+        content: "Nilalaman"
+      episode:
+        title: "Pamagat"
+        description: "Salaysay"
+        text: "Paksa"
+        is_published: "Nailathala"
+      noodle:
+        title: "Pamagat"
+        content: "Nilalaman"
+        link: "Link"
+        image: "Larawan"
+      novel:
+        title: "Pamagat"
+        description: "Salaysay"
+        cover: "Larawang Pamagat"
+        is_published: "Nailathala"
+      series:
+        title: "Pamagat"
+        cover: "Larawang Pamagat"
+        wide_cover: "Malawak na Larawang Pabalat"
+        is_published: "Nailathala"
+        description: "Salaysay"
+        language: "Wika"
+        is_for_adults: "Pang Matanda"
+      status_update:
+        content: "Nilalaman"
+        image: "Larawan"
+      translation_balloon:
+        text: "Paksa"
+      translation:
+        is_published: "Nailathala?"
+        language: "Wika"
+      user:
+        name: "Pangalan"
+        email: "Email"
+        about: "Talambuhay"
+        cover: "Larawang Pabalat"
+        avatar: "Larawan sa Avatar"
+        default_language: "Default na wika"
+        paypal_email: "Email sa Paypal"

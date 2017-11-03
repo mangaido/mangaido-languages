@@ -1,1 +1,25 @@
 tl:
+  shared:
+    carousel:
+      about_mangaido:
+        title: "Tungkol sa Mangaido"
+        text: >
+          Kilalanin natin ang isa't isa! Silipin ang pagpapakilala nina Karolina, Bartek at Michal sa bidyong ito.
+        action_btn: "YouTube video"
+      translate_mangaido:
+        title: "Mangaido sa iyong wika"
+        text: >
+          Kung gusto mong tumulong sa aming komunidad at maabot ang mga tao mula sa iyong bansa, maari mo nang isalin ang Mangaido sa iyong wika.
+        action_btn: "Paano magsalin ng wika"
+      publish_series:
+        title: "Maglathala ng sarili mong komiks"
+        text: >
+          Iba't ibang wika ang aming ginagamit dito. (Pramis!) Anyayahin ang mga mambabasa na isalin ang iyong mga gawa para maaliw din ito ng mga tao sa ibang bansa.
+        action_btn: "Simulan ang paglalathala"
+        side_btn: "Artist: %{user_name}"
+      publish_artworks:
+        title: "Ipakilala ang mundo sa iyong mga likha!"
+        text: >
+          Sama-sama naming binuo ang lugar na ito upang mas mapadali ang pag-upload at pag-bahagi ng iyong mga likha sa iyong mga kaibigan. Pag-usapan ang inyong mga nais at silipin ang mundo ng manga.
+        action_btn: "I-upload lahat!"
+        side_btn: "Artist: %{user_name}"

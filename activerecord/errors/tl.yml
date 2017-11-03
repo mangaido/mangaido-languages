@@ -1,1 +1,42 @@
 tl:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "May mali sa pag-validate: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Hindi maaaring burahin ang record dahil may dependent ito sa %{record}"
+          has_many: "Hindi maaaring burahin ang record dahil may dependent ito sa %{record}"
+      models:
+        artbook_image:
+          image_too_big: "Ang pabalat ng artbook ay dapat mas maliit sa %{size}"
+        badge:
+          icon_too_big: "Ang icon ay dapat mas maliit sa %{size}"
+        chapter:
+          image_too_big: "Ang larawan ng kabanata ay dapat mas maliit sa %{size}"
+          too_many_authorized_users: "Masyadong marami ang authorized users ng kabanatang ito"
+        chapter_image:
+          image_too_big: "Ang larawan ng kabanata ay dapat mas maliit sa %{size}"
+        noodle:
+          image_too_big: "Ang larawan ng noodle ay dapat mas maliit sa %{size}"
+        novel:
+          image_too_big: "Ang larawan ng nobela ay dapat mas maliit sa %{size}"
+        password_reset:
+          password:
+            cant_be_empty: "Hindi maaaring walang laman ang password"
+        series:
+          cover_too_big: "Ang larawang ng serye ay dapat mas maliit sa %{size}"
+          wide_cover_too_big: "Ang malawak na larawang pabalat ng serye ay dapat mas maliit sa %{size}"
+        status_update:
+          image_too_big: "Ang larawan sa status update ay dapat mas maliit sa %{size}"
+        transaction:
+          general_error: "Nagkaroon ng problema sa transaksyong ito. Subukan muli."
+          not_enough_coins: "Hindi sapat ang dami ng coins."
+        user:
+          avatar_too_big: "Ang larawan ng avatar ay dapat mas maliit sa %{size}"
+          cover_too_big: "Ang pabalat ay dapat mas maliit sa %{size}"
+          promo_code_invalid: "Ang promo code na ginamit ay hindi gumagana."
+        withdrawal:
+          not_enough_coins: "Hindi sapat ang dami ng coins."
+          
+
+

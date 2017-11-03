@@ -1,1 +1,21 @@
 tl:
+  withdrawals:
+    index:
+      meta_title: "Withdrawals"
+      current_balance_label: "Kasalukuyang balanse:"
+      current_balance_coins:
+        one: "%{count} coin"
+        other: "%{count} coins"
+      money_to_be_paid_label: "Withdrawal in progress:"
+      form_label: "Withdraw form:"
+      cant_withdraw_msg: "Upang magwithdraw, kinakailangan ng hindi bababa sa %{min_coins} coins"
+      list_label: "Withdrawals:"
+      list:
+        id: "ID"
+        amount_of_coins: "Bilang ng coins"
+        amount_of_money: "Halaga ng pera"
+        created_at: "Nilikha sa"
+        is_paid: "Natapos?"
+        is_paid_yes: "Oo"
+        is_paid_no: "Hindi"
+        paid_at: "Binayaran sa"
