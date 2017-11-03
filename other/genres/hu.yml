@@ -1,5 +1,4 @@
 hu:
-en:
   genres:
     none: "Nincs"
     action:
@@ -26,4 +25,3 @@ en:
       name: "Mindennapi élet"
     thriller:
       name: "Thriller"
-  
