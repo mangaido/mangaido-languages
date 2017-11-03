@@ -1,1 +1,11 @@
 tl:
+  artbooks:
+    new:
+      default_title: "Lathala ni %{user_name}"
+    create:
+      success: "Maayos na nagawa ang artbook."
+    update:
+      success: "Maayos na napalitan ang artbook."
+      error: "Nagkaroon ng ilang mga problema sa pag-update ng artbook na ito! Subukan muli."
+    destroy:
+      success: "Maayos na nabura ang artbook!"

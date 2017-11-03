@@ -1,1 +1,5 @@
 tl:
+  contact_messgaes:
+    create:
+      success: "Maayos na naipadala ang iyong mensahe."
+      error: "May mali sa pagpapadala ng iyong mensahe. Pakisubukang muli"

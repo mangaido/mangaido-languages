@@ -1,1 +1,5 @@
 tl:
+  account_activations:
+    edit:
+      success: "Naactivate na ang iyong account!"
+      error: "May mali sa activation link."

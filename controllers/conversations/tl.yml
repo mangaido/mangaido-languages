@@ -1,1 +1,12 @@
 tl:
+  conversations:
+    reply:
+      success: "Naipadala na ang tugon."
+    destroy:
+      success: "Ang paguusap ay maayos na nailipat sa trash bin."
+    restore:
+      success: "Ang paguusap ay maayos na naibalik"
+    empty_trash:
+      success: "Ang iyong trash bin ay maayos na nalinis."
+    mark_as_read:
+      success: "Ang paguusap ay namarkahang nabasa na."

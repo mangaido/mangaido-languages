@@ -1,1 +1,13 @@
 tl:
+  chapters:
+    show:
+      no_access_error: "Nangangailangan ng access sa kabanatang ito!"
+    create:
+      success: "Maayos na nalikha ang kabanatang ito."
+    update:
+      success: "Maayos na nabago ang kabanatang ito."
+      erorr: "Nagkaroon ng ilang problema ang pagbabago ng kabanatang ito. Pakisubukan muli."
+    destroy:
+      success: "Maayos na nabura ang kabantang ito."
+    sort_chapter_images_by_filenames:
+      success: "Maayos na napagsunod-sunod ang mga kabanata."

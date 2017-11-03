@@ -1,1 +1,4 @@
 tl:
+  application:
+    logged_in_user:
+      error: "Mag log in muna."

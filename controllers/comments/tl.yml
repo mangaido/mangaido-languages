@@ -1,1 +1,7 @@
 tl:
+  comments:
+    create:
+      success: "Ang komento ay nalikha na."
+      error: "Nagkaroon ng ilang problema sa pag likha ng iyong komento. Pakisubukang muli."
+    destroy:
+      success: "Ang komento ay nabura na."

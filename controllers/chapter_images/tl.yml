@@ -1,1 +1,8 @@
 tl:
+  chapter_images:
+    move_to_trash:
+      success: "Maayos na nailipat ang larawan sa trash bin."
+      error: "Nagkaroon ng ilang mga problema sa paglilipat ng imahe ng kabanatang ito sa trash bin. Pakisubukang muli."
+    remove_from_trash:
+      success: "Maayos na natanggal sa trash bin ang larawang ito."
+      error: "Nagkaroon ng ilang mga problema sa pagtanggal ng imahe ng kabanatang ito sa trash bin. Pakisubukang muli."
