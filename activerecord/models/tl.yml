@@ -1,1 +1,42 @@
 tl:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Artwork"
+        other: "Artworks"
+      artbook:
+        one: "Artbook"
+        other: "Artbooks"
+      chapter_image:
+        one: "Larawan ng kabanata"
+        other: "Mga larawan ng kabanata"
+      chapter:
+        one: "Kabanata"
+        other: "Mga Kabanata"
+      comment:
+        one: "Comment"
+        other: "Mga Comment"
+      episode:
+        one: "Kabanata ng nobela"
+        other: "Mga kabanata ng nobela"
+      noodle:
+        one: "Ramen noodle"
+        other: "Ramen noodles"
+      novel:
+        one: "Nobela"
+        other: "Mga nobela"
+      series:
+        one: "Comic series"
+        other: "Mga Comic series"
+      status_update:
+        one: "Feed post"
+        other: "Mga Feed post"
+      translation_balloon:
+        one: "Lobo para sa saling-wika"
+        other: "Mga lobo para sa saling-wika"
+      translation:
+        one: "Saling-wika"
+        other: "Mga Saling-wika"
+      user:
+        one: "User"
+        other: "Mga User"

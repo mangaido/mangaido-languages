@@ -1,1 +1,10 @@
 tl:
+  withdrawals:
+    form:
+      amount_of_coins_label: "Ilang coins ang nais mong i-withdraw?:"
+      summary_loading_text: "Loading summary..."
+      summary_text: >
+        <b>%amount_of_coins%</b> coins = %coins_to_money%USD<br />
+        Withdrawal fee: %percent_fee%%<br />
+        Ikaw ay magwiwithdraw ng <b>%amount_of_money%USD<b/>
+      withdraw_btn: "I-withdraw ang coins!"

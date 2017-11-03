@@ -1,1 +1,10 @@
 tl:
+  shared:
+    login_register_modal:
+      form_title_hint: "Login form"
+      close_btn_hint: "Isara"
+      log_in_btn: "Mag log-in"
+      register_btn: "Bagong user ka ba? Magregister na! :)"
+      log_in_form_title: "Mag log-in"
+      register_form_title: "Mag-Register"
+      close_btn: "Isara"
