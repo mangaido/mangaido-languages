@@ -1,1 +1,12 @@
 tl:
+  episodes:
+    show:
+      episode_not_published_error: "Ang bahaging ito ay hindi pa nailalathala"
+      novel_not_published_error: "Ang nobelang ito ay hindi pa nailalathala."
+      episode_not_published_info: "Ang nobelang ito ay hindi pa nailalathala."
+    create:
+      success: "Ang bahaging ito ay maayos na nalikha."
+    update:
+      success: "Ang bahaging ito ay maayos na nabago."
+    destroy:
+      success: "Ang bahaging ito ay maayos na nabura!"

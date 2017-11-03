@@ -1,1 +1,7 @@
 tl:
+  artbook_images:
+    update:
+      success: "Artbook image was successfully updated."
+      success: "Ang larawang pabalat ng Artbook ay maayos na napalitan."
+    destroy:
+      success: "Ang larawan ay maayos na nabura."
