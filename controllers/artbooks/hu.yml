@@ -3,9 +3,9 @@ hu:
     new:
       default_title: "%{user_name} galériája"
     create:
-      success: "Galéria sikeresen létrehozva!"
+      success: "A galériát sikeresen létrehoztad!"
     update:
       success: "Galériád sikeresen frissítetted."
-      error: "Probléma adódott a galéria frissítése közben! Próbáld újra."
+      error: "Probléma merült fel a galéria frissítése közben! Kérjük, próbáld újra."
     destroy:
       success: "Galériád sikeresen törölted!"
