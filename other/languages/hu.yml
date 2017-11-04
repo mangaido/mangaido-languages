@@ -1,7 +1,7 @@
 hu:
   languages:
     af:
-      name: "Afrikaans"
+      name: "Afrikai"
     sq:
       name: "Albán"
     ar:
@@ -41,7 +41,7 @@ hu:
     fo:
       name: "Feröeri"
     # tl:
-    #   name: "Filipino"
+    #   name: "Filippínó"
     fi:
       name: "Finn"
     fr:
@@ -139,4 +139,4 @@ hu:
     lt_uz:
       name: "Üzbék (Latin)"
     vi:
-      name: "Vietnami"
+      name: "Vietnámi"
