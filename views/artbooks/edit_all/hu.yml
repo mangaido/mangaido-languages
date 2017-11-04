@@ -1,11 +1,11 @@
 hu:
   artbooks:
     edit_all:
-      meta_title: "Galériák szerkesztése"
-      title: "Galériák szerkesztése"
+      meta_title: "Galériáim szerkesztése"
+      title: "Galériáim szerkesztése"
       new_artbook_btn:
         mobile: "Hozzáadás"
         desktop: "Új galéria hozzáadása"
       show_my_artbooks_btn:
         mobile: "Megtekintés"
-        desktop: "Galériák megtekintése"
+        desktop: "Galériáim megtekintése"
