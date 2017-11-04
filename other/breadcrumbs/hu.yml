@@ -3,13 +3,13 @@ hu:
     root: "Főoldal"
     artbook_images:
       index: "Galéria"
-      edit: "Edit: %{title}"
+      edit: "Szerkesztés: %{title}"
       new: "Friss alkotások"
     artbooks:
       edit_all: "Galéria szerkesztése"
-      edit: "Edit: %{title}"
+      edit: "Szerkesztés: %{title}"
       new: "Új galéria hozzáadása"
-      show: "%{title} artbook"
+      show: "%{title}"
     chapter_images:
       new: "Új fejezetborító hozzáadása"
     chapters:
@@ -33,14 +33,14 @@ hu:
       new: "Új történet hozzáadása"
       edit: "Történet szerkesztése"
       edit_all: "Történeteim szerkesztése"
-      user_novels: "Artist's novels"
+      user_novels: "A művész történetei"
     users:
-      artbooks: "User alkotásai"
+      artbooks: "Felhasználó alkotásai"
       authors: "Szerzők"
-      dashboard: "Dashboard"
-      edit: "Edit %{user_name}'s profile"
+      dashboard: "Vezérlőpult"
+      edit: "%{user_name} profiljának szerkesztése"
       index: "Felhasználók"
-      series: "User képregényei"
+      series: "Felhasználó képregényei"
     payments:
       index: "Tranzakciók"
       new: "Érmék beszerzése"
@@ -54,17 +54,17 @@ hu:
     static_pages:
       # comiket: "Comiket"
       earn_money_with_us: "Keress pénzt velünk!"
-      privacy_policy: "Adatvédelmi irányelvek"
+      privacy_policy: "Adatvédelmi szabályzat"
       search: "Keresési találatok"
       terms_of_service: "Felhasználási feltételek"
-      translate_mangaido_to_your_language: "Fordítsd le a Mangaido-t a saját nyelvedre!"
+      translate_mangaido_to_your_language: "Fordítsd le Mangaido-t a saját nyelvedre!"
     transactions:
       chapter_purchases: "Fejezet vásárlások"
       chapter_sales: "Fejezet eladások"
       donations_sent: "Adomány elküldve"
       donations_received: "Adomány kézbesítve"
     translations:
-      # index: "Translations"
-      edit: "Edit: %{language_name} fordítás"
+      # index: "Fordítások"
+      edit: "Szerkesztés: %{language_name} fordítás"
     withdrawals:
-      index: "Withdrawals"
+      index: "Pénzkivétel"
