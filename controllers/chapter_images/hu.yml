@@ -1,8 +1,8 @@
 hu:
   chapter_images:
     # move_to_trash:
-    #   success: "Image was successfully moved to trash bin."
-    #   error: "There was some problems with moving this chapter image to trash bin. Please try again."
+    #   success: "A képet sikeresen áthelyezted a kukába."
+    #   error: "Probléma merült fel a kép kukába helyezése közben. Kérjük, próbáld újra."
     # remove_from_trash:
-    #   success: "Image was successfully removed from trash."
-    #   error: "There was some problems with removing this chapter image from trash bin. Please try again."
+    #   success: "A képet sikeresen eltávolítottad a kukából."
+    #   error: "Probléma merült fel a kép eltávolítása közben. Kérjük, próbáld újra."
