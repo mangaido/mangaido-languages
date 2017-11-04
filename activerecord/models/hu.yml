@@ -32,8 +32,8 @@ hu:
         one: "Állapotfrissítés"
         other: "Állapotfrissítések"
       translation_balloon:
-        one: "Translation balloon"
-        other: "Translation balloons"
+        one: "Fordító buborék"
+        other: "Fordító buborékok"
       translation:
         one: "Fordítás"
         other: "Fordítások"
