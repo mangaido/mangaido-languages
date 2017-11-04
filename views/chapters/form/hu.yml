@@ -1,1 +1,35 @@
 hu:
+  chapters:
+    form:
+      title_label: "Cím"
+      is_published_label: "Közzéteszed?"
+      is_published_yes_label: "Közzétéve"
+      is_published_no_label: "Szerkesztés alatt"
+      cover_label: "Borítókép ( nem kötelező )"
+      remove_cover_yes_label: "Borítókép eltávolítása"
+      remove_cover_no_label: "Hagyd a borítóképet úgy ahogy van"
+      cover_hint_text: >
+        A legjobb eredmény elérése érdekében 640x260px (JPG vagy PNG) méretű képet tölts fel.
+      amount_of_coins_label: "Érmék száma:"
+      amount_of_coins_help_btn: "Részletek"
+      amount_of_coins_help_text_html: >
+        Itt tudod kiválasztani, hogy a képregényed megtekintéséhez mennyit kell fizetniük az olvasóknak.<br />
+        Ha azt választod, hogy "0 érme", a fejezet ingyenesen lesz.<br />
+        Bármikor megváltoztathatod ezt az árat.<br />
+        Ne feledd, minden tranzakció után Mangaido automatikusan %{percent_fee}% tranzakciós díjat von le.
+      amount_of_coins_select:
+        one: "%{count} érme"
+        other:  "%{count} érme"
+      authorized_users_label: "Felhatalmazott felhasználók:"
+      authorized_users_help_btn: "Részletek"
+      authorized_users_help_text_html: >
+        Itt tudod kiválasztani azokat a felhasználókat, akiknek hozzáférésük lesz a fejezethez anélkül, hogy fizetniük kellene vagy ha a fejezet közzétételét visszavonod.<br />
+        Ez a funkció akkor a leghasznosabb, ha fordítóknak akarsz hozzáférést adni.<br />
+        A felhatalmazott felhasználók csak elolvasni és lefordítani tudják a fejezetet, szerkeszteni nem.<br />
+        Csak küldj egy linket a fejezetedhez.<br />
+        Bármikor eltávolíthatsz és hozzáadhatsz felhatalmazott felhasználókat.<br />
+        Viszont van egy maximális szám, aminél több felhatalmazott felhasználót nem tudsz a fejezetedhez adni: %{max_users}
+      authorized_users_field_placeholder: "Felhasználó keresése..."
+      too_many_users_error: "Túl sok felhatalmazott felhasználód van!"
+      submit_btn: "Jóváhagyás"
+      
