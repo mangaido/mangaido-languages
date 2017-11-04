@@ -5,7 +5,7 @@ hu:
     create:
       success: "A galériát sikeresen létrehoztad!"
     update:
-      success: "Galériád sikeresen frissítetted."
+      success: "A galériát sikeresen frissítetted."
       error: "Probléma merült fel a galéria frissítése közben! Kérjük, próbáld újra."
     destroy:
-      success: "Galériád sikeresen törölted!"
+      success: "A galériát sikeresen törölted!"
