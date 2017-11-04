@@ -34,6 +34,8 @@ pl:
           position: "Ambasador Rosyjskojęzycznych Użytkowników"
         katsumiee:
           position: "Ambasador Węgierskojęzycznych Użytkowników"
+        okami_haruma:
+          position: "Opiekun Nowych Użytkowników"
       menu:
         earn_money_with_us_btn: "Zarabiaj z nami!"
         terms_of_service_btn: "Zasady świadczenia usług"

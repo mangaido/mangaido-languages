@@ -34,6 +34,8 @@ ja:
           position: "ロシア語担当者"
         katsumiee:
           position: "ハンガリー語担当者"
+        # okami_haruma:
+        #   position: "New Users Guardian"
       menu:
         earn_money_with_us_btn: "報酬を得よう!"
         terms_of_service_btn: "利用規約"
