@@ -49,9 +49,9 @@ hu:
         language: "Nyelv"
       user:
         name: "Név"
-        email: "Email"
+        email: "E-mail"
         about: "Magamról"
         cover: "Fejléc"
         avatar: "Profilkép"
         default_language: "Alapértelmezett nyelv"
-        paypal_email: "PayPal email"
+        paypal_email: "PayPal E-mail"
