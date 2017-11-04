@@ -3,7 +3,7 @@ hu:
     index:
       meta_title: "Legújabb rajzok"
       title: "Legújabb rajzok"
-      subtitle: "Creativity unleashed"
+      subtitle: "Engedd szabadjára kreativitásod!"
       toolbar:
         add_new_artworks:
           mobile: "Hozzáadás"
@@ -13,4 +13,4 @@ hu:
           desktop: "Galériáim"
         edit_my_artbooks:
           mobile: "Szerkesztés"
-          desktop: "Galéria szerkesztése"
+          desktop: "Galériáim szerkesztése"
