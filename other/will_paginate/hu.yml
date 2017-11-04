@@ -1,5 +1,5 @@
 hu:
   will_paginate:
     previous_label: "&#8592; Vissza"
-    next_label: "Tovább &#8594;"
+    next_label: "Következő &#8594;"
     page_gap: "&hellip;"
