@@ -1,1 +1,5 @@
 hu:
+  chapters:
+    new:
+      meta_title: "Új kép hozzáadása a fejezethez"
+      title: "Új fejezet hozzáadása"
