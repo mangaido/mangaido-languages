@@ -34,8 +34,8 @@ hu:
           position: "Az orosz felhasználók képviselője"
         katsumiee:
           position: "A magyar felhasználók képviselője"
-        # okami_haruma:
-        #   position: "Az új felhasználók felügyelője"
+        okami_haruma:
+          position: "Az új felhasználók felügyelője"
       menu:
         earn_money_with_us_btn: "Keress pénzt velünk!"
         terms_of_service_btn: "Felhasználási feltételek"
