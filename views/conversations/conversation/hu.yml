@@ -5,4 +5,4 @@ hu:
       move_to_trash_btn: "Áthelyezés a kukába"
       move_to_trash_btn_confirm: "Biztos vagy benne?"
       mark_as_read_btn: "Megjelölés olvasottként"
-      sent_ago: "Sent %{time}"
+      sent_ago: "Elküldve %{time}"
