@@ -13,14 +13,14 @@ hu:
         delete_btn:
           mobile: ""
           desktop: "Törlés"
-        delete_btn_confirm: "Biztos vagy benne, hogy törlöd ezt a fejezetet? A FEJEZETTEL EGYÜTT AZ ÖSSZES FORDÍTÁST IS TÖRLÖD!
+        delete_btn_confirm: "Biztos vagy benne, hogy törlöd ezt a fejezetet? A FEJEZETTEL EGYÜTT AZ ÖSSZES FORDÍTÁST IS TÖRLÖD!"
       chapter_images_title: "A fejezet oldalai:"
       sort_chapter_images_by_filenames_btn: "Az oldalak név szerinti elrendezése"
       sort_chapter_images_by_filenames_help_html: >
-       Feltöltéskor automatikusan fájlnevük szerint rendeződnek el a képek.(Nem feltétlenül ABC sorrendben.).<br />
+        Feltöltéskor automatikusan fájlnevük szerint rendeződnek el a képek.(Nem feltétlenül ABC sorrendben.).<br />
         <br />
 
-      Például az ilyen fájlnévvel rendelkező képek ilyen sorrendben rendeződnek el:
+        Például az ilyen fájlnévvel rendelkező képek ilyen sorrendben rendeződnek el:
         <ol>
           <li>
             "file_1.jpg"
