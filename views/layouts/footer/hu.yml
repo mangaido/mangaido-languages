@@ -35,9 +35,9 @@ hu:
         katsumiee:
           position: "A magyar felhasználók képviselője"
         # okami_haruma:
-        #   position: "New Users Guardian"
+        #   position: "Az új felhasználók felügyelője"
       menu:
         earn_money_with_us_btn: "Keress pénzt velünk!"
-        terms_of_service_btn: "Szolgáltatási feltételek"
+        terms_of_service_btn: "Felhasználási feltételek"
         privacy_btn: "Adatvédelmi szabályzat"
         contact_us_btn: "Lépj velünk kapcsolatba!"
