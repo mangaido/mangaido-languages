@@ -1,7 +1,7 @@
 hu:
   likes:
     unlike:
-      tooltip: "Like visszavonása!"
+      tooltip: "Nem tetszik!"
       likes:
         one: "like"
         other: "like"
