@@ -1,1 +1,8 @@
 hu:
+  chapters:
+    translations_modal:
+      close_btn: "Bezárás"
+      title: "Fordítások"
+      close_translation_btn: "Fordítás bezárása"
+      new_form_title: "Új fordítás hozzáadása"
+      my_translations_btn: "Fordításaim"
