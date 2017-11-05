@@ -1,1 +1,36 @@
 hu:
+  episodes:
+    show:
+      meta_title: "%{title} - Fejezet"
+      toolbar:
+        my_novels_btn:
+          mobile: "Saját"
+          desktop: "Történeteim"
+        edit_btn:
+          mobile: "Szerkesztés"
+          desktop: "Fejezet szerkesztése"
+      by_author:
+        html: "Szerző: %{author_link}"
+      novel_btns:
+        views:
+          one: "%{count} megtekintés"
+          other: "%{count} megtekintés"
+        comments:
+          one: "%{count} hozzászólás"
+          other: "%{count} hozzászólás"
+      updated_ago: "A fejezet %{time} lett frissítve"
+      episode_btns:
+        views:
+          one: "%{count} megtekintés"
+          other: "%{count} megtekintés"
+        comments:
+          one: "%{count} hozzászólás"
+          other: "%{count} hozzászólás"
+      description_label: "Pár infó a szerzőtől:"
+      prev_btn:
+        mobile: "Előző"
+        desktop: "Előző fejezet"
+      next_btn:
+        mobile: "Következő"
+        desktop: "Következő fejezet"
+      comments_label: "Hozzászólások:"
