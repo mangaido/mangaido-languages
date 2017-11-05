@@ -1,1 +1,17 @@
 hu:
+  episodes:
+    edit:
+      meta_title: "%{title} - Fejezet szerkesztése"
+      title: "%{title} - Fejezet szerkesztése"
+      toolbar:
+        back_to_novel_btn:
+          mobile: "Vissza"
+          desktop: "Vissza a történethez"
+        show_btn:
+          mobile: "Megtekintés"
+          desktop: "Fejezet megtekintése"
+        delete_confirm: >
+          Biztos vagy benne, hogy törlöd ezt a fejezetet?
+        delete_btn:
+          mobile: "Törlés"
+          desktop: "Fejezet törlése"
