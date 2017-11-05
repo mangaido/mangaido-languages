@@ -1,1 +1,12 @@
 hu:
+  episodes:
+    list:
+      title: "%{nr}). %{title}"
+      updated_ago: "%{time} lett frissítve"
+      views:
+        one: "%{count} megtekintés"
+        other: "%{count} megtekintés"
+      comments:
+        one: "%{count} hozzászólás"
+        other: "%{count} hozzászólás"
+      not_published_message: "Még nincs közzétéve"
