@@ -1,7 +1,7 @@
 hu:
   layouts:
     header:
-      toggle_navigation_text: "Toggle navigation"
+      toggle_navigation_text: "Navigáció váltása"
       upload: "Feltöltés"
       status_updates: "Hírek"
       feed: "Hírek"
