@@ -1,1 +1,8 @@
 hu:
+  chapters:
+    translation_list:
+      translation_link_hint: "Olvasás"
+      author_link_hint: "Szerző megtekintése"
+      translation_edit_btn_hint: "Szerkesztés"
+      buy_link_hint: "Fejezet megvásárlása"
+      no_translations_msg: "Még nem fordította le senki ezt a fejezetet"
