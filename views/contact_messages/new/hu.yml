@@ -1,1 +1,9 @@
 hu:
+  contact_messages:
+    new:
+      meta_title: "Lépj velünk kapcsolatba"
+      title: "Lépj velünk kapcsolatba!"
+      name_label: "Név"
+      email_label: "E-mail"
+      content_label: "Üzenet"
+      submit_btn: "Küldés"
