@@ -5,8 +5,8 @@ hu:
       send_message: "Üzenet küldése"
       stats:
         following:
-          one: "Követve"
-          other: "Követve"
+          one: "Felhasználó követve"
+          other: "Felhasználó követve"
         followers:
           one: "Követő"
           other: "Követő"
@@ -41,10 +41,10 @@ hu:
           one: "%{count} Történet"
           other: "%{count} Történet"
         following:
-          one: "%{count} követve"
-          other: "%{count} követve"
+          one: "%{count} Felhasználó követve"
+          other: "%{count} Felhasználó követve"
         followers:
-          one: "%{count} követő"
-          other: "%{count} követő"
+          one: "%{count} Követő"
+          other: "%{count} Követő"
       q_and_a:
         country: "Ország?"
