@@ -9,8 +9,8 @@ hu:
       models:
         artbook_image:
           image_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
-        # badge:
-        #   icon_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
+        badge:
+          icon_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
         chapter:
           image_too_big: "A borítóképnek kisebbnek kell lennie, mint %{size}"
           too_many_authorized_users: "Ennek a fejezetnek túl sok felhatalmazott felhasználója van!"
@@ -34,6 +34,6 @@ hu:
         user:
           avatar_too_big: "A profilképnek kisebbnek kell lennie, mint %{size}"
           cover_too_big: "A fejlécképnek kisebbnek kell lennie, mint %{size}"
-          # promo_code_invalid: "Ez a promóciós kód érvénytelen."
+          promo_code_invalid: "Ez a promóciós kód érvénytelen."
         withdrawal:
           not_enough_coins: "Nincs elég érméd."
