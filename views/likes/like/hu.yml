@@ -1,1 +1,7 @@
 hu:
+  likes:
+    like:
+      tooltip: "Lájkold!"
+      likes:
+        one: "like"
+        other: "like"
