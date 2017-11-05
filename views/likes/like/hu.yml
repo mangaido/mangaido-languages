@@ -1,7 +1,7 @@
 hu:
   likes:
     like:
-      tooltip: "Lájkold!"
+      tooltip: "Tetszik!"
       likes:
         one: "like"
         other: "like"
