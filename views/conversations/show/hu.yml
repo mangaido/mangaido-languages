@@ -1,8 +1,8 @@
 hu:
   conversations:
     show:
-      meta_title: "%{subject} - conversation page"
-      title: "%{subject} - Beszélgetés"
+      meta_title: "%{subject}"
+      title: "Tárgy: %{subject}"
       chatting_with: "Vele beszélgetsz:"
       message:
         info: "%{sender_name} %{time_ago} küldte ezt az üzenetet"
