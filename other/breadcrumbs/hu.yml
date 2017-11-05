@@ -52,7 +52,7 @@ hu:
       index: "Képregények"
       new: "Új képregény hozzáadása."
     static_pages:
-      # comiket: "Comiket"
+      comiket: "Comiket"
       earn_money_with_us: "Keress pénzt velünk!"
       privacy_policy: "Adatvédelmi szabályzat"
       search: "Keresési találatok"
@@ -64,7 +64,7 @@ hu:
       donations_sent: "Adomány elküldve"
       donations_received: "Adomány kézbesítve"
     translations:
-      # index: "Fordítások"
+      index: "Fordítások"
       edit: "Szerkesztés: %{language_name} fordítás"
     withdrawals:
       index: "Pénzkivétel"
