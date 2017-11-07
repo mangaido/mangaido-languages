@@ -37,7 +37,7 @@ hu:
     users:
       artbooks: "Felhasználó alkotásai"
       authors: "Szerzők"
-      dashboard: "Vezérlőpult"
+      dashboard: "Kezelőpanel"
       edit: "%{user_name} profiljának szerkesztése"
       index: "Felhasználók"
       series: "Felhasználó képregényei"
