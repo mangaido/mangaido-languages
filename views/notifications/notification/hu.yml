@@ -1,1 +1,19 @@
 hu:
+  notifications:
+    notification:
+      ArtbookImage: "Rajz"
+      Artbook: "Galéria"
+      StatusUpdate: "Állapotfrissítés"
+      Series: "Képregény"
+      Chapter: "Képregény fejezet"
+      Episode: "Történet fejezet"
+      Novel: "Történet"
+      User: "Profil"
+      Noodle: "Tészta"
+      code:
+        LIKE_html: "%{who} kedvelte ezt: %{what}"
+        COMMENT_html: "%{who} hozzászólást írt ehhez: %{what}"
+        FOLLOW_html: "%{who} mostantól a követőd"
+        MENTION_html: "%{who} megemlített téged ebben: %{what}"
+      time_ago: "%{time_ago}"
+     
