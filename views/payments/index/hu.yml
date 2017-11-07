@@ -1,1 +1,12 @@
 hu:
+  payments:
+    index:
+      meta_title: "Tranzakciók"
+      payments_label: "Tranzakciók:"
+      table:
+        amount_of_coins: "Érmék száma"
+        amount_of_money: "Pénzmennyiség"
+        completed: "Kész?"
+        completed_yes: "Igen"
+        completed_no: "Nem"
+        date: "Dátum"
