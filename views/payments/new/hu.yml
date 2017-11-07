@@ -1,1 +1,18 @@
 hu:
+  payments:
+    new:
+      meta_title: "Érmék vásárlása"
+      coin_packages_title: "Válassz érme csomagot:"
+      buy_btn: "Vásárlás"
+      information_title: "Részletek:"
+      information_html: >
+        <p>
+         Az oldalon minden képregény csak %{chapter_min_cost} - %{chapter_max_cost} érmébe tud kerülni. Minden fejezet árát a képregény szerzője határozza meg.
+        </p>
+        <p>
+          Miután fizettél az érmékért, automatikusan megkapod őket és rögtön meg is veheted kedvenc képregényed.
+        </p>
+        <p>
+          
+          Egy másik lehetőség, ha adománnyal támogatod kedvenceid, amit ők azonnal, mindenféle tranzakciós díj nélkül kapnak meg.
+        </p>
