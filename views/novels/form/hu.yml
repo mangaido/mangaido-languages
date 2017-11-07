@@ -1,1 +1,14 @@
 hu:
+  novels:
+    form:
+      title_label: "Cím"
+      description_label: "Leírás ( nem kötelező )"
+      is_published_label: "Közzéteszed?"
+      is_published_yes_label: "Közzétéve"
+      is_published_no_label: "Szerkesztés alatt"
+      cover_label: "Borítókép ( nem kötelező)"
+      remove_cover_yes_label: "Borítókép eltávolítása"
+      remove_cover_no_label: "Hagyd a borítóképet úgy ahogy van"
+      cover_hint_text: >
+       A legjobb eredmény elérése érdekében %{width}x%{height}px (JPG or PNG) méretű képet tölts fel. A kép ne legyen nagyobb, mint %{max_size_in_mb}MB.
+      submit_btn: "Jóváhagyás"
