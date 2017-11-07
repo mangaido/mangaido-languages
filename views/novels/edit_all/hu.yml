@@ -1,1 +1,12 @@
 hu:
+  novels:
+    edit_all:
+      meta_title: "Az összes történetem szerkesztése"
+      title: "Az összes történetem szerkesztése"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Hozzáadás"
+          desktop: "Új történet hozzáadása"
+        my_novels_btn:
+          mobile: "Saját"
+          desktop: "Történeteim"
