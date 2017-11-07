@@ -1,1 +1,12 @@
 hu:
+  messages:
+    new:
+      meta_title: "Új beszélgetés"
+      title: "Új beszélgetés"
+      subtitle: "Tedd jobbá valaki napját"
+      subject_label: "Tárgy"
+      body_label: "Üzenet"
+      recipients_label: "Válassz címzettet"
+      recipients_no_results_text: "Nincs találat"
+      recipients_placeholder: "Válaszd ki a felhasználókat"
+      submit_btn: "Küldés"
