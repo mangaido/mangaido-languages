@@ -1,1 +1,8 @@
 hu:
+  noodles:
+    form:
+      title_label: "Cím"
+      link_label: "Link"
+      content_label: "Tartalom"
+      image_label: "Kép hozzáadása"
+      submit_btn: "Cikk mentése"
