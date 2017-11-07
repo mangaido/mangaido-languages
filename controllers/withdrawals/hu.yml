@@ -1,1 +1,4 @@
 hu:
+  withdrawals:
+    create:
+      no_access_error: "Nem tudsz pénzt kivenni."
