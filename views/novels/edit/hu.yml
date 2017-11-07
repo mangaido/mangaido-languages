@@ -1,1 +1,16 @@
 hu:
+  novels:
+    edit:
+      meta_title: "Történet szerkesztése"
+      title: "Történet szerkesztése:"
+      toolbar:
+        add_new_episode_btn:
+          mobile: "Hozzáadás"
+          desktop: "Új fejezet hozzáadása"
+        show_btn:
+          mobile: "Megtekintés"
+          desktop: "Történet megtekintése"
+        delete_confirm: "Biztos vagy benne, hogy törlöd ezt a történetet?"
+        delete_btn:
+          mobile: "Törlés"
+          desktop: "Történet törlése"
