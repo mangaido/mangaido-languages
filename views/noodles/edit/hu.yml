@@ -1,1 +1,7 @@
 hu:
+  noodles:
+    edit:
+      meta_title: "%{title} - cikk szerkesztése"
+      title: "%{title} - cikk szerkesztése"
+      cancel_btn: "Törlés"
+      
