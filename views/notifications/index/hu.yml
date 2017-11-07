@@ -1,1 +1,6 @@
 hu:
+  notifications:
+    index:
+      meta_title: "Értesítések"
+      title: "Értesítések:"
+      mark_all_as_read_btn: "Az összes megjelölése olvasottként"
