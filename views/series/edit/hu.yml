@@ -1,1 +1,16 @@
 hu:
+  series:
+    edit:
+      meta_title: "%{title} - képregény szerkesztése"
+      title: "%{title} - képregény szerkesztése"
+      add_new_btn:
+        mobile: "Hozzáadás"
+        desktop: "Új fejezet hozzáadása"
+      show_btn:
+        mobile: "Megtekintés"
+        desktop: "Képregénysorozat megtekintése"
+      delete_btn:
+        mobile: ""
+        desktop: "Törlés"
+      delete_btn_confirm: "Biztos vagy benne, hogy törlöd ezt a fejezetet? A FEJEZETTEL EGYÜTT AZ ÖSSZES FORDÍTÁST IS TÖRLÖD!"
+      chapters_title: "Fejezetek:"
