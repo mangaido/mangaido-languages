@@ -1,1 +1,13 @@
 hu:
+  novels:
+    index:
+      meta_title: "Történetek"
+      title: "Legújabb történetek"
+      subtitle: "Engedd szabadjára kreativitásod!"
+      toolbar:
+        add_new_novel_btn:
+          mobile: "Hozzáadás"
+          desktop: "Új történet hozzáadása"
+        my_novels_btn:
+          mobile: "Saját"
+          desktop: "Történeteim"
