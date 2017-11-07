@@ -1,1 +1,14 @@
 hu:
+  novels:
+    gallery_item:
+      author: "Szerző: @%{user_name}"
+      time_ago: "%{time_ago}"
+      nr_of_episodes:
+        one: "%{count} fejezet"
+        other: "%{count} fejezet"
+      likes:
+        one: "%{count} like"
+        other: "%{count} like"
+      views:
+        one: "%{count} megtekintés"
+        other: "%{count} megtekintés"
