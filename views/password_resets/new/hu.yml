@@ -1,1 +1,7 @@
 hu:
+  password_resets:
+    new:
+      meta_title: "Elfelejtett jelszó"
+      title: "Jelszó visszaállítása"
+      subtitle: "Szerezd vissza a fiókod!"
+      
