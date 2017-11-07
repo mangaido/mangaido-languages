@@ -14,7 +14,7 @@ hu:
       amount_of_coins_help_btn: "Részletek"
       amount_of_coins_help_text_html: >
         Itt tudod kiválasztani, hogy a képregényed megtekintéséhez mennyit kell fizetniük az olvasóknak.<br />
-        Ha azt választod, hogy "0 érme", a fejezet ingyenesen lesz.<br />
+        Ha azt választod, hogy "0 érme", a fejezet ingyenes lesz.<br />
         Bármikor megváltoztathatod ezt az árat.<br />
         Ne feledd, minden tranzakció után Mangaido automatikusan %{percent_fee}% tranzakciós díjat von le.
       amount_of_coins_select:
