@@ -1,1 +1,21 @@
 hu:
+  novels:
+    show:
+      meta_title: "Történet"
+      toolbar:
+        my_novels_btn:
+          mobile: "Saját"
+          desktop: "Történeteim"
+        edit_btn:
+          mobile: "Szerkesztés"
+          desktop: "Történet szerkesztése"
+      by_author:
+        html: "Szerző: %{author}"
+      views_btn:
+        one: "%{count} megtekintés"
+        other: "%{count} megtekintés"
+      comments_btn:
+        one: "%{count} hozzászólás"
+        other: "%{count} hozzászólás"
+      episodes_label: "Fejezetek száma:"
+      comments_label: "Hozzászólások:"
