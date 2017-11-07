@@ -1,1 +1,11 @@
 hu:
+  noodles:
+    my_index:
+      meta_title: "Rámen tésztáim"
+      title: "Rámen tésztáim"
+      add_noodle_btn:
+        mobile: "Tészta hozzáadása!"
+        desktop: "Tészta hozzáadása!"
+      my_noodles_btn:
+        mobile: "Tésztáim"
+        desktop: "Tésztáim"
