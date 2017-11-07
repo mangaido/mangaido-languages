@@ -4,8 +4,8 @@ hu:
       not_published_error: "Ez a történet még nincs közzétéve."
       not_published_info: "Ez a történet még nincs közzétéve."
     create:
-      success: "A történeted sikeresen hozzáadva!"
+      success: "A történeted sikeresen hozzáadtad!"
     update:
-      success: "A történeted frissítve lett."
+      success: "A történeted sikeresen frissítetted."
     destroy:
-      success: "A történeted törölted."
+      success: "A történeted sikeresen törölted."
