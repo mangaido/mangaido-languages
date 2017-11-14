@@ -1,1 +1,10 @@
 hu:
+  withdrawals:
+    form:
+      amount_of_coins_label: "Jelöld be hány érmét szeretnél beváltani:"
+      summary_loading_text: "Összeg kiszámításának betöltése..."
+      summary_text: >
+        <b>%amount_of_coins%</b> érme = %coins_to_money%USD<br />
+        Pénzkivétel díja: %percent_fee%%<br />
+        Ennyi pénzt fogsz kivenni: <b>%amount_of_money%USD<b/>
+      withdraw_btn: "Beváltás!"
