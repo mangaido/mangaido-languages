@@ -1,5 +1,5 @@
 hu:
   artbooks:
     form:
-      title_label: "Név"
+      title_label: "Cím"
       submit_btn: "Jóváhagyás"
