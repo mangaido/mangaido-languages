@@ -16,11 +16,11 @@ hu:
         edit_all_series: "Az összes képregény szerkesztése"
       author_label: "Szerző:"
       translator_label: "Fordító:"
-      series_label: "Képregénysorozatok:"
+      series_label: "Képregénysorozat:"
       gallery_title: "Fejezetek:"
       description_title: "Leírás:"
       translation_statistics:
-        title: "Fordítási statisztikák::"
+        title: "Fordítási statisztikák:"
         words: "Szavak:"
         characters: "Karakterek:"
         balloons: "Buborékok:"
