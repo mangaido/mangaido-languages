@@ -4,7 +4,7 @@ hu:
     action:
       name: "Akció"
     bl:
-      name: "BL"
+      name: "Yaoi"
     comedy:
       name: "Vígjáték"
     drama:
@@ -12,7 +12,7 @@ hu:
     fantasy_sci_fi:
       name: "Fantasy/Sci-Fi"
     gl:
-      name: "GL"
+      name: "Yuri"
     horror:
       name: "Horror"
     mystery:
