@@ -1,8 +1,8 @@
 ru:
   users:
     form:
-      name_label: "Имя" # Display name (3 - 50 characters)
-      # uname_label: "Unique user name (3 - 50 characters)"
+      name_label: "Имя (3 - 50 символов)"
+      uname_label: "Адрес страницы (3 - 50 символов)"
       email_label: "Email"
       change_password_btn: "Изменить пароль"
       paypal_email_label: "PayPal"
