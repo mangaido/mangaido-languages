@@ -32,10 +32,10 @@ ru:
           position: "Представитель пользователей, говорящих на испанском и португальском языках"
         supertrivialperson:
           position: "Представитель пользователей, говорящих на русском языке"
-        # katsumiee:
-        #   position: "Ambassador of Hungarian Users"
-        # okami_haruma:
-        #   position: "New Users Guardian"
+        katsumiee:
+          position: "Представитель пользователей, говорящих на венгерском языке"
+        okami_haruma:
+          position: "Опекун новых пользователей"
       menu:
         earn_money_with_us_btn: "Зарабатывайте деньги с нами!"
         terms_of_service_btn: "Условия"
