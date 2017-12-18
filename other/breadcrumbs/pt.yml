@@ -55,6 +55,7 @@ pt:
     static_pages:
       # comiket: "Comiket"
       earn_money_with_us: "¡Pode ganhar dinheiro com nós!"
+      # faq: "FAQ"
       privacy_policy: "Política de privacidade"
       search: "Resultados da pesquisa"
       terms_of_service: "Termos de Serviço"

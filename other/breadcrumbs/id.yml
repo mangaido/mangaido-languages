@@ -54,6 +54,7 @@ id:
     static_pages:
       comiket: "Comiket"
       earn_money_with_us: "Dapatkan keuntungan bersama!"
+      # faq: "FAQ"
       privacy_policy: "Privasi"
       search: "Cari hasil"
       terms_of_service: "Kebijakan pelayanan"

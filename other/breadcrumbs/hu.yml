@@ -54,6 +54,7 @@ hu:
     static_pages:
       comiket: "Comiket"
       earn_money_with_us: "Keress pénzt velünk!"
+      # faq: "FAQ"
       privacy_policy: "Adatvédelmi szabályzat"
       search: "Keresési találatok"
       terms_of_service: "Felhasználási feltételek"

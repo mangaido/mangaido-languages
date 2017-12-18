@@ -34,9 +34,10 @@ ja:
           position: "ロシア語担当者"
         katsumiee:
           position: "ハンガリー語担当者"
-        okami_haruma:
-          position: "チーム支援担当者"
+        # okami_haruma:
+        #   position: "Support"
       menu:
+        # faq_btn: "FAQ"
         earn_money_with_us_btn: "報酬を得よう!"
         terms_of_service_btn: "利用規約"
         privacy_btn: "プライバシー"

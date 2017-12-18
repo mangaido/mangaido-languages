@@ -1,0 +1,64 @@
+en:
+  static_pages:
+    faq:
+      meta_title: "Frequently Asked Questions"
+      title: "FAQ"
+      q_and_a:
+        -
+          question: "How do I upload content?"
+          id: "upload_content"
+          answer_html: "
+            <p>
+              Click the first icon in the top header. It will offer you, what kind of content you want to upload, artworks or comic series.
+            </p>
+          "
+        -
+          question: "What is artbook for?"
+          id: "artbooks"
+          answer_html: "
+            <p>
+              Artbook is a gallery where you can upload your artworks. You can create several numbers of artbooks. There is no need to put every artwork in separate artbook, though. Think of them as a folders.
+            </p>
+          "
+        -
+          question: "Is my series for adults?"
+          id: "is_for_adults"
+          answer_html: "
+            <p>
+              We don't have any strict rules about what is considered for adults yet but we are working on it. If your comic series contains blood, nudity or violence, and you would not recommend it for people under age of 15, please set your series as for adults in settings (edit page of your comic series). Also, we ask you to use safe for children covers because they are visible for all readers.
+            </p>
+          "
+        -
+          question: "My comic series doesn't appear to other people!"
+          id: "cant_see_my_series"
+          answer_html: "
+            <p>
+              To make your series visible to other users you need to make sure in settings of your comic series you set it to 'published' (remember to click 'Save/Submit' below edit form to save the settings). You need to make the same thing with chapters. Go to edit page of each of your chapter that you want to be published and set it as published in form just like you did it with comic series just before. If you have your series published but all its chapters are in draft, your series will be hidden and vice versa.
+            </p>
+          "
+        -
+          question: "What is feed for?"
+          id: "feed_explained"
+          answer_html: "
+            <p>
+              In the feed you can see and comment other member's status updates. New drawings, announcements from the administrators, or simply questions. It's a great opportunity to communicate with people.
+            </p>
+          "
+        -
+          question: "What is Ramen for?"
+          id: "ramen_explained"
+          answer_html: "
+            <p>
+              In the Ramen section you can share interesting articles or websites which are related to manga, comics, or japanese culture. If you want to add an interesting content, click 'Add noodle!' on the right column.
+            </p>
+          "
+        -
+          question: "How do I reply to a comment?"
+          id: "how_to_mention_in_comment"
+          answer_html: "
+            <p>
+              To reply to a certain person, you have to tag them. Put their username behind a @ symbol. For example: @user. User's usernames are displayed below their names and in URL of user's profile page. Mentioning people in comments results in notification sent to other user with information about such comment.
+            </p>
+          "
+      bottom_text_html:
+        "This FAQ section is constantly growing. Thank you very much Okami Haruma for help in creating this section."

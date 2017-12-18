@@ -35,8 +35,9 @@ pl:
         katsumiee:
           position: "Ambasador Węgierskojęzycznych Użytkowników"
         okami_haruma:
-          position: "Opiekun Nowych Użytkowników"
+          position: "Wsparcie"
       menu:
+        faq_btn: "FAQ"
         earn_money_with_us_btn: "Zarabiaj z nami!"
         terms_of_service_btn: "Zasady świadczenia usług"
         privacy_btn: "Polityka prywatności"

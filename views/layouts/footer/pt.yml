@@ -35,8 +35,9 @@ pt:
         # katsumiee:
         #   position: "Ambassador of Hungarian Users"
         # okami_haruma:
-        #   position: "New Users Guardian"
+        #   position: "Support"
       menu:
+        # faq_btn: "FAQ"
         earn_money_with_us_btn: "¡Ganhar dinheiro com nós!"
         terms_of_service_btn: "Termos de Serviço"
         privacy_btn: "Privacidade"

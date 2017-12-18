@@ -55,6 +55,7 @@ ja:
     static_pages:
       # comiket: "Comiket"
       earn_money_with_us: "お金を稼ごう！！"
+      # faq: "FAQ"
       privacy_policy: "プライバシーポリシー"
       search: "結果を検索"
       terms_of_service: "サービスについて"

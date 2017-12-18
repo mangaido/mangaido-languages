@@ -35,8 +35,9 @@ ru:
         katsumiee:
           position: "Представитель пользователей, говорящих на венгерском языке"
         okami_haruma:
-          position: "Опекун новых пользователей"
+          position: "Опекун новых пользователей" # Support
       menu:
+        # faq_btn: "FAQ"
         earn_money_with_us_btn: "Зарабатывайте деньги с нами!"
         terms_of_service_btn: "Условия"
         privacy_btn: "Конфиденциальность"

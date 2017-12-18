@@ -55,6 +55,7 @@ ru:
     static_pages:
       comiket: "Комикет"
       earn_money_with_us: "Зарабатывайте деньги с нами!"
+      # faq: "FAQ"
       privacy_policy: "Конфиденциальность"
       search: "Результаты поиска"
       terms_of_service: "Условия"

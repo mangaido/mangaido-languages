@@ -4,5 +4,5 @@ hu:
       price_label: "Ár:"
       calculation_label: "Gyors számítás:"
       you_can_buy_for_it_label:
-        one: "%{count}" fejezetet tudsz belőle venni"
+        one: "%{count} fejezetet tudsz belőle venni"
         other: "%{count} fejezetet tudsz belőle venni"
