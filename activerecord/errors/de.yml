@@ -1,1 +1,41 @@
 de:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Bestätigung fehlgeschlagen: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Datei kann nicht gelöscht werden, da %{record} existiert."
+          has_many: "Datei kann nicht gelöscht werden, da %{record} existieren."
+      models:
+        artbook_image:
+          image_too_big: "Das Bild soll kleiner als %{size} sein."
+        badge:
+          icon_too_big: "Das Abzeichen soll kleiner als %{size} sein."
+        chapter:
+          image_too_big: "Das Bild soll kleiner als %{size} sein."
+          too_many_authorized_users: "Dieses Kapitel hat zu viele autorisierte Benutzer."
+        chapter_image:
+          image_too_big: "Das Bild soll kleiner als %{size} sein."
+        noodle:
+          image_too_big: "Das Bild soll kleiner als %{size} sein."
+        novel:
+          image_too_big: "Das Titelbild soll kleiner als %{size} sein."
+        password_reset:
+          password:
+            cant_be_empty: "Das Passwort-Feld darf nicht leer sein!"
+        series:
+          cover_too_big: "Das Titelbild soll kleiner als %{size} sein."
+          wide_cover_too_big: "Die Kopfzeile soll kleiner als %{size} sein."
+        status_update:
+          image_too_big: "Das Bild soll kleiner als %{size} sein."
+        transaction:
+          general_error: "Bei dieser Transaktion ist ein Problem aufgetreten. Bitte versuch es noch einmal."
+          not_enough_coins: "Nicht ausreichende Anzahl von Münzen."
+        user:
+          avatar_too_big: "Das Profilbild soll kleiner als %{size} sein."
+          cover_too_big: "Das Titelbild soll kleiner als %{size} sein."
+          promo_code_invalid: "Dieser Promocode ist ungültig."
+        withdrawal:
+          not_enough_coins: "Nicht ausreichende Anzahl von Münzen!"
+          
+
