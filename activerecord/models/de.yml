@@ -1,1 +1,42 @@
 de:
+  activerecord:
+    models:
+      artbook_images:
+        one: "Zeichnung"
+        other: "Zeichnungen"
+      artbook:
+        one: "Galerie"
+        other: "Galerien"
+      chapter_image:
+        one: "Bild"
+        other: "Bilder"
+      chapter:
+        one: "Kapitel"
+        other: "Kapiteln"
+      comment:
+        one: "Kommentar"
+        other: "Kommentare"
+      episode:
+        one: "Kapitel"
+        other: "Kapiteln"
+      noodle:
+        one: "Ramen-Nudel"
+        other: "Ramen-Nudeln"
+      novel:
+        one: "Geschichte"
+        other: "Geschichten"
+      series:
+        one: "Comic"
+        other: "Comics"
+      status_update:
+        one: "Beitrag"
+        other: "Beiträge"
+      translation_balloon:
+        one: "Übersetzungsballon"
+        other: "Übersetzungsballons"
+      translation:
+        one: "Übersetzung"
+        other: "Übersetzungen"
+      user:
+        one: "Benutzer"
+        other: "Benutzer"
