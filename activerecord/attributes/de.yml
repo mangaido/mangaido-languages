@@ -1,1 +1,57 @@
 de:
+  activerecord:
+    attributes:
+      artbook_image:
+        image: "Bild"
+        title: "Titel"
+        description: "Beschreibung"
+      artbook:
+        title: "Titel"
+      chapter_image:
+        image: "Bild"
+      chapter:
+        title: "Titel"
+        cover: "Titelbild"
+        is_published: "Ist veröffentlicht"
+        amount_of_coins: "Anzahl von Münzen"
+      comment:
+        content: "Inhalt"
+      episode:
+        title: "Titel"
+        description: "Beschreibung"
+        text: "Text"
+        is_published: "Ist veröffentlicht"
+      noodle:
+        title: "Titel"
+        content: "Inhalt"
+        link: "Link"
+        image: "Bild"
+      novel:
+        title: "Titel"
+        description: "Beschreibung"
+        cover: "Titelbild"
+        is_published: "Ist veröffentlicht"
+      series:
+        title: "Titel"
+        cover: "Titelbild"
+        wide_cover: "Kopfzeile"
+        is_published: "Ist veröffentlicht"
+        description: "Beschreibung"
+        language: "Sprache"
+        is_for_adults: "Für Erwachsene"
+      status_update:
+        content: "Inhalt"
+        image: "Bild"
+      translation_balloon:
+        text: "Text"
+      translation:
+        is_published: "Ist veröffentlicht"
+        language: "Sprache"
+      user:
+        name: "Name"
+        email: "E-mail"
+        about: "Über mich"
+        cover: "Titelbild"
+        avatar: "Profilbild"
+        default_language: "Standardsprache"
+        paypal_email: "PayPal E-mail"
