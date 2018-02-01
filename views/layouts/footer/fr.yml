@@ -32,12 +32,12 @@ fr:
           position: "Ambassadrice des espagnols et portugais"
         supertrivialperson:
           position: "Ambassadeur des russes"
-        # katsumiee:
-        #   position: "Ambassador of Hungarian Users"
-        # okami_haruma:
-        #   position: "Support"
+        katsumiee:
+          position: "Ambassadrice des hongrois"
+        okami_haruma:
+          position: "Support"
       menu:
-        # faq_btn: "FAQ"
+        faq_btn: "FAQ"
         earn_money_with_us_btn: "Gagnez de l'argent avec nous!"
         terms_of_service_btn: "Conditions d'utilisation"
         privacy_btn: "Confidentialité"
