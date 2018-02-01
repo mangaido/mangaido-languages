@@ -5,23 +5,23 @@ fr:
       name: "Action"
     bl:
       name: "Yaoi"
-    # comedy:
-      # name: "Comedy"
-    # drama:
-    #   name: "Drama"
+    comedy:
+      name: "Comédie"
+    drama:
+      name: "Drame"
     fantasy_sci_fi:
       name: "Fantastique/Sci-Fi"
     gl:
       name: "Yuri"
-    # horror:
-    #   name: "Horror"
-    # mystery:
-    #   name: "Mystery"
+    horror:
+      name: "Horreur"
+    mystery:
+      name: "Mystere"
     romance:
       name: "Romance"
-    # school_life:
-    #   name: "School Life"
-    # slice_of_life:
-    #   name: "Slice of Life"
+    school_life:
+      name: "Scolaire"
+    slice_of_life:
+      name: "Vie Quotidienne"
     thriller:
       name: "Thriller"
