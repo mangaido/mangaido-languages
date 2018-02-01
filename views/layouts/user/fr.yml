@@ -29,8 +29,8 @@ fr:
       menu:
         donate: "Faire un don"
         artbooks:
-          one: "%{count} dessin"
-          other: "%{count} dessins"
+          one: "%{count} classeur"
+          other: "%{count} classeurs"
         comic_series:
           one: "%{count} manga"
           other: "%{count} mangas"
