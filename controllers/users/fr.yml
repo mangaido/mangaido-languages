@@ -4,4 +4,4 @@ fr:
       not_activated_info: "Veuillez vérifier votre email afin d'activer votre compte."
     update:
       success: "Profil mis à jour."
-      # error: "There was some problems with updating this profile. Try again."
+      error: "Il y a eu un problème dans la mise en ligne du profil. Veuillez réessayer."
