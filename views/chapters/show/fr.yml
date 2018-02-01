@@ -18,11 +18,11 @@ fr:
       translator_label: "Traducteur:"
       series_label: "Manga:"
       gallery_title: "Chapitres:"
-      # description_title: "Description:"
-      # translation_statistics:
-      #   title: "Translation statistics:"
-      #   words: "Words:"
-      #   characters: "Characters:"
-      #   balloons: "Balloons:"
-      #   views: "Views:"
+      description_title: "Description:"
+      translation_statistics:
+        title: "Statistique des traductions:"
+        words: "Mots:"
+        characters: "Caractères:"
+        balloons: "Bulles:"
+        views: "Vus:"
       related_series_title: "Mangas liés:"
