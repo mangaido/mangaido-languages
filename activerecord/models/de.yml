@@ -2,8 +2,8 @@ de:
   activerecord:
     models:
       artbook_images:
-        one: "Zeichnung"
-        other: "Zeichnungen"
+        one: "Bild"
+        other: "Bilder"
       artbook:
         one: "Galerie"
         other: "Galerien"
