@@ -1,1 +1,5 @@
 de:
+  account_activations:
+    edit:
+      success: "Account aktiviert!"
+      error: "Ungültiger Aktivierungslink"
