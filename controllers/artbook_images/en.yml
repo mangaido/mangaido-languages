@@ -3,4 +3,4 @@ en:
     update:
       success: "Artbook image was successfully updated."
     destroy:
-      success: "Image was successfully destroyed."
+      success: "Image was successfully deleted."
