@@ -1,13 +1,14 @@
 hu:
   series:
     show:
-      not_published_error: "Ez a képregény még nem lett közzétéve."
-      not_published_info: "Ez a képregény még nem lett közzétéve."
+      not_published_error: "Ez a képregény még nincs közzétéve."
+      not_published_info: "Ez a képregény még nincs közzétéve."
     create:
-      success: "Képregénysorozat létrehozva!"
-      error: "Probléma merült fel a képregénysorozat létrehozása közben."
+      success: "Képregény létrehozva"
+      error: "Probléma merült fel a képregény hozzáadása közben!"
     update:
-      success: "A képregénysorozat frissítve lett."
-      error: "Probléma merült fel a képregénysorozat frissítése közben. Kérjük, próbálkozz újra."
+      success: "Képregény sikeresen frissítve"
+      error: "Probléma merült fel a képregény frissítése közben! Kérjük, próbáld újra."
     destroy:
-      success: "Törölted a képregényed."
+      success: "Képregény törölve"
+
