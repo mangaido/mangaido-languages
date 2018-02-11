@@ -1,1 +1,7 @@
 hu:
+  users:
+    novels:
+      meta_title: "%{user_name} történetei "
+      title: "%{user_name} történetei"
+      edit_novels_btn: "Összes történetem szerkesztése"
+
