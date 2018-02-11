@@ -25,7 +25,7 @@ hu:
         kokko:
           position: "A japán felhasználók képviselője"
         polaczarlin:
-          position: "Csapat-támogató szakember"
+          position: "Csapat- támogató szakember"
         pusproject:
           position: "Az indonéz felhasználók képviselője"
         uedahana:
@@ -35,10 +35,12 @@ hu:
         katsumiee:
           position: "A magyar felhasználók képviselője"
         # okami_haruma:
-          # position: "Support"
+          # position: "Felhasználó- támogató"
       menu:
-        # faq_btn: "FAQ"
+        # faq_btn: "GYIK"
         earn_money_with_us_btn: "Keress pénzt velünk!"
         terms_of_service_btn: "Felhasználási feltételek"
         privacy_btn: "Adatvédelmi szabályzat"
         contact_us_btn: "Lépj velünk kapcsolatba!"
+
+
