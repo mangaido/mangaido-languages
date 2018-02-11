@@ -1,1 +1,5 @@
 hu:
+  users:
+    following:
+      meta_title: "Felhasználók, akiket %{user_name} követ"
+      title: "Felhasználók, akiket %{user_name} követ"
