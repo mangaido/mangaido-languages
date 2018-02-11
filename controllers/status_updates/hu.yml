@@ -1,6 +1,7 @@
 hu:
   status_updates:
     create:
-      success: "Frissítetted az állapotod."
+      success: "Poszt sikeresen létrehozva"
     destroy:
-      success: "Állapotfrissítés törölve."
+      success: "Poszt sikeresen törölve"
+
