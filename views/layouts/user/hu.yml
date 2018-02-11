@@ -27,7 +27,7 @@ hu:
           other: "Történet megtekintés"
         badges: "Jelvények"
       menu:
-        donate: "Felhasználó támogatása"
+        donate: "Adomány küldése"
         artbooks:
           one: "%{count} Galéria"
           other: "%{count} Galéria"
