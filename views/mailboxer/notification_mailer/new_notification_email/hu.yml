@@ -1,1 +1,27 @@
 hu:
+  mailboxer:
+    notification_mailer:
+      new_notification_email:
+        notification_link: "Ezt nézd!"
+        message: >
+          Új értesítés!
+          Szia %{user_name},
+          %{text}
+          Ezt nézd: %{notification_link}
+        message_html: >
+          <h1>
+            Új értesítés!
+          </h1>
+
+          <p>
+            Szia %{user_name},
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{notification_link_html}
+          </p>
+
