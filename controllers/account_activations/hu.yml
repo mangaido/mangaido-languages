@@ -1,5 +1,6 @@
 hu:
   account_activations:
     edit:
-      success: "A fiókod aktiválva lett!"
-      error: "Az aktivációs link érvénytelen, vagy lejárt."
+      success: "Fiók aktiválva"
+      error: "Érvénytelen vagy lejárt aktivációs link"
+
