@@ -1,1 +1,44 @@
 hu:
+  series:
+    show:
+      meta_title: "%{title} megtekintése"
+      toolbar:
+        my_comic_series_btn:
+          mobile: "Saját"
+          desktop: "Képregényeim"
+        edit_btn:
+          mobile: "Szerkesztés"
+          desktop: "Képregény szerkesztése"
+      chapters_list:
+        title: "Chapters:"
+        not_published_message: "Még nincs közzétéve"
+        chapter:
+          free_icon: "Ingyenes fejezet"
+          bought_icon: "Fejezet megvásárolva"
+          unlocked_icon: "Hozzáférés engedélyezve"
+          locked_icon: "Ahhoz, hogy elolvasd, meg kell venned a fejezetet"
+          views:
+            one: "%{count} megtekintés"
+            other: "%{count} megtekintés"
+          translations_btn:
+            one: "%{count} fordítás"
+            other: "%{count} fordítás"
+          edit_btn: "Szerkesztés"
+      description_title: "Leírás:"
+      informations:
+        title: "Információ:"
+        views:
+          one: "%{count} megtekintés"
+          other: "%{count} megtekintés"
+        genres: "Műfaj:"
+        for_adults: "Felnőtt tartalom"
+        safe_for_children: "Gyerekbarát"
+        language: "Nyelv:"
+        translations: "Fordítások:"
+        translation_language: "%{language_name} (%{count})"
+      chart:
+        title_label: "Megtekintések az elmúlt 6 hétben"
+        x_axis_label: "Elmúlt hetek"
+        y_axis_label: "Megtekintés"
+      comments_title: "Hozzászólások:"
+
