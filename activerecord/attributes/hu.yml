@@ -2,18 +2,18 @@ hu:
   activerecord:
     attributes:
       artbook_image:
-        image: "Képfájl"
+        image: "Kép"
         title: "Cím"
         description: "Leírás"
       artbook:
         title: "Cím"
       chapter_image:
-        image: "Képfájl"
+        image: "Kép"
       chapter:
         title: "Cím"
         cover: "Borítókép"
         is_published: "Közzétéve"
-        amount_of_coins: "Érmék mennyisége"
+        amount_of_coins: "Érmék száma"
       comment:
         content: "Tartalom"
       episode:
@@ -25,7 +25,7 @@ hu:
         title: "Cím"
         content: "Tartalom"
         link: "Link"
-        image: "Képfájl"
+        image: "Kép"
       novel:
         title: "Cím"
         description: "Leírás"
@@ -34,14 +34,14 @@ hu:
       series:
         title: "Cím"
         cover: "Borítókép"
-        wide_cover: "Fejlécborító"
+        wide_cover: "Fejléc"
         is_published: "Közzétéve"
         description: "Leírás"
         language: "Nyelv"
         is_for_adults: "Felnőtt tartalom"
       status_update:
         content: "Tartalom"
-        image: "Képfájl"
+        image: "Kép"
       translation_balloon:
         text: "Szöveg"
       translation:
@@ -54,4 +54,6 @@ hu:
         cover: "Fejléc"
         avatar: "Profilkép"
         default_language: "Alapértelmezett nyelv"
-        paypal_email: "PayPal E-mail"
+        paypal_email: "PayPal e-mail"
+
+
