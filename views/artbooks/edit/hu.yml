@@ -5,8 +5,9 @@ hu:
       title: "Galéria szerkesztése:"
       new_artbook_image_btn:
         mobile: "Hozzáadás"
-        desktop: "Új kép hozzáadása"
+        desktop: "Új képek hozzáadása"
       show_this_artbook_btn:
         mobile: "Megtekintés"
         desktop: "Galéria megtekintése"
       delete_btn: "Törlés"
+
