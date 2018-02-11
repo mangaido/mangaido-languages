@@ -1,1 +1,15 @@
 hu:
+  users:
+    new_form:
+      name_label: "Felhasználónév (3 - 50 karakter)"
+      email_label: "E-mail"
+      password_label: "Jelszó (minimum 6 karakter)"
+      password_confirmation_label: "Jelszó megerősítése"
+      promo_code_label: "Promóciós kód (nem kötelező)"
+      register_btn: "Fiók létrehozása"
+      log_in_link: "Jelentkezz be!"
+      log_in_text_html: "Már van fiókod? %{log_in_link_html}"
+      terms_of_service_link: "Felhasználási feltételek"
+      privacy_policy_link: "Adatvédelmi szabályzat"
+      disclaimer_html: >
+        Regisztráláskor beleegyezel a következőkbe: %{terms_of_service_link_html} és %{privacy_policy_link_html}.
