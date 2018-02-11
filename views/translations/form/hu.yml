@@ -1,1 +1,6 @@
 hu:
+  translations:
+    form:
+      language_label: "Nyelv"
+      is_published_label: "Közzéteszed?"
+      submit_btn: "Mentés"
