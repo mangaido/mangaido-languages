@@ -1,1 +1,4 @@
 hu:
+  users:
+    unfollow:
+      unfollow_btn: "Követés visszavonása"
