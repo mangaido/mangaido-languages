@@ -1,7 +1,7 @@
 hu:
   episodes:
     show:
-      meta_title: "%{title} - Fejezet"
+      meta_title: "%{title}"
       toolbar:
         my_novels_btn:
           mobile: "Saját"
