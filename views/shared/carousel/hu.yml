@@ -1,1 +1,26 @@
 hu:
+  shared:
+    carousel:
+      about_mangaido:
+        title: "Mangaido-ról"
+        text: >
+          Ismerjük meg egymást! Nézd meg ezt a rövid kis bemutató videót tőlünk, Karolina-tól, Bartek-től és Michał-tól!
+        action_btn: "YouTube videó"
+      translate_mangaido:
+        title: "Mangaido a saját nyelveden"
+        text: >
+          Ha segíteni szeretnél közösségünknek, és abban, hogy más országokból is elérjünk embereket, most már könnyedén lefordíthatod Mangaido-t a saját nyelvedre is.
+        action_btn: "Hogyan fordíts"
+      publish_series:
+        title: "Oszd meg képregényeidet"
+        text: >
+          Itt az emberek több száz nyelven beszélnek a világ minden tájáról (de tényleg!). Inspiráld az olvasókat, hogy fordítsák képregényeidet, így a világ többi részein is élvezhetik őket.
+        action_btn: "Oszd meg"
+        side_btn: "Művész: %{user_name}"
+      publish_artworks:
+        title: "Oszd meg alkotásaidat a világgal"
+        text: >
+          Azért hoztuk létre ezt a helyet, hogy az alkotások feltöltését és megosztását a lehető legegyszerűbbé és leggyorsabbá tegyük. Osszátok meg egymással ti is, hogy miket szerettek és merüljetek el a mangák világában.
+        action_btn: "Ossz meg mindent!"
+        side_btn: "Művész: %{user_name}"
+
