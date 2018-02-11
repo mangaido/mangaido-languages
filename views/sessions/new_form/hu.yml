@@ -1,1 +1,10 @@
 hu:
+  sessions:
+    new_form:
+      email_label: "E-mail"
+      password_label: "Jelszó"
+      forgot_password_link: "(elfelejtett jelszó)"
+      remember_me_checkbox: "Emlékezz rám ezen a számítógépen"
+      log_in_btn: "Bejelentkezés"
+      sign_up_link_html: "Regisztrálj most!"
+      sign_up_text_html: "Új vagy? %{sign_up_link_html}"
