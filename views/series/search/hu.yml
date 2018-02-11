@@ -8,7 +8,7 @@ hu:
       order_by_filter:
         choose_order_placeholder: "Válassz sorrendet"
         recently_popular_label: "Mostanában felkapott"
-        most_popular_label: "Legfelkapottabb"
+        most_popular_label: "Legnépszerűbb"
         recently_updated_label: "Mostanában frissített"
         new_label: "Új"
       genres_filter:
