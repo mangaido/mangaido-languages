@@ -1,5 +1,6 @@
 hu:
   sessions:
     create:
-      not_activated_warning: "Ez a fiók még nincs aktiválva! Keresd az aktivációs linket az általad megadott E-mail címen."
-      error: "Érvénytelen E-mail cím, vagy jelszó!"
+      not_activated_warning: "Ez a fiók még nincs aktiválva. Keresd az aktivációs linket az általad megadott e-mail címen."
+      error: "Érvénytelen e-mail cím vagy jelszó."
+
