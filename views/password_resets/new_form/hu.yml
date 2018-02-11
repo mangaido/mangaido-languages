@@ -6,4 +6,5 @@ hu:
       login_btn: "Bejelentkezés"
       back_to_login_html: "Vissza a bejelentkezéshez? %{login_btn_html}"
       signup_btn: "Regisztrálj most!"
-      new_user_html: "Új felhasználó vagy? %{signup_btn_html}"
+      new_user_html: "Új vagy? %{signup_btn_html}"
+
