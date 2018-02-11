@@ -1,1 +1,5 @@
 hu:
+  series:
+    my_gallery_item:
+      delete_btn_confirm: "Biztos vagy benne, hogy törlöd ezt a képregényt? A KÉPREGÉNNYEL EGYÜTT AZ ÖSSZES FORDÍTÁST IS TÖRLÖD!"
+
