@@ -3,11 +3,12 @@ hu:
     show:
       no_access_error: "Nincs hozzáférésed ehhez a fejezethez!"
     create:
-      success: "A fejezetet sikeresen létrehoztad!"
+      success: "Fejezet sikeresen létrehozva"
     update:
-      success: "A fejezetet sikeresen frissítetted."
-      erorr: "Probléma merült fel a fejezet frissítése közben! Kérjük, próbáld újra!"
+      success: "Fejezet sikeresen frissítve"
+      erorr: "Probléma merült fel a fejezet frissítése közben! Kérjük, próbáld újra."
     destroy:
-      success: "A fejezetet sikeresen törölted."
+      success: " Fejezet sikeresen törölve"
     sort_chapter_images_by_filenames:
-      success: "A képeket sikeresen elrendezted!"
+      success: "Képek sikeresen elrendezve"
+
