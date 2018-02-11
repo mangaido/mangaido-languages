@@ -3,8 +3,8 @@ hu:
     header:
       toggle_navigation_text: "Navigáció váltása"
       upload: "Feltöltés"
-      status_updates: "Hírek"
-      feed: "Hírek"
+      status_updates: "Üzenőfal"
+      feed: "Üzenőfal"
       artworks: "Rajzok"
       series: "Képregények"
       novels: "Történetek"
@@ -13,3 +13,4 @@ hu:
       search_btn: "Keresés"
       mailbox: "Postaláda"
       coins: "Érmék"
+
