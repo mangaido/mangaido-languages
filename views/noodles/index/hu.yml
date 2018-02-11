@@ -8,8 +8,8 @@ hu:
         Próbáld ki a legjobb<br />
         rámen tésztáinkat!
       new_noodle_btn:
-        mobile: "Tészta hozzáadása!"
-        desktop: "Tészta hozzáadása!"
+        mobile: "Tészta hozzáadása"
+        desktop: "Tészta hozzáadása"
       my_noodles_btn:
         mobile: "Tésztáim"
         desktop: "Tésztáim"
