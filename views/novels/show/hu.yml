@@ -17,5 +17,6 @@ hu:
       comments_btn:
         one: "%{count} hozzászólás"
         other: "%{count} hozzászólás"
-      episodes_label: "Fejezetek száma:"
+      episodes_label: "Fejezetek:"
       comments_label: "Hozzászólások:"
+
