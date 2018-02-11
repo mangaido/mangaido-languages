@@ -1,1 +1,7 @@
 hu:
+  status_updates:
+    feed:
+      meta_title: "Üzenőfal"
+      menu:
+        feed_btn: "Összes"
+        feed_following_btn: "Követem"
