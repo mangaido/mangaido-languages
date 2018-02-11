@@ -2,19 +2,19 @@ hu:
   breadcrumbs:
     root: "Főoldal"
     artbook_images:
-      index: "Galéria"
-      edit: "Szerkesztés: %{title}"
-      new: "Friss alkotások"
+      index: "Rajzok"
+      edit: "%{title} szerkesztése"
+      new: "Új rajzok"
     artbooks:
-      edit_all: "Galéria szerkesztése"
-      edit: "Szerkesztés: %{title}"
+      edit_all: "Galériák szerkesztése"
+      edit: "%{title} szerkesztése"
       new: "Új galéria hozzáadása"
       show: "%{title}"
     chapter_images:
-      new: "Új fejezetborító hozzáadása"
+      new: "Új borítókép hozzáadása"
     chapters:
       edit: "Fejezet szerkesztése"
-      new: "Fejezet hozzáadása"
+      new: "Új fejezet hozzáadása"
     conversations:
       index: "Postaláda"
       show: "Beszélgetés"
@@ -22,50 +22,51 @@ hu:
       new: "Új fejezet hozzáadása"
       edit: "Fejezet szerkesztése"
     messages:
-      new: "Új beszélgetés"
+      new: "Beszélgetés kezdése"
     noodles:
-      edit: "Cikk szerkesztése"
-      index: "Érdekességek"
-      my_index: "Cikkeim"
-      new: "Új cikk hozzáadása"
+      edit: "Tészta szerkesztése"
+      index: "Rámen tál"
+      my_index: "Tésztáim"
+      new: "Új tészta hozzáadása"
     novels:
       index: "Történetek"
       new: "Új történet hozzáadása"
       edit: "Történet szerkesztése"
       edit_all: "Történeteim szerkesztése"
-      user_novels: "A művész történetei"
+      user_novels: "Felhasználó történetei"
     users:
-      artbooks: "Felhasználó alkotásai"
+      artbooks: "Felhasználó rajzai"
       authors: "Szerzők"
+      change_password: "Jelszó megváltoztatása"
       dashboard: "Kezelőpanel"
       edit: "%{user_name} profiljának szerkesztése"
       index: "Felhasználók"
       series: "Felhasználó képregényei"
     payments:
       index: "Tranzakciók"
-      new: "Érmék beszerzése"
+      new: "Érmék vásárlása"
     series:
       edit: "Képregény szerkesztése"
-      edit_all: "Az összes képregény szerkesztése"
+      edit_all: "Összes képregényem szerkesztése"
       for_adults: "Felnőtt tartalom"
       home: "Képregények"
       index: "Képregények"
-      new: "Új képregény hozzáadása."
+      new: "Új képregény hozzáadása"
     static_pages:
       comiket: "Comiket"
       earn_money_with_us: "Keress pénzt velünk!"
-      # faq: "FAQ"
+      faq: "GYIK"
       privacy_policy: "Adatvédelmi szabályzat"
       search: "Keresési találatok"
       terms_of_service: "Felhasználási feltételek"
-      translate_mangaido_to_your_language: "Fordítsd le Mangaido-t a saját nyelvedre!"
+      translate_mangaido_to_your_language: "Fordítsd le Mangaido-t a saját nyelvedre"
     transactions:
       chapter_purchases: "Fejezet vásárlások"
       chapter_sales: "Fejezet eladások"
-      donations_sent: "Adomány elküldve"
-      donations_received: "Adomány kézbesítve"
+      donations_sent: "Elküldött adományok"
+      donations_received: "Kapott adományok"
     translations:
       index: "Fordítások"
-      edit: "Szerkesztés: %{language_name} fordítás"
+      edit: "%{language_name} fordítás szerkesztése"
     withdrawals:
       index: "Pénzkivétel"
