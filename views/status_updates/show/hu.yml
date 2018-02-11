@@ -1,1 +1,4 @@
 hu:
+  status_updates:
+    show:
+      meta_title: "Posztok"
