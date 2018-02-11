@@ -1,1 +1,33 @@
 hu:
+  mailboxer:
+    message_mailer:
+      new_message_email:
+        conversation_link: "Válasz Mangaido-nak"
+        message: >
+          %{subject}
+
+          Szia %{user_name}!
+          %{sender_name} a következőt írta:
+
+          %{text}
+
+          Válasz Mangaido-nak:
+          %{conversation_link}
+        message_html: >
+          <h1>
+            %{subject}
+          </h1>
+
+          <p>
+            Szia %{user_name}!<br />
+            %{sender_name} a következőt írta:
+          </p>
+
+          <p>
+            %{text}
+          </p>
+
+          <p>
+            %{conversation_link_html}
+          </p>
+
