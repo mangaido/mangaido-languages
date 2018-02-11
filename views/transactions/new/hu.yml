@@ -1,1 +1,15 @@
 hu:
+  transactions:
+    new:
+      meta_title: "Tranzakció megerősítése"
+      title: "Megerősíted ezt a tranzakciót?"
+      chapter_price: "Ár:"
+      donation_title_html: "Adomány küldése neki: %{user_link}"
+      donation_price_title_html: "Add meg hány érmét szeretnél elküldeni"
+      donation_summary_text_html: >
+        Ennyit fogsz elküldeni: <b>%giver_send%</b> coins.<br />
+        Jelenleg ennyid van: %giver_balance% coins.<br />
+        A felhasználó %percent_fee%% tranzakciós díj után ennyit kap: %receiver_receive% 
+      doantion_summary_loading_text: "Tranzakció betöltése..."
+      confirm_btn: "Megerősítés"
+      cancel_btn: "Törlés"
