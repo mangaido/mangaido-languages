@@ -1,1 +1,16 @@
 hu:
+  series:
+    index:
+      meta_title: "Képregények"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Hozzáadás"
+          desktop: "Új képregény hozzáadása"
+        my_comic_series_btn:
+          mobile: "Saját"
+          desktop: "Képregényeim"
+        edit_my_comic_series_btn:
+          mobile: "Szerkesztés"
+          desktop: "Képregényeim szerkesztése"
+      translations_title: "Fordítások"
+
