@@ -7,4 +7,5 @@ hu:
         <b>%amount_of_coins%</b> érme = %coins_to_money%USD<br />
         Pénzkivétel díja: %percent_fee%%<br />
         Ennyi pénzt fogsz kivenni: <b>%amount_of_money%USD<b/>
-      withdraw_btn: "Beváltás!"
+      withdraw_btn: "Beváltás"
+
