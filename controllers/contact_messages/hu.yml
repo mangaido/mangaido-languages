@@ -1,5 +1,6 @@
 hu:
   contact_messgaes:
     create:
-      success: "Az üzenet sikeresen el lett küldve!"
-      error: "Probléma merült fel az üzenet küldése közben."
+      success: "Üzenet elküldve"
+      error: "Probléma merült fel az üzenet elküldése közben!"
+
