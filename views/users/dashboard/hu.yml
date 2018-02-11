@@ -1,1 +1,17 @@
 hu:
+  users:
+    dashboard:
+      meta_title: "Kezelőpanel"
+      current_balance_label: "Aktuális egyenleg"
+      current_balance_amount_of_coins:
+        one: "%{count} érme"
+        other: "%{count} érme"
+      buy_coins_btn: "Érmék vásárlása"
+      withdrawals_money_label: "Pénzkivétel folyamatban"
+      withdrawals_btn: "Pénzkivételek"
+      chapter_purchases_btn: "Megvásárolt fejezetek"
+      donations_sent_btn: "Elküldött adományok"
+      chapter_sales_btn: "Eladott fejezetek"
+      donations_received_btn: "Kapott adományok"
+      payments_btn: "Tranzakciók"
+
