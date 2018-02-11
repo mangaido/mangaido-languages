@@ -4,14 +4,14 @@ hu:
       meta_title: "Új képek hozzáadása a fejezethez"
       title: "Új képek hozzáadása a fejezethez"
       chapter_images_hint_text: >
-        Annak érdekében, hogy beleférjenek a 720x5000px-es mezőkbe, a képek átméretezésre kerülnek. A képek nem lehetnek nagyobbak, mint 15MB.
-      step_1: "Első lépés"
-      step_1_subtitle: "Képek kiválasztása:"
+         Annak érdekében, hogy beleférjenek a 720x5000 px-es mezőkbe, a képek átméretezésre kerülnek. A képek nem lehetnek nagyobbak, mint 15MB.      step_1: "Első lépés"
+      step_1_subtitle: "Válaszd ki a képeket:"
       step_2: "Második lépés"
-      step_2_subtitle: "Feltöltés:"
+      step_2_subtitle: "Töltsd fel:"
       step_2_select_files_to_upload: "Kérjük, először válassz fájlt a feltöltéshez."
-      upload_btn: "Feltöltés!"
+      upload_btn: "Feltöltés"
       file_dropzone_label: "Húzd ide a fájlt, vagy kattints a kép kiválasztásához."
-      files_label: "Feltöltésre váró képek:"
+      files_label: "Feltöltésre várakozó képek:"
       edit_chapter_btn: "Fejezet szerkesztése"
       show_chapter_btn: "Fejezet megtekintése"
+
