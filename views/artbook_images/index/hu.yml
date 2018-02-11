@@ -3,14 +3,15 @@ hu:
     index:
       meta_title: "Legújabb rajzok"
       title: "Legújabb rajzok"
-      subtitle: "Engedd szabadjára kreativitásod!"
+      subtitle: "Engedd szabadjára kreativitásod"
       toolbar:
         add_new_artworks:
           mobile: "Hozzáadás"
-          desktop: "Új rajz hozzáadása"
+          desktop: "Új rajzok hozzáadása"
         my_artbooks:
           mobile: "Saját"
           desktop: "Galériáim"
         edit_my_artbooks:
           mobile: "Szerkesztés"
           desktop: "Galériáim szerkesztése"
+
