@@ -1,6 +1,6 @@
 hu:
   artbook_images:
     update:
-      success: "A képet frissítetted."
+      success: "Kép sikeresen frissítve"
     destroy:
-      success: "A képet sikeresen eltávolítottad a galériádból."
+      success: "Kép sikeresen törölve"
