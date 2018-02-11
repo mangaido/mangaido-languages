@@ -1,13 +1,14 @@
 hu:
   series:
     edit_all:
-      meta_title: "Az összes képregényem szerkesztése"
-      title: "Az összes képregényem szerkesztése"
+      meta_title: "Összes képregényem szerkesztése"
+      title: "Összes képregényem szerkesztése"
       toolbar:
         add_new_series_btn:
           mobile: "Hozzáadás"
-          desktop: "Képregénysorozat hozzáadása"
+          desktop: "Képregény hozzáadása"
         show_all_series_btn:
           mobile: "Megtekintés"
-          desktop: "Az összes képregénysorozatom megtekintése"
+          desktop: "Összes képregényem megtekintése"
       series_list_title: "Összes képregényem:"
+
