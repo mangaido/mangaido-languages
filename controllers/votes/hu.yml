@@ -1,4 +1,5 @@
 hu:
   votes:
     create:
-      error: "A szavazás sikertelen volt. :("
+      error: "Sikertelen szavazás. :("
+
