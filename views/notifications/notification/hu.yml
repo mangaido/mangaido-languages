@@ -3,7 +3,7 @@ hu:
     notification:
       ArtbookImage: "Rajz"
       Artbook: "Galéria"
-      StatusUpdate: "Állapotfrissítés"
+      StatusUpdate: "Poszt"
       Series: "Képregény"
       Chapter: "Képregény fejezet"
       Episode: "Történet fejezet"
@@ -16,4 +16,4 @@ hu:
         FOLLOW_html: "%{who} mostantól a követőd"
         MENTION_html: "%{who} megemlített téged ebben: %{what}"
       time_ago: "%{time_ago}"
-     
+
