@@ -1,7 +1,7 @@
 hu:
   users:
     create:
-      not_activated_info: "A fiókod még nincs aktiválva. Keresd az aktivációs linket az általad megadott E-mail címen."
+      not_activated_info: "A fiókod még nincs aktiválva. Keresd az aktivációs linket az általad megadott e-mail címen."
     update:
-      success: "A profilod frissítve lett."
-      error: "Probléma merült fel a profilod frissítése közben. Kérjük, próbálkozz újra."
+      success: "Profil frissítve"
+      error: "Probléma merült fel a profilod frissítése közben! Kérjük, próbáld újra."
