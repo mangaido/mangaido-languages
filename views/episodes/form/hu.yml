@@ -2,9 +2,10 @@ hu:
   episodes:
     form:
       title_label: "Cím"
-      description_label: "Leírás ( nem kötelező )"
+      description_label: "Leírás (nem kötelező)"
       text_label: "Szöveg"
       is_published_label: "Közzéteszed?"
       is_published_yes_label: "Közzétéve"
       is_published_no_label: "Szerkesztés alatt"
       submit_btn: "Jóváhagyás"
+
