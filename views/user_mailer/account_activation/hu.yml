@@ -1,1 +1,21 @@
 hu:
+  user_mailer:
+    account_activation:
+      subject: "Mangaido fiók aktiválása"
+      activation_link: "Fiók aktiválása"
+      message: >
+        Szia %{user_name},
+        Üdvözlünk Mangaido-n! A fiókod aktiválásához kattints erre a linkre: %{activation_link}
+      message_html: >
+        <h1>
+          Mangaido fiók aktiválása
+        </h1>
+
+        <p>
+          Szia %{user_name},
+        </p>
+
+        <p>
+          Üdvözlünk Mangaido-n! A fiókod aktiválásához kattints erre a linkre: %{activation_link_html}.
+        </p>
+
