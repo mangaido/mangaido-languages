@@ -8,5 +8,6 @@ hu:
       body_label: "Üzenet"
       recipients_label: "Válassz címzettet"
       recipients_no_results_text: "Nincs találat"
-      recipients_placeholder: "Válaszd ki a felhasználókat"
+      recipients_placeholder: "Felhasználók kiválasztása"
       submit_btn: "Küldés"
+
