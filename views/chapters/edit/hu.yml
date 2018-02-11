@@ -1,8 +1,8 @@
 hu:
   chapters:
     edit:
-      meta_title: "%{series_title} - %{chapter_title} - Fejezet szerkesztése"
-      title: "Fejezet szerkesztése: %{title}"
+      meta_title: "%{series_title} - %{chapter_title} szerkesztése"
+      title: "%{title} szerkesztése"
       toolbar:
         add_new_images_btn:
           desktop: "Új képek hozzáadása"
@@ -13,29 +13,29 @@ hu:
         delete_btn:
           mobile: ""
           desktop: "Törlés"
-        delete_btn_confirm: "Biztos vagy benne, hogy törlöd ezt a fejezetet? A FEJEZETTEL EGYÜTT AZ ÖSSZES FORDÍTÁST IS TÖRLÖD!"
-      chapter_images_title: "A fejezet oldalai:"
-      sort_chapter_images_by_filenames_btn: "Az oldalak név szerinti elrendezése"
+        delete_btn_confirm: " Biztos vagy benne, hogy törlöd ezt a fejezetet? A FEJEZETTEL EGYÜTT AZ ÖSSZES FORDÍTÁST IS TÖRLÖD!"      chapter_images_title: "A fejezet oldalai:"
+      sort_chapter_images_by_filenames_btn: " Az oldalak név szerinti elrendezése "
       sort_chapter_images_by_filenames_help_html: >
-        Feltöltéskor automatikusan fájlnevük szerint rendeződnek el a képek.(Nem feltétlenül ABC sorrendben.).<br />
+        Feltöltéskor automatikusan fájlnevük szerint rendeződnek el a képek (nem feltétlenül ABC sorrendben).<br />
         <br />
 
-        Például az ilyen fájlnévvel rendelkező képek ilyen sorrendben rendeződnek el:
+        Például az ilyen fájlnevekkel rendelkező képek ilyen sorrendben rendeződnek el:
         <ol>
           <li>
-            "file_1.jpg"
+            "fájl_1.jpg"
           </li>
           <li>
-            "file_2.jpg"
+            "fájl_2.jpg"
           </li>
           <li>
-            "file_3.jpg"
+            "fájl_3.jpg"
           </li>
           <li>
-            "file_10.jpg"
+            "fájl_10.jpg"
           </li>
           <li>
-            "file_11.jpg"
+            "fájl_11.jpg"
           </li>
         </ol>
-      trashed_chapter_images_title: "Kukába helyezett oldalak:"
+      trashed_chapter_images_title: " Kukába helyezett oldalak:"
+
