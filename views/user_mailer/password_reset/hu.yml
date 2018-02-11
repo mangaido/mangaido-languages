@@ -1,1 +1,32 @@
 hu:
+  user_mailer:
+    password_reset:
+      subject: "Mangaido jelszó visszaállítása"
+      reset_link: "Jelszó visszaállítása"
+      message: >
+        Mangaido fiók jelszó visszaállítása
+        Szia %{user_name},
+        A jelszavad visszaállításához kattints erre a linkre: %{reset_link}
+        Ez a link két óra múlva lejár.
+        Ha nem te kérted a jelszó visszaállítását, kérjük hagyd figyelmen kívül ezt az e-mailt, jelszavad változatlan marad.
+      message_html: >
+        <h1>
+          Mangaido jelszó visszaállítása
+        </h1>
+
+        <p>
+          Szia %{user_name},
+        </p>
+
+        <p>
+          A jelszavad visszaállításához kattints erre a linkre: %{reset_link_html}.
+        </p>
+
+        <p>
+          Ez a link két óra múlva lejár.
+        </p>
+
+        <p>
+          Ha nem te kérted a jelszó visszaállítását, kérjük hagyd figyelmen kívül ezt az e-mailt, jelszavad változatlan marad.
+        </p>
+
