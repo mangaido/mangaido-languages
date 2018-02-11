@@ -1,1 +1,5 @@
 hu:
+  transactions:
+    donations_sent:
+      meta_title: "Elküldött adományok"
+      title: "Elküldött adományok:"
