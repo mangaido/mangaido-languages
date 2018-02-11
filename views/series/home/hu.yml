@@ -1,1 +1,26 @@
 hu:
+  series:
+    home:
+      meta_title: "Képregények"
+      toolbar:
+        new_comic_series_btn:
+          mobile: "Hozzáadás"
+          desktop: "Új képregény hozzáadása"
+        my_comic_series_btn:
+          mobile: "Saját"
+          desktop: "Képregényeim"
+        edit_my_comic_series_btn:
+          mobile: "Szerkesztés"
+          desktop: "Képregényeim szerkesztése"
+      translations_title: "Fordítások"
+      translations_more_btn: "Továbbiak"
+      translation_video_tutorial_link: "Hogyan fordíts képregényt"
+      recently_popular_title: "Mostanában felkapott"
+      recently_popular_more_btn: "Továbbiak"
+      most_popular_title: "Legfelkapottabb"
+      most_popular_more_btn: "Továbbiak"
+      recently_updated_title: "Mostanában frissített"
+      recently_updated_more_btn: "Továbbiak"
+      new_title: "Új"
+      new_more_btn: "Továbbiak"
+
