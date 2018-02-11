@@ -3,6 +3,7 @@ hu:
     edit:
       meta_title: "Jelszó visszaállítása"
       title: "Jelszó visszaállítása"
-      password_label: "Jelszó (min. 6 karakter)"
+      password_label: "Jelszó (minimum 6 karakter)"
       password_confirmation_label: "Jelszó megerősítése"
       submit_btn: "Jelszó frissítése"
+
