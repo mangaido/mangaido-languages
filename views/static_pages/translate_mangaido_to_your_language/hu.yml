@@ -1,1 +1,28 @@
 hu:
+  static_pages:
+    translate_mangaido_to_your_language:
+      meta_title: "Fordítsd le Mangaido-t a saját nyelvedre"
+      translation_website_link: "Weboldal fordító"
+      text_html: >
+        <h1>Fordítsd le Mangaido-t a saját nyelvedre</h1>
+
+        <p>
+          Ha Mangaido nem érhető el a te nyelveden vagy még nem teljes a fordítás, könnyedén válhatsz te is weboldal fordítóvá.
+        </p>
+
+        <p>
+          Erre a célra készítettünk egy különálló weboldalt, ahol azokat a fordító fájlokat szerkesztheted, amire oldalunk épül.<br />
+          Szuper egyszerű és még jól is szórakozol közben!
+        </p>
+
+        <p>
+          A fordításhoz kattints alul a gombra. Kicsit lejjebb görgetve pedig találsz egy kis útmutató videót is, amiben megmutatunk mindent, amit tudnod kell.
+        </p>
+
+        <p>
+          %{translation_website_link_html}
+        </p>
+
+        <p>
+          Mindenki, aki segíti fordításaival nemzetközi Mangaido közösségünk felépítését, hivatalos fordítóvá és munkatárssá válik, amit oldalunkon is feltüntetünk. Ezzel szeretnénk mi, Karolina, Bartek és Michał mejutalmazi és kitüntetni az ilyen embereket.
+        </p>
