@@ -1,1 +1,16 @@
 hu:
+  static_pages:
+    search_form:
+      search_field_placeholder: "Keresés..."
+      found_results:
+        one: "%{count} találat"
+        other: "%{count} találat"
+      page_x_of_y: "page: %{x} / %{y}"
+      menu:
+        all_btn: "Összes"
+        artbook_images_btn: "Rajzok"
+        series_btn: "Képregények"
+        users_btn: "Felhasználók"
+        novels_btn: "Történetek"
+        noodles_btn: "Tészták"
+      for_adults_btn: "Felnőtt tartalom"
