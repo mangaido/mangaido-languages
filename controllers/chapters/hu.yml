@@ -8,7 +8,6 @@ hu:
       success: "Fejezet sikeresen frissítve"
       erorr: "Probléma merült fel a fejezet frissítése közben! Kérjük, próbáld újra."
     destroy:
-      success: " Fejezet sikeresen törölve"
+      success: "Fejezet sikeresen törölve"
     sort_chapter_images_by_filenames:
       success: "Képek sikeresen elrendezve"
-
