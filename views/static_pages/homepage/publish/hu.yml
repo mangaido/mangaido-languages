@@ -1,1 +1,14 @@
 hu:
+  static_pages:
+    homepage:
+      publish:
+        artworks:
+          upload_btn: "Tölts fel rajzokat"
+          title: "Oszd meg galériádat"
+          description: >
+            Ossz meg egyedi rajzokat, amik nem tartoznak egy történethez sem. Munkáidat rendezheted és csoportosíthatod a galériák segítségével.
+        comic_series:
+          create_btn: "Készíts képregényeket"
+          title: "Oszd meg képregényedet"
+          description: >
+            Ossz meg képregényeket eredeti nagyságban! Építs fel történeteket, világokat, fejlessz karaktereket, tegyél közzé fejezeteket és keltsd fel az olvasók érdeklődését, hogy mindig izgatottan várják a következő fejezetet!
