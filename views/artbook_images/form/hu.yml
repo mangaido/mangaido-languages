@@ -4,8 +4,6 @@ hu:
       title: "Cím (nem kötelező)"
       description: "Leírás (nem kötelező)"
       tags: "Kulcsszavak (nem kötelező)"
-      tags_hint: >
-A kulcsszavakat ajánlott vesszővel (",") elválasztani egymástól.
-Ezáltal mások könnyebben megtalálják a képeidet.
+      tags_hint: "A kulcsszavakat ajánlott vesszővel (',') elválasztani egymástól.
+        Ezáltal mások könnyebben megtalálják a képeidet."
       save_btn: "Mentés"
-
