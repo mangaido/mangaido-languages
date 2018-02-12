@@ -1,1 +1,17 @@
 hu:
+  static_pages:
+    home:
+      meta_title: "Főoldal"
+      slogan: " A LEGJOBB KÉPREGÉNYEK ÉS TÖRTÉNETEK a világ minden tájáról!"
+      translations_section_title: "Legújabb fordítások"
+      translations_section_more_btn: "Továbbiak"
+      comic_series_section_title: "Képregények"
+      comic_series_section_more_btn: "Továbbiak"
+      comic_series_for_adults_btn: "Képregények felnőtt tartalommal"
+      translators_section_title: "Fordítók"
+      translators_section_more_btn: "Összes fordító"
+      novels_section_title: "Legújabb történetek"
+      novels_section_more_btn: "Továbbiak"
+      ginza_title: "Ginza (népszerű)"
+      shibuya_title: "Shibuya (nemrég közzétéve)"
+      akihabara_title: "Akihabara (random)"
