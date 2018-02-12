@@ -1,1 +1,10 @@
 hu:
+  static_pages:
+    search:
+      meta_title: "Keresési találatok"
+      type_names:
+        artbook_image: "Rajz"
+        series: "Képregény"
+        user: "Felhasználó"
+        novel: "Történet"
+        noodle: "Rámen tészta"
