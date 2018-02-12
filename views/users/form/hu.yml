@@ -2,7 +2,7 @@ hu:
   users:
     form:
       name_label: "Felhasználónév (3 - 50 karakter)"
-      uname_label: "URL-címed neve (3 - 50 karakter)"
+      uname_label: "URL-cím (3 - 50 karakter)"
       email_label: "E-mail"
       change_password_btn: "Jelszó megváltoztatása"
       paypal_email_label: "PayPal e-mail"
