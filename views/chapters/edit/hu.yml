@@ -14,7 +14,7 @@ hu:
           mobile: ""
           desktop: "Törlés"
         delete_btn_confirm: "Biztos vagy benne, hogy törlöd ezt a fejezetet? A FEJEZETTEL EGYÜTT AZ ÖSSZES FORDÍTÁST IS TÖRLÖD!"
-        chapter_images_title: "A fejezet oldalai:"
+      chapter_images_title: "A fejezet oldalai:"
       sort_chapter_images_by_filenames_btn: "Az oldalak név szerinti elrendezése"
       sort_chapter_images_by_filenames_help_html: >
         Feltöltéskor automatikusan fájlnevük szerint rendeződnek el a képek (nem feltétlenül ABC sorrendben).<br />
