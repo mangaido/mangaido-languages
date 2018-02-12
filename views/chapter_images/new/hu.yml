@@ -3,8 +3,8 @@ hu:
     new:
       meta_title: "Új képek hozzáadása a fejezethez"
       title: "Új képek hozzáadása a fejezethez"
-      chapter_images_hint_text: >
-         Annak érdekében, hogy beleférjenek a 720x5000 px-es mezőkbe, a képek átméretezésre kerülnek. A képek nem lehetnek nagyobbak, mint 15MB.      step_1: "Első lépés"
+      chapter_images_hint_text: "Annak érdekében, hogy beleférjenek a 720x5000 px-es mezőkbe, a képek átméretezésre kerülnek. A képek nem lehetnek nagyobbak, mint 15MB."
+      step_1: "Első lépés"
       step_1_subtitle: "Válaszd ki a képeket:"
       step_2: "Második lépés"
       step_2_subtitle: "Töltsd fel:"
