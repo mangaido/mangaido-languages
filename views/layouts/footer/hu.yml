@@ -34,10 +34,10 @@ hu:
           position: "Az orosz felhasználók képviselője"
         katsumiee:
           position: "A magyar felhasználók képviselője"
-        # okami_haruma:
-          # position: "Felhasználó- támogató"
+        okami_haruma:
+          position: "Felhasználó- támogató"
       menu:
-        # faq_btn: "GYIK"
+        faq_btn: "GYIK"
         earn_money_with_us_btn: "Keress pénzt velünk!"
         terms_of_service_btn: "Felhasználási feltételek"
         privacy_btn: "Adatvédelmi szabályzat"
