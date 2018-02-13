@@ -25,7 +25,7 @@ hu:
           id: "felnőtt_tartalom"
           answer_html: "
             <p>
-              Még nincs semmilyen szigorú szabályunk arra mi számít felnőtt tartalomnak, de dolgozunk rajta. Azonban ha a képregényed tartalmaz vért, meztelenséget vagy erőszakot, és nem ajánlanád 15 évnél fiatalabbaknak, akkor kérjük állítsd a képregényedet felnőtt tartalomra ("Képregény szerkesztése"). Ezenkívül megkérünk, hogy használj gyerekbarát borítókat, hisz azok mindenki számára láthatóak lesznek. 
+              Még nincs semmilyen szigorú szabályunk arra mi számít felnőtt tartalomnak, de dolgozunk rajta. Azonban ha a képregényed tartalmaz vért, meztelenséget vagy erőszakot, és nem ajánlanád 15 évnél fiatalabbaknak, akkor kérjük állítsd a képregényedet felnőtt tartalomra ('Képregény szerkesztése'). Ezenkívül megkérünk, hogy használj gyerekbarát borítókat, hisz azok mindenki számára láthatóak lesznek. 
             </p>
           "
         -
@@ -33,10 +33,9 @@ hu:
           id: "nem_látom_a_képregényem"
           answer_html: "
             <p>
-              Ahhoz, hogy láthatóvá tedd mások számára a képregényedet, ellenőrizd a beállításoknál, hogy kozzétetted e (keresd a "Szerkesztés alatt" és "Közzétéve" gombot, majd kattints az utóbbira, ezután mentsd a beállításokat a "Mentés" gombra kattintva). Ugyanezt tedd meg az összes többi fejezettel is ("Szerkesztés"). Ha a képregényedet közzéteszed, de az összes fejezet "Szerkesztés alatt" áll, rejtve marad és nem fog megjelenni másoknak.
-           </p>
-              
-           "
+              Ahhoz, hogy láthatóvá tedd mások számára a képregényedet, ellenőrizd a beállításoknál, hogy kozzétetted e (keresd a 'Szerkesztés alatt' és 'Közzétéve' gombot, majd kattints az utóbbira, ezután mentsd a beállításokat a 'Mentés' gombra kattintva). Ugyanezt tedd meg az összes többi fejezettel is ('Szerkesztés'). Ha a képregényedet közzéteszed, de az összes fejezet 'Szerkesztés alatt' áll, rejtve marad és nem fog megjelenni másoknak.
+            </p>
+          "
         -
           question: "Mire való az üzenőfal?"
           id: "üzenőfal_mire_való"
@@ -50,7 +49,7 @@ hu:
           id: "tészta_mire_való"
           answer_html: "
             <p>
-              A rámen részlegen számodra érdekes mangákkal, képregényekkel vagy a japán kultúrával kapcsolatos cikkeket, oldalakat és egyéb dolgokat oszthatsz meg. Ha szeretnél valamit megosztani, csak kattints a jobb oszlopban található "Tészta hozzáadása" gombra. 
+              A rámen részlegen számodra érdekes mangákkal, képregényekkel vagy a japán kultúrával kapcsolatos cikkeket, oldalakat és egyéb dolgokat oszthatsz meg. Ha szeretnél valamit megosztani, csak kattints a jobb oszlopban található 'Tészta hozzáadása' gombra. 
             </p>
           "
         -
@@ -58,8 +57,7 @@ hu:
           id: "mások_megjelölése_kommentben"
           answer_html: "
             <p>
-              Ha egy bizonyos személynek szeretnél válaszolni, meg kell jelölnöd őt. Ezt úgy teheted meg ha a nevük elé egy "@" jelet teszel (pl.: @felhasználó). A "@" jellel ellátott nevet a felhasznélónév alatt találod és a profilodon, URL-címként. Az ilyen kommentekről a megjelölt felhasználó is értesítést kap. 
+              Ha egy bizonyos személynek szeretnél válaszolni, meg kell jelölnöd őt. Ezt úgy teheted meg ha a nevük elé egy '@' jelet teszel (pl.: @felhasználó). A '@' jellel ellátott nevet a felhasznélónév alatt találod és a profilodon, URL-címként. Az ilyen kommentekről a megjelölt felhasználó is értesítést kap. 
             </p>
           "
-      bottom_text_html:
-        "A GYIK folyamatosan növekszik és frissül. Külön köszönet Okami Haruma-nak a megvalósításáért. :)"
+      bottom_text_html: "A GYIK folyamatosan növekszik és frissül. Külön köszönet Okami Haruma-nak a megvalósításáért. :)"
