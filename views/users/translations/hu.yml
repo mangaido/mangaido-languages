@@ -1,5 +1,5 @@
 hu:
   users:
     translations:
-      meta_title: "%{user_name} fordításai "
+      meta_title: "%{user_name} fordításai"
       title: "%{user_name} fordításai:"
