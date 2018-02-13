@@ -1,5 +1,5 @@
 hu:
   users:
     followers:
-      meta_title: "%Felhasználók, akik {user_name} követői"
+      meta_title: "Felhasználók, akik %{user_name} követői"
       title: "Felhasználók, akik %{user_name} követői"
