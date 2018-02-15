@@ -45,7 +45,7 @@ hu:
             </p>
           "
         -
-          question: "Mire való a "tészta"?"
+          question: "Mire való a 'tészta'?"
           id: "tészta_mire_való"
           answer_html: "
             <p>
