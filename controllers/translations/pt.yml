@@ -4,6 +4,8 @@ pt:
       no_access_error: "¡Você não pode acessar esta tradução!"
     edit:
       no_access_error: "¡Você não pode editar esta tradução!"
+    # new:
+    #   no_access_error: "You can't create new translation for this chapter."
     create:
       no_access_error: "¡Opa! Houve um erro nesta tradução, tenta novamente."
       success: "¡Tradução criada!"

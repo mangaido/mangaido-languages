@@ -4,6 +4,8 @@ ja:
       no_access_error: "アクセス権限がありません。"
     edit:
       no_access_error: "翻訳を編集できません。"
+    # new:
+    #   no_access_error: "You can't create new translation for this chapter."
     create:
       no_access_error: "翻訳を作成できませんでした。再度、お試しください。"
       success: "翻訳を作成しました。"

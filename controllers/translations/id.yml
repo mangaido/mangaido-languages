@@ -4,6 +4,8 @@ id:
       no_access_error: "Tidak punya akses untuk menerjemahkan!"
     edit:
       no_access_error: "Tidak bisa mengedit terjemahan!"
+    # new:
+    #   no_access_error: "You can't create new translation for this chapter."
     create:
       no_access_error: "Tidak dapat membuat terjemahan. coba lagi nanti."
       success: "Terjemahan berhasil dibuat!"

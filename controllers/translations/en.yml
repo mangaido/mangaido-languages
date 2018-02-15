@@ -4,6 +4,8 @@ en:
       no_access_error: "You don't have access to this translation!"
     edit:
       no_access_error: "You can't edit this translation!"
+    new:
+      no_access_error: "You can't create new translation for this chapter."
     create:
       no_access_error: "You can't create this translation. Try again later."
       success: "Translation was successfully created!"
