@@ -1,1 +1,5 @@
 hu:
+  transactions:
+    donations_received:
+      meta_title: "Kapott adományok"
+      title: "Kapott adományok:"

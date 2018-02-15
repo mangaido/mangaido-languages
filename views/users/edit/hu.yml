@@ -1,1 +1,5 @@
 hu:
+  users:
+    edit:
+      meta_title: "%{user_name} profiljának szerkesztése "
+      title: "%{user_name} profiljának szerkesztése"

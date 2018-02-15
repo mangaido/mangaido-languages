@@ -2,27 +2,28 @@ hu:
   chapters:
     show:
       meta_title: >
-        %{series_title} - %{chapter_title} - képregény
+        %{series_title} - %{chapter_title}
       translation_meta_title: >
-        %{series_title} - %{chapter_title} - %{language_name} - képregény fordítás
+        %{series_title} - %{chapter_title} - %{language_name} fordítás
       menu:
         prev_chapter_btn: "Előző fejezet"
         next_chapter_btn: "Következő fejezet"
         translations_btn: "Fordítások"
-      donate_btn: "Támogatás"
+      donate_btn: "Adomány küldése"
       settings:
         edit_chapter: "Fejezet szerkesztése"
         edit_series: "Képregény szerkesztése"
-        edit_all_series: "Az összes képregény szerkesztése"
+        edit_all_series: "Összes képregényem szerkesztése"
       author_label: "Szerző:"
       translator_label: "Fordító:"
-      series_label: "Képregénysorozat:"
+      series_label: "Képregény:"
       gallery_title: "Fejezetek:"
       description_title: "Leírás:"
       translation_statistics:
         title: "Fordítási statisztikák:"
         words: "Szavak:"
         characters: "Karakterek:"
-        balloons: "Buborékok:"
+        balloons: "Buborákok:"
         views: "Megtekintés:"
-      related_series_title: "Kapcsolódó képregénysorozatok:"
+      related_series_title: "Hasonló képregények:"
+

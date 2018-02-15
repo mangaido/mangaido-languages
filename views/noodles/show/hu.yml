@@ -1,9 +1,10 @@
 hu:
   noodles:
     show:
-      meta_title: "%{title} - Rámen tészta"
-      info_html: "%{user_link_html} osztotta meg %{time_ago}"
+      meta_title: "%{title}"
+      info_html: "%{user_link_html} %{time_ago} osztotta meg"
       edit_btn: "Szerkesztés"
       delete_btn: "Törlés"
       delete_btn_confirm: "Biztos vagy benne?"
       delete_btn_hint: "Tészta törlése"
+

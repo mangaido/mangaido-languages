@@ -1,1 +1,11 @@
 hu:
+  shared:
+    login_register_modal:
+      form_title_hint: "Bejelentkezés"
+      close_btn_hint: "Bezárás"
+      log_in_btn: "Bejelentkezés"
+      register_btn: "Új vagy? Regisztrálj! :)"
+      log_in_form_title: "Bejelentkezés"
+      register_form_title: "Regisztráció"
+      close_btn: "Bezárás"
+

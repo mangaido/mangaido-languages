@@ -1,1 +1,18 @@
 hu:
+  series:
+    search:
+      adult_filter:
+        safe_for_children_label: "Gyerekbarát"
+        for_adults_label: "Felnőtt tartalom"
+        all_label: "Összes"
+      order_by_filter:
+        choose_order_placeholder: "Válassz sorrendet"
+        recently_popular_label: "Mostanában felkapott"
+        most_popular_label: "Legnépszerűbb"
+        recently_updated_label: "Mostanában frissített"
+        new_label: "Új"
+      genres_filter:
+        choose_genres_placeholder: "Válassz műfajt"
+      language_filter:
+        choose_language_placeholder: "Válassz nyelvet"
+

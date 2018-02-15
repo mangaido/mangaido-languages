@@ -1,1 +1,5 @@
 hu:
+  translations:
+    list:
+      edit_btn: "Szerkesztés"
+      no_translations_msg: "Még nincs lefordítva."

@@ -3,4 +3,5 @@ hu:
     index:
       meta_title: "Értesítések"
       title: "Értesítések:"
-      mark_all_as_read_btn: "Az összes megjelölése olvasottként"
+      mark_all_as_read_btn: "Összes megjelölése olvasottként"
+

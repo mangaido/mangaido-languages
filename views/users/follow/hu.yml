@@ -1,1 +1,4 @@
 hu:
+  users:
+    follow:
+      follow_btn: "Követés"

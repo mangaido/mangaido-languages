@@ -1,1 +1,5 @@
 hu:
+  transactions:
+    chapter_sales:
+      meta_title: "Fejezet eladások"
+      title: "Fejezet eladások:"

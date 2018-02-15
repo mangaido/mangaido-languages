@@ -1,1 +1,24 @@
 hu:
+  users:
+    form:
+      name_label: "Felhasználónév (3 - 50 karakter)"
+      uname_label: "URL-cím (3 - 50 karakter)"
+      email_label: "E-mail"
+      change_password_btn: "Jelszó megváltoztatása"
+      paypal_email_label: "PayPal e-mail"
+      paypal_email_help_btn: "Részletek"
+      paypal_email_help_text_html: >
+        Adj meg PayPal e-mail címet, hogy tudjuk hová küldjünk pénzt neked.      
+      about_label: "Magamról (nem kötelező)"
+      remove_avatar_label: "Törlöd az avatárodat?"
+      avatar_hint_text: >
+        A legjobb eredmény elérése érdekében 800x800 px méretű (JPG vagy PNG) képet tölts fel. Ha nem töltődik be az avatár, akkor keresés alatt áll a Gravatar.com-on.
+      cover_label: "Fejléc"
+      remove_cover_label: "Törlöd a fejlécet?"
+      cover_hint_text: >
+        A legjobb eredmény elérése érdekében 1920x320 px méretű (JPG vagy PNG) képet tölts fel.
+      default_language_label: "Alapértelmezett nyelv (e-mailek küldéséhez)"
+      country_label: "Országod"
+      country_placeholder: "Válaszd ki az országod"
+      submit_btn: "Mentés"
+

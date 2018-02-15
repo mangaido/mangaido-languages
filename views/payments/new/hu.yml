@@ -7,12 +7,12 @@ hu:
       information_title: "Részletek:"
       information_html: >
         <p>
-         Az oldalon minden képregény csak %{chapter_min_cost} - %{chapter_max_cost} érmébe tud kerülni. Minden fejezet árát a képregény szerzője határozza meg.
+          Az oldalon minden képregény csak %{chapter_min_cost} - %{chapter_max_cost} érmébe kerülhet. A fejezetek árát a képregény szerzője határozza meg.
         </p>
         <p>
-          Miután fizettél az érmékért, automatikusan megkapod őket és rögtön meg is veheted kedvenc képregényed.
+          Miután fizettél az érmékért, automatikusan megkapod őket Mangaido profilodon, amikkel lehetőséged lesz rögtön megvenni kedvenc képregényeidet.
         </p>
         <p>
-          
-          Egy másik lehetőség, ha adománnyal támogatod kedvenceid, amit ők azonnal, mindenféle tranzakciós díj nélkül kapnak meg.
+          Egy másik lehetőség, ha kedvenc művészeidet adománnyal támogatod, amit ők azonnal, mindenféle tranzakciós díj nélkül kapnak meg.
         </p>
+

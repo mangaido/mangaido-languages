@@ -1,9 +1,10 @@
 hu:
   password_resets:
     create:
-      success: "Az új jelszót igénylő E-mailt elküldtük az általad megadott címre."
-      email_not_found_error: "Egyik fiókhoz sem tartozik ilyen E-mail cím. Ellenőrizd le, hogy jól írtad-e be."
+      success: "Az új jelszót igénylő e-mailt elküldtük az általad megadott címre."
+      email_not_found_error: "Egyik fiókhoz sem tartozik ilyen e-mail cím."
     update:
-      success: "A jelszavad sikeresen megváltozott!"
+      success: "Jelszó sikeresen megváltoztatva"
     check_expiration:
-      error: "A link érvénytelen, vagy lejárt."
+      error: "A link érvénytelen vagy lejárt."
+

@@ -1,10 +1,10 @@
 hu:
   noodles:
     update:
-      success: "Cikk frissítve."
-      error: "Probléma merült fel a cikk hozzáadása közben. Kérjük, próbálkozz újra."
+      success: "Tészta sikeresen frissítve"
+      error: "Probléma merült fel a tészta frissítése közben! Kérjük, próbáld újra."
     create:
-      success: "A cikk sikeresen hozzáadva!"
-      error: "A cikk nincs elmentve."
+      success: "Tészta létrehozva"
+      error: "A tészta nincs elmentve."
     destroy:
-      success: "Cikk törölve."
+      success: "Tészta törölve"

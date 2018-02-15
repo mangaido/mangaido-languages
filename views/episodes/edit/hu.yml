@@ -1,8 +1,8 @@
 hu:
   episodes:
     edit:
-      meta_title: "%{title} - Fejezet szerkesztése"
-      title: "%{title} - Fejezet szerkesztése"
+      meta_title: "%{title} szerkesztése"
+      title: "%{title} szerkesztése"
       toolbar:
         back_to_novel_btn:
           mobile: "Vissza"

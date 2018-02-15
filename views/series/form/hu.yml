@@ -1,1 +1,23 @@
 hu:
+  series:
+    form:
+      title_label: "Cím"
+      description_label: "Leírás (nem kötelező)"
+      is_published_label: "Közzéteszed?"
+      is_published_yes_label: "Közzétéve"
+      is_published_no_label: "Szerkesztés alatt"
+      is_for_adults_label: "Felnőtt tartalom?"
+      is_for_adults_yes_label: "Felnőtt tartalom"
+      is_for_adults_no_label: "Gyerekbarát"
+      language_label: "Nyelv"
+      genres_label: "Műfaj"
+      cover_label: "Borítókép (nem kötelező)"
+      remove_cover_yes_label: "Borítókép törlése"
+      remove_cover_no_label: "Hagyd a borítóképet úgy, ahogy van"
+      cover_help_text: "Kérjük használj gyerekbarát borítóképet, hisz minden olvasó láthatja majd! A legjobb eredmény elérése érdekében 1600x800 px méretű (JPG vagy PNG) képet tölts fel."
+      wide_cover_label: "Fejléc (nem kötelező)"
+      remove_wide_cover_yes_label: "Fejléc törlése"
+      remove_wide_cover_no_label: "Hagyd a fejlécet úgy, ahogy van"
+      wide_cover_help_text: "A legjobb eredmény elérése érdekében 1920x320 px méretű (JPG vagy PNG) képet tölts fel."
+      submit_btn: "Jóváhagyás"
+

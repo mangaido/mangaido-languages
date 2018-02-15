@@ -2,38 +2,39 @@ hu:
   activerecord:
     errors:
       messages:
-        record_invalid: "Érvényesítés sikertelen: %{errors}"
+        record_invalid: "Sikertelen érvényesítés: %{errors}"
         restrict_dependent_destroy:
-          has_one: "Nem törölheted, mert összeköttetésben áll ezzel: %{record}"
-          has_many: "Nem törölheted, mert összeköttetésben állnak ezzel: %{record}"
+          has_one: "Nem törölhető, mert összeköttetésben áll a következővel: %{record}"
+          has_many: "Nem törölhető, mert összeköttetésben áll a következőkkel: %{record}"
       models:
         artbook_image:
           image_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
         badge:
-          icon_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
+          icon_too_big: "Az ikonnak kisebbnek kell lennie, mint %{size}"
         chapter:
           image_too_big: "A borítóképnek kisebbnek kell lennie, mint %{size}"
           too_many_authorized_users: "Ennek a fejezetnek túl sok felhatalmazott felhasználója van!"
         chapter_image:
-          image_too_big: "A fejezet borítójának kisebbnek kell lennie, mint %{size}"
+          image_too_big: "A borítóképnek kisebbnek kell lennie, mint %{size}"
         noodle:
-          image_too_big: "A cikk képének kisebbnek kell lennie, mint %{size}"
+          image_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
         novel:
-          image_too_big: "A történet borítójának kisebbnek kell lennie, mint %{size}"
+          image_too_big: "A borítóképnek kisebbnek kell lennie, mint %{size}"
         password_reset:
           password:
-            cant_be_empty: "A jelszó mező nem maradhat üres!"
+            cant_be_empty: "A jelszó mező nem maradhat üresen!"
         series:
-          cover_too_big: "A képregénysorozat borítójának kisebbnek kell lennie, mint %{size}"
-          wide_cover_too_big: "A fejlécborítónak kisebbnek kell lennie, mint %{size}"
+          cover_too_big: "A borítóképnek kisebbnek kell lennie, mint %{size}"
+          wide_cover_too_big: "A fejlécképnek kisebbnek kell lennie, mint %{size}"
         status_update:
-          image_too_big: "Az állapotfrissítésben szereplő képnek kisebbnek kell lennie, mint %{size}"
+          image_too_big: "A képnek kisebbnek kell lennie, mint %{size}"
         transaction:
-          general_error: "Problémák merültek fel a tranzakció közben. Próbálkozz újra később."
-          not_enough_coins: "Nincs elég érméd."
+          general_error: "Probléma merült fel a tranzakció közben! Kérjük, próbáld újra."
+          not_enough_coins: "Nincs elég érméd!"
         user:
           avatar_too_big: "A profilképnek kisebbnek kell lennie, mint %{size}"
           cover_too_big: "A fejlécképnek kisebbnek kell lennie, mint %{size}"
-          promo_code_invalid: "Ez a promóciós kód érvénytelen."
+          promo_code_invalid: "Érvénytelen promóciós kód"
         withdrawal:
-          not_enough_coins: "Nincs elég érméd."
+          not_enough_coins: "Nincs elég érméd!"
+

@@ -1,1 +1,22 @@
 hu:
+  withdrawals:
+    index:
+      meta_title: "Pénzkivételek"
+      current_balance_label: "Aktuális egyenleg:"
+      current_balance_coins:
+        one: "%{count} érme"
+        other: "%{count} érme"
+      money_to_be_paid_label: "Pénzkivétel folyamatban:"
+      form_label: "Űrlap:"
+      cant_withdraw_msg: "A pénzkivételhez legalább %{min_coins} érmére van szükséged."
+      list_label: "Pénzkivételek:"
+      list:
+        id: "ID"
+        amount_of_coins: "Érmék száma"
+        amount_of_money: "Pénzmennyiség"
+        created_at: "Létrehozás dátuma"
+        is_paid: "Kész?"
+        is_paid_yes: "Igen"
+        is_paid_no: "Nem"
+        paid_at: "Fizetés dátuma"
+

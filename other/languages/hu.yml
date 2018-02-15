@@ -1,7 +1,7 @@
 hu:
   languages:
     af:
-      name: "Afrikai"
+      name: "Afrikaans"
     sq:
       name: "Albán"
     ar:
@@ -21,9 +21,9 @@ hu:
     ca:
       name: "Katalán"
     zh_CHS:
-      name: "Kínai (Egyszerüsített)"
+      name: "Kínai (Egyszerűsített)"
     zh_CHT:
-      name: "Kínai (Tradícionális)"
+      name: "Kínai (Hagyományos)"
     hr:
       name: "Horvát"
     cs:
@@ -79,7 +79,7 @@ hu:
     ko:
       name: "Koreai"
     ky:
-      name: "Kyrgyz"
+      name: "Kirgiz"
     lv:
       name: "Lett"
     lt:
@@ -89,7 +89,7 @@ hu:
     ms:
       name: "Maláj"
     mr:
-      name: "Marathi"
+      name: "Maráthi"
     mn:
       name: "Mongol"
     nb_NO:
@@ -101,7 +101,7 @@ hu:
     pt:
       name: "Portugál"
     pa:
-      name: "Punjabi"
+      name: "Pandzsábi"
     ro:
       name: "Román"
     ru:
@@ -123,7 +123,7 @@ hu:
     ta:
       name: "Tamil"
     tt:
-      name: "Tatar"
+      name: "Tatár"
     te:
       name: "Telugu"
     th:
@@ -137,6 +137,6 @@ hu:
     cy_uz:
       name: "Üzbég (Cirill)"
     lt_uz:
-      name: "Üzbék (Latin)"
+      name: "Üzbég (Latin)"
     vi:
       name: "Vietnámi"

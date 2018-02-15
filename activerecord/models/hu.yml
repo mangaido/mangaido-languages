@@ -6,10 +6,10 @@ hu:
         other: "Képek"
       artbook:
         one: "Galéria"
-        other: "Galéria"
+        other: "Galériák"
       chapter_image:
-        one: "Fejezetborító"
-        other: "Fejezetborítók"
+        one: "Borítókép"
+        other: "Borítóképek"
       chapter:
         one: "Fejezet"
         other: "Fejezetek"
@@ -20,8 +20,8 @@ hu:
         one: "Fejezet"
         other: "Fejezetek"
       noodle:
-        one: "Cikk"
-        other: "Cikkek"
+        one: "Rámen tészta"
+        other: "Rámen tészták"
       novel:
         one: "Történet"
         other: "Történetek"
@@ -29,8 +29,8 @@ hu:
         one: "Képregény"
         other: "Képregények"
       status_update:
-        one: "Állapotfrissítés"
-        other: "Állapotfrissítések"
+        one: "Poszt"
+        other: "Posztok"
       translation_balloon:
         one: "Fordító buborék"
         other: "Fordító buborékok"
@@ -40,3 +40,5 @@ hu:
       user:
         one: "Felhasználó"
         other: "Felhasználók"
+
+
