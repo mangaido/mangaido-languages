@@ -39,6 +39,6 @@ hu:
       chart:
         title_label: "Megtekintések az elmúlt 6 hétben"
         x_axis_label: "Elmúlt hetek"
-        y_axis_label: "Megtekintés"
+        y_axis_label: "Megtekintések"
       comments_title: "Hozzászólások:"
 
