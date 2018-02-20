@@ -2,5 +2,5 @@ hu:
   status_updates:
     form:
       content_placeholder: "Mi jár a fejedben?..."
-      image_hint: "Adj hozzá képet (nem kötelező). A kép ne legyen nagyobb, mint %{max_size_in_mb} MB."
+      image_hint: "Adj hozzá képet (nem kötelező) A kép ne legyen nagyobb, mint %{max_size_in_mb} MB."
 
