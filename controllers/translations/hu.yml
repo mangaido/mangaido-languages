@@ -5,7 +5,7 @@ hu:
     edit:
       no_access_error: "Nem szerkesztheted ezt a fordítást!"
     # new:
-    #   no_access_error: "You can't create new translation for this chapter."
+    #   no_access_error: "Nem hozhatsz létre új fordítást ehhez a fejezethez!"
     create:
       no_access_error: "Nem tudod létrehozni ezt a fordítást. Kérjük, próbáld újra később."
       success: "Fordítás sikeresen létrehozva"
