@@ -5,7 +5,7 @@ hu:
       found_results:
         one: "%{count} találat"
         other: "%{count} találat"
-      page_x_of_y: "page: %{x} / %{y}"
+      page_x_of_y: "Oldal: %{x} / %{y}"
       menu:
         all_btn: "Összes"
         artbook_images_btn: "Rajzok"
