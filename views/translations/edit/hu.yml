@@ -16,7 +16,7 @@ hu:
         delete_btn: 
           mobile: "Törlés"
           desktop: "Fordítás törlése"
-      orphaned_translation_balloons_title: "Elárvult fordító buborákok"
+      orphaned_translation_balloons_title: "Elárvult fordító buborékok"
       orphaned_translation_balloons_help: >
         A képregény készítőknek néha frissíteniük kell egyes képeket, így azok törlésre kerülnek. Annak érdekében, hogy a képekhez készített fordítások ne vesszenek el véglegesen, itt megtalálod őket, mint elárvult fordító buborékok. A régi fordításokat kimásolhatod és beillesztheted az új képekbe, ezáltal mindig lépést tudsz tartani ha változás történik az egyik fejezetben.
 
